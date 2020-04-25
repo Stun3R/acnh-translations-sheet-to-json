@@ -18,7 +18,6 @@
     "@types/node": "^13.13.0",
     "commitizen": "^4.0.4",
     "cz-conventional-changelog": "3.1.0",
-    "date-fns": "^2.12.0",
     "googleapis": "39",
     "lodash": "^4.17.15",
     "npm-run-all": "^4.1.5",
