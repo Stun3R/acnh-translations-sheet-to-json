@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.4](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.3...v0.2.4) (2020-04-25)
+
+
+### Bug Fixes
+
+* **build:** fix command not found in build script ([b0618fd](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/b0618fdaba0201002368827e7112cf1a738a71b8))
+
 ### [0.2.3](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.2...v0.2.3) (2020-04-25)
 
 
