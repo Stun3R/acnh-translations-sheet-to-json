@@ -5,7 +5,6 @@ export interface Item {
     ref: string;
     localization: Localization;
     ID?: string;
-    Russian?: string;
 }
 export declare enum SourceSheet {
     Accessories = "Accessories",
@@ -58,4 +57,5 @@ export interface Localization {
     zh_TW: string;
     ja_JP: string;
     ko_KR: string;
+    ru_RU?: string;
 }

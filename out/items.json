@@ -59883,7 +59883,6 @@
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02448",
-    "Russian": "Товарищ К. К.",
     "ref": "Comrade K.K.",
     "localization": {
       "en_US": "Comrade K.K.",
@@ -59898,13 +59897,13 @@
       "zh_CN": "昭和K.K.歌谣",
       "zh_TW": "昭和K.K.歌謠",
       "ja_JP": "しょうわけけかよう",
-      "ko_KR": "추억의 K.K.가요"
+      "ko_KR": "추억의 K.K.가요",
+      "ru_RU": "Товарищ К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02454",
-    "Russian": "Кафе К. К.",
     "ref": "Café K.K.",
     "localization": {
       "en_US": "Café K.K.",
@@ -59919,13 +59918,13 @@
       "zh_CN": "K.K.巴黎",
       "zh_TW": "K.K.巴黎",
       "ja_JP": "けけパリ",
-      "ko_KR": "K.K.파리"
+      "ko_KR": "K.K.파리",
+      "ru_RU": "Кафе К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02460",
-    "Russian": "Мой дом",
     "ref": "My Place",
     "localization": {
       "en_US": "My Place",
@@ -59940,13 +59939,13 @@
       "zh_CN": "我的归所",
       "zh_TW": "我的歸所",
       "ja_JP": "ぼくのばしょ",
-      "ko_KR": "내가 있는 곳"
+      "ko_KR": "내가 있는 곳",
+      "ru_RU": "Мой дом"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04313",
-    "Russian": "Прощани",
     "ref": "Farewell",
     "localization": {
       "en_US": "Farewell",
@@ -59961,13 +59960,13 @@
       "zh_CN": "再会",
       "zh_TW": "再會",
       "ja_JP": "さよなら",
-      "ko_KR": "작별"
+      "ko_KR": "작별",
+      "ru_RU": "Прощани"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02449",
-    "Russian": "Жалобная песнь К. К.",
     "ref": "K.K. Lament",
     "localization": {
       "en_US": "K.K. Lament",
@@ -59982,13 +59981,13 @@
       "zh_CN": "K.K.演歌",
       "zh_TW": "K.K.演歌",
       "ja_JP": "けけえんか",
-      "ko_KR": "K.K.트로트"
+      "ko_KR": "K.K.트로트",
+      "ru_RU": "Жалобная песнь К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02455",
-    "Russian": "Парад К. К.",
     "ref": "K.K. Parade",
     "localization": {
       "en_US": "K.K. Parade",
@@ -60003,13 +60002,13 @@
       "zh_CN": "K.K.嘉年华",
       "zh_TW": "K.K.嘉年華",
       "ja_JP": "けけパレード",
-      "ko_KR": "K.K.퍼레이드"
+      "ko_KR": "K.K.퍼레이드",
+      "ru_RU": "Парад К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02461",
-    "Russian": "Лесная жизнь",
     "ref": "Forest Life",
     "localization": {
       "en_US": "Forest Life",
@@ -60024,13 +60023,13 @@
       "zh_CN": "森林生活",
       "zh_TW": "森林生活",
       "ja_JP": "もりのせいかつ",
-      "ko_KR": "숲 속 생활"
+      "ko_KR": "숲 속 생활",
+      "ru_RU": "Лесная жизнь"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04314",
-    "Russian": "За рулем",
     "ref": "Drivin'",
     "localization": {
       "en_US": "Drivin'",
@@ -60045,13 +60044,13 @@
       "zh_CN": "兜风",
       "zh_TW": "兜風",
       "ja_JP": "ドライブ",
-      "ko_KR": "드라이브"
+      "ko_KR": "드라이브",
+      "ru_RU": "За рулем"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02456",
-    "Russian": "Марьячи К. К.",
     "ref": "K.K. Mariachi",
     "localization": {
       "en_US": "K.K. Mariachi",
@@ -60066,13 +60065,13 @@
       "zh_CN": "墨西哥绅士K.K.",
       "zh_TW": "墨西哥紳士K.K.",
       "ja_JP": "セニョールけけ",
-      "ko_KR": "세뇨르K.K."
+      "ko_KR": "세뇨르K.K.",
+      "ru_RU": "Марьячи К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02462",
-    "Russian": "На краю",
     "ref": "To the Edge",
     "localization": {
       "en_US": "To the Edge",
@@ -60087,13 +60086,13 @@
       "zh_CN": "漫弥",
       "zh_TW": "漫瀰",
       "ja_JP": "ナミナミ",
-      "ko_KR": "파도소리"
+      "ko_KR": "파도소리",
+      "ru_RU": "На краю"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02457",
-    "Russian": "Песнь К. К.",
     "ref": "K.K. Song",
     "localization": {
       "en_US": "K.K. Song",
@@ -60108,13 +60107,13 @@
       "zh_CN": "K.K.乐曲",
       "zh_TW": "K.K.樂曲",
       "ja_JP": "けけソング",
-      "ko_KR": "K.K.의 노래"
+      "ko_KR": "K.K.의 노래",
+      "ru_RU": "Песнь К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02463",
-    "Russian": "Размышления",
     "ref": "Pondering",
     "localization": {
       "en_US": "Pondering",
@@ -60129,13 +60128,13 @@
       "zh_CN": "思考中",
       "zh_TW": "思考中",
       "ja_JP": "かんがえちゅう",
-      "ko_KR": "생각 중"
+      "ko_KR": "생각 중",
+      "ru_RU": "Размышления"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02458",
-    "Russian": "Я вас люблю",
     "ref": "I Love You",
     "localization": {
       "en_US": "I Love You",
@@ -60150,13 +60149,13 @@
       "zh_CN": "我爱你",
       "zh_TW": "我愛你",
       "ja_JP": "だいすき",
-      "ko_KR": "사랑해"
+      "ko_KR": "사랑해",
+      "ru_RU": "Я вас люблю"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02464",
-    "Russian": "Дикси К. К.",
     "ref": "K.K. Dixie",
     "localization": {
       "en_US": "K.K. Dixie",
@@ -60171,13 +60170,13 @@
       "zh_CN": "K.K.迪克西",
       "zh_TW": "K.K.迪克西",
       "ja_JP": "けけディキシー",
-      "ko_KR": "K.K.딕시"
+      "ko_KR": "K.K.딕시",
+      "ru_RU": "Дикси К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02470",
-    "Russian": "Крутой холм",
     "ref": "Steep Hill",
     "localization": {
       "en_US": "Steep Hill",
@@ -60192,13 +60191,13 @@
       "zh_CN": "二段斜坡",
       "zh_TW": "二段斜坡",
       "ja_JP": "にだんざか",
-      "ko_KR": "오르막길"
+      "ko_KR": "오르막길",
+      "ru_RU": "Крутой холм"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02459",
-    "Russian": "Два дня назад",
     "ref": "Two Days Ago",
     "localization": {
       "en_US": "Two Days Ago",
@@ -60213,13 +60212,13 @@
       "zh_CN": "前天",
       "zh_TW": "前天",
       "ja_JP": "おととい",
-      "ko_KR": "이틀 전"
+      "ko_KR": "이틀 전",
+      "ru_RU": "Два дня назад"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02465",
-    "Russian": "Марафон К. К.",
     "ref": "K.K. Marathon",
     "localization": {
       "en_US": "K.K. Marathon",
@@ -60234,13 +60233,13 @@
       "zh_CN": "K.K.甘美朗",
       "zh_TW": "K.K.甘美朗",
       "ja_JP": "けけガムラン",
-      "ko_KR": "K.K.가믈란"
+      "ko_KR": "K.K.가믈란",
+      "ru_RU": "Марафон К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02471",
-    "Russian": "Рокабилли К. К.",
     "ref": "K.K. Rockabilly",
     "localization": {
       "en_US": "K.K. Rockabilly",
@@ -60255,13 +60254,13 @@
       "zh_CN": "K.K.乡村摇滚",
       "zh_TW": "K.K.鄉村搖滾",
       "ja_JP": "けけビリー",
-      "ko_KR": "K.K.빌리"
+      "ko_KR": "K.K.빌리",
+      "ru_RU": "Рокабилли К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04318",
-    "Russian": "Светлые горизонты",
     "ref": "Welcome Horizons",
     "localization": {
       "en_US": "Welcome Horizons",
@@ -60276,13 +60275,13 @@
       "zh_CN": "大家集合吧",
       "zh_TW": "大家集合吧",
       "ja_JP": "みんなあつまれ",
-      "ko_KR": "모두 모여봐요"
+      "ko_KR": "모두 모여봐요",
+      "ru_RU": "Светлые горизонты"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02466",
-    "Russian": "Король К. К.",
     "ref": "King K.K.",
     "localization": {
       "en_US": "King K.K.",
@@ -60297,13 +60296,13 @@
       "zh_CN": "K.K.领主",
       "zh_TW": "K.K.領主",
       "ja_JP": "けけだいみょう",
-      "ko_KR": "K.K.왕조"
+      "ko_KR": "K.K.왕조",
+      "ru_RU": "Король К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02472",
-    "Russian": "Агент К. К.",
     "ref": "Agent K.K.",
     "localization": {
       "en_US": "Agent K.K.",
@@ -60318,13 +60317,13 @@
       "zh_CN": "K.K.刑警",
       "zh_TW": "K.K.刑警",
       "ja_JP": "けけけいじ",
-      "ko_KR": "K.K.형사"
+      "ko_KR": "K.K.형사",
+      "ru_RU": "Агент К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02467",
-    "Russian": "Горная песнь",
     "ref": "Mountain Song",
     "localization": {
       "en_US": "Mountain Song",
@@ -60339,13 +60338,13 @@
       "zh_CN": "阿尔卑斯山乐曲",
       "zh_TW": "阿爾卑斯山樂曲",
       "ja_JP": "アルペンそんぐ",
-      "ko_KR": "알프스의 노래"
+      "ko_KR": "알프스의 노래",
+      "ru_RU": "Горная песнь"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02473",
-    "Russian": "Ралли К. К.",
     "ref": "K.K. Rally",
     "localization": {
       "en_US": "K.K. Rally",
@@ -60360,13 +60359,13 @@
       "zh_CN": "K.K.大和祭典",
       "zh_TW": "K.K.大和祭典",
       "ja_JP": "けけおんど",
-      "ko_KR": "K.K.축제"
+      "ko_KR": "K.K.축제",
+      "ru_RU": "Ралли К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02468",
-    "Russian": "Песня о море 2001",
     "ref": "Marine Song 2001",
     "localization": {
       "en_US": "Marine Song 2001",
@@ -60381,13 +60380,13 @@
       "zh_CN": "船歌2001",
       "zh_TW": "船歌2001",
       "ja_JP": "ふなうた2001",
-      "ko_KR": "뱃노래2001"
+      "ko_KR": "뱃노래2001",
+      "ru_RU": "Песня о море 2001"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02474",
-    "Russian": "Металл К. К.",
     "ref": "K.K. Metal",
     "localization": {
       "en_US": "K.K. Metal",
@@ -60402,13 +60401,13 @@
       "zh_CN": "K.K.金属摇滚",
       "zh_TW": "K.K.金屬搖滾",
       "ja_JP": "けけメタル",
-      "ko_KR": "K.K.메탈"
+      "ko_KR": "K.K.메탈",
+      "ru_RU": "Металл К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02480",
-    "Russian": "Гипноз К. К.",
     "ref": "Hypno K.K.",
     "localization": {
       "en_US": "Hypno K.K.",
@@ -60423,13 +60422,13 @@
       "zh_CN": "白日梦",
       "zh_TW": "白日夢",
       "ja_JP": "うたたねのゆめ",
-      "ko_KR": "졸면서 꾸는 꿈"
+      "ko_KR": "졸면서 꾸는 꿈",
+      "ru_RU": "Гипноз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02469",
-    "Russian": "Неаполитанское",
     "ref": "Neapolitan",
     "localization": {
       "en_US": "Neapolitan",
@@ -60444,13 +60443,13 @@
       "zh_CN": "意大利面",
       "zh_TW": "義大利麵",
       "ja_JP": "ナポリタン",
-      "ko_KR": "토마토 스파게티"
+      "ko_KR": "토마토 스파게티",
+      "ru_RU": "Неаполитанское"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02475",
-    "Russian": "Черствые капкейки",
     "ref": "Stale Cupcakes",
     "localization": {
       "en_US": "Stale Cupcakes",
@@ -60465,13 +60464,13 @@
       "zh_CN": "蓝色饭团",
       "zh_TW": "藍色飯糰",
       "ja_JP": "ブルーおにぎり",
-      "ko_KR": "블루 삼각 김밥"
+      "ko_KR": "블루 삼각 김밥",
+      "ru_RU": "Черствые капкейки"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02481",
-    "Russian": "Прогулка К. К.",
     "ref": "K.K. Stroll",
     "localization": {
       "en_US": "K.K. Stroll",
@@ -60486,13 +60485,13 @@
       "zh_CN": "散散步",
       "zh_TW": "散散步",
       "ja_JP": "おさんぽ",
-      "ko_KR": "산책"
+      "ko_KR": "산책",
+      "ru_RU": "Прогулка К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02476",
-    "Russian": "Весенний цвету",
     "ref": "Spring Blossoms",
     "localization": {
       "en_US": "Spring Blossoms",
@@ -60507,13 +60506,13 @@
       "zh_CN": "春暖花开",
       "zh_TW": "春暖花開",
       "ja_JP": "はるのこもれび",
-      "ko_KR": "봄날의 여유"
+      "ko_KR": "봄날의 여유",
+      "ru_RU": "Весенний цвету"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02482",
-    "Russian": "Остров К. К.",
     "ref": "K.K. Island",
     "localization": {
       "en_US": "K.K. Island",
@@ -60528,13 +60527,13 @@
       "zh_CN": "动物岛",
       "zh_TW": "動物島",
       "ja_JP": "どうぶつのしま",
-      "ko_KR": "동물의 섬"
+      "ko_KR": "동물의 섬",
+      "ru_RU": "Остров К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02477",
-    "Russian": "Поход",
     "ref": "Wandering",
     "localization": {
       "en_US": "Wandering",
@@ -60549,13 +60548,13 @@
       "zh_CN": "流浪",
       "zh_TW": "流浪",
       "ja_JP": "ほうろう",
-      "ko_KR": "방랑자"
+      "ko_KR": "방랑자",
+      "ru_RU": "Поход"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02483",
-    "Russian": "Космос К. К.",
     "ref": "Space K.K.",
     "localization": {
       "en_US": "Space K.K.",
@@ -60570,13 +60569,13 @@
       "zh_CN": "极简音乐",
       "zh_TW": "極簡音樂",
       "ja_JP": "ミニマルおんがく",
-      "ko_KR": "미니멀 음악"
+      "ko_KR": "미니멀 음악",
+      "ru_RU": "Космос К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02478",
-    "Russian": "Хаус К. К.",
     "ref": "K.K. House",
     "localization": {
       "en_US": "K.K. House",
@@ -60591,13 +60590,13 @@
       "zh_CN": "K.K.浩室",
       "zh_TW": "K.K.浩室",
       "ja_JP": "けけハウス",
-      "ko_KR": "K.K.하우스"
+      "ko_KR": "K.K.하우스",
+      "ru_RU": "Хаус К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02484",
-    "Russian": "Приключения К. К.",
     "ref": "K.K. Adventure",
     "localization": {
       "en_US": "K.K. Adventure",
@@ -60612,13 +60611,13 @@
       "zh_CN": "K.K.好莱坞",
       "zh_TW": "K.K.好萊塢",
       "ja_JP": "けけハリウッド",
-      "ko_KR": "K.K.할리우드"
+      "ko_KR": "K.K.할리우드",
+      "ru_RU": "Приключения К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02490",
-    "Russian": "Фламенко К. К.",
     "ref": "K.K. Flamenco",
     "localization": {
       "en_US": "K.K. Flamenco",
@@ -60633,13 +60632,13 @@
       "zh_CN": "K.K.佛朗明哥",
       "zh_TW": "K.K.佛朗明哥",
       "ja_JP": "けけフラメンコ",
-      "ko_KR": "K.K.플라멩코"
+      "ko_KR": "K.K.플라멩코",
+      "ru_RU": "Фламенко К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02479",
-    "Russian": "Соната К. К.",
     "ref": "K.K. Sonata",
     "localization": {
       "en_US": "K.K. Sonata",
@@ -60654,13 +60653,13 @@
       "zh_CN": "K.K.奏鸣曲",
       "zh_TW": "K.K.奏鳴曲",
       "ja_JP": "けけのソナタ",
-      "ko_KR": "K.K.소나타"
+      "ko_KR": "K.K.소나타",
+      "ru_RU": "Соната К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02485",
-    "Russian": "Оазис К. К.",
     "ref": "K.K. Oasis",
     "localization": {
       "en_US": "K.K. Oasis",
@@ -60675,13 +60674,13 @@
       "zh_CN": "K.K.印度王公",
       "zh_TW": "K.K.印度王公",
       "ja_JP": "けけマハラジャ",
-      "ko_KR": "K.K.마하라자"
+      "ko_KR": "K.K.마하라자",
+      "ru_RU": "Оазис К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02491",
-    "Russian": "Задумчивый К. К.",
     "ref": "K.K. Moody",
     "localization": {
       "en_US": "K.K. Moody",
@@ -60696,13 +60695,13 @@
       "zh_CN": "K.K.波蕾洛",
       "zh_TW": "K.K.波蕾洛",
       "ja_JP": "けけボレロ",
-      "ko_KR": "K.K.볼레로"
+      "ko_KR": "K.K.볼레로",
+      "ru_RU": "Задумчивый К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02486",
-    "Russian": "Базар К. К.",
     "ref": "K.K. Bazaar",
     "localization": {
       "en_US": "K.K. Bazaar",
@@ -60717,13 +60716,13 @@
       "zh_CN": "K.K.吉普赛",
       "zh_TW": "K.K.吉普賽",
       "ja_JP": "けけロマ",
-      "ko_KR": "K.K.로마"
+      "ko_KR": "K.K.로마",
+      "ru_RU": "Базар К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02492",
-    "Russian": "Бабблгам-поп К. К.",
     "ref": "Bubblegum K.K.",
     "localization": {
       "en_US": "Bubblegum K.K.",
@@ -60738,13 +60737,13 @@
       "zh_CN": "K.K.偶像",
       "zh_TW": "K.K.偶像",
       "ja_JP": "けけアイドル",
-      "ko_KR": "K.K.아이돌"
+      "ko_KR": "K.K.아이돌",
+      "ru_RU": "Бабблгам-поп К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02487",
-    "Russian": "Милонга К. К.",
     "ref": "K.K. Milonga",
     "localization": {
       "en_US": "K.K. Milonga",
@@ -60759,13 +60758,13 @@
       "zh_CN": "K.K.米隆加",
       "zh_TW": "K.K.米隆加",
       "ja_JP": "けけのミロンガ",
-      "ko_KR": "K.K.밀롱가"
+      "ko_KR": "K.K.밀롱가",
+      "ru_RU": "Милонга К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02493",
-    "Russian": "Синти-поп К. К.",
     "ref": "K.K. Synth",
     "localization": {
       "en_US": "K.K. Synth",
@@ -60780,13 +60779,13 @@
       "zh_CN": "K.K.电子民谣",
       "zh_TW": "K.K.電子民謠",
       "ja_JP": "けけトロニカ",
-      "ko_KR": "K.K.트로니카"
+      "ko_KR": "K.K.트로니카",
+      "ru_RU": "Синти-поп К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02488",
-    "Russian": "Грув К. К.",
     "ref": "K.K. Groove",
     "localization": {
       "en_US": "K.K. Groove",
@@ -60801,13 +60800,13 @@
       "zh_CN": "K.K.律动",
       "zh_TW": "K.K.律動",
       "ja_JP": "けけグルーヴ",
-      "ko_KR": "K.K.그루브"
+      "ko_KR": "K.K.그루브",
+      "ru_RU": "Грув К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02494",
-    "Russian": "Диско К. К.",
     "ref": "K.K. Disco",
     "localization": {
       "en_US": "K.K. Disco",
@@ -60822,13 +60821,13 @@
       "zh_CN": "K.K.迪斯科",
       "zh_TW": "K.K.迪斯可",
       "ja_JP": "けけディスコ",
-      "ko_KR": "K.K.디스코"
+      "ko_KR": "K.K.디스코",
+      "ru_RU": "Диско К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02489",
-    "Russian": "Джонгара К. К.",
     "ref": "K.K. Jongara",
     "localization": {
       "en_US": "K.K. Jongara",
@@ -60843,13 +60842,13 @@
       "zh_CN": "K.K.三味线",
       "zh_TW": "K.K.三味線",
       "ja_JP": "けけじょんがら",
-      "ko_KR": "K.K.샤미센 연주곡"
+      "ko_KR": "K.K.샤미센 연주곡",
+      "ru_RU": "Джонгара К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02495",
-    "Russian": "День рождения К. К.",
     "ref": "K.K. Birthday",
     "localization": {
       "en_US": "K.K. Birthday",
@@ -60864,13 +60863,13 @@
       "zh_CN": "你的生日",
       "zh_TW": "你的生日",
       "ja_JP": "きみのたんじょうび",
-      "ko_KR": "그대의 생일"
+      "ko_KR": "그대의 생일",
+      "ru_RU": "День рождения К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "MusicMiss_04315",
-    "Russian": "はずれ01",
     "ref": "はずれ01",
     "localization": {
       "en_US": "はずれ01",
@@ -60885,13 +60884,13 @@
       "zh_CN": "はずれ01",
       "zh_TW": "はずれ01",
       "ja_JP": "はずれ01",
-      "ko_KR": "はずれ01"
+      "ko_KR": "はずれ01",
+      "ru_RU": "はずれ01"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "MusicMiss_04316",
-    "Russian": "はずれ02",
     "ref": "はずれ02",
     "localization": {
       "en_US": "はずれ02",
@@ -60906,13 +60905,13 @@
       "zh_CN": "はずれ02",
       "zh_TW": "はずれ02",
       "ja_JP": "はずれ02",
-      "ko_KR": "はずれ02"
+      "ko_KR": "はずれ02",
+      "ru_RU": "はずれ02"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "MusicMiss_04317",
-    "Russian": "はずれ03",
     "ref": "はずれ03",
     "localization": {
       "en_US": "はずれ03",
@@ -60927,13 +60926,13 @@
       "zh_CN": "はずれ03",
       "zh_TW": "はずれ03",
       "ja_JP": "はずれ03",
-      "ko_KR": "はずれ03"
+      "ko_KR": "はずれ03",
+      "ru_RU": "はずれ03"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02410",
-    "Russian": "Фьюжен К. К.",
     "ref": "K.K. Fusion",
     "localization": {
       "en_US": "K.K. Fusion",
@@ -60948,13 +60947,13 @@
       "zh_CN": "K.K.融合爵士乐",
       "zh_TW": "K.K.融合爵士樂",
       "ja_JP": "けけフュージョン",
-      "ko_KR": "K.K.퓨전"
+      "ko_KR": "K.K.퓨전",
+      "ru_RU": "Фьюжен К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02405",
-    "Russian": "Хорал К. К.",
     "ref": "K.K. Chorale",
     "localization": {
       "en_US": "K.K. Chorale",
@@ -60969,13 +60968,13 @@
       "zh_CN": "K.K.赞美诗歌",
       "zh_TW": "K.K.讚美詩歌",
       "ja_JP": "けけさんびか",
-      "ko_KR": "K.K.찬송가"
+      "ko_KR": "K.K.찬송가",
+      "ru_RU": "Хорал К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02411",
-    "Russian": "Этюд К. К.",
     "ref": "K.K. Étude",
     "localization": {
       "en_US": "K.K. Étude",
@@ -60990,13 +60989,13 @@
       "zh_CN": "K.K.练习曲",
       "zh_TW": "K.K.練習曲",
       "ja_JP": "けけのエチュード",
-      "ko_KR": "K.K.에튀드"
+      "ko_KR": "K.K.에튀드",
+      "ru_RU": "Этюд К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02406",
-    "Russian": "Марш К. К.",
     "ref": "K.K. March",
     "localization": {
       "en_US": "K.K. March",
@@ -61011,13 +61010,13 @@
       "zh_CN": "K.K.进行曲",
       "zh_TW": "K.K.進行曲",
       "ja_JP": "けけマーチ",
-      "ko_KR": "K.K.행진곡"
+      "ko_KR": "K.K.행진곡",
+      "ru_RU": "Марш К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02412",
-    "Russian": "Колыбельная К. К.",
     "ref": "K.K. Lullaby",
     "localization": {
       "en_US": "K.K. Lullaby",
@@ -61032,13 +61031,13 @@
       "zh_CN": "K.K.摇篮曲",
       "zh_TW": "K.K.搖籃曲",
       "ja_JP": "けけララバイ",
-      "ko_KR": "K.K.자장가"
+      "ko_KR": "K.K.자장가",
+      "ru_RU": "Колыбельная К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02407",
-    "Russian": "Вальс К. К.",
     "ref": "K.K. Waltz",
     "localization": {
       "en_US": "K.K. Waltz",
@@ -61053,13 +61052,13 @@
       "zh_CN": "K.K.圆舞曲",
       "zh_TW": "K.K.圓舞曲",
       "ja_JP": "けけワルツ",
-      "ko_KR": "K.K.왈츠"
+      "ko_KR": "K.K.왈츠",
+      "ru_RU": "Вальс К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02413",
-    "Russian": "Ария К. К.",
     "ref": "K.K. Aria",
     "localization": {
       "en_US": "K.K. Aria",
@@ -61074,13 +61073,13 @@
       "zh_CN": "K.K.咏叹调",
       "zh_TW": "K.K.詠嘆調",
       "ja_JP": "けけマリア",
-      "ko_KR": "K.K.마리아"
+      "ko_KR": "K.K.마리아",
+      "ru_RU": "Ария К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02408",
-    "Russian": "Свинг К. К.",
     "ref": "K.K. Swing",
     "localization": {
       "en_US": "K.K. Swing",
@@ -61095,13 +61094,13 @@
       "zh_CN": "K.K.摇摆乐",
       "zh_TW": "K.K.搖擺樂",
       "ja_JP": "けけスウィング",
-      "ko_KR": "K.K.스윙"
+      "ko_KR": "K.K.스윙",
+      "ru_RU": "Свинг К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02414",
-    "Russian": "Самба К. К.",
     "ref": "K.K. Samba",
     "localization": {
       "en_US": "K.K. Samba",
@@ -61116,13 +61115,13 @@
       "zh_CN": "K.K.桑巴",
       "zh_TW": "K.K.森巴",
       "ja_JP": "けけサンバ",
-      "ko_KR": "K.K.삼바"
+      "ko_KR": "K.K.삼바",
+      "ru_RU": "Самба К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02420",
-    "Russian": "Ска К. К.",
     "ref": "K.K. Ska",
     "localization": {
       "en_US": "K.K. Ska",
@@ -61137,13 +61136,13 @@
       "zh_CN": "K.K.斯卡",
       "zh_TW": "K.K.斯卡",
       "ja_JP": "けけスカ",
-      "ko_KR": "K.K.스카"
+      "ko_KR": "K.K.스카",
+      "ru_RU": "Ска К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02409",
-    "Russian": "Джаз К. К.",
     "ref": "K.K. Jazz",
     "localization": {
       "en_US": "K.K. Jazz",
@@ -61158,13 +61157,13 @@
       "zh_CN": "K.K.爵士乐",
       "zh_TW": "K.K.爵士樂",
       "ja_JP": "けけジャズ",
-      "ko_KR": "K.K.재즈"
+      "ko_KR": "K.K.재즈",
+      "ru_RU": "Джаз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02415",
-    "Russian": "Босанова К. К.",
     "ref": "K.K. Bossa",
     "localization": {
       "en_US": "K.K. Bossa",
@@ -61179,13 +61178,13 @@
       "zh_CN": "K.K.巴萨诺瓦",
       "zh_TW": "K.K.巴薩諾瓦",
       "ja_JP": "けけボッサ",
-      "ko_KR": "K.K.보사노바"
+      "ko_KR": "K.K.보사노바",
+      "ru_RU": "Босанова К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02421",
-    "Russian": "Танго К. К.",
     "ref": "K.K. Tango",
     "localization": {
       "en_US": "K.K. Tango",
@@ -61200,13 +61199,13 @@
       "zh_CN": "K.K.探戈",
       "zh_TW": "K.K.探戈",
       "ja_JP": "けけタンゴ",
-      "ko_KR": "K.K.탱고"
+      "ko_KR": "K.K.탱고",
+      "ru_RU": "Танго К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02416",
-    "Russian": "Калипсо К. К.",
     "ref": "K.K. Calypso",
     "localization": {
       "en_US": "K.K. Calypso",
@@ -61221,13 +61220,13 @@
       "zh_CN": "K.K.卡利普索",
       "zh_TW": "K.K.卡利普索",
       "ja_JP": "けけカリプソ",
-      "ko_KR": "K.K.칼립소"
+      "ko_KR": "K.K.칼립소",
+      "ru_RU": "Калипсо К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02422",
-    "Russian": "Ярмарка К. К.",
     "ref": "K.K. Faire",
     "localization": {
       "en_US": "K.K. Faire",
@@ -61242,13 +61241,13 @@
       "zh_CN": "冲绳K.K.",
       "zh_TW": "沖繩K.K.",
       "ja_JP": "ハイサイけけ",
-      "ko_KR": "혼저옵서예K.K."
+      "ko_KR": "혼저옵서예K.K.",
+      "ru_RU": "Ярмарка К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02417",
-    "Russian": "Сальса К. К.",
     "ref": "K.K. Salsa",
     "localization": {
       "en_US": "K.K. Salsa",
@@ -61263,13 +61262,13 @@
       "zh_CN": "K.K.萨尔萨",
       "zh_TW": "K.K.騷莎",
       "ja_JP": "けけサルサ",
-      "ko_KR": "K.K.살사"
+      "ko_KR": "K.K.살사",
+      "ru_RU": "Сальса К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02423",
-    "Russian": "Алоха К. К.",
     "ref": "Aloha K.K.",
     "localization": {
       "en_US": "Aloha K.K.",
@@ -61284,13 +61283,13 @@
       "zh_CN": "夏威夷K.K.",
       "zh_TW": "夏威夷K.K.",
       "ja_JP": "アロハけけ",
-      "ko_KR": "알로하K.K."
+      "ko_KR": "알로하K.K.",
+      "ru_RU": "Алоха К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02418",
-    "Russian": "Мамбо К. К.",
     "ref": "K.K. Mambo",
     "localization": {
       "en_US": "K.K. Mambo",
@@ -61305,13 +61304,13 @@
       "zh_CN": "K.K.曼波",
       "zh_TW": "K.K.曼波",
       "ja_JP": "けけマンボ",
-      "ko_KR": "K.K.맘보"
+      "ko_KR": "K.K.맘보",
+      "ru_RU": "Мамбо К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02424",
-    "Russian": "Счастливчик К. К.",
     "ref": "Lucky K.K.",
     "localization": {
       "en_US": "Lucky K.K.",
@@ -61326,13 +61325,13 @@
       "zh_CN": "爱尔兰乐曲",
       "zh_TW": "愛爾蘭樂曲",
       "ja_JP": "アイリッシュそんぐ",
-      "ko_KR": "아일랜드의 노래"
+      "ko_KR": "아일랜드의 노래",
+      "ru_RU": "Счастливчик К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02430",
-    "Russian": "Фолк К. К.",
     "ref": "K.K. Folk",
     "localization": {
       "en_US": "K.K. Folk",
@@ -61347,13 +61346,13 @@
       "zh_CN": "K.K.民谣",
       "zh_TW": "K.K.民謠",
       "ja_JP": "けけみんよう",
-      "ko_KR": "K.K.민요"
+      "ko_KR": "K.K.민요",
+      "ru_RU": "Фолк К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02419",
-    "Russian": "Регги К. К.",
     "ref": "K.K. Reggae",
     "localization": {
       "en_US": "K.K. Reggae",
@@ -61368,13 +61367,13 @@
       "zh_CN": "K.K.雷鬼",
       "zh_TW": "K.K.雷鬼",
       "ja_JP": "けけレゲエ",
-      "ko_KR": "K.K.레게"
+      "ko_KR": "K.K.레게",
+      "ru_RU": "Регги К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02425",
-    "Russian": "Кондор К. К.",
     "ref": "K.K. Condor",
     "localization": {
       "en_US": "K.K. Condor",
@@ -61389,13 +61388,13 @@
       "zh_CN": "秘鲁之歌",
       "zh_TW": "秘魯之歌",
       "ja_JP": "ペルーのうた",
-      "ko_KR": "페루의 노래"
+      "ko_KR": "페루의 노래",
+      "ru_RU": "Кондор К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02431",
-    "Russian": "Рок К. К.",
     "ref": "K.K. Rock",
     "localization": {
       "en_US": "K.K. Rock",
@@ -61410,13 +61409,13 @@
       "zh_CN": "K.K.摇滚",
       "zh_TW": "K.K.搖滾",
       "ja_JP": "けけロック",
-      "ko_KR": "K.K.록"
+      "ko_KR": "K.K.록",
+      "ru_RU": "Рок К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02426",
-    "Russian": "Степь К. К.",
     "ref": "K.K. Steppe",
     "localization": {
       "en_US": "K.K. Steppe",
@@ -61431,13 +61430,13 @@
       "zh_CN": "哥萨克乐曲",
       "zh_TW": "哥薩克樂曲",
       "ja_JP": "コサックそんぐ",
-      "ko_KR": "까자크의 노래"
+      "ko_KR": "까자크의 노래",
+      "ru_RU": "Степь К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02432",
-    "Russian": "К. К. в ударе",
     "ref": "Rockin' K.K.",
     "localization": {
       "en_US": "Rockin' K.K.",
@@ -61452,13 +61451,13 @@
       "zh_CN": "K.K.50年代摇滚",
       "zh_TW": "K.K.50年代搖滾",
       "ja_JP": "けけのロケンロール",
-      "ko_KR": "K.K.로큰롤"
+      "ko_KR": "K.K.로큰롤",
+      "ru_RU": "К. К. в ударе"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02427",
-    "Russian": "Величие К. К.",
     "ref": "Imperial K.K.",
     "localization": {
       "en_US": "Imperial K.K.",
@@ -61473,13 +61472,13 @@
       "zh_CN": "K.K.中华",
       "zh_TW": "K.K.中華",
       "ja_JP": "けけチャイナ",
-      "ko_KR": "K.K.차이나"
+      "ko_KR": "K.K.차이나",
+      "ru_RU": "Величие К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02433",
-    "Russian": "Регтайм К. К.",
     "ref": "K.K. Ragtime",
     "localization": {
       "en_US": "K.K. Ragtime",
@@ -61494,13 +61493,13 @@
       "zh_CN": "格拉泰姆音乐",
       "zh_TW": "拉格泰姆音樂",
       "ja_JP": "ラグタイム",
-      "ko_KR": "래그타임"
+      "ko_KR": "래그타임",
+      "ru_RU": "Регтайм К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02428",
-    "Russian": "Крепость К. К.",
     "ref": "K.K. Casbah",
     "localization": {
       "en_US": "K.K. Casbah",
@@ -61515,13 +61514,13 @@
       "zh_CN": "土耳其乐曲",
       "zh_TW": "土耳其樂曲",
       "ja_JP": "トルコそんぐ",
-      "ko_KR": "터키의 노래"
+      "ko_KR": "터키의 노래",
+      "ru_RU": "Крепость К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02434",
-    "Russian": "Гамбо К. К.",
     "ref": "K.K. Gumbo",
     "localization": {
       "en_US": "K.K. Gumbo",
@@ -61536,13 +61535,13 @@
       "zh_CN": "新奥尔良乐曲",
       "zh_TW": "新奧爾良樂曲",
       "ja_JP": "ニューオリンズそんぐ",
-      "ko_KR": "딕시랜드 재즈"
+      "ko_KR": "딕시랜드 재즈",
+      "ru_RU": "Гамбо К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02440",
-    "Russian": "Романс К. К.",
     "ref": "K.K. Love Song",
     "localization": {
       "en_US": "K.K. Love Song",
@@ -61557,13 +61556,13 @@
       "zh_CN": "K.K.情歌",
       "zh_TW": "K.K.情歌",
       "ja_JP": "けけラヴソング",
-      "ko_KR": "K.K.러브송"
+      "ko_KR": "K.K.러브송",
+      "ru_RU": "Романс К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02429",
-    "Russian": "Сафари К. К.",
     "ref": "K.K. Safari",
     "localization": {
       "en_US": "K.K. Safari",
@@ -61578,13 +61577,13 @@
       "zh_CN": "K.K.非洲音乐",
       "zh_TW": "K.K.非洲音樂",
       "ja_JP": "けけアフロ",
-      "ko_KR": "K.K.아프리카"
+      "ko_KR": "K.K.아프리카",
+      "ru_RU": "Сафари К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02435",
-    "Russian": "Фанк К. К.",
     "ref": "The K. Funk",
     "localization": {
       "en_US": "The K. Funk",
@@ -61599,13 +61598,13 @@
       "zh_CN": "K.K.放克",
       "zh_TW": "K.K.放克",
       "ja_JP": "けけファンク",
-      "ko_KR": "K.K.펑키"
+      "ko_KR": "K.K.펑키",
+      "ru_RU": "Фанк К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02441",
-    "Russian": "Драм-н-бэйс К. К.",
     "ref": "K.K. D&B",
     "localization": {
       "en_US": "K.K. D&B",
@@ -61620,13 +61619,13 @@
       "zh_CN": "鼓打贝斯",
       "zh_TW": "鼓打貝斯",
       "ja_JP": "ドラムンベース",
-      "ko_KR": "드럼앤베이스"
+      "ko_KR": "드럼앤베이스",
+      "ru_RU": "Драм-н-бэйс К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02436",
-    "Russian": "Блюз К. К.",
     "ref": "K.K. Blues",
     "localization": {
       "en_US": "K.K. Blues",
@@ -61641,13 +61640,13 @@
       "zh_CN": "K.K.蓝调",
       "zh_TW": "K.K.藍調",
       "ja_JP": "けけブルース",
-      "ko_KR": "K.K.블루스"
+      "ko_KR": "K.K.블루스",
+      "ru_RU": "Блюз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02442",
-    "Russian": "Техно-поп К. К.",
     "ref": "K.K. Technopop",
     "localization": {
       "en_US": "K.K. Technopop",
@@ -61662,13 +61661,13 @@
       "zh_CN": "电音节奏",
       "zh_TW": "電音節奏",
       "ja_JP": "テクノビート",
-      "ko_KR": "테크노 비트"
+      "ko_KR": "테크노 비트",
+      "ru_RU": "Техно-поп К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02437",
-    "Russian": "Соулфул К. К.",
     "ref": "Soulful K.K.",
     "localization": {
       "en_US": "Soulful K.K.",
@@ -61683,13 +61682,13 @@
       "zh_CN": "K.K.心灵音乐",
       "zh_TW": "K.K.心靈音樂",
       "ja_JP": "けけゴスペル",
-      "ko_KR": "K.K.가스펠"
+      "ko_KR": "K.K.가스펠",
+      "ru_RU": "Соулфул К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02443",
-    "Russian": "DJ KK",
     "ref": "DJ K.K.",
     "localization": {
       "en_US": "DJ K.K.",
@@ -61704,13 +61703,13 @@
       "zh_CN": "欧陆节拍",
       "zh_TW": "歐陸節拍",
       "ja_JP": "ユーロビート",
-      "ko_KR": "유로 비트"
+      "ko_KR": "유로 비트",
+      "ru_RU": "DJ KK"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02438",
-    "Russian": "Соул К. К.",
     "ref": "K.K. Soul",
     "localization": {
       "en_US": "K.K. Soul",
@@ -61725,13 +61724,13 @@
       "zh_CN": "K.K.灵魂乐",
       "zh_TW": "K.K.靈魂樂",
       "ja_JP": "けけソウル",
-      "ko_KR": "K.K.소울"
+      "ko_KR": "K.K.소울",
+      "ru_RU": "Соул К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02444",
-    "Russian": "Только я",
     "ref": "Only Me",
     "localization": {
       "en_US": "Only Me",
@@ -61746,13 +61745,13 @@
       "zh_CN": "只有我",
       "zh_TW": "只有我",
       "ja_JP": "オンリーミー",
-      "ko_KR": "온리미"
+      "ko_KR": "온리미",
+      "ru_RU": "Только я"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02450",
-    "Russian": "Доброго пути, К. К.!",
     "ref": "Go K.K. Rider",
     "localization": {
       "en_US": "Go K.K. Rider",
@@ -61767,13 +61766,13 @@
       "zh_CN": "冲吧！K.K.摩托车手",
       "zh_TW": "衝吧！K.K.摩托車手",
       "ja_JP": "ゆけ!けけライダー",
-      "ko_KR": "가자! K.K.라이더"
+      "ko_KR": "가자! K.K.라이더",
+      "ru_RU": "Доброго пути, К. К.!"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02439",
-    "Russian": "Круиз К. К.",
     "ref": "K.K. Cruisin'",
     "localization": {
       "en_US": "K.K. Cruisin'",
@@ -61788,13 +61787,13 @@
       "zh_CN": "都市K.K.",
       "zh_TW": "都市K.K.",
       "ja_JP": "アーバンけけ",
-      "ko_KR": "팝K.K."
+      "ko_KR": "팝K.K.",
+      "ru_RU": "Круиз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02445",
-    "Russian": "Кантри К. К.",
     "ref": "K.K. Country",
     "localization": {
       "en_US": "K.K. Country",
@@ -61809,13 +61808,13 @@
       "zh_CN": "K.K.乡村",
       "zh_TW": "K.K.鄉村",
       "ja_JP": "けけカントリー",
-      "ko_KR": "K.K.컨트리"
+      "ko_KR": "K.K.컨트리",
+      "ru_RU": "Кантри К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02451",
-    "Russian": "Реквием К. К.",
     "ref": "K.K. Dirge",
     "localization": {
       "en_US": "K.K. Dirge",
@@ -61830,13 +61829,13 @@
       "zh_CN": "惊悚歌",
       "zh_TW": "驚悚歌",
       "ja_JP": "こわいうた",
-      "ko_KR": "무서운 노래"
+      "ko_KR": "무서운 노래",
+      "ru_RU": "Реквием К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02446",
-    "Russian": "Серф К. К.",
     "ref": "Surfin' K.K.",
     "localization": {
       "en_US": "Surfin' K.K.",
@@ -61851,13 +61850,13 @@
       "zh_CN": "电吉他乐曲",
       "zh_TW": "電吉他樂曲",
       "ja_JP": "エレキそんぐ",
-      "ko_KR": "일렉트릭 뮤직"
+      "ko_KR": "일렉트릭 뮤직",
+      "ru_RU": "Серф К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02452",
-    "Russian": "Вестерн К. К.",
     "ref": "K.K. Western",
     "localization": {
       "en_US": "K.K. Western",
@@ -61872,13 +61871,13 @@
       "zh_CN": "K.K.西部",
       "zh_TW": "K.K.西部",
       "ja_JP": "けけウェスタン",
-      "ko_KR": "K.K.웨스턴"
+      "ko_KR": "K.K.웨스턴",
+      "ru_RU": "Вестерн К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02447",
-    "Russian": "Баллада К. К.",
     "ref": "K.K. Ballad",
     "localization": {
       "en_US": "K.K. Ballad",
@@ -61893,13 +61892,13 @@
       "zh_CN": "K.K.叙事歌谣",
       "zh_TW": "K.K.敘事歌謠",
       "ja_JP": "けけバラッド",
-      "ko_KR": "K.K.발라드"
+      "ko_KR": "K.K.발라드",
+      "ru_RU": "Баллада К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02453",
-    "Russian": "Господин К. К.",
     "ref": "Mr. K.K.",
     "localization": {
       "en_US": "Mr. K.K.",
@@ -61914,13 +61913,13 @@
       "zh_CN": "K.K.老师",
       "zh_TW": "K.K.老師",
       "ja_JP": "けけせんせい",
-      "ko_KR": "K.K.선생님"
+      "ko_KR": "K.K.선생님",
+      "ru_RU": "Господин К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04312",
-    "Russian": "Город а зверушек",
     "ref": "Animal City",
     "localization": {
       "en_US": "Animal City",
@@ -61935,7 +61934,8 @@
       "zh_CN": "动物城镇",
       "zh_TW": "動物城鎮",
       "ja_JP": "どうぶつのまち",
-      "ko_KR": "동물의 마을"
+      "ko_KR": "동물의 마을",
+      "ru_RU": "Город а зверушек"
     }
   },
   {

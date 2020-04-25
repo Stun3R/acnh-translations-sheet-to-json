@@ -19,6 +19,7 @@ const LOCALE = [
   {name: 'Chinese (Traditional)', iso: 'zh_TW'},
   {name: 'Japanese', iso: 'ja_JP'},
   {name: 'Korean', iso: 'ko_KR'},
+  {name: 'Russian', iso: 'ru_RU'},
 ];
 
 const ITEM_SHEETS = [

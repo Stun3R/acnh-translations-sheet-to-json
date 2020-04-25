@@ -1,7 +1,6 @@
 export interface Villagers {
   SourceSheet: SourceSheet;
   id: string;
-  Russian: string;
   ref: string;
   localization: Localization;
 }
@@ -24,4 +23,5 @@ export interface Localization {
   zh_TW: string;
   ja_JP: string;
   ko_KR: string;
+  ru_RU: string;
 }
