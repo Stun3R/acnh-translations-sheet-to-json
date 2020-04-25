@@ -17,7 +17,23 @@
 </p>  
   
   The goal of this project is to convert the Animal Crossing: New Horizons [community translations spreadsheet](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=425952045) into JSON
-  
+
+## Usage with Yarn
+
+```javascript
+yarn add @stun3r/acnh-translations
+```
+
+Then import/require it in your project
+
+## Usage with Npm
+
+```javascript
+npm install --save @stun3r/acnh-translations
+```
+
+Then import/require it in your project
+
 ## Development
 
 Running with watcher
