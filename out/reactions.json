@@ -1,0 +1,838 @@
+[
+  {
+    "SourceSheet": "Reactions",
+    "id": "AbsentMindedness",
+    "ref": "Daydreaming",
+    "localization": {
+      "en_US": "Daydreaming",
+      "en_GB": "Daydreaming",
+      "de_DE": "Tagtraum",
+      "es_ES": "Ensoñación",
+      "fr_FR": "Rêverie",
+      "fr_CA": "Rêverie",
+      "it_IT": "Sogno ad occhi aperti",
+      "nl_NL": "Dromen",
+      "zh_CN": "想象中",
+      "zh_TW": "想像中",
+      "ja_JP": "そうぞうちゅう",
+      "ko_KR": "상상"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Aha",
+    "ref": "Surprise",
+    "localization": {
+      "en_US": "Surprise",
+      "en_GB": "Surprise",
+      "de_DE": "Unglaube",
+      "es_ES": "Asombro",
+      "fr_FR": "Étonnement",
+      "fr_CA": "Étonnement",
+      "it_IT": "Sorpresa",
+      "nl_NL": "Verrassing",
+      "zh_CN": "啊！",
+      "zh_TW": "啊！",
+      "ja_JP": "あっ！",
+      "ko_KR": "아하!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Apologize",
+    "ref": "Apologetic",
+    "localization": {
+      "en_US": "Apologetic",
+      "en_GB": "Apologetic",
+      "de_DE": "Entschuldigung",
+      "es_ES": "Disculpa",
+      "fr_FR": "Excuse",
+      "fr_CA": "Excuse",
+      "it_IT": "Scusa",
+      "nl_NL": "Buigen",
+      "zh_CN": "鞠躬",
+      "zh_TW": "鞠躬",
+      "ja_JP": "ペコリ",
+      "ko_KR": "꾸벅"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Assent",
+    "ref": "Confident",
+    "localization": {
+      "en_US": "Confident",
+      "en_GB": "Confident",
+      "de_DE": "Verlässlichkeit",
+      "es_ES": "Confianza",
+      "fr_FR": "Confiance en soi",
+      "fr_CA": "Confiance en soi",
+      "it_IT": "Autostima",
+      "nl_NL": "Zelfvertrouwen",
+      "zh_CN": "交给我",
+      "zh_TW": "交給我",
+      "ja_JP": "まかせて！",
+      "ko_KR": "맡겨줘!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Blushing",
+    "ref": "Bashfulness",
+    "localization": {
+      "en_US": "Bashfulness",
+      "en_GB": "Bashfulness",
+      "de_DE": "Schüchternheit",
+      "es_ES": "Sonrojo",
+      "fr_FR": "Embarras",
+      "fr_CA": "Embarras",
+      "it_IT": "Imbarazzo",
+      "nl_NL": "Blozen",
+      "zh_CN": "害羞",
+      "zh_TW": "害羞",
+      "ja_JP": "テレる",
+      "ko_KR": "부끄럼"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "BrokenHeart",
+    "ref": "Heartbreak",
+    "localization": {
+      "en_US": "Heartbreak",
+      "en_GB": "Heartbreak",
+      "de_DE": "Herzschmerz",
+      "es_ES": "Decepción",
+      "fr_FR": "Cœur brisé",
+      "fr_CA": "Cœur brisé",
+      "it_IT": "Cuore infranto",
+      "nl_NL": "Gebroken hart",
+      "zh_CN": "心碎",
+      "zh_TW": "心碎",
+      "ja_JP": "しつれん",
+      "ko_KR": "실연"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Cheering",
+    "ref": "Encouraging",
+    "localization": {
+      "en_US": "Encouraging",
+      "en_GB": "Encouraging",
+      "de_DE": "Anfeuern",
+      "es_ES": "Ánimo",
+      "fr_FR": "Encouragement",
+      "fr_CA": "Encouragement",
+      "it_IT": "Incoraggiamento",
+      "nl_NL": "Aanmoedigen",
+      "zh_CN": "加油～！",
+      "zh_TW": "加油～！",
+      "ja_JP": "ガンバレー！",
+      "ko_KR": "힘내!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Clapping",
+    "ref": "Delight",
+    "localization": {
+      "en_US": "Delight",
+      "en_GB": "Delight",
+      "de_DE": "Entzücken",
+      "es_ES": "Aplauso",
+      "fr_FR": "Applaudissements",
+      "fr_CA": "Applaudissements",
+      "it_IT": "Applauso",
+      "nl_NL": "Applaudisseren",
+      "zh_CN": "拍手",
+      "zh_TW": "拍手",
+      "ja_JP": "パチパチ",
+      "ko_KR": "박수"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "ColdChill",
+    "ref": "Cold Chill",
+    "localization": {
+      "en_US": "Cold Chill",
+      "en_GB": "Cold Chill",
+      "de_DE": "Schaudern",
+      "es_ES": "Escalofrío",
+      "fr_FR": "Vent glacial",
+      "fr_CA": "Vent glacial",
+      "it_IT": "Gelo",
+      "nl_NL": "Bibberen",
+      "zh_CN": "咻～",
+      "zh_TW": "咻～",
+      "ja_JP": "ヒュー",
+      "ko_KR": "씁쓸"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Crying",
+    "ref": "Sorrow",
+    "localization": {
+      "en_US": "Sorrow",
+      "en_GB": "Sorrow",
+      "de_DE": "Leid",
+      "es_ES": "Llanto",
+      "fr_FR": "Pleurs",
+      "fr_CA": "Pleurs",
+      "it_IT": "Tristezza",
+      "nl_NL": "Huilen",
+      "zh_CN": "大哭",
+      "zh_TW": "大哭",
+      "ja_JP": "わーん",
+      "ko_KR": "울기"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Dance",
+    "ref": "Flourish",
+    "localization": {
+      "en_US": "Flourish",
+      "en_GB": "Flourish",
+      "de_DE": "Pirouette",
+      "es_ES": "Pirueta",
+      "fr_FR": "Pirouette",
+      "fr_CA": "Pirouette",
+      "it_IT": "Piroetta",
+      "nl_NL": "Pirouette",
+      "zh_CN": "舞动",
+      "zh_TW": "轉轉～將！",
+      "ja_JP": "クルリンパ",
+      "ko_KR": "댄스"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Frantic",
+    "ref": "Distress",
+    "localization": {
+      "en_US": "Distress",
+      "en_GB": "Distress",
+      "de_DE": "Panik",
+      "es_ES": "Apuro",
+      "fr_FR": "Détresse",
+      "fr_CA": "Détresse",
+      "it_IT": "Agitazione",
+      "nl_NL": "Paniek",
+      "zh_CN": "紧张",
+      "zh_TW": "緊張",
+      "ja_JP": "あせる",
+      "ko_KR": "당황"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Greeting",
+    "ref": "Greetings",
+    "localization": {
+      "en_US": "Greetings",
+      "en_GB": "Greetings",
+      "de_DE": "Winken",
+      "es_ES": "Saludo",
+      "fr_FR": "Salut",
+      "fr_CA": "Salut",
+      "it_IT": "Saluto",
+      "nl_NL": "Zwaaien",
+      "zh_CN": "你好！",
+      "zh_TW": "嗨！",
+      "ja_JP": "やぁ！",
+      "ko_KR": "안녕!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Grin",
+    "ref": "Smirking",
+    "localization": {
+      "en_US": "Smirking",
+      "en_GB": "Smirking",
+      "de_DE": "Grinsen",
+      "es_ES": "Sonrisa socarrona",
+      "fr_FR": "Rire suffisant",
+      "fr_CA": "Rire fourbe",
+      "it_IT": "Sogghigno",
+      "nl_NL": "Grinniken",
+      "zh_CN": "微笑",
+      "zh_TW": "微笑",
+      "ja_JP": "ニヤリ",
+      "ko_KR": "씨익"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "HappyDance",
+    "ref": "Glee",
+    "localization": {
+      "en_US": "Glee",
+      "en_GB": "Glee",
+      "de_DE": "Begeisterung",
+      "es_ES": "Júbilo",
+      "fr_FR": "Euphorie",
+      "fr_CA": "Euphorie",
+      "it_IT": "Allegria",
+      "nl_NL": "Enthousiasme",
+      "zh_CN": "兴高采烈",
+      "zh_TW": "高興",
+      "ja_JP": "ウキウキ",
+      "ko_KR": "신바람"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "HappyFlower",
+    "ref": "Joy",
+    "localization": {
+      "en_US": "Joy",
+      "en_GB": "Joy",
+      "de_DE": "Freude",
+      "es_ES": "Dicha",
+      "fr_FR": "Joie",
+      "fr_CA": "Joie",
+      "it_IT": "Gioia",
+      "nl_NL": "Blijdschap",
+      "zh_CN": "开心",
+      "zh_TW": "開心",
+      "ja_JP": "ハッピー",
+      "ko_KR": "해피"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Hello",
+    "ref": "Pleased",
+    "localization": {
+      "en_US": "Pleased",
+      "en_GB": "Pleased",
+      "de_DE": "Begrüßung",
+      "es_ES": "Agrado",
+      "fr_FR": "Enthousiasme",
+      "fr_CA": "Enthousiasme",
+      "it_IT": "Contentezza",
+      "nl_NL": "Groeten",
+      "zh_CN": "对吧！",
+      "zh_TW": "對吧！",
+      "ja_JP": "ねっ",
+      "ko_KR": "까딱"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Hesitate",
+    "ref": "Shyness",
+    "localization": {
+      "en_US": "Shyness",
+      "en_GB": "Shyness",
+      "de_DE": "Verlegenheit",
+      "es_ES": "Timidez",
+      "fr_FR": "Timidité",
+      "fr_CA": "Timidité",
+      "it_IT": "Timidezza",
+      "nl_NL": "Verlegenheid",
+      "zh_CN": "不好意思",
+      "zh_TW": "不好意思",
+      "ja_JP": "もじもじ",
+      "ko_KR": "머뭇"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "IdeaBulb",
+    "ref": "Inspiration",
+    "localization": {
+      "en_US": "Inspiration",
+      "en_GB": "Inspiration",
+      "de_DE": "Inspiration",
+      "es_ES": "Inspiración",
+      "fr_FR": "Trouvaille",
+      "fr_CA": "Trouvaille",
+      "it_IT": "Ispirazione",
+      "nl_NL": "Inspiratie",
+      "zh_CN": "灵光一闪",
+      "zh_TW": "靈光乍現",
+      "ja_JP": "ひらめく",
+      "ko_KR": "번뜩"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Laughing",
+    "ref": "Laughter",
+    "localization": {
+      "en_US": "Laughter",
+      "en_GB": "Laughter",
+      "de_DE": "Lachen",
+      "es_ES": "Risa",
+      "fr_FR": "Rire",
+      "fr_CA": "Rire",
+      "it_IT": "Riso",
+      "nl_NL": "Lachen",
+      "zh_CN": "笑哈哈",
+      "zh_TW": "笑哈哈",
+      "ja_JP": "わらう",
+      "ko_KR": "웃기"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Love",
+    "ref": "Love",
+    "localization": {
+      "en_US": "Love",
+      "en_GB": "Love",
+      "de_DE": "Liebe",
+      "es_ES": "Amor",
+      "fr_FR": "Amour",
+      "fr_CA": "Amour",
+      "it_IT": "Amore",
+      "nl_NL": "Liefde",
+      "zh_CN": "喜欢",
+      "zh_TW": "喜歡",
+      "ja_JP": "ラブ",
+      "ko_KR": "러브"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Negative",
+    "ref": "Disagreement",
+    "localization": {
+      "en_US": "Disagreement",
+      "en_GB": "Disagreement",
+      "de_DE": "Ablehnung",
+      "es_ES": "Desacuerdo",
+      "fr_FR": "Désaccord",
+      "fr_CA": "Désaccord",
+      "it_IT": "Disaccordo",
+      "nl_NL": "Weigeren",
+      "zh_CN": "不行不行",
+      "zh_TW": "不要",
+      "ja_JP": "イヤイヤ",
+      "ko_KR": "절레절레"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Nodding",
+    "ref": "Agreement",
+    "localization": {
+      "en_US": "Agreement",
+      "en_GB": "Agreement",
+      "de_DE": "Zustimmung",
+      "es_ES": "Asentimiento",
+      "fr_FR": "Acquiescement",
+      "fr_CA": "Acquiescement",
+      "it_IT": "Approvazione",
+      "nl_NL": "Knikken",
+      "zh_CN": "点头",
+      "zh_TW": "點頭",
+      "ja_JP": "うんうん",
+      "ko_KR": "끄덕끄덕"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "OhGeez",
+    "ref": "Resignation",
+    "localization": {
+      "en_US": "Resignation",
+      "en_GB": "Resignation",
+      "de_DE": "Resignation",
+      "es_ES": "Resignación",
+      "fr_FR": "Dépit",
+      "fr_CA": "Dépit",
+      "it_IT": "Rassegnazione",
+      "nl_NL": "Opgeven",
+      "zh_CN": "好了好了",
+      "zh_TW": "算了",
+      "ja_JP": "ヤレヤレ",
+      "ko_KR": "나참…"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Oops",
+    "ref": "Mistaken",
+    "localization": {
+      "en_US": "Mistaken",
+      "en_GB": "Mistaken",
+      "de_DE": "Missgeschick",
+      "es_ES": "Equivocación",
+      "fr_FR": "Gaffe",
+      "fr_CA": "Gaffe",
+      "it_IT": "Goffaggine",
+      "nl_NL": "Vergissing",
+      "zh_CN": "糟糕！",
+      "zh_TW": "糟了！",
+      "ja_JP": "しまった！",
+      "ko_KR": "아차!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Outraged",
+    "ref": "Aggravation",
+    "localization": {
+      "en_US": "Aggravation",
+      "en_GB": "Aggravation",
+      "de_DE": "Wut",
+      "es_ES": "Cabreo",
+      "fr_FR": "Fureur",
+      "fr_CA": "Fureur",
+      "it_IT": "Rabbia",
+      "nl_NL": "Woede",
+      "zh_CN": "生气",
+      "zh_TW": "生氣",
+      "ja_JP": "ムカッ",
+      "ko_KR": "버럭"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Pardon",
+    "ref": "Bewilderment",
+    "localization": {
+      "en_US": "Bewilderment",
+      "en_GB": "Bewilderment",
+      "de_DE": "Überraschung",
+      "es_ES": "Incredulidad",
+      "fr_FR": "Perplexité",
+      "fr_CA": "Perplexité",
+      "it_IT": "Incredulità",
+      "nl_NL": "Nadruk",
+      "zh_CN": "嗯？",
+      "zh_TW": "嗯？",
+      "ja_JP": "えっ？",
+      "ko_KR": "뭐?"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "QuestionMark",
+    "ref": "Curiosity",
+    "localization": {
+      "en_US": "Curiosity",
+      "en_GB": "Curiosity",
+      "de_DE": "Neugier",
+      "es_ES": "Curiosidad",
+      "fr_FR": "Curiosité",
+      "fr_CA": "Curiosité",
+      "it_IT": "Curiosità",
+      "nl_NL": "Nieuwsgierigheid",
+      "zh_CN": "什么？",
+      "zh_TW": "什麼？",
+      "ja_JP": "はて？",
+      "ko_KR": "응?"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "SadSpiral",
+    "ref": "Sadness",
+    "localization": {
+      "en_US": "Sadness",
+      "en_GB": "Sadness",
+      "de_DE": "Traurigkeit",
+      "es_ES": "Tristeza",
+      "fr_FR": "Déprime",
+      "fr_CA": "Déprime",
+      "it_IT": "Sconforto",
+      "nl_NL": "Verdriet",
+      "zh_CN": "失落",
+      "zh_TW": "失落",
+      "ja_JP": "がっくり",
+      "ko_KR": "실망"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Scheming",
+    "ref": "Mischief",
+    "localization": {
+      "en_US": "Mischief",
+      "en_GB": "Mischief",
+      "de_DE": "Hinterhältigkeit",
+      "es_ES": "Maquinación",
+      "fr_FR": "Malice",
+      "fr_CA": "Malice",
+      "it_IT": "Malizia",
+      "nl_NL": "Kattenkwaad",
+      "zh_CN": "坏笑",
+      "zh_TW": "奸笑",
+      "ja_JP": "わるだくみ",
+      "ko_KR": "꿍꿍이"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Shaki",
+    "ref": "Showmanship",
+    "localization": {
+      "en_US": "Showmanship",
+      "en_GB": "Showmanship",
+      "de_DE": "Angeberei",
+      "es_ES": "Descaro",
+      "fr_FR": "Esbroufe",
+      "fr_CA": "Esbroufe",
+      "it_IT": "Spavalderia",
+      "nl_NL": "Pronken",
+      "zh_CN": "看我的",
+      "zh_TW": "看我的",
+      "ja_JP": "シャキーン",
+      "ko_KR": "짜잔!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Shaking",
+    "ref": "Fearful",
+    "localization": {
+      "en_US": "Fearful",
+      "en_GB": "Fearful",
+      "de_DE": "Angst",
+      "es_ES": "Tembleque",
+      "fr_FR": "Frisson",
+      "fr_CA": "Frisson",
+      "it_IT": "Brivido",
+      "nl_NL": "Angst",
+      "zh_CN": "瑟瑟发抖",
+      "zh_TW": "顫抖",
+      "ja_JP": "ブルブル",
+      "ko_KR": "덜덜덜"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Shocked",
+    "ref": "Amazed",
+    "localization": {
+      "en_US": "Amazed",
+      "en_GB": "Amazed",
+      "de_DE": "Erstaunen",
+      "es_ES": "Fascinación",
+      "fr_FR": "Stupéfaction",
+      "fr_CA": "Stupéfaction",
+      "it_IT": "Stupore",
+      "nl_NL": "Verbazing",
+      "zh_CN": "惊！",
+      "zh_TW": "驚！",
+      "ja_JP": "ハッ！",
+      "ko_KR": "깜짝!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Sighing",
+    "ref": "Sighing",
+    "localization": {
+      "en_US": "Sighing",
+      "en_GB": "Sighing",
+      "de_DE": "Enttäuschung",
+      "es_ES": "Suspiro",
+      "fr_FR": "Soupir",
+      "fr_CA": "Soupir",
+      "it_IT": "Delusione",
+      "nl_NL": "Zuchten",
+      "zh_CN": "叹气",
+      "zh_TW": "嘆氣",
+      "ja_JP": "ためいき",
+      "ko_KR": "한숨"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Silent",
+    "ref": "Intense",
+    "localization": {
+      "en_US": "Intense",
+      "en_GB": "Intense",
+      "de_DE": "Starren",
+      "es_ES": "Impasibilidad",
+      "fr_FR": "Regard intense",
+      "fr_CA": "Regard intense",
+      "it_IT": "Occhiataccia",
+      "nl_NL": "Staren",
+      "zh_CN": "瞪",
+      "zh_TW": "瞪",
+      "ja_JP": "ジロッ",
+      "ko_KR": "조용"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Sleep",
+    "ref": "Dozing",
+    "localization": {
+      "en_US": "Dozing",
+      "en_GB": "Dozing",
+      "de_DE": "Einnicken",
+      "es_ES": "Sueño",
+      "fr_FR": "Somnolence",
+      "fr_CA": "Somnolence",
+      "it_IT": "Sonnolenza",
+      "nl_NL": "Slapen",
+      "zh_CN": "睡着了",
+      "zh_TW": "睡著了",
+      "ja_JP": "すやすや",
+      "ko_KR": "쿨쿨"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Sleepy",
+    "ref": "Sleepy",
+    "localization": {
+      "en_US": "Sleepy",
+      "en_GB": "Sleepy",
+      "de_DE": "Ermüdung",
+      "es_ES": "Bostezo",
+      "fr_FR": "Sommeil",
+      "fr_CA": "Sommeil",
+      "it_IT": "Sonno",
+      "nl_NL": "Gapen",
+      "zh_CN": "打哈欠",
+      "zh_TW": "打呵欠",
+      "ja_JP": "あくび",
+      "ko_KR": "하품"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Smiling",
+    "ref": "Happiness",
+    "localization": {
+      "en_US": "Happiness",
+      "en_GB": "Happiness",
+      "de_DE": "Zufriedenheit",
+      "es_ES": "Sonrisa",
+      "fr_FR": "Sourire",
+      "fr_CA": "Sourire",
+      "it_IT": "Felicità",
+      "nl_NL": "Glimlachen",
+      "zh_CN": "笑眯眯",
+      "zh_TW": "笑瞇瞇",
+      "ja_JP": "ニコニコ",
+      "ko_KR": "싱글벙글"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "SmugFace",
+    "ref": "Pride",
+    "localization": {
+      "en_US": "Pride",
+      "en_GB": "Pride",
+      "de_DE": "Stolz",
+      "es_ES": "Orgullo",
+      "fr_FR": "Fierté",
+      "fr_CA": "Fierté",
+      "it_IT": "Orgoglio",
+      "nl_NL": "Trots",
+      "zh_CN": "得意！",
+      "zh_TW": "得意！",
+      "ja_JP": "ドヤ！",
+      "ko_KR": "잘난체"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Sneezing",
+    "ref": "Sneezing",
+    "localization": {
+      "en_US": "Sneezing",
+      "en_GB": "Sneezing",
+      "de_DE": "Niesen",
+      "es_ES": "Estornudo",
+      "fr_FR": "Éternuement",
+      "fr_CA": "Éternuement",
+      "it_IT": "Starnuto",
+      "nl_NL": "Niezen",
+      "zh_CN": "阿嚏",
+      "zh_TW": "打噴嚏",
+      "ja_JP": "くしゃみ",
+      "ko_KR": "재채기"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Surprised",
+    "ref": "Shocked",
+    "localization": {
+      "en_US": "Shocked",
+      "en_GB": "Shocked",
+      "de_DE": "Schock",
+      "es_ES": "Sorpresa",
+      "fr_FR": "Surprise",
+      "fr_CA": "Surprise",
+      "it_IT": "Shock",
+      "nl_NL": "Verbijstering",
+      "zh_CN": "吓一跳！",
+      "zh_TW": "嚇一跳！",
+      "ja_JP": "ガーン！",
+      "ko_KR": "뜨악!"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Thinking",
+    "ref": "Thought",
+    "localization": {
+      "en_US": "Thought",
+      "en_GB": "Thought",
+      "de_DE": "Denken",
+      "es_ES": "Cavilación",
+      "fr_FR": "Réflexion",
+      "fr_CA": "Réflexion",
+      "it_IT": "Riflessione",
+      "nl_NL": "Nadenken",
+      "zh_CN": "思考",
+      "zh_TW": "思考中",
+      "ja_JP": "うーん",
+      "ko_KR": "고민"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "Worried",
+    "ref": "Worry",
+    "localization": {
+      "en_US": "Worry",
+      "en_GB": "Worry",
+      "de_DE": "Sorge",
+      "es_ES": "Preocupación",
+      "fr_FR": "Tracas",
+      "fr_CA": "Tracas",
+      "it_IT": "Preoccupazione",
+      "nl_NL": "Bezorgdheid",
+      "zh_CN": "烦恼",
+      "zh_TW": "煩惱",
+      "ja_JP": "こまる",
+      "ko_KR": "곤란"
+    }
+  },
+  {
+    "SourceSheet": "Reactions",
+    "id": "WrySmile",
+    "ref": "Sheepishness",
+    "localization": {
+      "en_US": "Sheepishness",
+      "en_GB": "Sheepishness",
+      "de_DE": "Schmunzeln",
+      "es_ES": "Sonrisa pícara",
+      "fr_FR": "Dérision",
+      "fr_CA": "Dérision",
+      "it_IT": "Sarcasmo",
+      "nl_NL": "Spotten",
+      "zh_CN": "苦笑",
+      "zh_TW": "苦笑",
+      "ja_JP": "にがわらい",
+      "ko_KR": "쓴웃음"
+    }
+  }
+]
