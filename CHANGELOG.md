@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.3](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.2...v0.2.3) (2020-04-25)
+
+
+### Docs
+
+* **readme:** add README.md in npm page and add setup instruction ([5f80c63](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/5f80c63c95527b263c97beda4e6d558b90c1e081))
+
 ### [0.2.2](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.1...v0.2.2) (2020-04-25)
 
 
