@@ -2,7 +2,6 @@
   {
     "SourceSheet": "Special NPCs",
     "id": "alp",
-    "Russian": "Сайрус",
     "ref": "Cyrus",
     "localization": {
       "en_US": "Cyrus",
@@ -17,13 +16,13 @@
       "zh_CN": "健兆",
       "zh_TW": "健兆",
       "ja_JP": "カイゾー",
-      "ko_KR": "리포"
+      "ko_KR": "리포",
+      "ru_RU": "Сайрус"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "alw",
-    "Russian": "Риз",
     "ref": "Reese",
     "localization": {
       "en_US": "Reese",
@@ -38,13 +37,13 @@
       "zh_CN": "莉咏",
       "zh_TW": "莉詠",
       "ja_JP": "リサ",
-      "ko_KR": "리사"
+      "ko_KR": "리사",
+      "ru_RU": "Риз"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "bev",
-    "Russian": "Чип",
     "ref": "Chip",
     "localization": {
       "en_US": "Chip",
@@ -59,13 +58,13 @@
       "zh_CN": "俞正",
       "zh_TW": "俞正",
       "ja_JP": "うおまさ",
-      "ko_KR": "뚱달"
+      "ko_KR": "뚱달",
+      "ru_RU": "Чип"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "bey",
-    "Russian": "Си-Дже",
     "ref": "C.J.",
     "localization": {
       "en_US": "C.J.",
@@ -80,13 +79,13 @@
       "zh_CN": "俞司廷",
       "zh_TW": "俞司廷",
       "ja_JP": "ジャスティン",
-      "ko_KR": "저스틴"
+      "ko_KR": "저스틴",
+      "ru_RU": "Си-Дже"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "boa",
-    "Russian": "Джоан",
     "ref": "Joan",
     "localization": {
       "en_US": "Joan",
@@ -101,13 +100,13 @@
       "zh_CN": "曹谷",
       "zh_TW": "曹谷",
       "ja_JP": "カブリバ",
-      "ko_KR": "무파라"
+      "ko_KR": "무파라",
+      "ru_RU": "Джоан"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "boc",
-    "Russian": "Дейзи-Мей",
     "ref": "Daisy Mae",
     "localization": {
       "en_US": "Daisy Mae",
@@ -122,13 +121,13 @@
       "zh_CN": "曹卖",
       "zh_TW": "曹賣",
       "ja_JP": "ウリ",
-      "ko_KR": "무파니"
+      "ko_KR": "무파니",
+      "ru_RU": "Дейзи-Мей"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "bpt",
-    "Russian": "Катрин",
     "ref": "Katrina",
     "localization": {
       "en_US": "Katrina",
@@ -143,13 +142,13 @@
       "zh_CN": "星薇",
       "zh_TW": "星薇",
       "ja_JP": "ハッケミィ",
-      "ko_KR": "마추릴라"
+      "ko_KR": "마추릴라",
+      "ru_RU": "Катрин"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "chm",
-    "Russian": "Нат",
     "ref": "Nat",
     "localization": {
       "en_US": "Nat",
@@ -164,13 +163,13 @@
       "zh_CN": "龙山先生",
       "zh_TW": "龍山先生",
       "ja_JP": "カメヤマさん",
-      "ko_KR": "멜레옹"
+      "ko_KR": "멜레옹",
+      "ru_RU": "Нат"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "chy",
-    "Russian": "Флик",
     "ref": "Flick",
     "localization": {
       "en_US": "Flick",
@@ -185,13 +184,13 @@
       "zh_CN": "龙克斯",
       "zh_TW": "龍克斯",
       "ja_JP": "レックス",
-      "ko_KR": "레온"
+      "ko_KR": "레온",
+      "ru_RU": "Флик"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "cml",
-    "Russian": "Сахар",
     "ref": "Saharah",
     "localization": {
       "en_US": "Saharah",
@@ -206,13 +205,13 @@
       "zh_CN": "骆岚",
       "zh_TW": "駱嵐",
       "ja_JP": "ローラン",
-      "ko_KR": "사하라"
+      "ko_KR": "사하라",
+      "ru_RU": "Сахар"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "dga",
-    "Russian": "Коппер",
     "ref": "Copper",
     "localization": {
       "en_US": "Copper",
@@ -227,13 +226,13 @@
       "zh_CN": "警察叔叔",
       "zh_TW": "警察叔叔",
       "ja_JP": "おまわりさん",
-      "ko_KR": "경찰관"
+      "ko_KR": "경찰관",
+      "ru_RU": "Коппер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "dgb",
-    "Russian": "Букер",
     "ref": "Booker",
     "localization": {
       "en_US": "Booker",
@@ -248,13 +247,13 @@
       "zh_CN": "警察叔叔",
       "zh_TW": "警察叔叔",
       "ja_JP": "おまわりさん",
-      "ko_KR": "경찰관"
+      "ko_KR": "경찰관",
+      "ru_RU": "Букер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "doc",
-    "Russian": "Уилбур",
     "ref": "Wilbur",
     "localization": {
       "en_US": "Wilbur",
@@ -269,13 +268,13 @@
       "zh_CN": "陆德里",
       "zh_TW": "陸德里",
       "ja_JP": "ロドリー",
-      "ko_KR": "로드리"
+      "ko_KR": "로드리",
+      "ru_RU": "Уилбур"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "dod",
-    "Russian": "Орвилл",
     "ref": "Orville",
     "localization": {
       "en_US": "Orville",
@@ -290,13 +289,13 @@
       "zh_CN": "莫里",
       "zh_TW": "莫里",
       "ja_JP": "モーリー",
-      "ko_KR": "모리"
+      "ko_KR": "모리",
+      "ru_RU": "Орвилл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "fox",
-    "Russian": "Рэдд",
     "ref": "Redd",
     "localization": {
       "en_US": "Redd",
@@ -311,13 +310,13 @@
       "zh_CN": "狐利",
       "zh_TW": "狐利",
       "ja_JP": "つねきち",
-      "ko_KR": "여욱"
+      "ko_KR": "여욱",
+      "ru_RU": "Рэдд"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "fsl",
-    "Russian": "Финеас",
     "ref": "Phineas",
     "localization": {
       "en_US": "Phineas",
@@ -332,13 +331,13 @@
       "zh_CN": "博陆恩",
       "zh_TW": "博陸恩",
       "ja_JP": "パロンチーノ",
-      "ko_KR": "파론티노"
+      "ko_KR": "파론티노",
+      "ru_RU": "Финеас"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "grf",
-    "Russian": "Грейси",
     "ref": "Gracie",
     "localization": {
       "en_US": "Gracie",
@@ -353,13 +352,13 @@
       "zh_CN": "葛瑞斯",
       "zh_TW": "葛瑞斯",
       "ja_JP": "グレース",
-      "ko_KR": "그레이스"
+      "ko_KR": "그레이스",
+      "ru_RU": "Грейси"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "gst",
-    "Russian": "Уисп",
     "ref": "Wisp",
     "localization": {
       "en_US": "Wisp",
@@ -374,13 +373,13 @@
       "zh_CN": "幽幽",
       "zh_TW": "幽幽",
       "ja_JP": "ゆうたろう",
-      "ko_KR": "깨빈"
+      "ko_KR": "깨빈",
+      "ru_RU": "Уисп"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "gul",
-    "Russian": "Гулливер",
     "ref": "Gulliver",
     "localization": {
       "en_US": "Gulliver",
@@ -395,13 +394,13 @@
       "zh_CN": "吕游",
       "zh_TW": "呂遊",
       "ja_JP": "ジョニー",
-      "ko_KR": "죠니"
+      "ko_KR": "죠니",
+      "ru_RU": "Гулливер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "hgc",
-    "Russian": "Лэйбл",
     "ref": "Label",
     "localization": {
       "en_US": "Label",
@@ -416,13 +415,13 @@
       "zh_CN": "绵儿",
       "zh_TW": "綿兒",
       "ja_JP": "ことの",
-      "ko_KR": "고숙이"
+      "ko_KR": "고숙이",
+      "ru_RU": "Лэйбл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "hgh",
-    "Russian": "Мэйбл",
     "ref": "Mabel",
     "localization": {
       "en_US": "Mabel",
@@ -437,13 +436,13 @@
       "zh_CN": "绢儿",
       "zh_TW": "絹兒",
       "ja_JP": "きぬよ",
-      "ko_KR": "고순이"
+      "ko_KR": "고순이",
+      "ru_RU": "Мэйбл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "hgs",
-    "Russian": "Сэйбл",
     "ref": "Sable",
     "localization": {
       "en_US": "Sable",
@@ -458,13 +457,13 @@
       "zh_CN": "麻儿",
       "zh_TW": "麻兒",
       "ja_JP": "あさみ",
-      "ko_KR": "고옥이"
+      "ko_KR": "고옥이",
+      "ru_RU": "Сэйбл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kpg",
-    "Russian": "Грэмс",
     "ref": "Grams",
     "localization": {
       "en_US": "Grams",
@@ -479,13 +478,13 @@
       "zh_CN": "阿玉婆婆",
       "zh_TW": "阿玉婆婆",
       "ja_JP": "ゲコ",
-      "ko_KR": "귀녀"
+      "ko_KR": "귀녀",
+      "ru_RU": "Грэмс"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kpm",
-    "Russian": "Лейлани",
     "ref": "Leilani",
     "localization": {
       "en_US": "Leilani",
@@ -500,13 +499,13 @@
       "zh_CN": "沽玉",
       "zh_TW": "沽玉",
       "ja_JP": "クーコ",
-      "ko_KR": "갑순"
+      "ko_KR": "갑순",
+      "ru_RU": "Лейлани"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kpp",
-    "Russian": "Кэпн",
     "ref": "Kapp'n",
     "localization": {
       "en_US": "Kapp'n",
@@ -521,13 +520,13 @@
       "zh_CN": "航平",
       "zh_TW": "航平",
       "ja_JP": "かっぺい",
-      "ko_KR": "갑돌"
+      "ko_KR": "갑돌",
+      "ru_RU": "Кэпн"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kps",
-    "Russian": "Лейл",
     "ref": "Leila",
     "localization": {
       "en_US": "Leila",
@@ -542,13 +541,13 @@
       "zh_CN": "沽沽",
       "zh_TW": "沽沽",
       "ja_JP": "クク",
-      "ko_KR": "꼬미"
+      "ko_KR": "꼬미",
+      "ru_RU": "Лейл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "lom",
-    "Russian": "Кейти",
     "ref": "Katie",
     "localization": {
       "en_US": "Katie",
@@ -563,13 +562,13 @@
       "zh_CN": "咪露",
       "zh_TW": "咪露",
       "ja_JP": "まいこちゃん",
-      "ko_KR": "미야"
+      "ko_KR": "미야",
+      "ru_RU": "Кейти"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mka",
-    "Russian": "Бланк",
     "ref": "Blanca",
     "localization": {
       "en_US": "Blanca",
@@ -584,13 +583,13 @@
       "zh_CN": "无脸猫",
       "zh_TW": "無臉貓",
       "ja_JP": "あやしいネコ",
-      "ko_KR": "아트고양이"
+      "ko_KR": "아트고양이",
+      "ru_RU": "Бланк"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mnk",
-    "Russian": "Портер",
     "ref": "Porter",
     "localization": {
       "en_US": "Porter",
@@ -605,13 +604,13 @@
       "zh_CN": "车长叔叔",
       "zh_TW": "車長叔叔",
       "ja_JP": "えきいんさん",
-      "ko_KR": "역무원"
+      "ko_KR": "역무원",
+      "ru_RU": "Портер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mob",
-    "Russian": "Дон",
     "ref": "Don",
     "localization": {
       "en_US": "Don",
@@ -626,13 +625,13 @@
       "zh_CN": "开关叔叔",
       "zh_TW": "開關叔叔",
       "ja_JP": "ラケットさん",
-      "ko_KR": "오루묵씨"
+      "ko_KR": "오루묵씨",
+      "ru_RU": "Дон"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mol",
-    "Russian": "Ресетти",
     "ref": "Resetti",
     "localization": {
       "en_US": "Resetti",
@@ -647,13 +646,13 @@
       "zh_CN": "电源叔叔",
       "zh_TW": "電源叔叔",
       "ja_JP": "リセットさん",
-      "ko_KR": "도루묵씨"
+      "ko_KR": "도루묵씨",
+      "ru_RU": "Ресетти"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "otg",
-    "Russian": "Лотти",
     "ref": "Lottie",
     "localization": {
       "en_US": "Lottie",
@@ -668,13 +667,13 @@
       "zh_CN": "巧美",
       "zh_TW": "巧美",
       "ja_JP": "タクミ",
-      "ko_KR": "솜이"
+      "ko_KR": "솜이",
+      "ru_RU": "Лотти"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "ott",
-    "Russian": "Лайл",
     "ref": "Lyle",
     "localization": {
       "en_US": "Lyle",
@@ -689,13 +688,13 @@
       "zh_CN": "阿本先生",
       "zh_TW": "阿本先生",
       "ja_JP": "ホンマさん",
-      "ko_KR": "안심해씨"
+      "ko_KR": "안심해씨",
+      "ru_RU": "Лайл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "owl",
-    "Russian": "Блезерс",
     "ref": "Blathers",
     "localization": {
       "en_US": "Blathers",
@@ -710,13 +709,13 @@
       "zh_CN": "傅达",
       "zh_TW": "傅達",
       "ja_JP": "フータ",
-      "ko_KR": "부엉"
+      "ko_KR": "부엉",
+      "ru_RU": "Блезерс"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "ows",
-    "Russian": "Селест",
     "ref": "Celeste",
     "localization": {
       "en_US": "Celeste",
@@ -731,13 +730,13 @@
       "zh_CN": "傅珂",
       "zh_TW": "傅珂",
       "ja_JP": "フーコ",
-      "ko_KR": "부옥"
+      "ko_KR": "부옥",
+      "ru_RU": "Селест"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pck",
-    "Russian": "Паве",
     "ref": "Pavé",
     "localization": {
       "en_US": "Pavé",
@@ -752,13 +751,13 @@
       "zh_CN": "阿欢",
       "zh_TW": "阿歡",
       "ja_JP": "ベルリーナ",
-      "ko_KR": "베르리나"
+      "ko_KR": "베르리나",
+      "ru_RU": "Паве"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pge",
-    "Russian": "Брюстер",
     "ref": "Brewster",
     "localization": {
       "en_US": "Brewster",
@@ -773,13 +772,13 @@
       "zh_CN": "老板",
       "zh_TW": "老闆",
       "ja_JP": "マスター",
-      "ko_KR": "마스터"
+      "ko_KR": "마스터",
+      "ru_RU": "Брюстер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pkn",
-    "Russian": "Джек",
     "ref": "Jack",
     "localization": {
       "en_US": "Jack",
@@ -794,13 +793,13 @@
       "zh_CN": "南瓜王",
       "zh_TW": "南瓜王",
       "ja_JP": "パンプキング",
-      "ko_KR": "펌킹"
+      "ko_KR": "펌킹",
+      "ru_RU": "Джек"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "plk",
-    "Russian": "Пелли",
     "ref": "Pelly",
     "localization": {
       "en_US": "Pelly",
@@ -815,13 +814,13 @@
       "zh_CN": "宋信子",
       "zh_TW": "宋信子",
       "ja_JP": "ぺりこ",
-      "ko_KR": "펠리"
+      "ko_KR": "펠리",
+      "ru_RU": "Пелли"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "plm",
-    "Russian": "Филлис",
     "ref": "Phyllis",
     "localization": {
       "en_US": "Phyllis",
@@ -836,13 +835,13 @@
       "zh_CN": "宋信美",
       "zh_TW": "宋信美",
       "ja_JP": "ぺりみ",
-      "ko_KR": "펠리미"
+      "ko_KR": "펠리미",
+      "ru_RU": "Филлис"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "plo",
-    "Russian": "Пит",
     "ref": "Pete",
     "localization": {
       "en_US": "Pete",
@@ -857,13 +856,13 @@
       "zh_CN": "程信雄",
       "zh_TW": "程信雄",
       "ja_JP": "ぺりお",
-      "ko_KR": "펠리오"
+      "ko_KR": "펠리오",
+      "ru_RU": "Пит"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "poo",
-    "Russian": "Харриет",
     "ref": "Harriet",
     "localization": {
       "en_US": "Harriet",
@@ -878,13 +877,13 @@
       "zh_CN": "刀丽茹",
       "zh_TW": "刀麗茹",
       "ja_JP": "カットリーヌ",
-      "ko_KR": "카트리나"
+      "ko_KR": "카트리나",
+      "ru_RU": "Харриет"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pyn",
-    "Russian": "Зиппер",
     "ref": "Zipper",
     "localization": {
       "en_US": "Zipper",
@@ -899,13 +898,13 @@
       "zh_CN": "蹦蹦",
       "zh_TW": "蹦蹦",
       "ja_JP": "ぴょんたろう",
-      "ko_KR": "토빗"
+      "ko_KR": "토빗",
+      "ru_RU": "Зиппер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rcm",
-    "Russian": "Тимми",
     "ref": "Timmy",
     "localization": {
       "en_US": "Timmy",
@@ -920,13 +919,13 @@
       "zh_CN": "豆狸",
       "zh_TW": "豆狸",
       "ja_JP": "まめきち",
-      "ko_KR": "콩돌이"
+      "ko_KR": "콩돌이",
+      "ru_RU": "Тимми"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rco",
-    "Russian": "Том",
     "ref": "Tom Nook",
     "localization": {
       "en_US": "Tom Nook",
@@ -941,13 +940,13 @@
       "zh_CN": "狸克",
       "zh_TW": "狸克",
       "ja_JP": "たぬきち",
-      "ko_KR": "너굴"
+      "ko_KR": "너굴",
+      "ru_RU": "Том"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rct",
-    "Russian": "Томми",
     "ref": "Tommy",
     "localization": {
       "en_US": "Tommy",
@@ -962,13 +961,13 @@
       "zh_CN": "粒狸",
       "zh_TW": "粒狸",
       "ja_JP": "つぶきち",
-      "ko_KR": "밤돌이"
+      "ko_KR": "밤돌이",
+      "ru_RU": "Томми"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rei",
-    "Russian": "Джингл",
     "ref": "Jingle",
     "localization": {
       "en_US": "Jingle",
@@ -983,13 +982,13 @@
       "zh_CN": "铃铃鹿",
       "zh_TW": "鈴鈴鹿",
       "ja_JP": "ジングル",
-      "ko_KR": "루돌"
+      "ko_KR": "루돌",
+      "ru_RU": "Джингл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "seo",
-    "Russian": "Паскал",
     "ref": "Pascal",
     "localization": {
       "en_US": "Pascal",
@@ -1004,13 +1003,13 @@
       "zh_CN": "阿獭",
       "zh_TW": "阿獺",
       "ja_JP": "ラコスケ",
-      "ko_KR": "해탈한"
+      "ko_KR": "해탈한",
+      "ru_RU": "Паскал"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "skk",
-    "Russian": "Кикс",
     "ref": "Kicks",
     "localization": {
       "en_US": "Kicks",
@@ -1025,13 +1024,13 @@
       "zh_CN": "薛革",
       "zh_TW": "薛革",
       "ja_JP": "シャンク",
-      "ko_KR": "패트릭"
+      "ko_KR": "패트릭",
+      "ru_RU": "Кикс"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "slo",
-    "Russian": "Лейф",
     "ref": "Leif",
     "localization": {
       "en_US": "Leif",
@@ -1046,13 +1045,13 @@
       "zh_CN": "然然",
       "zh_TW": "然然",
       "ja_JP": "レイジ",
-      "ko_KR": "늘봉"
+      "ko_KR": "늘봉",
+      "ru_RU": "Лейф"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "spn",
-    "Russian": "Харви",
     "ref": "Harvey",
     "localization": {
       "en_US": "Harvey",
@@ -1067,13 +1066,13 @@
       "zh_CN": "巴猎",
       "zh_TW": "巴獵",
       "ja_JP": "パニエル",
-      "ko_KR": "파니엘"
+      "ko_KR": "파니엘",
+      "ru_RU": "Харви"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "sza",
-    "Russian": "Изабель",
     "ref": "Isabelle",
     "localization": {
       "en_US": "Isabelle",
@@ -1088,13 +1087,13 @@
       "zh_CN": "西施惠",
       "zh_TW": "西施惠",
       "ja_JP": "しずえ",
-      "ko_KR": "しずえ"
+      "ko_KR": "しずえ",
+      "ru_RU": "Изабель"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "szo",
-    "Russian": "Дигби",
     "ref": "Digby",
     "localization": {
       "en_US": "Digby",
@@ -1109,13 +1108,13 @@
       "zh_CN": "西施德",
       "zh_TW": "西施德",
       "ja_JP": "ケント",
-      "ko_KR": "켄트"
+      "ko_KR": "켄트",
+      "ru_RU": "Дигби"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tap",
-    "Russian": "Лун",
     "ref": "Luna",
     "localization": {
       "en_US": "Luna",
@@ -1130,13 +1129,13 @@
       "zh_CN": "梦美",
       "zh_TW": "夢美",
       "ja_JP": "ゆめみ",
-      "ko_KR": "몽셰르"
+      "ko_KR": "몽셰르",
+      "ru_RU": "Лун"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tkkA",
-    "Russian": "К. К.",
     "ref": "K.K.",
     "localization": {
       "en_US": "K.K.",
@@ -1151,13 +1150,13 @@
       "zh_CN": "K.K.",
       "zh_TW": "K.K.",
       "ja_JP": "とたけけ",
-      "ko_KR": "K.K."
+      "ko_KR": "K.K.",
+      "ru_RU": "К. К."
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tkkB",
-    "Russian": "DJ KK",
     "ref": "DJ KK",
     "localization": {
       "en_US": "DJ KK",
@@ -1172,13 +1171,13 @@
       "zh_CN": "DJ KK",
       "zh_TW": "DJ KK",
       "ja_JP": "DJ K.K",
-      "ko_KR": "DJ K.K."
+      "ko_KR": "DJ K.K.",
+      "ru_RU": "DJ KK"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "ttlA",
-    "Russian": "Тортимер",
     "ref": "Tortimer",
     "localization": {
       "en_US": "Tortimer",
@@ -1193,13 +1192,13 @@
       "zh_CN": "寿伯",
       "zh_TW": "壽伯",
       "ja_JP": "コトブキ",
-      "ko_KR": "고북"
+      "ko_KR": "고북",
+      "ru_RU": "Тортимер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tuk",
-    "Russian": "Франклин",
     "ref": "Franklin",
     "localization": {
       "en_US": "Franklin",
@@ -1214,13 +1213,13 @@
       "zh_CN": "富蓝",
       "zh_TW": "富藍",
       "ja_JP": "フランクリン",
-      "ko_KR": "프랭클린"
+      "ko_KR": "프랭클린",
+      "ru_RU": "Франклин"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "upa",
-    "Russian": "Шранк",
     "ref": "Shrunk",
     "localization": {
       "en_US": "Shrunk",
@@ -1235,13 +1234,13 @@
       "zh_CN": "笑匠",
       "zh_TW": "笑匠",
       "ja_JP": "ししょー",
-      "ko_KR": "스승"
+      "ko_KR": "스승",
+      "ru_RU": "Шранк"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "wrl",
-    "Russian": "Уэнделл",
     "ref": "Wendell",
     "localization": {
       "en_US": "Wendell",
@@ -1256,13 +1255,13 @@
       "zh_CN": "海项",
       "zh_TW": "海項",
       "ja_JP": "セイイチ",
-      "ko_KR": "고파유"
+      "ko_KR": "고파유",
+      "ru_RU": "Уэнделл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "xct",
-    "Russian": "Ровер",
     "ref": "Rover",
     "localization": {
       "en_US": "Rover",
@@ -1277,7 +1276,8 @@
       "zh_CN": "陌陌",
       "zh_TW": "陌陌",
       "ja_JP": "みしらぬネコ",
-      "ko_KR": "낯선고양이"
+      "ko_KR": "낯선고양이",
+      "ru_RU": "Ровер"
     }
   }
 ]

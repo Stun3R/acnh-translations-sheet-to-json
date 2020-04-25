@@ -59883,7 +59883,6 @@
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02448",
-    "Russian": "Товарищ К. К.",
     "ref": "Comrade K.K.",
     "localization": {
       "en_US": "Comrade K.K.",
@@ -59898,13 +59897,13 @@
       "zh_CN": "昭和K.K.歌谣",
       "zh_TW": "昭和K.K.歌謠",
       "ja_JP": "しょうわけけかよう",
-      "ko_KR": "추억의 K.K.가요"
+      "ko_KR": "추억의 K.K.가요",
+      "ru_RU": "Товарищ К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02454",
-    "Russian": "Кафе К. К.",
     "ref": "Café K.K.",
     "localization": {
       "en_US": "Café K.K.",
@@ -59919,13 +59918,13 @@
       "zh_CN": "K.K.巴黎",
       "zh_TW": "K.K.巴黎",
       "ja_JP": "けけパリ",
-      "ko_KR": "K.K.파리"
+      "ko_KR": "K.K.파리",
+      "ru_RU": "Кафе К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02460",
-    "Russian": "Мой дом",
     "ref": "My Place",
     "localization": {
       "en_US": "My Place",
@@ -59940,13 +59939,13 @@
       "zh_CN": "我的归所",
       "zh_TW": "我的歸所",
       "ja_JP": "ぼくのばしょ",
-      "ko_KR": "내가 있는 곳"
+      "ko_KR": "내가 있는 곳",
+      "ru_RU": "Мой дом"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04313",
-    "Russian": "Прощани",
     "ref": "Farewell",
     "localization": {
       "en_US": "Farewell",
@@ -59961,13 +59960,13 @@
       "zh_CN": "再会",
       "zh_TW": "再會",
       "ja_JP": "さよなら",
-      "ko_KR": "작별"
+      "ko_KR": "작별",
+      "ru_RU": "Прощани"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02449",
-    "Russian": "Жалобная песнь К. К.",
     "ref": "K.K. Lament",
     "localization": {
       "en_US": "K.K. Lament",
@@ -59982,13 +59981,13 @@
       "zh_CN": "K.K.演歌",
       "zh_TW": "K.K.演歌",
       "ja_JP": "けけえんか",
-      "ko_KR": "K.K.트로트"
+      "ko_KR": "K.K.트로트",
+      "ru_RU": "Жалобная песнь К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02455",
-    "Russian": "Парад К. К.",
     "ref": "K.K. Parade",
     "localization": {
       "en_US": "K.K. Parade",
@@ -60003,13 +60002,13 @@
       "zh_CN": "K.K.嘉年华",
       "zh_TW": "K.K.嘉年華",
       "ja_JP": "けけパレード",
-      "ko_KR": "K.K.퍼레이드"
+      "ko_KR": "K.K.퍼레이드",
+      "ru_RU": "Парад К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02461",
-    "Russian": "Лесная жизнь",
     "ref": "Forest Life",
     "localization": {
       "en_US": "Forest Life",
@@ -60024,13 +60023,13 @@
       "zh_CN": "森林生活",
       "zh_TW": "森林生活",
       "ja_JP": "もりのせいかつ",
-      "ko_KR": "숲 속 생활"
+      "ko_KR": "숲 속 생활",
+      "ru_RU": "Лесная жизнь"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04314",
-    "Russian": "За рулем",
     "ref": "Drivin'",
     "localization": {
       "en_US": "Drivin'",
@@ -60045,13 +60044,13 @@
       "zh_CN": "兜风",
       "zh_TW": "兜風",
       "ja_JP": "ドライブ",
-      "ko_KR": "드라이브"
+      "ko_KR": "드라이브",
+      "ru_RU": "За рулем"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02456",
-    "Russian": "Марьячи К. К.",
     "ref": "K.K. Mariachi",
     "localization": {
       "en_US": "K.K. Mariachi",
@@ -60066,13 +60065,13 @@
       "zh_CN": "墨西哥绅士K.K.",
       "zh_TW": "墨西哥紳士K.K.",
       "ja_JP": "セニョールけけ",
-      "ko_KR": "세뇨르K.K."
+      "ko_KR": "세뇨르K.K.",
+      "ru_RU": "Марьячи К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02462",
-    "Russian": "На краю",
     "ref": "To the Edge",
     "localization": {
       "en_US": "To the Edge",
@@ -60087,13 +60086,13 @@
       "zh_CN": "漫弥",
       "zh_TW": "漫瀰",
       "ja_JP": "ナミナミ",
-      "ko_KR": "파도소리"
+      "ko_KR": "파도소리",
+      "ru_RU": "На краю"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02457",
-    "Russian": "Песнь К. К.",
     "ref": "K.K. Song",
     "localization": {
       "en_US": "K.K. Song",
@@ -60108,13 +60107,13 @@
       "zh_CN": "K.K.乐曲",
       "zh_TW": "K.K.樂曲",
       "ja_JP": "けけソング",
-      "ko_KR": "K.K.의 노래"
+      "ko_KR": "K.K.의 노래",
+      "ru_RU": "Песнь К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02463",
-    "Russian": "Размышления",
     "ref": "Pondering",
     "localization": {
       "en_US": "Pondering",
@@ -60129,13 +60128,13 @@
       "zh_CN": "思考中",
       "zh_TW": "思考中",
       "ja_JP": "かんがえちゅう",
-      "ko_KR": "생각 중"
+      "ko_KR": "생각 중",
+      "ru_RU": "Размышления"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02458",
-    "Russian": "Я вас люблю",
     "ref": "I Love You",
     "localization": {
       "en_US": "I Love You",
@@ -60150,13 +60149,13 @@
       "zh_CN": "我爱你",
       "zh_TW": "我愛你",
       "ja_JP": "だいすき",
-      "ko_KR": "사랑해"
+      "ko_KR": "사랑해",
+      "ru_RU": "Я вас люблю"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02464",
-    "Russian": "Дикси К. К.",
     "ref": "K.K. Dixie",
     "localization": {
       "en_US": "K.K. Dixie",
@@ -60171,13 +60170,13 @@
       "zh_CN": "K.K.迪克西",
       "zh_TW": "K.K.迪克西",
       "ja_JP": "けけディキシー",
-      "ko_KR": "K.K.딕시"
+      "ko_KR": "K.K.딕시",
+      "ru_RU": "Дикси К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02470",
-    "Russian": "Крутой холм",
     "ref": "Steep Hill",
     "localization": {
       "en_US": "Steep Hill",
@@ -60192,13 +60191,13 @@
       "zh_CN": "二段斜坡",
       "zh_TW": "二段斜坡",
       "ja_JP": "にだんざか",
-      "ko_KR": "오르막길"
+      "ko_KR": "오르막길",
+      "ru_RU": "Крутой холм"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02459",
-    "Russian": "Два дня назад",
     "ref": "Two Days Ago",
     "localization": {
       "en_US": "Two Days Ago",
@@ -60213,13 +60212,13 @@
       "zh_CN": "前天",
       "zh_TW": "前天",
       "ja_JP": "おととい",
-      "ko_KR": "이틀 전"
+      "ko_KR": "이틀 전",
+      "ru_RU": "Два дня назад"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02465",
-    "Russian": "Марафон К. К.",
     "ref": "K.K. Marathon",
     "localization": {
       "en_US": "K.K. Marathon",
@@ -60234,13 +60233,13 @@
       "zh_CN": "K.K.甘美朗",
       "zh_TW": "K.K.甘美朗",
       "ja_JP": "けけガムラン",
-      "ko_KR": "K.K.가믈란"
+      "ko_KR": "K.K.가믈란",
+      "ru_RU": "Марафон К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02471",
-    "Russian": "Рокабилли К. К.",
     "ref": "K.K. Rockabilly",
     "localization": {
       "en_US": "K.K. Rockabilly",
@@ -60255,13 +60254,13 @@
       "zh_CN": "K.K.乡村摇滚",
       "zh_TW": "K.K.鄉村搖滾",
       "ja_JP": "けけビリー",
-      "ko_KR": "K.K.빌리"
+      "ko_KR": "K.K.빌리",
+      "ru_RU": "Рокабилли К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04318",
-    "Russian": "Светлые горизонты",
     "ref": "Welcome Horizons",
     "localization": {
       "en_US": "Welcome Horizons",
@@ -60276,13 +60275,13 @@
       "zh_CN": "大家集合吧",
       "zh_TW": "大家集合吧",
       "ja_JP": "みんなあつまれ",
-      "ko_KR": "모두 모여봐요"
+      "ko_KR": "모두 모여봐요",
+      "ru_RU": "Светлые горизонты"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02466",
-    "Russian": "Король К. К.",
     "ref": "King K.K.",
     "localization": {
       "en_US": "King K.K.",
@@ -60297,13 +60296,13 @@
       "zh_CN": "K.K.领主",
       "zh_TW": "K.K.領主",
       "ja_JP": "けけだいみょう",
-      "ko_KR": "K.K.왕조"
+      "ko_KR": "K.K.왕조",
+      "ru_RU": "Король К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02472",
-    "Russian": "Агент К. К.",
     "ref": "Agent K.K.",
     "localization": {
       "en_US": "Agent K.K.",
@@ -60318,13 +60317,13 @@
       "zh_CN": "K.K.刑警",
       "zh_TW": "K.K.刑警",
       "ja_JP": "けけけいじ",
-      "ko_KR": "K.K.형사"
+      "ko_KR": "K.K.형사",
+      "ru_RU": "Агент К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02467",
-    "Russian": "Горная песнь",
     "ref": "Mountain Song",
     "localization": {
       "en_US": "Mountain Song",
@@ -60339,13 +60338,13 @@
       "zh_CN": "阿尔卑斯山乐曲",
       "zh_TW": "阿爾卑斯山樂曲",
       "ja_JP": "アルペンそんぐ",
-      "ko_KR": "알프스의 노래"
+      "ko_KR": "알프스의 노래",
+      "ru_RU": "Горная песнь"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02473",
-    "Russian": "Ралли К. К.",
     "ref": "K.K. Rally",
     "localization": {
       "en_US": "K.K. Rally",
@@ -60360,13 +60359,13 @@
       "zh_CN": "K.K.大和祭典",
       "zh_TW": "K.K.大和祭典",
       "ja_JP": "けけおんど",
-      "ko_KR": "K.K.축제"
+      "ko_KR": "K.K.축제",
+      "ru_RU": "Ралли К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02468",
-    "Russian": "Песня о море 2001",
     "ref": "Marine Song 2001",
     "localization": {
       "en_US": "Marine Song 2001",
@@ -60381,13 +60380,13 @@
       "zh_CN": "船歌2001",
       "zh_TW": "船歌2001",
       "ja_JP": "ふなうた2001",
-      "ko_KR": "뱃노래2001"
+      "ko_KR": "뱃노래2001",
+      "ru_RU": "Песня о море 2001"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02474",
-    "Russian": "Металл К. К.",
     "ref": "K.K. Metal",
     "localization": {
       "en_US": "K.K. Metal",
@@ -60402,13 +60401,13 @@
       "zh_CN": "K.K.金属摇滚",
       "zh_TW": "K.K.金屬搖滾",
       "ja_JP": "けけメタル",
-      "ko_KR": "K.K.메탈"
+      "ko_KR": "K.K.메탈",
+      "ru_RU": "Металл К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02480",
-    "Russian": "Гипноз К. К.",
     "ref": "Hypno K.K.",
     "localization": {
       "en_US": "Hypno K.K.",
@@ -60423,13 +60422,13 @@
       "zh_CN": "白日梦",
       "zh_TW": "白日夢",
       "ja_JP": "うたたねのゆめ",
-      "ko_KR": "졸면서 꾸는 꿈"
+      "ko_KR": "졸면서 꾸는 꿈",
+      "ru_RU": "Гипноз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02469",
-    "Russian": "Неаполитанское",
     "ref": "Neapolitan",
     "localization": {
       "en_US": "Neapolitan",
@@ -60444,13 +60443,13 @@
       "zh_CN": "意大利面",
       "zh_TW": "義大利麵",
       "ja_JP": "ナポリタン",
-      "ko_KR": "토마토 스파게티"
+      "ko_KR": "토마토 스파게티",
+      "ru_RU": "Неаполитанское"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02475",
-    "Russian": "Черствые капкейки",
     "ref": "Stale Cupcakes",
     "localization": {
       "en_US": "Stale Cupcakes",
@@ -60465,13 +60464,13 @@
       "zh_CN": "蓝色饭团",
       "zh_TW": "藍色飯糰",
       "ja_JP": "ブルーおにぎり",
-      "ko_KR": "블루 삼각 김밥"
+      "ko_KR": "블루 삼각 김밥",
+      "ru_RU": "Черствые капкейки"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02481",
-    "Russian": "Прогулка К. К.",
     "ref": "K.K. Stroll",
     "localization": {
       "en_US": "K.K. Stroll",
@@ -60486,13 +60485,13 @@
       "zh_CN": "散散步",
       "zh_TW": "散散步",
       "ja_JP": "おさんぽ",
-      "ko_KR": "산책"
+      "ko_KR": "산책",
+      "ru_RU": "Прогулка К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02476",
-    "Russian": "Весенний цвету",
     "ref": "Spring Blossoms",
     "localization": {
       "en_US": "Spring Blossoms",
@@ -60507,13 +60506,13 @@
       "zh_CN": "春暖花开",
       "zh_TW": "春暖花開",
       "ja_JP": "はるのこもれび",
-      "ko_KR": "봄날의 여유"
+      "ko_KR": "봄날의 여유",
+      "ru_RU": "Весенний цвету"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02482",
-    "Russian": "Остров К. К.",
     "ref": "K.K. Island",
     "localization": {
       "en_US": "K.K. Island",
@@ -60528,13 +60527,13 @@
       "zh_CN": "动物岛",
       "zh_TW": "動物島",
       "ja_JP": "どうぶつのしま",
-      "ko_KR": "동물의 섬"
+      "ko_KR": "동물의 섬",
+      "ru_RU": "Остров К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02477",
-    "Russian": "Поход",
     "ref": "Wandering",
     "localization": {
       "en_US": "Wandering",
@@ -60549,13 +60548,13 @@
       "zh_CN": "流浪",
       "zh_TW": "流浪",
       "ja_JP": "ほうろう",
-      "ko_KR": "방랑자"
+      "ko_KR": "방랑자",
+      "ru_RU": "Поход"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02483",
-    "Russian": "Космос К. К.",
     "ref": "Space K.K.",
     "localization": {
       "en_US": "Space K.K.",
@@ -60570,13 +60569,13 @@
       "zh_CN": "极简音乐",
       "zh_TW": "極簡音樂",
       "ja_JP": "ミニマルおんがく",
-      "ko_KR": "미니멀 음악"
+      "ko_KR": "미니멀 음악",
+      "ru_RU": "Космос К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02478",
-    "Russian": "Хаус К. К.",
     "ref": "K.K. House",
     "localization": {
       "en_US": "K.K. House",
@@ -60591,13 +60590,13 @@
       "zh_CN": "K.K.浩室",
       "zh_TW": "K.K.浩室",
       "ja_JP": "けけハウス",
-      "ko_KR": "K.K.하우스"
+      "ko_KR": "K.K.하우스",
+      "ru_RU": "Хаус К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02484",
-    "Russian": "Приключения К. К.",
     "ref": "K.K. Adventure",
     "localization": {
       "en_US": "K.K. Adventure",
@@ -60612,13 +60611,13 @@
       "zh_CN": "K.K.好莱坞",
       "zh_TW": "K.K.好萊塢",
       "ja_JP": "けけハリウッド",
-      "ko_KR": "K.K.할리우드"
+      "ko_KR": "K.K.할리우드",
+      "ru_RU": "Приключения К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02490",
-    "Russian": "Фламенко К. К.",
     "ref": "K.K. Flamenco",
     "localization": {
       "en_US": "K.K. Flamenco",
@@ -60633,13 +60632,13 @@
       "zh_CN": "K.K.佛朗明哥",
       "zh_TW": "K.K.佛朗明哥",
       "ja_JP": "けけフラメンコ",
-      "ko_KR": "K.K.플라멩코"
+      "ko_KR": "K.K.플라멩코",
+      "ru_RU": "Фламенко К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02479",
-    "Russian": "Соната К. К.",
     "ref": "K.K. Sonata",
     "localization": {
       "en_US": "K.K. Sonata",
@@ -60654,13 +60653,13 @@
       "zh_CN": "K.K.奏鸣曲",
       "zh_TW": "K.K.奏鳴曲",
       "ja_JP": "けけのソナタ",
-      "ko_KR": "K.K.소나타"
+      "ko_KR": "K.K.소나타",
+      "ru_RU": "Соната К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02485",
-    "Russian": "Оазис К. К.",
     "ref": "K.K. Oasis",
     "localization": {
       "en_US": "K.K. Oasis",
@@ -60675,13 +60674,13 @@
       "zh_CN": "K.K.印度王公",
       "zh_TW": "K.K.印度王公",
       "ja_JP": "けけマハラジャ",
-      "ko_KR": "K.K.마하라자"
+      "ko_KR": "K.K.마하라자",
+      "ru_RU": "Оазис К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02491",
-    "Russian": "Задумчивый К. К.",
     "ref": "K.K. Moody",
     "localization": {
       "en_US": "K.K. Moody",
@@ -60696,13 +60695,13 @@
       "zh_CN": "K.K.波蕾洛",
       "zh_TW": "K.K.波蕾洛",
       "ja_JP": "けけボレロ",
-      "ko_KR": "K.K.볼레로"
+      "ko_KR": "K.K.볼레로",
+      "ru_RU": "Задумчивый К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02486",
-    "Russian": "Базар К. К.",
     "ref": "K.K. Bazaar",
     "localization": {
       "en_US": "K.K. Bazaar",
@@ -60717,13 +60716,13 @@
       "zh_CN": "K.K.吉普赛",
       "zh_TW": "K.K.吉普賽",
       "ja_JP": "けけロマ",
-      "ko_KR": "K.K.로마"
+      "ko_KR": "K.K.로마",
+      "ru_RU": "Базар К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02492",
-    "Russian": "Бабблгам-поп К. К.",
     "ref": "Bubblegum K.K.",
     "localization": {
       "en_US": "Bubblegum K.K.",
@@ -60738,13 +60737,13 @@
       "zh_CN": "K.K.偶像",
       "zh_TW": "K.K.偶像",
       "ja_JP": "けけアイドル",
-      "ko_KR": "K.K.아이돌"
+      "ko_KR": "K.K.아이돌",
+      "ru_RU": "Бабблгам-поп К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02487",
-    "Russian": "Милонга К. К.",
     "ref": "K.K. Milonga",
     "localization": {
       "en_US": "K.K. Milonga",
@@ -60759,13 +60758,13 @@
       "zh_CN": "K.K.米隆加",
       "zh_TW": "K.K.米隆加",
       "ja_JP": "けけのミロンガ",
-      "ko_KR": "K.K.밀롱가"
+      "ko_KR": "K.K.밀롱가",
+      "ru_RU": "Милонга К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02493",
-    "Russian": "Синти-поп К. К.",
     "ref": "K.K. Synth",
     "localization": {
       "en_US": "K.K. Synth",
@@ -60780,13 +60779,13 @@
       "zh_CN": "K.K.电子民谣",
       "zh_TW": "K.K.電子民謠",
       "ja_JP": "けけトロニカ",
-      "ko_KR": "K.K.트로니카"
+      "ko_KR": "K.K.트로니카",
+      "ru_RU": "Синти-поп К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02488",
-    "Russian": "Грув К. К.",
     "ref": "K.K. Groove",
     "localization": {
       "en_US": "K.K. Groove",
@@ -60801,13 +60800,13 @@
       "zh_CN": "K.K.律动",
       "zh_TW": "K.K.律動",
       "ja_JP": "けけグルーヴ",
-      "ko_KR": "K.K.그루브"
+      "ko_KR": "K.K.그루브",
+      "ru_RU": "Грув К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02494",
-    "Russian": "Диско К. К.",
     "ref": "K.K. Disco",
     "localization": {
       "en_US": "K.K. Disco",
@@ -60822,13 +60821,13 @@
       "zh_CN": "K.K.迪斯科",
       "zh_TW": "K.K.迪斯可",
       "ja_JP": "けけディスコ",
-      "ko_KR": "K.K.디스코"
+      "ko_KR": "K.K.디스코",
+      "ru_RU": "Диско К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02489",
-    "Russian": "Джонгара К. К.",
     "ref": "K.K. Jongara",
     "localization": {
       "en_US": "K.K. Jongara",
@@ -60843,13 +60842,13 @@
       "zh_CN": "K.K.三味线",
       "zh_TW": "K.K.三味線",
       "ja_JP": "けけじょんがら",
-      "ko_KR": "K.K.샤미센 연주곡"
+      "ko_KR": "K.K.샤미센 연주곡",
+      "ru_RU": "Джонгара К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02495",
-    "Russian": "День рождения К. К.",
     "ref": "K.K. Birthday",
     "localization": {
       "en_US": "K.K. Birthday",
@@ -60864,13 +60863,13 @@
       "zh_CN": "你的生日",
       "zh_TW": "你的生日",
       "ja_JP": "きみのたんじょうび",
-      "ko_KR": "그대의 생일"
+      "ko_KR": "그대의 생일",
+      "ru_RU": "День рождения К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "MusicMiss_04315",
-    "Russian": "はずれ01",
     "ref": "はずれ01",
     "localization": {
       "en_US": "はずれ01",
@@ -60885,13 +60884,13 @@
       "zh_CN": "はずれ01",
       "zh_TW": "はずれ01",
       "ja_JP": "はずれ01",
-      "ko_KR": "はずれ01"
+      "ko_KR": "はずれ01",
+      "ru_RU": "はずれ01"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "MusicMiss_04316",
-    "Russian": "はずれ02",
     "ref": "はずれ02",
     "localization": {
       "en_US": "はずれ02",
@@ -60906,13 +60905,13 @@
       "zh_CN": "はずれ02",
       "zh_TW": "はずれ02",
       "ja_JP": "はずれ02",
-      "ko_KR": "はずれ02"
+      "ko_KR": "はずれ02",
+      "ru_RU": "はずれ02"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "MusicMiss_04317",
-    "Russian": "はずれ03",
     "ref": "はずれ03",
     "localization": {
       "en_US": "はずれ03",
@@ -60927,13 +60926,13 @@
       "zh_CN": "はずれ03",
       "zh_TW": "はずれ03",
       "ja_JP": "はずれ03",
-      "ko_KR": "はずれ03"
+      "ko_KR": "はずれ03",
+      "ru_RU": "はずれ03"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02410",
-    "Russian": "Фьюжен К. К.",
     "ref": "K.K. Fusion",
     "localization": {
       "en_US": "K.K. Fusion",
@@ -60948,13 +60947,13 @@
       "zh_CN": "K.K.融合爵士乐",
       "zh_TW": "K.K.融合爵士樂",
       "ja_JP": "けけフュージョン",
-      "ko_KR": "K.K.퓨전"
+      "ko_KR": "K.K.퓨전",
+      "ru_RU": "Фьюжен К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02405",
-    "Russian": "Хорал К. К.",
     "ref": "K.K. Chorale",
     "localization": {
       "en_US": "K.K. Chorale",
@@ -60969,13 +60968,13 @@
       "zh_CN": "K.K.赞美诗歌",
       "zh_TW": "K.K.讚美詩歌",
       "ja_JP": "けけさんびか",
-      "ko_KR": "K.K.찬송가"
+      "ko_KR": "K.K.찬송가",
+      "ru_RU": "Хорал К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02411",
-    "Russian": "Этюд К. К.",
     "ref": "K.K. Étude",
     "localization": {
       "en_US": "K.K. Étude",
@@ -60990,13 +60989,13 @@
       "zh_CN": "K.K.练习曲",
       "zh_TW": "K.K.練習曲",
       "ja_JP": "けけのエチュード",
-      "ko_KR": "K.K.에튀드"
+      "ko_KR": "K.K.에튀드",
+      "ru_RU": "Этюд К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02406",
-    "Russian": "Марш К. К.",
     "ref": "K.K. March",
     "localization": {
       "en_US": "K.K. March",
@@ -61011,13 +61010,13 @@
       "zh_CN": "K.K.进行曲",
       "zh_TW": "K.K.進行曲",
       "ja_JP": "けけマーチ",
-      "ko_KR": "K.K.행진곡"
+      "ko_KR": "K.K.행진곡",
+      "ru_RU": "Марш К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02412",
-    "Russian": "Колыбельная К. К.",
     "ref": "K.K. Lullaby",
     "localization": {
       "en_US": "K.K. Lullaby",
@@ -61032,13 +61031,13 @@
       "zh_CN": "K.K.摇篮曲",
       "zh_TW": "K.K.搖籃曲",
       "ja_JP": "けけララバイ",
-      "ko_KR": "K.K.자장가"
+      "ko_KR": "K.K.자장가",
+      "ru_RU": "Колыбельная К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02407",
-    "Russian": "Вальс К. К.",
     "ref": "K.K. Waltz",
     "localization": {
       "en_US": "K.K. Waltz",
@@ -61053,13 +61052,13 @@
       "zh_CN": "K.K.圆舞曲",
       "zh_TW": "K.K.圓舞曲",
       "ja_JP": "けけワルツ",
-      "ko_KR": "K.K.왈츠"
+      "ko_KR": "K.K.왈츠",
+      "ru_RU": "Вальс К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02413",
-    "Russian": "Ария К. К.",
     "ref": "K.K. Aria",
     "localization": {
       "en_US": "K.K. Aria",
@@ -61074,13 +61073,13 @@
       "zh_CN": "K.K.咏叹调",
       "zh_TW": "K.K.詠嘆調",
       "ja_JP": "けけマリア",
-      "ko_KR": "K.K.마리아"
+      "ko_KR": "K.K.마리아",
+      "ru_RU": "Ария К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02408",
-    "Russian": "Свинг К. К.",
     "ref": "K.K. Swing",
     "localization": {
       "en_US": "K.K. Swing",
@@ -61095,13 +61094,13 @@
       "zh_CN": "K.K.摇摆乐",
       "zh_TW": "K.K.搖擺樂",
       "ja_JP": "けけスウィング",
-      "ko_KR": "K.K.스윙"
+      "ko_KR": "K.K.스윙",
+      "ru_RU": "Свинг К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02414",
-    "Russian": "Самба К. К.",
     "ref": "K.K. Samba",
     "localization": {
       "en_US": "K.K. Samba",
@@ -61116,13 +61115,13 @@
       "zh_CN": "K.K.桑巴",
       "zh_TW": "K.K.森巴",
       "ja_JP": "けけサンバ",
-      "ko_KR": "K.K.삼바"
+      "ko_KR": "K.K.삼바",
+      "ru_RU": "Самба К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02420",
-    "Russian": "Ска К. К.",
     "ref": "K.K. Ska",
     "localization": {
       "en_US": "K.K. Ska",
@@ -61137,13 +61136,13 @@
       "zh_CN": "K.K.斯卡",
       "zh_TW": "K.K.斯卡",
       "ja_JP": "けけスカ",
-      "ko_KR": "K.K.스카"
+      "ko_KR": "K.K.스카",
+      "ru_RU": "Ска К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02409",
-    "Russian": "Джаз К. К.",
     "ref": "K.K. Jazz",
     "localization": {
       "en_US": "K.K. Jazz",
@@ -61158,13 +61157,13 @@
       "zh_CN": "K.K.爵士乐",
       "zh_TW": "K.K.爵士樂",
       "ja_JP": "けけジャズ",
-      "ko_KR": "K.K.재즈"
+      "ko_KR": "K.K.재즈",
+      "ru_RU": "Джаз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02415",
-    "Russian": "Босанова К. К.",
     "ref": "K.K. Bossa",
     "localization": {
       "en_US": "K.K. Bossa",
@@ -61179,13 +61178,13 @@
       "zh_CN": "K.K.巴萨诺瓦",
       "zh_TW": "K.K.巴薩諾瓦",
       "ja_JP": "けけボッサ",
-      "ko_KR": "K.K.보사노바"
+      "ko_KR": "K.K.보사노바",
+      "ru_RU": "Босанова К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02421",
-    "Russian": "Танго К. К.",
     "ref": "K.K. Tango",
     "localization": {
       "en_US": "K.K. Tango",
@@ -61200,13 +61199,13 @@
       "zh_CN": "K.K.探戈",
       "zh_TW": "K.K.探戈",
       "ja_JP": "けけタンゴ",
-      "ko_KR": "K.K.탱고"
+      "ko_KR": "K.K.탱고",
+      "ru_RU": "Танго К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02416",
-    "Russian": "Калипсо К. К.",
     "ref": "K.K. Calypso",
     "localization": {
       "en_US": "K.K. Calypso",
@@ -61221,13 +61220,13 @@
       "zh_CN": "K.K.卡利普索",
       "zh_TW": "K.K.卡利普索",
       "ja_JP": "けけカリプソ",
-      "ko_KR": "K.K.칼립소"
+      "ko_KR": "K.K.칼립소",
+      "ru_RU": "Калипсо К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02422",
-    "Russian": "Ярмарка К. К.",
     "ref": "K.K. Faire",
     "localization": {
       "en_US": "K.K. Faire",
@@ -61242,13 +61241,13 @@
       "zh_CN": "冲绳K.K.",
       "zh_TW": "沖繩K.K.",
       "ja_JP": "ハイサイけけ",
-      "ko_KR": "혼저옵서예K.K."
+      "ko_KR": "혼저옵서예K.K.",
+      "ru_RU": "Ярмарка К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02417",
-    "Russian": "Сальса К. К.",
     "ref": "K.K. Salsa",
     "localization": {
       "en_US": "K.K. Salsa",
@@ -61263,13 +61262,13 @@
       "zh_CN": "K.K.萨尔萨",
       "zh_TW": "K.K.騷莎",
       "ja_JP": "けけサルサ",
-      "ko_KR": "K.K.살사"
+      "ko_KR": "K.K.살사",
+      "ru_RU": "Сальса К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02423",
-    "Russian": "Алоха К. К.",
     "ref": "Aloha K.K.",
     "localization": {
       "en_US": "Aloha K.K.",
@@ -61284,13 +61283,13 @@
       "zh_CN": "夏威夷K.K.",
       "zh_TW": "夏威夷K.K.",
       "ja_JP": "アロハけけ",
-      "ko_KR": "알로하K.K."
+      "ko_KR": "알로하K.K.",
+      "ru_RU": "Алоха К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02418",
-    "Russian": "Мамбо К. К.",
     "ref": "K.K. Mambo",
     "localization": {
       "en_US": "K.K. Mambo",
@@ -61305,13 +61304,13 @@
       "zh_CN": "K.K.曼波",
       "zh_TW": "K.K.曼波",
       "ja_JP": "けけマンボ",
-      "ko_KR": "K.K.맘보"
+      "ko_KR": "K.K.맘보",
+      "ru_RU": "Мамбо К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02424",
-    "Russian": "Счастливчик К. К.",
     "ref": "Lucky K.K.",
     "localization": {
       "en_US": "Lucky K.K.",
@@ -61326,13 +61325,13 @@
       "zh_CN": "爱尔兰乐曲",
       "zh_TW": "愛爾蘭樂曲",
       "ja_JP": "アイリッシュそんぐ",
-      "ko_KR": "아일랜드의 노래"
+      "ko_KR": "아일랜드의 노래",
+      "ru_RU": "Счастливчик К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02430",
-    "Russian": "Фолк К. К.",
     "ref": "K.K. Folk",
     "localization": {
       "en_US": "K.K. Folk",
@@ -61347,13 +61346,13 @@
       "zh_CN": "K.K.民谣",
       "zh_TW": "K.K.民謠",
       "ja_JP": "けけみんよう",
-      "ko_KR": "K.K.민요"
+      "ko_KR": "K.K.민요",
+      "ru_RU": "Фолк К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02419",
-    "Russian": "Регги К. К.",
     "ref": "K.K. Reggae",
     "localization": {
       "en_US": "K.K. Reggae",
@@ -61368,13 +61367,13 @@
       "zh_CN": "K.K.雷鬼",
       "zh_TW": "K.K.雷鬼",
       "ja_JP": "けけレゲエ",
-      "ko_KR": "K.K.레게"
+      "ko_KR": "K.K.레게",
+      "ru_RU": "Регги К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02425",
-    "Russian": "Кондор К. К.",
     "ref": "K.K. Condor",
     "localization": {
       "en_US": "K.K. Condor",
@@ -61389,13 +61388,13 @@
       "zh_CN": "秘鲁之歌",
       "zh_TW": "秘魯之歌",
       "ja_JP": "ペルーのうた",
-      "ko_KR": "페루의 노래"
+      "ko_KR": "페루의 노래",
+      "ru_RU": "Кондор К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02431",
-    "Russian": "Рок К. К.",
     "ref": "K.K. Rock",
     "localization": {
       "en_US": "K.K. Rock",
@@ -61410,13 +61409,13 @@
       "zh_CN": "K.K.摇滚",
       "zh_TW": "K.K.搖滾",
       "ja_JP": "けけロック",
-      "ko_KR": "K.K.록"
+      "ko_KR": "K.K.록",
+      "ru_RU": "Рок К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02426",
-    "Russian": "Степь К. К.",
     "ref": "K.K. Steppe",
     "localization": {
       "en_US": "K.K. Steppe",
@@ -61431,13 +61430,13 @@
       "zh_CN": "哥萨克乐曲",
       "zh_TW": "哥薩克樂曲",
       "ja_JP": "コサックそんぐ",
-      "ko_KR": "까자크의 노래"
+      "ko_KR": "까자크의 노래",
+      "ru_RU": "Степь К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02432",
-    "Russian": "К. К. в ударе",
     "ref": "Rockin' K.K.",
     "localization": {
       "en_US": "Rockin' K.K.",
@@ -61452,13 +61451,13 @@
       "zh_CN": "K.K.50年代摇滚",
       "zh_TW": "K.K.50年代搖滾",
       "ja_JP": "けけのロケンロール",
-      "ko_KR": "K.K.로큰롤"
+      "ko_KR": "K.K.로큰롤",
+      "ru_RU": "К. К. в ударе"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02427",
-    "Russian": "Величие К. К.",
     "ref": "Imperial K.K.",
     "localization": {
       "en_US": "Imperial K.K.",
@@ -61473,13 +61472,13 @@
       "zh_CN": "K.K.中华",
       "zh_TW": "K.K.中華",
       "ja_JP": "けけチャイナ",
-      "ko_KR": "K.K.차이나"
+      "ko_KR": "K.K.차이나",
+      "ru_RU": "Величие К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02433",
-    "Russian": "Регтайм К. К.",
     "ref": "K.K. Ragtime",
     "localization": {
       "en_US": "K.K. Ragtime",
@@ -61494,13 +61493,13 @@
       "zh_CN": "格拉泰姆音乐",
       "zh_TW": "拉格泰姆音樂",
       "ja_JP": "ラグタイム",
-      "ko_KR": "래그타임"
+      "ko_KR": "래그타임",
+      "ru_RU": "Регтайм К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02428",
-    "Russian": "Крепость К. К.",
     "ref": "K.K. Casbah",
     "localization": {
       "en_US": "K.K. Casbah",
@@ -61515,13 +61514,13 @@
       "zh_CN": "土耳其乐曲",
       "zh_TW": "土耳其樂曲",
       "ja_JP": "トルコそんぐ",
-      "ko_KR": "터키의 노래"
+      "ko_KR": "터키의 노래",
+      "ru_RU": "Крепость К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02434",
-    "Russian": "Гамбо К. К.",
     "ref": "K.K. Gumbo",
     "localization": {
       "en_US": "K.K. Gumbo",
@@ -61536,13 +61535,13 @@
       "zh_CN": "新奥尔良乐曲",
       "zh_TW": "新奧爾良樂曲",
       "ja_JP": "ニューオリンズそんぐ",
-      "ko_KR": "딕시랜드 재즈"
+      "ko_KR": "딕시랜드 재즈",
+      "ru_RU": "Гамбо К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02440",
-    "Russian": "Романс К. К.",
     "ref": "K.K. Love Song",
     "localization": {
       "en_US": "K.K. Love Song",
@@ -61557,13 +61556,13 @@
       "zh_CN": "K.K.情歌",
       "zh_TW": "K.K.情歌",
       "ja_JP": "けけラヴソング",
-      "ko_KR": "K.K.러브송"
+      "ko_KR": "K.K.러브송",
+      "ru_RU": "Романс К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02429",
-    "Russian": "Сафари К. К.",
     "ref": "K.K. Safari",
     "localization": {
       "en_US": "K.K. Safari",
@@ -61578,13 +61577,13 @@
       "zh_CN": "K.K.非洲音乐",
       "zh_TW": "K.K.非洲音樂",
       "ja_JP": "けけアフロ",
-      "ko_KR": "K.K.아프리카"
+      "ko_KR": "K.K.아프리카",
+      "ru_RU": "Сафари К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02435",
-    "Russian": "Фанк К. К.",
     "ref": "The K. Funk",
     "localization": {
       "en_US": "The K. Funk",
@@ -61599,13 +61598,13 @@
       "zh_CN": "K.K.放克",
       "zh_TW": "K.K.放克",
       "ja_JP": "けけファンク",
-      "ko_KR": "K.K.펑키"
+      "ko_KR": "K.K.펑키",
+      "ru_RU": "Фанк К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02441",
-    "Russian": "Драм-н-бэйс К. К.",
     "ref": "K.K. D&B",
     "localization": {
       "en_US": "K.K. D&B",
@@ -61620,13 +61619,13 @@
       "zh_CN": "鼓打贝斯",
       "zh_TW": "鼓打貝斯",
       "ja_JP": "ドラムンベース",
-      "ko_KR": "드럼앤베이스"
+      "ko_KR": "드럼앤베이스",
+      "ru_RU": "Драм-н-бэйс К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02436",
-    "Russian": "Блюз К. К.",
     "ref": "K.K. Blues",
     "localization": {
       "en_US": "K.K. Blues",
@@ -61641,13 +61640,13 @@
       "zh_CN": "K.K.蓝调",
       "zh_TW": "K.K.藍調",
       "ja_JP": "けけブルース",
-      "ko_KR": "K.K.블루스"
+      "ko_KR": "K.K.블루스",
+      "ru_RU": "Блюз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02442",
-    "Russian": "Техно-поп К. К.",
     "ref": "K.K. Technopop",
     "localization": {
       "en_US": "K.K. Technopop",
@@ -61662,13 +61661,13 @@
       "zh_CN": "电音节奏",
       "zh_TW": "電音節奏",
       "ja_JP": "テクノビート",
-      "ko_KR": "테크노 비트"
+      "ko_KR": "테크노 비트",
+      "ru_RU": "Техно-поп К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02437",
-    "Russian": "Соулфул К. К.",
     "ref": "Soulful K.K.",
     "localization": {
       "en_US": "Soulful K.K.",
@@ -61683,13 +61682,13 @@
       "zh_CN": "K.K.心灵音乐",
       "zh_TW": "K.K.心靈音樂",
       "ja_JP": "けけゴスペル",
-      "ko_KR": "K.K.가스펠"
+      "ko_KR": "K.K.가스펠",
+      "ru_RU": "Соулфул К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02443",
-    "Russian": "DJ KK",
     "ref": "DJ K.K.",
     "localization": {
       "en_US": "DJ K.K.",
@@ -61704,13 +61703,13 @@
       "zh_CN": "欧陆节拍",
       "zh_TW": "歐陸節拍",
       "ja_JP": "ユーロビート",
-      "ko_KR": "유로 비트"
+      "ko_KR": "유로 비트",
+      "ru_RU": "DJ KK"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02438",
-    "Russian": "Соул К. К.",
     "ref": "K.K. Soul",
     "localization": {
       "en_US": "K.K. Soul",
@@ -61725,13 +61724,13 @@
       "zh_CN": "K.K.灵魂乐",
       "zh_TW": "K.K.靈魂樂",
       "ja_JP": "けけソウル",
-      "ko_KR": "K.K.소울"
+      "ko_KR": "K.K.소울",
+      "ru_RU": "Соул К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02444",
-    "Russian": "Только я",
     "ref": "Only Me",
     "localization": {
       "en_US": "Only Me",
@@ -61746,13 +61745,13 @@
       "zh_CN": "只有我",
       "zh_TW": "只有我",
       "ja_JP": "オンリーミー",
-      "ko_KR": "온리미"
+      "ko_KR": "온리미",
+      "ru_RU": "Только я"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02450",
-    "Russian": "Доброго пути, К. К.!",
     "ref": "Go K.K. Rider",
     "localization": {
       "en_US": "Go K.K. Rider",
@@ -61767,13 +61766,13 @@
       "zh_CN": "冲吧！K.K.摩托车手",
       "zh_TW": "衝吧！K.K.摩托車手",
       "ja_JP": "ゆけ!けけライダー",
-      "ko_KR": "가자! K.K.라이더"
+      "ko_KR": "가자! K.K.라이더",
+      "ru_RU": "Доброго пути, К. К.!"
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02439",
-    "Russian": "Круиз К. К.",
     "ref": "K.K. Cruisin'",
     "localization": {
       "en_US": "K.K. Cruisin'",
@@ -61788,13 +61787,13 @@
       "zh_CN": "都市K.K.",
       "zh_TW": "都市K.K.",
       "ja_JP": "アーバンけけ",
-      "ko_KR": "팝K.K."
+      "ko_KR": "팝K.K.",
+      "ru_RU": "Круиз К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02445",
-    "Russian": "Кантри К. К.",
     "ref": "K.K. Country",
     "localization": {
       "en_US": "K.K. Country",
@@ -61809,13 +61808,13 @@
       "zh_CN": "K.K.乡村",
       "zh_TW": "K.K.鄉村",
       "ja_JP": "けけカントリー",
-      "ko_KR": "K.K.컨트리"
+      "ko_KR": "K.K.컨트리",
+      "ru_RU": "Кантри К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02451",
-    "Russian": "Реквием К. К.",
     "ref": "K.K. Dirge",
     "localization": {
       "en_US": "K.K. Dirge",
@@ -61830,13 +61829,13 @@
       "zh_CN": "惊悚歌",
       "zh_TW": "驚悚歌",
       "ja_JP": "こわいうた",
-      "ko_KR": "무서운 노래"
+      "ko_KR": "무서운 노래",
+      "ru_RU": "Реквием К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02446",
-    "Russian": "Серф К. К.",
     "ref": "Surfin' K.K.",
     "localization": {
       "en_US": "Surfin' K.K.",
@@ -61851,13 +61850,13 @@
       "zh_CN": "电吉他乐曲",
       "zh_TW": "電吉他樂曲",
       "ja_JP": "エレキそんぐ",
-      "ko_KR": "일렉트릭 뮤직"
+      "ko_KR": "일렉트릭 뮤직",
+      "ru_RU": "Серф К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02452",
-    "Russian": "Вестерн К. К.",
     "ref": "K.K. Western",
     "localization": {
       "en_US": "K.K. Western",
@@ -61872,13 +61871,13 @@
       "zh_CN": "K.K.西部",
       "zh_TW": "K.K.西部",
       "ja_JP": "けけウェスタン",
-      "ko_KR": "K.K.웨스턴"
+      "ko_KR": "K.K.웨스턴",
+      "ru_RU": "Вестерн К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02447",
-    "Russian": "Баллада К. К.",
     "ref": "K.K. Ballad",
     "localization": {
       "en_US": "K.K. Ballad",
@@ -61893,13 +61892,13 @@
       "zh_CN": "K.K.叙事歌谣",
       "zh_TW": "K.K.敘事歌謠",
       "ja_JP": "けけバラッド",
-      "ko_KR": "K.K.발라드"
+      "ko_KR": "K.K.발라드",
+      "ru_RU": "Баллада К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_02453",
-    "Russian": "Господин К. К.",
     "ref": "Mr. K.K.",
     "localization": {
       "en_US": "Mr. K.K.",
@@ -61914,13 +61913,13 @@
       "zh_CN": "K.K.老师",
       "zh_TW": "K.K.老師",
       "ja_JP": "けけせんせい",
-      "ko_KR": "K.K.선생님"
+      "ko_KR": "K.K.선생님",
+      "ru_RU": "Господин К. К."
     }
   },
   {
     "SourceSheet": "K.K. Albums",
     "ID": "Music_04312",
-    "Russian": "Город а зверушек",
     "ref": "Animal City",
     "localization": {
       "en_US": "Animal City",
@@ -61935,7 +61934,8 @@
       "zh_CN": "动物城镇",
       "zh_TW": "動物城鎮",
       "ja_JP": "どうぶつのまち",
-      "ko_KR": "동물의 마을"
+      "ko_KR": "동물의 마을",
+      "ru_RU": "Город а зверушек"
     }
   },
   {
@@ -79555,7 +79555,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant00",
-    "Russian": "Сирано",
     "ref": "Cyrano",
     "localization": {
       "en_US": "Cyrano",
@@ -79570,13 +79569,13 @@
       "zh_CN": "阳明",
       "zh_TW": "陽明",
       "ja_JP": "さくらじま",
-      "ko_KR": "사지마"
+      "ko_KR": "사지마",
+      "ru_RU": "Сирано"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ant01",
-    "Russian": "Антонио",
     "ref": "Antonio",
     "localization": {
       "en_US": "Antonio",
@@ -79591,13 +79590,13 @@
       "zh_CN": "阿诚",
       "zh_TW": "阿誠",
       "ja_JP": "マコト",
-      "ko_KR": "퍼머거"
+      "ko_KR": "퍼머거",
+      "ru_RU": "Антонио"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ant02",
-    "Russian": "Панго",
     "ref": "Pango",
     "localization": {
       "en_US": "Pango",
@@ -79612,13 +79611,13 @@
       "zh_CN": "佩希",
       "zh_TW": "佩希",
       "ja_JP": "パトラ",
-      "ko_KR": "패트라"
+      "ko_KR": "패트라",
+      "ru_RU": "Панго"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ant03",
-    "Russian": "Анабель",
     "ref": "Anabelle",
     "localization": {
       "en_US": "Anabelle",
@@ -79633,13 +79632,13 @@
       "zh_CN": "有美",
       "zh_TW": "有美",
       "ja_JP": "あるみ",
-      "ko_KR": "아롱이"
+      "ko_KR": "아롱이",
+      "ru_RU": "Анабель"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ant06",
-    "Russian": "Снути",
     "ref": "Snooty",
     "localization": {
       "en_US": "Snooty",
@@ -79654,13 +79653,13 @@
       "zh_CN": "贵妃",
       "zh_TW": "貴妃",
       "ja_JP": "こまち",
-      "ko_KR": "스누티"
+      "ko_KR": "스누티",
+      "ru_RU": "Снути"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ant08",
-    "Russian": "Аннализ",
     "ref": "Annalisa",
     "localization": {
       "en_US": "Annalisa",
@@ -79675,13 +79674,13 @@
       "zh_CN": "小雅",
       "zh_TW": "小雅",
       "ja_JP": "みやび",
-      "ko_KR": "설백"
+      "ko_KR": "설백",
+      "ru_RU": "Аннализ"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ant09",
-    "Russian": "Олаф",
     "ref": "Olaf",
     "localization": {
       "en_US": "Olaf",
@@ -79696,13 +79695,13 @@
       "zh_CN": "安东尼",
       "zh_TW": "安東尼",
       "ja_JP": "アントニオ",
-      "ko_KR": "안토니오"
+      "ko_KR": "안토니오",
+      "ru_RU": "Олаф"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea00",
-    "Russian": "Тедди",
     "ref": "Teddy",
     "localization": {
       "en_US": "Teddy",
@@ -79717,13 +79716,13 @@
       "zh_CN": "太平",
       "zh_TW": "太平",
       "ja_JP": "たいへいた",
-      "ko_KR": "병태"
+      "ko_KR": "병태",
+      "ru_RU": "Тедди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea01",
-    "Russian": "Пинки",
     "ref": "Pinky",
     "localization": {
       "en_US": "Pinky",
@@ -79738,13 +79737,13 @@
       "zh_CN": "丹丹",
       "zh_TW": "丹丹",
       "ja_JP": "タンタン",
-      "ko_KR": "링링"
+      "ko_KR": "링링",
+      "ru_RU": "Пинки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea02",
-    "Russian": "Керт",
     "ref": "Curt",
     "localization": {
       "en_US": "Curt",
@@ -79759,13 +79758,13 @@
       "zh_CN": "铁熊",
       "zh_TW": "鐵熊",
       "ja_JP": "ガンテツ",
-      "ko_KR": "뚝심"
+      "ko_KR": "뚝심",
+      "ru_RU": "Керт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea03",
-    "Russian": "Чау",
     "ref": "Chow",
     "localization": {
       "en_US": "Chow",
@@ -79780,13 +79779,13 @@
       "zh_CN": "朝阳",
       "zh_TW": "朝陽",
       "ja_JP": "チャウヤン",
-      "ko_KR": "츄양"
+      "ko_KR": "츄양",
+      "ru_RU": "Чау"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea05",
-    "Russian": "Нэйт",
     "ref": "Nate",
     "localization": {
       "en_US": "Nate",
@@ -79801,13 +79800,13 @@
       "zh_CN": "巴克思",
       "zh_TW": "巴克思",
       "ja_JP": "バッカス",
-      "ko_KR": "박하스"
+      "ko_KR": "박하스",
+      "ru_RU": "Нэйт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea06",
-    "Russian": "Граучо",
     "ref": "Groucho",
     "localization": {
       "en_US": "Groucho",
@@ -79822,13 +79821,13 @@
       "zh_CN": "爪爪",
       "zh_TW": "爪爪",
       "ja_JP": "クロー",
-      "ko_KR": "거무틱"
+      "ko_KR": "거무틱",
+      "ru_RU": "Граучо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea07",
-    "Russian": "Туту",
     "ref": "Tutu",
     "localization": {
       "en_US": "Tutu",
@@ -79843,13 +79842,13 @@
       "zh_CN": "恋恋",
       "zh_TW": "戀戀",
       "ja_JP": "れんにゅう",
-      "ko_KR": "연유"
+      "ko_KR": "연유",
+      "ru_RU": "Туту"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea08",
-    "Russian": "Урсал",
     "ref": "Ursala",
     "localization": {
       "en_US": "Ursala",
@@ -79864,13 +79863,13 @@
       "zh_CN": "妮雅",
       "zh_TW": "妮雅",
       "ja_JP": "ネーヤ",
-      "ko_KR": "네이아"
+      "ko_KR": "네이아",
+      "ru_RU": "Урсал"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea09",
-    "Russian": "Гризли",
     "ref": "Grizzly",
     "localization": {
       "en_US": "Grizzly",
@@ -79885,13 +79884,13 @@
       "zh_CN": "穆穆",
       "zh_TW": "穆穆",
       "ja_JP": "ムー",
-      "ko_KR": "무뚝"
+      "ko_KR": "무뚝",
+      "ru_RU": "Гризли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea10",
-    "Russian": "Паул",
     "ref": "Paula",
     "localization": {
       "en_US": "Paula",
@@ -79906,13 +79905,13 @@
       "zh_CN": "瑞秋",
       "zh_TW": "瑞秋",
       "ja_JP": "レイチェル",
-      "ko_KR": "레이첼"
+      "ko_KR": "레이첼",
+      "ru_RU": "Паул"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea11",
-    "Russian": "Айк",
     "ref": "Ike",
     "localization": {
       "en_US": "Ike",
@@ -79927,13 +79926,13 @@
       "zh_CN": "大功",
       "zh_TW": "大功",
       "ja_JP": "ダイク",
-      "ko_KR": "대공"
+      "ko_KR": "대공",
+      "ru_RU": "Айк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea12",
-    "Russian": "Шарлиз",
     "ref": "Charlise",
     "localization": {
       "en_US": "Charlise",
@@ -79948,13 +79947,13 @@
       "zh_CN": "恰咪",
       "zh_TW": "恰咪",
       "ja_JP": "チャーミー",
-      "ko_KR": "챠미"
+      "ko_KR": "챠미",
+      "ru_RU": "Шарлиз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea13",
-    "Russian": "Беардо",
     "ref": "Beardo",
     "localization": {
       "en_US": "Beardo",
@@ -79969,13 +79968,13 @@
       "zh_CN": "熊大叔",
       "zh_TW": "熊大叔",
       "ja_JP": "ベアード",
-      "ko_KR": "베어드"
+      "ko_KR": "베어드",
+      "ru_RU": "Беардо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea14",
-    "Russian": "Клаус",
     "ref": "Klaus",
     "localization": {
       "en_US": "Klaus",
@@ -79990,13 +79989,13 @@
       "zh_CN": "熊战士",
       "zh_TW": "熊戰士",
       "ja_JP": "クマロス",
-      "ko_KR": "곰도로스"
+      "ko_KR": "곰도로스",
+      "ru_RU": "Клаус"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bea15",
-    "Russian": "Меган",
     "ref": "Megan",
     "localization": {
       "en_US": "Megan",
@@ -80011,13 +80010,13 @@
       "zh_CN": "糖果",
       "zh_TW": "糖果",
       "ja_JP": "キャンディ",
-      "ko_KR": "캔디"
+      "ko_KR": "캔디",
+      "ru_RU": "Меган"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd00",
-    "Russian": "Дже",
     "ref": "Jay",
     "localization": {
       "en_US": "Jay",
@@ -80032,13 +80031,13 @@
       "zh_CN": "阿燕",
       "zh_TW": "阿燕",
       "ja_JP": "ツバクロ",
-      "ko_KR": "참돌이"
+      "ko_KR": "참돌이",
+      "ru_RU": "Дже"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd01",
-    "Russian": "Робин",
     "ref": "Robin",
     "localization": {
       "en_US": "Robin",
@@ -80053,13 +80052,13 @@
       "zh_CN": "喳喳",
       "zh_TW": "喳喳",
       "ja_JP": "パーチク",
-      "ko_KR": "파틱"
+      "ko_KR": "파틱",
+      "ru_RU": "Робин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd02",
-    "Russian": "Анчоуи",
     "ref": "Anchovy",
     "localization": {
       "en_US": "Anchovy",
@@ -80074,13 +80073,13 @@
       "zh_CN": "凤尾",
       "zh_TW": "鳳尾",
       "ja_JP": "アンチョビ",
-      "ko_KR": "안쵸비"
+      "ko_KR": "안쵸비",
+      "ru_RU": "Анчоуи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd03",
-    "Russian": "Твигги",
     "ref": "Twiggy",
     "localization": {
       "en_US": "Twiggy",
@@ -80095,13 +80094,13 @@
       "zh_CN": "叽叽",
       "zh_TW": "嘰嘰",
       "ja_JP": "ピーチク",
-      "ko_KR": "핀틱"
+      "ko_KR": "핀틱",
+      "ru_RU": "Твигги"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd04",
-    "Russian": "Джиттерс",
     "ref": "Jitters",
     "localization": {
       "en_US": "Jitters",
@@ -80116,13 +80115,13 @@
       "zh_CN": "纪诺",
       "zh_TW": "紀諾",
       "ja_JP": "ジーニョ",
-      "ko_KR": "딩요"
+      "ko_KR": "딩요",
+      "ru_RU": "Джиттерс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd05",
-    "Russian": "Пайпер",
     "ref": "Piper",
     "localization": {
       "en_US": "Piper",
@@ -80137,13 +80136,13 @@
       "zh_CN": "丽婷",
       "zh_TW": "麗婷",
       "ja_JP": "レイコ",
-      "ko_KR": "파이프"
+      "ko_KR": "파이프",
+      "ru_RU": "Пайпер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd06",
-    "Russian": "Адмирал",
     "ref": "Admiral",
     "localization": {
       "en_US": "Admiral",
@@ -80158,13 +80157,13 @@
       "zh_CN": "李彻",
       "zh_TW": "李徹",
       "ja_JP": "イッテツ",
-      "ko_KR": "일섭"
+      "ko_KR": "일섭",
+      "ru_RU": "Адмирал"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd08",
-    "Russian": "Мидж",
     "ref": "Midge",
     "localization": {
       "en_US": "Midge",
@@ -80179,13 +80178,13 @@
       "zh_CN": "小酒窝",
       "zh_TW": "小酒窩",
       "ja_JP": "うずまき",
-      "ko_KR": "핑글이"
+      "ko_KR": "핑글이",
+      "ru_RU": "Мидж"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd11",
-    "Russian": "Джейкоб",
     "ref": "Jakey",
     "localization": {
       "en_US": "Jacob",
@@ -80200,13 +80199,13 @@
       "zh_CN": "余板",
       "zh_TW": "余板",
       "ja_JP": "ジャコテン",
-      "ko_KR": "야곱"
+      "ko_KR": "야곱",
+      "ru_RU": "Джейкоб"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd15",
-    "Russian": "Луч",
     "ref": "Lucha",
     "localization": {
       "en_US": "Lucha",
@@ -80221,13 +80220,13 @@
       "zh_CN": "摔角鸦",
       "zh_TW": "摔角鴉",
       "ja_JP": "マスカラス",
-      "ko_KR": "마스카라스"
+      "ko_KR": "마스카라스",
+      "ru_RU": "Луч"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd16",
-    "Russian": "Жак",
     "ref": "Jacques",
     "localization": {
       "en_US": "Jacques",
@@ -80242,13 +80241,13 @@
       "zh_CN": "赵奇",
       "zh_TW": "趙奇",
       "ja_JP": "ジョッキー",
-      "ko_KR": "쪼끼"
+      "ko_KR": "쪼끼",
+      "ru_RU": "Жак"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd17",
-    "Russian": "Пек",
     "ref": "Peck",
     "localization": {
       "en_US": "Peck",
@@ -80263,13 +80262,13 @@
       "zh_CN": "文雄",
       "zh_TW": "文雄",
       "ja_JP": "ふみたろう",
-      "ko_KR": "문대"
+      "ko_KR": "문대",
+      "ru_RU": "Пек"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "brd18",
-    "Russian": "Спарро",
     "ref": "Sparro",
     "localization": {
       "en_US": "Sparro",
@@ -80284,13 +80283,13 @@
       "zh_CN": "周之翔",
       "zh_TW": "周之翔",
       "ja_JP": "ちゅんのすけ",
-      "ko_KR": "춘섭"
+      "ko_KR": "춘섭",
+      "ru_RU": "Спарро"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bul00",
-    "Russian": "Ангус",
     "ref": "Angus",
     "localization": {
       "en_US": "Angus",
@@ -80305,13 +80304,13 @@
       "zh_CN": "施万德",
       "zh_TW": "施萬德",
       "ja_JP": "セルバンテス",
-      "ko_KR": "반데스"
+      "ko_KR": "반데스",
+      "ru_RU": "Ангус"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bul01",
-    "Russian": "Родео",
     "ref": "Rodeo",
     "localization": {
       "en_US": "Rodeo",
@@ -80326,13 +80325,13 @@
       "zh_CN": "罗迪欧",
       "zh_TW": "羅迪歐",
       "ja_JP": "ロデオ",
-      "ko_KR": "로데오"
+      "ko_KR": "로데오",
+      "ru_RU": "Родео"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bul03",
-    "Russian": "Стью",
     "ref": "Stu",
     "localization": {
       "en_US": "Stu",
@@ -80347,13 +80346,13 @@
       "zh_CN": "毛乐时",
       "zh_TW": "毛樂時",
       "ja_JP": "モーリス",
-      "ko_KR": "모리스"
+      "ko_KR": "모리스",
+      "ru_RU": "Стью"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bul05",
-    "Russian": "Ти-Боун",
     "ref": "T-Bone",
     "localization": {
       "en_US": "T-Bone",
@@ -80368,13 +80367,13 @@
       "zh_CN": "罗宋",
       "zh_TW": "羅宋",
       "ja_JP": "ボルシチ",
-      "ko_KR": "티본"
+      "ko_KR": "티본",
+      "ru_RU": "Ти-Боун"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bul07",
-    "Russian": "Коуч",
     "ref": "Coach",
     "localization": {
       "en_US": "Coach",
@@ -80389,13 +80388,13 @@
       "zh_CN": "大常",
       "zh_TW": "大常",
       "ja_JP": "テッチャン",
-      "ko_KR": "철소"
+      "ko_KR": "철소",
+      "ru_RU": "Коуч"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "bul08",
-    "Russian": "Вик",
     "ref": "Vic",
     "localization": {
       "en_US": "Vic",
@@ -80410,13 +80409,13 @@
       "zh_CN": "卢尔曼",
       "zh_TW": "盧爾曼",
       "ja_JP": "ノルマン",
-      "ko_KR": "노르망"
+      "ko_KR": "노르망",
+      "ru_RU": "Вик"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat00",
-    "Russian": "Боб",
     "ref": "Bob",
     "localization": {
       "en_US": "Bob",
@@ -80431,13 +80430,13 @@
       "zh_CN": "阿判",
       "zh_TW": "阿判",
       "ja_JP": "ニコバン",
-      "ko_KR": "히죽"
+      "ko_KR": "히죽",
+      "ru_RU": "Боб"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat01",
-    "Russian": "Митци",
     "ref": "Mitzi",
     "localization": {
       "en_US": "Mitzi",
@@ -80452,13 +80451,13 @@
       "zh_CN": "圆圆",
       "zh_TW": "圓圓",
       "ja_JP": "マール",
-      "ko_KR": "마르"
+      "ko_KR": "마르",
+      "ru_RU": "Митци"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat02",
-    "Russian": "Рози",
     "ref": "Rosie",
     "localization": {
       "en_US": "Rosie",
@@ -80473,13 +80472,13 @@
       "zh_CN": "彭花",
       "zh_TW": "彭花",
       "ja_JP": "ブーケ",
-      "ko_KR": "부케"
+      "ko_KR": "부케",
+      "ru_RU": "Рози"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat03",
-    "Russian": "Оливи",
     "ref": "Olivia",
     "localization": {
       "en_US": "Olivia",
@@ -80494,13 +80493,13 @@
       "zh_CN": "奥莉",
       "zh_TW": "奧莉",
       "ja_JP": "オリビア",
-      "ko_KR": "올리비아"
+      "ko_KR": "올리비아",
+      "ru_RU": "Оливи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat04",
-    "Russian": "Кики",
     "ref": "Kiki",
     "localization": {
       "en_US": "Kiki",
@@ -80515,13 +80514,13 @@
       "zh_CN": "余子酱",
       "zh_TW": "余子醬",
       "ja_JP": "キャビア",
-      "ko_KR": "캐비어"
+      "ko_KR": "캐비어",
+      "ru_RU": "Кики"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat05",
-    "Russian": "Тэнджи",
     "ref": "Tangy",
     "localization": {
       "en_US": "Tangy",
@@ -80536,13 +80535,13 @@
       "zh_CN": "纯纯",
       "zh_TW": "純純",
       "ja_JP": "ヒャクパー",
-      "ko_KR": "백프로"
+      "ko_KR": "백프로",
+      "ru_RU": "Тэнджи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat06",
-    "Russian": "Панчи",
     "ref": "Punchy",
     "localization": {
       "en_US": "Punchy",
@@ -80557,13 +80556,13 @@
       "zh_CN": "尔光",
       "zh_TW": "爾光",
       "ja_JP": "ビンタ",
-      "ko_KR": "빙티"
+      "ko_KR": "빙티",
+      "ru_RU": "Панчи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat07",
-    "Russian": "Перл",
     "ref": "Purrl",
     "localization": {
       "en_US": "Purrl",
@@ -80578,13 +80577,13 @@
       "zh_CN": "小玉",
       "zh_TW": "小玉",
       "ja_JP": "たま",
-      "ko_KR": "타마"
+      "ko_KR": "타마",
+      "ru_RU": "Перл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat08",
-    "Russian": "Моэ",
     "ref": "Moe",
     "localization": {
       "en_US": "Moe",
@@ -80599,13 +80598,13 @@
       "zh_CN": "仁平",
       "zh_TW": "仁平",
       "ja_JP": "ジンペイ",
-      "ko_KR": "진상"
+      "ko_KR": "진상",
+      "ru_RU": "Моэ"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat09",
-    "Russian": "Кабуки",
     "ref": "Kabuki",
     "localization": {
       "en_US": "Kabuki",
@@ -80620,13 +80619,13 @@
       "zh_CN": "戈伍纪",
       "zh_TW": "戈伍紀",
       "ja_JP": "かぶきち",
-      "ko_KR": "가북희"
+      "ko_KR": "가북희",
+      "ru_RU": "Кабуки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat10",
-    "Russian": "Кид",
     "ref": "Kid Cat",
     "localization": {
       "en_US": "Kid Cat",
@@ -80641,13 +80640,13 @@
       "zh_CN": "阿一",
       "zh_TW": "阿一",
       "ja_JP": "１ごう",
-      "ko_KR": "1호"
+      "ko_KR": "1호",
+      "ru_RU": "Кид"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat11",
-    "Russian": "Моник",
     "ref": "Monique",
     "localization": {
       "en_US": "Monique",
@@ -80662,13 +80661,13 @@
       "zh_CN": "珍珍",
       "zh_TW": "珍珍",
       "ja_JP": "ジェーン",
-      "ko_KR": "제인"
+      "ko_KR": "제인",
+      "ru_RU": "Моник"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat12",
-    "Russian": "Тэбби",
     "ref": "Tabby",
     "localization": {
       "en_US": "Tabby",
@@ -80683,13 +80682,13 @@
       "zh_CN": "小虎",
       "zh_TW": "小虎",
       "ja_JP": "トラこ",
-      "ko_KR": "호냥이"
+      "ko_KR": "호냥이",
+      "ru_RU": "Тэбби"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat13",
-    "Russian": "Стинки",
     "ref": "Stinky",
     "localization": {
       "en_US": "Stinky",
@@ -80704,13 +80703,13 @@
       "zh_CN": "男子汗",
       "zh_TW": "男子汗",
       "ja_JP": "アセクサ",
-      "ko_KR": "땀띠"
+      "ko_KR": "땀띠",
+      "ru_RU": "Стинки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat14",
-    "Russian": "Китти",
     "ref": "Kitty",
     "localization": {
       "en_US": "Kitty",
@@ -80725,13 +80724,13 @@
       "zh_CN": "朱古莉",
       "zh_TW": "朱古莉",
       "ja_JP": "ショコラ",
-      "ko_KR": "쇼콜라"
+      "ko_KR": "쇼콜라",
+      "ru_RU": "Китти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat15",
-    "Russian": "Том",
     "ref": "Tom",
     "localization": {
       "en_US": "Tom",
@@ -80746,13 +80745,13 @@
       "zh_CN": "阿邦",
       "zh_TW": "阿邦",
       "ja_JP": "バンタム",
-      "ko_KR": "밴덤"
+      "ko_KR": "밴덤",
+      "ru_RU": "Том"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat16",
-    "Russian": "Мерри",
     "ref": "Merry",
     "localization": {
       "en_US": "Merry",
@@ -80767,13 +80766,13 @@
       "zh_CN": "莎莎",
       "zh_TW": "莎莎",
       "ja_JP": "さっち",
-      "ko_KR": "유네찌"
+      "ko_KR": "유네찌",
+      "ru_RU": "Мерри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat17",
-    "Russian": "Фелисити",
     "ref": "Felicity",
     "localization": {
       "en_US": "Felicity",
@@ -80788,13 +80787,13 @@
       "zh_CN": "美佳",
       "zh_TW": "美佳",
       "ja_JP": "みかっち",
-      "ko_KR": "예링"
+      "ko_KR": "예링",
+      "ru_RU": "Фелисити"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat18",
-    "Russian": "Лолли",
     "ref": "Lolly",
     "localization": {
       "en_US": "Lolly",
@@ -80809,13 +80808,13 @@
       "zh_CN": "柠檬娜",
       "zh_TW": "檸檬娜",
       "ja_JP": "ラムネ",
-      "ko_KR": "사이다"
+      "ko_KR": "사이다",
+      "ru_RU": "Лолли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat19",
-    "Russian": "Анк",
     "ref": "Ankha",
     "localization": {
       "en_US": "Ankha",
@@ -80830,13 +80829,13 @@
       "zh_CN": "艳后",
       "zh_TW": "艷后",
       "ja_JP": "ナイル",
-      "ko_KR": "클레오"
+      "ko_KR": "클레오",
+      "ru_RU": "Анк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat20",
-    "Russian": "Руди",
     "ref": "Rudy",
     "localization": {
       "en_US": "Rudy",
@@ -80851,13 +80850,13 @@
       "zh_CN": "茶茶",
       "zh_TW": "茶茶",
       "ja_JP": "チャス",
-      "ko_KR": "찰스"
+      "ko_KR": "찰스",
+      "ru_RU": "Руди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat21",
-    "Russian": "Кэт",
     "ref": "Katt",
     "localization": {
       "en_US": "Katt",
@@ -80872,13 +80871,13 @@
       "zh_CN": "巧巧",
       "zh_TW": "巧巧",
       "ja_JP": "ちょい",
-      "ko_KR": "쵸이"
+      "ko_KR": "쵸이",
+      "ru_RU": "Кэт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cat23",
-    "Russian": "Реймонд",
     "ref": "Raymond",
     "localization": {
       "en_US": "Raymond",
@@ -80893,13 +80892,13 @@
       "zh_CN": "杰克",
       "zh_TW": "傑克",
       "ja_JP": "ジャック",
-      "ko_KR": "잭슨"
+      "ko_KR": "잭슨",
+      "ru_RU": "Реймонд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr00",
-    "Russian": "Блюбеар",
     "ref": "Bluebear",
     "localization": {
       "en_US": "Bluebear",
@@ -80914,13 +80913,13 @@
       "zh_CN": "娃娃",
       "zh_TW": "娃娃",
       "ja_JP": "グルミン",
-      "ko_KR": "글루민"
+      "ko_KR": "글루민",
+      "ru_RU": "Блюбеар"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr01",
-    "Russian": "Мейпл",
     "ref": "Maple",
     "localization": {
       "en_US": "Maple",
@@ -80935,13 +80934,13 @@
       "zh_CN": "小枫",
       "zh_TW": "小楓",
       "ja_JP": "メープル",
-      "ko_KR": "메이첼"
+      "ko_KR": "메이첼",
+      "ru_RU": "Мейпл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr02",
-    "Russian": "Пончо",
     "ref": "Poncho",
     "localization": {
       "en_US": "Poncho",
@@ -80956,13 +80955,13 @@
       "zh_CN": "蓬蓬",
       "zh_TW": "蓬蓬",
       "ja_JP": "ポンチョ",
-      "ko_KR": "봉추"
+      "ko_KR": "봉추",
+      "ru_RU": "Пончо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr03",
-    "Russian": "Падж",
     "ref": "Pudge",
     "localization": {
       "en_US": "Pudge",
@@ -80977,13 +80976,13 @@
       "zh_CN": "阿钦",
       "zh_TW": "阿欽",
       "ja_JP": "きんぞう",
-      "ko_KR": "우띠"
+      "ko_KR": "우띠",
+      "ru_RU": "Падж"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr04",
-    "Russian": "Коди",
     "ref": "Kody",
     "localization": {
       "en_US": "Kody",
@@ -80998,13 +80997,13 @@
       "zh_CN": "艾德豪",
       "zh_TW": "艾德豪",
       "ja_JP": "アイダホ",
-      "ko_KR": "아이다호"
+      "ko_KR": "아이다호",
+      "ru_RU": "Коди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr05",
-    "Russian": "Стичес",
     "ref": "Stitches",
     "localization": {
       "en_US": "Stitches",
@@ -81019,13 +81018,13 @@
       "zh_CN": "玩具熊",
       "zh_TW": "玩具熊",
       "ja_JP": "パッチ",
-      "ko_KR": "패치"
+      "ko_KR": "패치",
+      "ru_RU": "Стичес"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr06",
-    "Russian": "Владимир",
     "ref": "Vladimir",
     "localization": {
       "en_US": "Vladimir",
@@ -81040,13 +81039,13 @@
       "zh_CN": "嘉弼",
       "zh_TW": "嘉弼",
       "ja_JP": "ガビ",
-      "ko_KR": "곰비"
+      "ko_KR": "곰비",
+      "ru_RU": "Владимир"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr07",
-    "Russian": "Мерфи",
     "ref": "Murphy",
     "localization": {
       "en_US": "Murphy",
@@ -81061,13 +81060,13 @@
       "zh_CN": "宪雄",
       "zh_TW": "憲雄",
       "ja_JP": "のりお",
-      "ko_KR": "머피"
+      "ko_KR": "머피",
+      "ru_RU": "Мерфи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr09",
-    "Russian": "Олив",
     "ref": "Olive",
     "localization": {
       "en_US": "Olive",
@@ -81082,13 +81081,13 @@
       "zh_CN": "毕克萝",
       "zh_TW": "畢克蘿",
       "ja_JP": "ピッコロ",
-      "ko_KR": "올리브"
+      "ko_KR": "올리브",
+      "ru_RU": "Олив"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr10",
-    "Russian": "Шери",
     "ref": "Cheri",
     "localization": {
       "en_US": "Cheri",
@@ -81103,13 +81102,13 @@
       "zh_CN": "樱桃",
       "zh_TW": "櫻桃",
       "ja_JP": "アセロラ",
-      "ko_KR": "아세로라"
+      "ko_KR": "아세로라",
+      "ru_RU": "Шери"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr13",
-    "Russian": "Джун",
     "ref": "June",
     "localization": {
       "en_US": "June",
@@ -81124,13 +81123,13 @@
       "zh_CN": "阿妹",
       "zh_TW": "阿妹",
       "ja_JP": "メイ",
-      "ko_KR": "메이"
+      "ko_KR": "메이",
+      "ru_RU": "Джун"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr14",
-    "Russian": "Пеко",
     "ref": "Pekoe",
     "localization": {
       "en_US": "Pekoe",
@@ -81145,13 +81144,13 @@
       "zh_CN": "佳敏",
       "zh_TW": "佳敏",
       "ja_JP": "ジャスミン",
-      "ko_KR": "재스민"
+      "ko_KR": "재스민",
+      "ru_RU": "Пеко"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr15",
-    "Russian": "Честер",
     "ref": "Chester",
     "localization": {
       "en_US": "Chester",
@@ -81166,13 +81165,13 @@
       "zh_CN": "胖达",
       "zh_TW": "胖達",
       "ja_JP": "パンタ",
-      "ko_KR": "팬타"
+      "ko_KR": "팬타",
+      "ru_RU": "Честер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr16",
-    "Russian": "Барольд",
     "ref": "Barold",
     "localization": {
       "en_US": "Barold",
@@ -81187,13 +81186,13 @@
       "zh_CN": "阿西",
       "zh_TW": "阿西",
       "ja_JP": "ニッシー",
-      "ko_KR": "곰시"
+      "ko_KR": "곰시",
+      "ru_RU": "Барольд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr17",
-    "Russian": "Тамми",
     "ref": "Tammy",
     "localization": {
       "en_US": "Tammy",
@@ -81208,13 +81207,13 @@
       "zh_CN": "然姐",
       "zh_TW": "然姐",
       "ja_JP": "アネッサ",
-      "ko_KR": "아네사"
+      "ko_KR": "아네사",
+      "ru_RU": "Тамми"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr18",
-    "Russian": "Марти",
     "ref": "Marty",
     "localization": {
       "en_US": "Marty",
@@ -81229,13 +81228,13 @@
       "zh_CN": "玛丁",
       "zh_TW": "瑪丁",
       "ja_JP": "マーティー",
-      "ko_KR": "마티"
+      "ko_KR": "마티",
+      "ru_RU": "Марти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cbr19",
-    "Russian": "Джуди",
     "ref": "Judy",
     "localization": {
       "en_US": "Judy",
@@ -81250,13 +81249,13 @@
       "zh_CN": "美玲",
       "zh_TW": "美玲",
       "ja_JP": "みすず",
-      "ko_KR": "미애"
+      "ko_KR": "미애",
+      "ru_RU": "Джуди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn00",
-    "Russian": "Гус",
     "ref": "Goose",
     "localization": {
       "en_US": "Goose",
@@ -81271,13 +81270,13 @@
       "zh_CN": "肯肯",
       "zh_TW": "肯肯",
       "ja_JP": "ケンタ",
-      "ko_KR": "건태"
+      "ko_KR": "건태",
+      "ru_RU": "Гус"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn01",
-    "Russian": "Бенедикт",
     "ref": "Benedict",
     "localization": {
       "en_US": "Benedict",
@@ -81292,13 +81291,13 @@
       "zh_CN": "沛希",
       "zh_TW": "沛希",
       "ja_JP": "ぺしみち",
-      "ko_KR": "페니실린"
+      "ko_KR": "페니실린",
+      "ru_RU": "Бенедикт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn02",
-    "Russian": "Эгберт",
     "ref": "Egbert",
     "localization": {
       "en_US": "Egbert",
@@ -81313,13 +81312,13 @@
       "zh_CN": "黄金鸡",
       "zh_TW": "黃金雞",
       "ja_JP": "しもやけ",
-      "ko_KR": "김희"
+      "ko_KR": "김희",
+      "ru_RU": "Эгберт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn05",
-    "Russian": "Ав",
     "ref": "Ava",
     "localization": {
       "en_US": "Ava",
@@ -81334,13 +81333,13 @@
       "zh_CN": "陶米咕",
       "zh_TW": "陶米咕",
       "ja_JP": "ドミグラ",
-      "ko_KR": "에바"
+      "ko_KR": "에바",
+      "ru_RU": "Ав"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn09",
-    "Russian": "Бекки",
     "ref": "Becky",
     "localization": {
       "en_US": "Becky",
@@ -81355,13 +81354,13 @@
       "zh_CN": "咏旋",
       "zh_TW": "詠旋",
       "ja_JP": "アリア",
-      "ko_KR": "아리아"
+      "ko_KR": "아리아",
+      "ru_RU": "Бекки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn10",
-    "Russian": "Плаки",
     "ref": "Plucky",
     "localization": {
       "en_US": "Plucky",
@@ -81376,13 +81375,13 @@
       "zh_CN": "帕塔雅",
       "zh_TW": "帕塔雅",
       "ja_JP": "パタヤ",
-      "ko_KR": "파타야"
+      "ko_KR": "파타야",
+      "ru_RU": "Плаки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn11",
-    "Russian": "Нокс",
     "ref": "Knox",
     "localization": {
       "en_US": "Knox",
@@ -81397,13 +81396,13 @@
       "zh_CN": "金阁",
       "zh_TW": "金閣",
       "ja_JP": "キンカク",
-      "ko_KR": "금끼오"
+      "ko_KR": "금끼오",
+      "ru_RU": "Нокс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn12",
-    "Russian": "Броффин",
     "ref": "Broffina",
     "localization": {
       "en_US": "Broffina",
@@ -81418,13 +81417,13 @@
       "zh_CN": "凯西",
       "zh_TW": "凱西",
       "ja_JP": "カサンドラ",
-      "ko_KR": "히킨"
+      "ko_KR": "히킨",
+      "ru_RU": "Броффин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "chn13",
-    "Russian": "Кен",
     "ref": "Ken",
     "localization": {
       "en_US": "Ken",
@@ -81439,13 +81438,13 @@
       "zh_CN": "乌骨鸡",
       "zh_TW": "烏骨雞",
       "ja_JP": "クロベエ",
-      "ko_KR": "오골"
+      "ko_KR": "오골",
+      "ru_RU": "Кен"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cow00",
-    "Russian": "Пэтти",
     "ref": "Patty",
     "localization": {
       "en_US": "Patty",
@@ -81460,13 +81459,13 @@
       "zh_CN": "阿排",
       "zh_TW": "阿排",
       "ja_JP": "カルピ",
-      "ko_KR": "밀크"
+      "ko_KR": "밀크",
+      "ru_RU": "Пэтти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cow01",
-    "Russian": "Типпер",
     "ref": "Tipper",
     "localization": {
       "en_US": "Tipper",
@@ -81481,13 +81480,13 @@
       "zh_CN": "牧牧",
       "zh_TW": "牧牧",
       "ja_JP": "まきば",
-      "ko_KR": "마틸다"
+      "ko_KR": "마틸다",
+      "ru_RU": "Типпер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cow06",
-    "Russian": "Норм",
     "ref": "Norma",
     "localization": {
       "en_US": "Norma",
@@ -81502,13 +81501,13 @@
       "zh_CN": "晨曦",
       "zh_TW": "晨曦",
       "ja_JP": "いさこ",
-      "ko_KR": "미자"
+      "ko_KR": "미자",
+      "ru_RU": "Норм"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "cow07",
-    "Russian": "Наоми",
     "ref": "Naomi",
     "localization": {
       "en_US": "Naomi",
@@ -81523,13 +81522,13 @@
       "zh_CN": "玉兰",
       "zh_TW": "玉蘭",
       "ja_JP": "ハナコ",
-      "ko_KR": "화자"
+      "ko_KR": "화자",
+      "ru_RU": "Наоми"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd00",
-    "Russian": "Альфонсо",
     "ref": "Alfonso",
     "localization": {
       "en_US": "Alfonso",
@@ -81544,13 +81543,13 @@
       "zh_CN": "阿泥",
       "zh_TW": "阿泥",
       "ja_JP": "アルベルト",
-      "ko_KR": "알베르트"
+      "ko_KR": "알베르트",
+      "ru_RU": "Альфонсо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd01",
-    "Russian": "Элли",
     "ref": "Alli",
     "localization": {
       "en_US": "Alli",
@@ -81565,13 +81564,13 @@
       "zh_CN": "鳄罗思",
       "zh_TW": "鱷羅思",
       "ja_JP": "クロコ",
-      "ko_KR": "크로크"
+      "ko_KR": "크로크",
+      "ru_RU": "Элли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd02",
-    "Russian": "Бутс",
     "ref": "Boots",
     "localization": {
       "en_US": "Boots",
@@ -81586,13 +81585,13 @@
       "zh_CN": "丰年",
       "zh_TW": "豐年",
       "ja_JP": "ホウサク",
-      "ko_KR": "풍작"
+      "ko_KR": "풍작",
+      "ru_RU": "Бутс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd04",
-    "Russian": "Дел",
     "ref": "Del",
     "localization": {
       "en_US": "Del",
@@ -81607,13 +81606,13 @@
       "zh_CN": "大和",
       "zh_TW": "大和",
       "ja_JP": "ヤマト",
-      "ko_KR": "파도맨"
+      "ko_KR": "파도맨",
+      "ru_RU": "Дел"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd06",
-    "Russian": "Сла",
     "ref": "Sly",
     "localization": {
       "en_US": "Sly",
@@ -81628,13 +81627,13 @@
       "zh_CN": "海德",
       "zh_TW": "海德",
       "ja_JP": "ハイド",
-      "ko_KR": "하이드"
+      "ko_KR": "하이드",
+      "ru_RU": "Сла"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd07",
-    "Russian": "Гейл",
     "ref": "Gayle",
     "localization": {
       "en_US": "Gayle",
@@ -81649,13 +81648,13 @@
       "zh_CN": "爱莉",
       "zh_TW": "愛莉",
       "ja_JP": "アリゲッティ",
-      "ko_KR": "앨리"
+      "ko_KR": "앨리",
+      "ru_RU": "Гейл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "crd08",
-    "Russian": "Драго",
     "ref": "Drago",
     "localization": {
       "en_US": "Drago",
@@ -81670,13 +81669,13 @@
       "zh_CN": "阿龙",
       "zh_TW": "阿龍",
       "ja_JP": "タツオ",
-      "ko_KR": "용남이"
+      "ko_KR": "용남이",
+      "ru_RU": "Драго"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der00",
-    "Russian": "Фаун",
     "ref": "Fauna",
     "localization": {
       "en_US": "Fauna",
@@ -81691,13 +81690,13 @@
       "zh_CN": "音音",
       "zh_TW": "音音",
       "ja_JP": "ドレミ",
-      "ko_KR": "솔미"
+      "ko_KR": "솔미",
+      "ru_RU": "Фаун"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der01",
-    "Russian": "Бам",
     "ref": "Bam",
     "localization": {
       "en_US": "Bam",
@@ -81712,13 +81711,13 @@
       "zh_CN": "小健",
       "zh_TW": "小健",
       "ja_JP": "タケル",
-      "ko_KR": "록키"
+      "ko_KR": "록키",
+      "ru_RU": "Бам"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der02",
-    "Russian": "Зелл",
     "ref": "Zell",
     "localization": {
       "en_US": "Zell",
@@ -81733,13 +81732,13 @@
       "zh_CN": "森森",
       "zh_TW": "森森",
       "ja_JP": "ネルソン",
-      "ko_KR": "넬슨"
+      "ko_KR": "넬슨",
+      "ru_RU": "Зелл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der03",
-    "Russian": "Брюс",
     "ref": "Bruce",
     "localization": {
       "en_US": "Bruce",
@@ -81754,13 +81753,13 @@
       "zh_CN": "布鹿斯",
       "zh_TW": "布鹿斯",
       "ja_JP": "ブルース",
-      "ko_KR": "브루스"
+      "ko_KR": "브루스",
+      "ru_RU": "Брюс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der04",
-    "Russian": "Дейрдре",
     "ref": "Deirdre",
     "localization": {
       "en_US": "Deirdre",
@@ -81775,13 +81774,13 @@
       "zh_CN": "娣雅",
       "zh_TW": "娣雅",
       "ja_JP": "ナディア",
-      "ko_KR": "나디아"
+      "ko_KR": "나디아",
+      "ru_RU": "Дейрдре"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der05",
-    "Russian": "Лопес",
     "ref": "Lopez",
     "localization": {
       "en_US": "Lopez",
@@ -81796,13 +81795,13 @@
       "zh_CN": "汤姆",
       "zh_TW": "湯姆",
       "ja_JP": "トムソン",
-      "ko_KR": "톰슨"
+      "ko_KR": "톰슨",
+      "ru_RU": "Лопес"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der06",
-    "Russian": "Фукси",
     "ref": "Fuchsia",
     "localization": {
       "en_US": "Fuchsia",
@@ -81817,13 +81816,13 @@
       "zh_CN": "洁西卡",
       "zh_TW": "潔西卡",
       "ja_JP": "ジェシカ",
-      "ko_KR": "제시카"
+      "ko_KR": "제시카",
+      "ru_RU": "Фукси"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der07",
-    "Russian": "Бью",
     "ref": "Beau",
     "localization": {
       "en_US": "Beau",
@@ -81838,13 +81837,13 @@
       "zh_CN": "彼得",
       "zh_TW": "彼得",
       "ja_JP": "ペーター",
-      "ko_KR": "피터"
+      "ko_KR": "피터",
+      "ru_RU": "Бью"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der08",
-    "Russian": "Диан",
     "ref": "Diana",
     "localization": {
       "en_US": "Diana",
@@ -81859,13 +81858,13 @@
       "zh_CN": "倪家莉",
       "zh_TW": "倪家莉",
       "ja_JP": "ナタリー",
-      "ko_KR": "나탈리"
+      "ko_KR": "나탈리",
+      "ru_RU": "Диан"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der09",
-    "Russian": "Эрик",
     "ref": "Erik",
     "localization": {
       "en_US": "Erik",
@@ -81880,13 +81879,13 @@
       "zh_CN": "查克",
       "zh_TW": "查克",
       "ja_JP": "チャック",
-      "ko_KR": "자끄"
+      "ko_KR": "자끄",
+      "ru_RU": "Эрик"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "der10",
-    "Russian": "Челси",
     "ref": "Chelsea",
     "localization": {
       "en_US": "Chelsea",
@@ -81901,13 +81900,13 @@
       "zh_CN": "雀儿喜",
       "zh_TW": "雀兒喜",
       "ja_JP": "チェルシー",
-      "ko_KR": "첼시"
+      "ko_KR": "첼시",
+      "ru_RU": "Челси"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog00",
-    "Russian": "Голди",
     "ref": "Goldie",
     "localization": {
       "en_US": "Goldie",
@@ -81922,13 +81921,13 @@
       "zh_CN": "牛奶糖",
       "zh_TW": "牛奶糖",
       "ja_JP": "キャラメル",
-      "ko_KR": "카라멜"
+      "ko_KR": "카라멜",
+      "ru_RU": "Голди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog01",
-    "Russian": "Бутч",
     "ref": "Butch",
     "localization": {
       "en_US": "Butch",
@@ -81943,13 +81942,13 @@
       "zh_CN": "约翰",
       "zh_TW": "約翰",
       "ja_JP": "ジョン",
-      "ko_KR": "존"
+      "ko_KR": "존",
+      "ru_RU": "Бутч"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog02",
-    "Russian": "Лаки",
     "ref": "Lucky",
     "localization": {
       "en_US": "Lucky",
@@ -81964,13 +81963,13 @@
       "zh_CN": "大吉",
       "zh_TW": "大吉",
       "ja_JP": "ラッキー",
-      "ko_KR": "럭키"
+      "ko_KR": "럭키",
+      "ru_RU": "Лаки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog03",
-    "Russian": "Бискит",
     "ref": "Biskit",
     "localization": {
       "en_US": "Biskit",
@@ -81985,13 +81984,13 @@
       "zh_CN": "罗宾",
       "zh_TW": "羅賓",
       "ja_JP": "ロビン",
-      "ko_KR": "로빈"
+      "ko_KR": "로빈",
+      "ru_RU": "Бискит"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog04",
-    "Russian": "Боунс",
     "ref": "Bones",
     "localization": {
       "en_US": "Bones",
@@ -82006,13 +82005,13 @@
       "zh_CN": "阿富",
       "zh_TW": "阿富",
       "ja_JP": "トミ",
-      "ko_KR": "토미"
+      "ko_KR": "토미",
+      "ru_RU": "Боунс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog05",
-    "Russian": "Порци",
     "ref": "Portia",
     "localization": {
       "en_US": "Portia",
@@ -82027,13 +82026,13 @@
       "zh_CN": "傅兰",
       "zh_TW": "傅蘭",
       "ja_JP": "ブレンダ",
-      "ko_KR": "블랜더"
+      "ko_KR": "블랜더",
+      "ru_RU": "Порци"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog06",
-    "Russian": "Уокер",
     "ref": "Walker",
     "localization": {
       "en_US": "Walker",
@@ -82048,13 +82047,13 @@
       "zh_CN": "阿笨",
       "zh_TW": "阿笨",
       "ja_JP": "ベン",
-      "ko_KR": "벤"
+      "ko_KR": "벤",
+      "ru_RU": "Уокер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog07",
-    "Russian": "Дейзи",
     "ref": "Daisy",
     "localization": {
       "en_US": "Daisy",
@@ -82069,13 +82068,13 @@
       "zh_CN": "香草",
       "zh_TW": "香草",
       "ja_JP": "バニラ",
-      "ko_KR": "바닐라"
+      "ko_KR": "바닐라",
+      "ru_RU": "Дейзи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog08",
-    "Russian": "Куки",
     "ref": "Cookie",
     "localization": {
       "en_US": "Cookie",
@@ -82090,13 +82089,13 @@
       "zh_CN": "珮琳",
       "zh_TW": "珮琳",
       "ja_JP": "ペリーヌ",
-      "ko_KR": "베리"
+      "ko_KR": "베리",
+      "ru_RU": "Куки"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog09",
-    "Russian": "Мэдди",
     "ref": "Maddie",
     "localization": {
       "en_US": "Maddie",
@@ -82111,13 +82110,13 @@
       "zh_CN": "麻蓉",
       "zh_TW": "麻蓉",
       "ja_JP": "マロン",
-      "ko_KR": "마롱"
+      "ko_KR": "마롱",
+      "ru_RU": "Мэдди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog10",
-    "Russian": "Бе",
     "ref": "Bea",
     "localization": {
       "en_US": "Bea",
@@ -82132,13 +82131,13 @@
       "zh_CN": "贝果",
       "zh_TW": "貝果",
       "ja_JP": "ベーグル",
-      "ko_KR": "베이글"
+      "ko_KR": "베이글",
+      "ru_RU": "Бе"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog14",
-    "Russian": "Мак",
     "ref": "Mac",
     "localization": {
       "en_US": "Mac",
@@ -82153,13 +82152,13 @@
       "zh_CN": "金牌",
       "zh_TW": "金牌",
       "ja_JP": "チャンプ",
-      "ko_KR": "챔프"
+      "ko_KR": "챔프",
+      "ru_RU": "Мак"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog15",
-    "Russian": "Марсел",
     "ref": "Marcel",
     "localization": {
       "en_US": "Marcel",
@@ -82174,13 +82173,13 @@
       "zh_CN": "文字烧",
       "zh_TW": "文字燒",
       "ja_JP": "もんじゃ",
-      "ko_KR": "에드워드"
+      "ko_KR": "에드워드",
+      "ru_RU": "Марсел"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog16",
-    "Russian": "Бернардо",
     "ref": "Benjamin",
     "localization": {
       "en_US": "Benjamin",
@@ -82195,13 +82194,13 @@
       "zh_CN": "小八",
       "zh_TW": "小八",
       "ja_JP": "ハチ",
-      "ko_KR": "땡칠이"
+      "ko_KR": "땡칠이",
+      "ru_RU": "Бернардо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog17",
-    "Russian": "Черри",
     "ref": "Cherry",
     "localization": {
       "en_US": "Cherry",
@@ -82216,13 +82215,13 @@
       "zh_CN": "花娜",
       "zh_TW": "花娜",
       "ja_JP": "ハンナ",
-      "ko_KR": "한나"
+      "ko_KR": "한나",
+      "ru_RU": "Черри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "dog18",
-    "Russian": "Шеп",
     "ref": "Shep",
     "localization": {
       "en_US": "Shep",
@@ -82237,13 +82236,13 @@
       "zh_CN": "包伯",
       "zh_TW": "包伯",
       "ja_JP": "ボブ",
-      "ko_KR": "밥"
+      "ko_KR": "밥",
+      "ru_RU": "Шеп"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk00",
-    "Russian": "Билл",
     "ref": "Bill",
     "localization": {
       "en_US": "Bill",
@@ -82258,13 +82257,13 @@
       "zh_CN": "皮蛋",
       "zh_TW": "皮蛋",
       "ja_JP": "ピータン",
-      "ko_KR": "코코아"
+      "ko_KR": "코코아",
+      "ru_RU": "Билл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk01",
-    "Russian": "Джоуи",
     "ref": "Joey",
     "localization": {
       "en_US": "Joey",
@@ -82279,13 +82278,13 @@
       "zh_CN": "李察",
       "zh_TW": "李察",
       "ja_JP": "リチャード",
-      "ko_KR": "리처드"
+      "ko_KR": "리처드",
+      "ru_RU": "Джоуи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk02",
-    "Russian": "Пэйт",
     "ref": "Pate",
     "localization": {
       "en_US": "Pate",
@@ -82300,13 +82299,13 @@
       "zh_CN": "爱哭鬼",
       "zh_TW": "愛哭鬼",
       "ja_JP": "ナッキー",
-      "ko_KR": "나키"
+      "ko_KR": "나키",
+      "ru_RU": "Пэйт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk03",
-    "Russian": "Маэль",
     "ref": "Maelle",
     "localization": {
       "en_US": "Maelle",
@@ -82321,13 +82320,13 @@
       "zh_CN": "安妮",
       "zh_TW": "安妮",
       "ja_JP": "アンヌ",
-      "ko_KR": "앤"
+      "ko_KR": "앤",
+      "ru_RU": "Маэль"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk04",
-    "Russian": "Дин",
     "ref": "Deena",
     "localization": {
       "en_US": "Deena",
@@ -82342,13 +82341,13 @@
       "zh_CN": "球藻",
       "zh_TW": "毬藻",
       "ja_JP": "まりも",
-      "ko_KR": "마리모"
+      "ko_KR": "마리모",
+      "ru_RU": "Дин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk05",
-    "Russian": "Помпом",
     "ref": "Pompom",
     "localization": {
       "en_US": "Pompom",
@@ -82363,13 +82362,13 @@
       "zh_CN": "海苔裴",
       "zh_TW": "海苔裴",
       "ja_JP": "のりっぺ",
-      "ko_KR": "주디"
+      "ko_KR": "주디",
+      "ru_RU": "Помпом"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk06",
-    "Russian": "Мэллари",
     "ref": "Mallary",
     "localization": {
       "en_US": "Mallary",
@@ -82384,13 +82383,13 @@
       "zh_CN": "苏米",
       "zh_TW": "蘇米",
       "ja_JP": "スミモモ",
-      "ko_KR": "스미모"
+      "ko_KR": "스미모",
+      "ru_RU": "Мэллари"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk07",
-    "Russian": "Фреклс",
     "ref": "Freckles",
     "localization": {
       "en_US": "Freckles",
@@ -82405,13 +82404,13 @@
       "zh_CN": "小鲔",
       "zh_TW": "小鮪",
       "ja_JP": "マグロ",
-      "ko_KR": "다랑어"
+      "ko_KR": "다랑어",
+      "ru_RU": "Фреклс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk08",
-    "Russian": "Дервин",
     "ref": "Derwin",
     "localization": {
       "en_US": "Derwin",
@@ -82426,13 +82425,13 @@
       "zh_CN": "阿坊",
       "zh_TW": "阿坊",
       "ja_JP": "ボン",
-      "ko_KR": "봉"
+      "ko_KR": "봉",
+      "ru_RU": "Дервин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk09",
-    "Russian": "Дрейк",
     "ref": "Drake",
     "localization": {
       "en_US": "Drake",
@@ -82447,13 +82446,13 @@
       "zh_CN": "肥肝",
       "zh_TW": "肥肝",
       "ja_JP": "フォアグラ",
-      "ko_KR": "푸아그라"
+      "ko_KR": "푸아그라",
+      "ru_RU": "Дрейк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk10",
-    "Russian": "Скут",
     "ref": "Scoot",
     "localization": {
       "en_US": "Scoot",
@@ -82468,13 +82467,13 @@
       "zh_CN": "阿守",
       "zh_TW": "阿守",
       "ja_JP": "マモル",
-      "ko_KR": "지키미"
+      "ko_KR": "지키미",
+      "ru_RU": "Скут"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk11",
-    "Russian": "Вебер",
     "ref": "Weber",
     "localization": {
       "en_US": "Weber",
@@ -82489,13 +82488,13 @@
       "zh_CN": "卿德",
       "zh_TW": "卿德",
       "ja_JP": "アチョット",
-      "ko_KR": "아잠만"
+      "ko_KR": "아잠만",
+      "ru_RU": "Вебер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk12",
-    "Russian": "Миранд",
     "ref": "Miranda",
     "localization": {
       "en_US": "Miranda",
@@ -82510,13 +82509,13 @@
       "zh_CN": "米兰达",
       "zh_TW": "米蘭達",
       "ja_JP": "ミランダ",
-      "ko_KR": "미란다"
+      "ko_KR": "미란다",
+      "ru_RU": "Миранд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk13",
-    "Russian": "Кетчуп",
     "ref": "Ketchup",
     "localization": {
       "en_US": "Ketchup",
@@ -82531,13 +82530,13 @@
       "zh_CN": "番茄酱",
       "zh_TW": "番茄醬",
       "ja_JP": "ケチャップ",
-      "ko_KR": "케첩"
+      "ko_KR": "케첩",
+      "ru_RU": "Кетчуп"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk15",
-    "Russian": "Глори",
     "ref": "Gloria",
     "localization": {
       "en_US": "Gloria",
@@ -82552,13 +82551,13 @@
       "zh_CN": "素返真",
       "zh_TW": "素返真",
       "ja_JP": "スワンソン",
-      "ko_KR": "마릴린"
+      "ko_KR": "마릴린",
+      "ru_RU": "Глори"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk16",
-    "Russian": "Молли",
     "ref": "Molly",
     "localization": {
       "en_US": "Molly",
@@ -82573,13 +82572,13 @@
       "zh_CN": "亚美",
       "zh_TW": "亞美",
       "ja_JP": "カモミ",
-      "ko_KR": "귀오미"
+      "ko_KR": "귀오미",
+      "ru_RU": "Молли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "duk17",
-    "Russian": "Квилсон",
     "ref": "Quillson",
     "localization": {
       "en_US": "Quillson",
@@ -82594,13 +82593,13 @@
       "zh_CN": "何童",
       "zh_TW": "何童",
       "ja_JP": "タックン",
-      "ko_KR": "덕근"
+      "ko_KR": "덕근",
+      "ru_RU": "Квилсон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp00",
-    "Russian": "Опал",
     "ref": "Opal",
     "localization": {
       "en_US": "Opal",
@@ -82615,13 +82614,13 @@
       "zh_CN": "露露",
       "zh_TW": "露露",
       "ja_JP": "オパール",
-      "ko_KR": "오팔"
+      "ko_KR": "오팔",
+      "ru_RU": "Опал"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp01",
-    "Russian": "Диззи",
     "ref": "Dizzy",
     "localization": {
       "en_US": "Dizzy",
@@ -82636,13 +82635,13 @@
       "zh_CN": "巨巨",
       "zh_TW": "巨巨",
       "ja_JP": "ヒュージ",
-      "ko_KR": "휴지"
+      "ko_KR": "휴지",
+      "ru_RU": "Диззи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp02",
-    "Russian": "Биг-Топ",
     "ref": "Big Top",
     "localization": {
       "en_US": "Big Top",
@@ -82657,13 +82656,13 @@
       "zh_CN": "阿三",
       "zh_TW": "阿三",
       "ja_JP": "３ごう",
-      "ko_KR": "3호"
+      "ko_KR": "3호",
+      "ru_RU": "Биг-Топ"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp03",
-    "Russian": "Элоиз",
     "ref": "Eloise",
     "localization": {
       "en_US": "Eloise",
@@ -82678,13 +82677,13 @@
       "zh_CN": "艾勒芬",
       "zh_TW": "艾勒芬",
       "ja_JP": "エレフィン",
-      "ko_KR": "엘레핀"
+      "ko_KR": "엘레핀",
+      "ru_RU": "Элоиз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp04",
-    "Russian": "Марджи",
     "ref": "Margie",
     "localization": {
       "en_US": "Margie",
@@ -82699,13 +82698,13 @@
       "zh_CN": "莎莉",
       "zh_TW": "莎莉",
       "ja_JP": "サリー",
-      "ko_KR": "샐리"
+      "ko_KR": "샐리",
+      "ru_RU": "Марджи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp05",
-    "Russian": "Паоло",
     "ref": "Paolo",
     "localization": {
       "en_US": "Paolo",
@@ -82720,13 +82719,13 @@
       "zh_CN": "保罗",
       "zh_TW": "保羅",
       "ja_JP": "パオロ",
-      "ko_KR": "파올로"
+      "ko_KR": "파올로",
+      "ru_RU": "Паоло"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp06",
-    "Russian": "Аксел",
     "ref": "Axel",
     "localization": {
       "en_US": "Axel",
@@ -82741,13 +82740,13 @@
       "zh_CN": "大大",
       "zh_TW": "大大",
       "ja_JP": "エックスエル",
-      "ko_KR": "엑스엘리"
+      "ko_KR": "엑스엘리",
+      "ru_RU": "Аксел"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp07",
-    "Russian": "Элл",
     "ref": "Ellie",
     "localization": {
       "en_US": "Ellie",
@@ -82762,13 +82761,13 @@
       "zh_CN": "泡芙",
       "zh_TW": "泡芙",
       "ja_JP": "エクレア",
-      "ko_KR": "에끌레르"
+      "ko_KR": "에끌레르",
+      "ru_RU": "Элл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp09",
-    "Russian": "Такер",
     "ref": "Tucker",
     "localization": {
       "en_US": "Tucker",
@@ -82783,13 +82782,13 @@
       "zh_CN": "阿原",
       "zh_TW": "阿原",
       "ja_JP": "はじめ",
-      "ko_KR": "맘모"
+      "ko_KR": "맘모",
+      "ru_RU": "Такер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp10",
-    "Russian": "Ти",
     "ref": "Tia",
     "localization": {
       "en_US": "Tia",
@@ -82804,13 +82803,13 @@
       "zh_CN": "茉莉",
       "zh_TW": "茉莉",
       "ja_JP": "ティーナ",
-      "ko_KR": "티나"
+      "ko_KR": "티나",
+      "ru_RU": "Ти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp11",
-    "Russian": "Чай",
     "ref": "Chai",
     "localization": {
       "en_US": "Chai",
@@ -82825,13 +82824,13 @@
       "zh_CN": "啡卡",
       "zh_TW": "啡卡",
       "ja_JP": "フィーカ",
-      "ko_KR": "피카"
+      "ko_KR": "피카",
+      "ru_RU": "Чай"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "elp12",
-    "Russian": "Сид",
     "ref": "Cyd",
     "localization": {
       "en_US": "Cyd",
@@ -82846,13 +82845,13 @@
       "zh_CN": "庞克斯",
       "zh_TW": "龐克斯",
       "ja_JP": "パンクス",
-      "ko_KR": "펑크스"
+      "ko_KR": "펑크스",
+      "ru_RU": "Сид"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg00",
-    "Russian": "Лили",
     "ref": "Lily",
     "localization": {
       "en_US": "Lily",
@@ -82867,13 +82866,13 @@
       "zh_CN": "雷妮",
       "zh_TW": "雷妮",
       "ja_JP": "レイニー",
-      "ko_KR": "레이니"
+      "ko_KR": "레이니",
+      "ru_RU": "Лили"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg01",
-    "Russian": "Риббот",
     "ref": "Ribbot",
     "localization": {
       "en_US": "Ribbot",
@@ -82888,13 +82887,13 @@
       "zh_CN": "锵锵",
       "zh_TW": "鏘鏘",
       "ja_JP": "ガチャ",
-      "ko_KR": "철컥"
+      "ko_KR": "철컥",
+      "ru_RU": "Риббот"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg02",
-    "Russian": "Фроберт",
     "ref": "Frobert",
     "localization": {
       "en_US": "Frobert",
@@ -82909,13 +82908,13 @@
       "zh_CN": "江适",
       "zh_TW": "江適",
       "ja_JP": "コージィ",
-      "ko_KR": "구리구리"
+      "ko_KR": "구리구리",
+      "ru_RU": "Фроберт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg03",
-    "Russian": "Камофрог",
     "ref": "Camofrog",
     "localization": {
       "en_US": "Camofrog",
@@ -82930,13 +82929,13 @@
       "zh_CN": "迷仔",
       "zh_TW": "迷仔",
       "ja_JP": "フルメタル",
-      "ko_KR": "충성"
+      "ko_KR": "충성",
+      "ru_RU": "Камофрог"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg04",
-    "Russian": "Дрифт",
     "ref": "Drift",
     "localization": {
       "en_US": "Drift",
@@ -82951,13 +82950,13 @@
       "zh_CN": "毒仔",
       "zh_TW": "毒仔",
       "ja_JP": "ドク",
-      "ko_KR": "덕"
+      "ko_KR": "덕",
+      "ru_RU": "Дрифт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg05",
-    "Russian": "Варт",
     "ref": "Wart Jr.",
     "localization": {
       "en_US": "Wart Jr.",
@@ -82972,13 +82971,13 @@
       "zh_CN": "山姆",
       "zh_TW": "山姆",
       "ja_JP": "サム",
-      "ko_KR": "샘"
+      "ko_KR": "샘",
+      "ru_RU": "Варт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg06",
-    "Russian": "Ренат",
     "ref": "Puddles",
     "localization": {
       "en_US": "Puddles",
@@ -82993,13 +82992,13 @@
       "zh_CN": "剪刀",
       "zh_TW": "剪刀",
       "ja_JP": "チョキ",
-      "ko_KR": "가위"
+      "ko_KR": "가위",
+      "ru_RU": "Ренат"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg07",
-    "Russian": "Джереми",
     "ref": "Jeremiah",
     "localization": {
       "en_US": "Jeremiah",
@@ -83014,13 +83013,13 @@
       "zh_CN": "阿刻",
       "zh_TW": "阿刻",
       "ja_JP": "クワトロ",
-      "ko_KR": "드리미"
+      "ko_KR": "드리미",
+      "ru_RU": "Джереми"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg09",
-    "Russian": "Тэд",
     "ref": "Tad",
     "localization": {
       "en_US": "Tad",
@@ -83035,13 +83034,13 @@
       "zh_CN": "阿田",
       "zh_TW": "阿田",
       "ja_JP": "タンボ",
-      "ko_KR": "텀보"
+      "ko_KR": "텀보",
+      "ru_RU": "Тэд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg10",
-    "Russian": "Кусто",
     "ref": "Cousteau",
     "localization": {
       "en_US": "Cousteau",
@@ -83056,13 +83055,13 @@
       "zh_CN": "春卷",
       "zh_TW": "春卷",
       "ja_JP": "ハルマキ",
-      "ko_KR": "왕서방"
+      "ko_KR": "왕서방",
+      "ru_RU": "Кусто"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg11",
-    "Russian": "Хак",
     "ref": "Huck",
     "localization": {
       "en_US": "Huck",
@@ -83077,13 +83076,13 @@
       "zh_CN": "吸管",
       "zh_TW": "吸管",
       "ja_JP": "ストロー",
-      "ko_KR": "스트로"
+      "ko_KR": "스트로",
+      "ru_RU": "Хак"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg12",
-    "Russian": "Принс",
     "ref": "Prince",
     "localization": {
       "en_US": "Prince",
@@ -83098,13 +83097,13 @@
       "zh_CN": "青呱",
       "zh_TW": "青呱",
       "ja_JP": "カール",
-      "ko_KR": "카일"
+      "ko_KR": "카일",
+      "ru_RU": "Принс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg13",
-    "Russian": "Джембет",
     "ref": "Jambette",
     "localization": {
       "en_US": "Jambette",
@@ -83119,13 +83118,13 @@
       "zh_CN": "翡翠",
       "zh_TW": "翡翠",
       "ja_JP": "エスメラルダ",
-      "ko_KR": "에스메랄다"
+      "ko_KR": "에스메랄다",
+      "ru_RU": "Джембет"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg15",
-    "Russian": "Рэддл",
     "ref": "Raddle",
     "localization": {
       "en_US": "Raddle",
@@ -83140,13 +83139,13 @@
       "zh_CN": "嘉俊",
       "zh_TW": "嘉俊",
       "ja_JP": "カックン",
-      "ko_KR": "개군"
+      "ko_KR": "개군",
+      "ru_RU": "Рэддл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg16",
-    "Russian": "Джиджи",
     "ref": "Gigi",
     "localization": {
       "en_US": "Gigi",
@@ -83161,13 +83160,13 @@
       "zh_CN": "林妲",
       "zh_TW": "林妲",
       "ja_JP": "リンダ",
-      "ko_KR": "린다"
+      "ko_KR": "린다",
+      "ru_RU": "Джиджи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg17",
-    "Russian": "Крок",
     "ref": "Croque",
     "localization": {
       "en_US": "Croque",
@@ -83182,13 +83181,13 @@
       "zh_CN": "太子",
       "zh_TW": "太子",
       "ja_JP": "タイシ",
-      "ko_KR": "투투"
+      "ko_KR": "투투",
+      "ru_RU": "Крок"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg18",
-    "Russian": "Див",
     "ref": "Diva",
     "localization": {
       "en_US": "Diva",
@@ -83203,13 +83202,13 @@
       "zh_CN": "小睫",
       "zh_TW": "小睫",
       "ja_JP": "アイーダ",
-      "ko_KR": "아이다"
+      "ko_KR": "아이다",
+      "ru_RU": "Див"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "flg19",
-    "Russian": "Генри",
     "ref": "Henry",
     "localization": {
       "en_US": "Henry",
@@ -83224,13 +83223,13 @@
       "zh_CN": "亨利",
       "zh_TW": "亨利",
       "ja_JP": "ヘンリー",
-      "ko_KR": "헨리"
+      "ko_KR": "헨리",
+      "ru_RU": "Генри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa00",
-    "Russian": "Шевр",
     "ref": "Chevre",
     "localization": {
       "en_US": "Chevre",
@@ -83245,13 +83244,13 @@
       "zh_CN": "雪儿",
       "zh_TW": "雪兒",
       "ja_JP": "ユキ",
-      "ko_KR": "윤이"
+      "ko_KR": "윤이",
+      "ru_RU": "Шевр"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa01",
-    "Russian": "Нань",
     "ref": "Nan",
     "localization": {
       "en_US": "Nan",
@@ -83266,13 +83265,13 @@
       "zh_CN": "墨墨",
       "zh_TW": "墨墨",
       "ja_JP": "スミ",
-      "ko_KR": "순이"
+      "ko_KR": "순이",
+      "ru_RU": "Нань"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa02",
-    "Russian": "Билли",
     "ref": "Billy",
     "localization": {
       "en_US": "Billy",
@@ -83287,13 +83286,13 @@
       "zh_CN": "亚星",
       "zh_TW": "亞星",
       "ja_JP": "アーシンド",
-      "ko_KR": "힘드러"
+      "ko_KR": "힘드러",
+      "ru_RU": "Билли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa04",
-    "Russian": "Графф",
     "ref": "Gruff",
     "localization": {
       "en_US": "Gruff",
@@ -83308,13 +83307,13 @@
       "zh_CN": "比利",
       "zh_TW": "比利",
       "ja_JP": "ビリー",
-      "ko_KR": "빌리"
+      "ko_KR": "빌리",
+      "ru_RU": "Графф"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa06",
-    "Russian": "Велм",
     "ref": "Velma",
     "localization": {
       "en_US": "Velma",
@@ -83329,13 +83328,13 @@
       "zh_CN": "班长",
       "zh_TW": "班長",
       "ja_JP": "ピティエ",
-      "ko_KR": "벨마"
+      "ko_KR": "벨마",
+      "ru_RU": "Велм"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa07",
-    "Russian": "Кидд",
     "ref": "Kidd",
     "localization": {
       "en_US": "Kidd",
@@ -83350,13 +83349,13 @@
       "zh_CN": "文青",
       "zh_TW": "文青",
       "ja_JP": "やさお",
-      "ko_KR": "염두리"
+      "ko_KR": "염두리",
+      "ru_RU": "Кидд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa08",
-    "Russian": "Пашмин",
     "ref": "Pashmina",
     "localization": {
       "en_US": "Pashmina",
@@ -83371,13 +83370,13 @@
       "zh_CN": "芭芭拉",
       "zh_TW": "芭芭拉",
       "ja_JP": "バーバラ",
-      "ko_KR": "바바라"
+      "ko_KR": "바바라",
+      "ru_RU": "Пашмин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "goa09",
-    "Russian": "Шерб",
     "ref": "Sherb",
     "localization": {
       "en_US": "Sherb",
@@ -83392,13 +83391,13 @@
       "zh_CN": "雷姆",
       "zh_TW": "雷姆",
       "ja_JP": "レム",
-      "ko_KR": "래미"
+      "ko_KR": "래미",
+      "ru_RU": "Шерб"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor00",
-    "Russian": "Цезар",
     "ref": "Cesar",
     "localization": {
       "en_US": "Cesar",
@@ -83413,13 +83412,13 @@
       "zh_CN": "阿朗",
       "zh_TW": "阿朗",
       "ja_JP": "アラン",
-      "ko_KR": "앨런"
+      "ko_KR": "앨런",
+      "ru_RU": "Цезар"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor01",
-    "Russian": "Пиви",
     "ref": "Peewee",
     "localization": {
       "en_US": "Peewee",
@@ -83434,13 +83433,13 @@
       "zh_CN": "哑铃",
       "zh_TW": "啞鈴",
       "ja_JP": "ダンベル",
-      "ko_KR": "덤벨"
+      "ko_KR": "덤벨",
+      "ru_RU": "Пиви"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor02",
-    "Russian": "Бун",
     "ref": "Boone",
     "localization": {
       "en_US": "Boone",
@@ -83455,13 +83454,13 @@
       "zh_CN": "万泰",
       "zh_TW": "萬泰",
       "ja_JP": "まんたろう",
-      "ko_KR": "만복이"
+      "ko_KR": "만복이",
+      "ru_RU": "Бун"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor04",
-    "Russian": "Луи",
     "ref": "Louie",
     "localization": {
       "en_US": "Louie",
@@ -83476,13 +83475,13 @@
       "zh_CN": "壮壮",
       "zh_TW": "壯壯",
       "ja_JP": "マッスル",
-      "ko_KR": "머슬"
+      "ko_KR": "머슬",
+      "ru_RU": "Луи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor05",
-    "Russian": "Бойд",
     "ref": "Boyd",
     "localization": {
       "en_US": "Boyd",
@@ -83497,13 +83496,13 @@
       "zh_CN": "空空",
       "zh_TW": "空空",
       "ja_JP": "ボイド",
-      "ko_KR": "보이드"
+      "ko_KR": "보이드",
+      "ru_RU": "Бойд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor07",
-    "Russian": "Конг",
     "ref": "Violet",
     "localization": {
       "en_US": "Violet",
@@ -83518,13 +83517,13 @@
       "zh_CN": "吴紫眉",
       "zh_TW": "吳紫眉",
       "ja_JP": "ウズメ",
-      "ko_KR": "줌마"
+      "ko_KR": "줌마",
+      "ru_RU": "Конг"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor08",
-    "Russian": "Эл",
     "ref": "Al",
     "localization": {
       "en_US": "Al",
@@ -83539,13 +83538,13 @@
       "zh_CN": "阿保",
       "zh_TW": "阿保",
       "ja_JP": "たもつ",
-      "ko_KR": "우락"
+      "ko_KR": "우락",
+      "ru_RU": "Эл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor09",
-    "Russian": "Рокет",
     "ref": "Rocket",
     "localization": {
       "en_US": "Rocket",
@@ -83560,13 +83559,13 @@
       "zh_CN": "阿四",
       "zh_TW": "阿四",
       "ja_JP": "４ごう",
-      "ko_KR": "4호"
+      "ko_KR": "4호",
+      "ru_RU": "Рокет"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor10",
-    "Russian": "Ганс",
     "ref": "Hans",
     "localization": {
       "en_US": "Hans",
@@ -83581,13 +83580,13 @@
       "zh_CN": "史奈鲁",
       "zh_TW": "史奈魯",
       "ja_JP": "スナイル",
-      "ko_KR": "스나일"
+      "ko_KR": "스나일",
+      "ru_RU": "Ганс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "gor11",
-    "Russian": "Рилл",
     "ref": "Rilla",
     "localization": {
       "en_US": "Rilla",
@@ -83602,13 +83601,13 @@
       "zh_CN": "莉拉",
       "zh_TW": "莉拉",
       "ja_JP": "リラ",
-      "ko_KR": "릴라"
+      "ko_KR": "릴라",
+      "ru_RU": "Рилл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham00",
-    "Russian": "Гамлет",
     "ref": "Hamlet",
     "localization": {
       "en_US": "Hamlet",
@@ -83623,13 +83622,13 @@
       "zh_CN": "哈姆",
       "zh_TW": "哈姆",
       "ja_JP": "ハムスケ",
-      "ko_KR": "햄스틴"
+      "ko_KR": "햄스틴",
+      "ru_RU": "Гамлет"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham01",
-    "Russian": "Эпл",
     "ref": "Apple",
     "localization": {
       "en_US": "Apple",
@@ -83644,13 +83643,13 @@
       "zh_CN": "苹果",
       "zh_TW": "蘋果",
       "ja_JP": "アップル",
-      "ko_KR": "애플"
+      "ko_KR": "애플",
+      "ru_RU": "Эпл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham02",
-    "Russian": "Грэм",
     "ref": "Graham",
     "localization": {
       "en_US": "Graham",
@@ -83665,13 +83664,13 @@
       "zh_CN": "麦麦",
       "zh_TW": "麥麥",
       "ja_JP": "グラハム",
-      "ko_KR": "글라햄"
+      "ko_KR": "글라햄",
+      "ru_RU": "Грэм"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham03",
-    "Russian": "Родни",
     "ref": "Rodney",
     "localization": {
       "en_US": "Rodney",
@@ -83686,13 +83685,13 @@
       "zh_CN": "米米",
       "zh_TW": "米米",
       "ja_JP": "ジミー",
-      "ko_KR": "지미"
+      "ko_KR": "지미",
+      "ru_RU": "Родни"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham04",
-    "Russian": "Солей",
     "ref": "Soleil",
     "localization": {
       "en_US": "Soleil",
@@ -83707,13 +83706,13 @@
       "zh_CN": "安安",
       "zh_TW": "安安",
       "ja_JP": "シャンティ",
-      "ko_KR": "샨티"
+      "ko_KR": "샨티",
+      "ru_RU": "Солей"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham05",
-    "Russian": "Клэ",
     "ref": "Clay",
     "localization": {
       "en_US": "Clay",
@@ -83728,13 +83727,13 @@
       "zh_CN": "子墨",
       "zh_TW": "子墨",
       "ja_JP": "どぐろう",
-      "ko_KR": "햄둥"
+      "ko_KR": "햄둥",
+      "ru_RU": "Клэ"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham06",
-    "Russian": "Фларри",
     "ref": "Flurry",
     "localization": {
       "en_US": "Flurry",
@@ -83749,13 +83748,13 @@
       "zh_CN": "雪美",
       "zh_TW": "雪美",
       "ja_JP": "ゆきみ",
-      "ko_KR": "뽀야미"
+      "ko_KR": "뽀야미",
+      "ru_RU": "Фларри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ham07",
-    "Russian": "Хэмфри",
     "ref": "Hamphrey",
     "localization": {
       "en_US": "Hamphrey",
@@ -83770,13 +83769,13 @@
       "zh_CN": "小仓",
       "zh_TW": "小倉",
       "ja_JP": "ハムジ",
-      "ko_KR": "햄쥐"
+      "ko_KR": "햄쥐",
+      "ru_RU": "Хэмфри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip00",
-    "Russian": "Рокко",
     "ref": "Rocco",
     "localization": {
       "en_US": "Rocco",
@@ -83791,13 +83790,13 @@
       "zh_CN": "孔在来",
       "zh_TW": "孔在來",
       "ja_JP": "ゴンザレス",
-      "ko_KR": "곤잘레스"
+      "ko_KR": "곤잘레스",
+      "ru_RU": "Рокко"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip02",
-    "Russian": "Баблс",
     "ref": "Bubbles",
     "localization": {
       "en_US": "Bubbles",
@@ -83812,13 +83811,13 @@
       "zh_CN": "曹珂",
       "zh_TW": "曹珂",
       "ja_JP": "チャコ",
-      "ko_KR": "차코"
+      "ko_KR": "차코",
+      "ru_RU": "Баблс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip03",
-    "Russian": "Берт",
     "ref": "Bertha",
     "localization": {
       "en_US": "Bertha",
@@ -83833,13 +83832,13 @@
       "zh_CN": "豆沙",
       "zh_TW": "豆沙",
       "ja_JP": "あんこ",
-      "ko_KR": "베티"
+      "ko_KR": "베티",
+      "ru_RU": "Берт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip04",
-    "Russian": "Бифф",
     "ref": "Biff",
     "localization": {
       "en_US": "Biff",
@@ -83854,13 +83853,13 @@
       "zh_CN": "贾宝为",
       "zh_TW": "賈寶為",
       "ja_JP": "ガブリエル",
-      "ko_KR": "가브리엘"
+      "ko_KR": "가브리엘",
+      "ru_RU": "Бифф"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip05",
-    "Russian": "Битти",
     "ref": "Bitty",
     "localization": {
       "en_US": "Bitty",
@@ -83875,13 +83874,13 @@
       "zh_CN": "艾咪",
       "zh_TW": "艾咪",
       "ja_JP": "エーミー",
-      "ko_KR": "비티"
+      "ko_KR": "비티",
+      "ru_RU": "Битти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip08",
-    "Russian": "Гарри",
     "ref": "Harry",
     "localization": {
       "en_US": "Harry",
@@ -83896,13 +83895,13 @@
       "zh_CN": "欧世豪",
       "zh_TW": "歐世豪",
       "ja_JP": "オリバー",
-      "ko_KR": "올리버"
+      "ko_KR": "올리버",
+      "ru_RU": "Гарри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hip09",
-    "Russian": "Гиппо",
     "ref": "Hippeux",
     "localization": {
       "en_US": "Hippeux",
@@ -83917,13 +83916,13 @@
       "zh_CN": "戴维",
       "zh_TW": "戴維",
       "ja_JP": "ディビッド",
-      "ko_KR": "데이빗"
+      "ko_KR": "데이빗",
+      "ru_RU": "Гиппо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs00",
-    "Russian": "Бак",
     "ref": "Buck",
     "localization": {
       "en_US": "Buck",
@@ -83938,13 +83937,13 @@
       "zh_CN": "威亚",
       "zh_TW": "威亞",
       "ja_JP": "ヴァヤシコフ",
-      "ko_KR": "바야시코프"
+      "ko_KR": "바야시코프",
+      "ru_RU": "Бак"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs01",
-    "Russian": "Виктори",
     "ref": "Victoria",
     "localization": {
       "en_US": "Victoria",
@@ -83959,13 +83958,13 @@
       "zh_CN": "圣萝",
       "zh_TW": "聖蘿",
       "ja_JP": "セントアロー",
-      "ko_KR": "센트엘로"
+      "ko_KR": "센트엘로",
+      "ru_RU": "Виктори"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs02",
-    "Russian": "Саванн",
     "ref": "Savannah",
     "localization": {
       "en_US": "Savannah",
@@ -83980,13 +83979,13 @@
       "zh_CN": "草斑娜",
       "zh_TW": "草斑娜",
       "ja_JP": "サバンナ",
-      "ko_KR": "사반나"
+      "ko_KR": "사반나",
+      "ru_RU": "Саванн"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs03",
-    "Russian": "Элмер",
     "ref": "Elmer",
     "localization": {
       "en_US": "Elmer",
@@ -84001,13 +84000,13 @@
       "zh_CN": "酥饼",
       "zh_TW": "酥餅",
       "ja_JP": "サブレ",
-      "ko_KR": "샤브렌"
+      "ko_KR": "샤브렌",
+      "ru_RU": "Элмер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs04",
-    "Russian": "Роско",
     "ref": "Roscoe",
     "localization": {
       "en_US": "Roscoe",
@@ -84022,13 +84021,13 @@
       "zh_CN": "黑马",
       "zh_TW": "黑馬",
       "ja_JP": "シュバルツ",
-      "ko_KR": "슈베르트"
+      "ko_KR": "슈베르트",
+      "ru_RU": "Роско"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs05",
-    "Russian": "Винни",
     "ref": "Winnie",
     "localization": {
       "en_US": "Winnie",
@@ -84043,13 +84042,13 @@
       "zh_CN": "马星星",
       "zh_TW": "馬星星",
       "ja_JP": "マキバスター",
-      "ko_KR": "카로틴"
+      "ko_KR": "카로틴",
+      "ru_RU": "Винни"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs06",
-    "Russian": "Эд",
     "ref": "Ed",
     "localization": {
       "en_US": "Ed",
@@ -84064,13 +84063,13 @@
       "zh_CN": "马誉",
       "zh_TW": "馬譽",
       "ja_JP": "キザノホマレ",
-      "ko_KR": "꺼벙"
+      "ko_KR": "꺼벙",
+      "ru_RU": "Эд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs07",
-    "Russian": "Клео",
     "ref": "Cleo",
     "localization": {
       "en_US": "Cleo",
@@ -84085,13 +84084,13 @@
       "zh_CN": "小铀",
       "zh_TW": "小鈾",
       "ja_JP": "アイソトープ",
-      "ko_KR": "아이소토프"
+      "ko_KR": "아이소토프",
+      "ru_RU": "Клео"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs08",
-    "Russian": "Пичес",
     "ref": "Peaches",
     "localization": {
       "en_US": "Peaches",
@@ -84106,13 +84105,13 @@
       "zh_CN": "小薰",
       "zh_TW": "小薰",
       "ja_JP": "ドサコ",
-      "ko_KR": "말자"
+      "ko_KR": "말자",
+      "ru_RU": "Пичес"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs09",
-    "Russian": "Лиз",
     "ref": "Annalise",
     "localization": {
       "en_US": "Annalise",
@@ -84127,13 +84126,13 @@
       "zh_CN": "舒芙蕾",
       "zh_TW": "舒芙蕾",
       "ja_JP": "シルブプレ",
-      "ko_KR": "실부플레"
+      "ko_KR": "실부플레",
+      "ru_RU": "Лиз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs10",
-    "Russian": "Клайд",
     "ref": "Clyde",
     "localization": {
       "en_US": "Clyde",
@@ -84148,13 +84147,13 @@
       "zh_CN": "笛笛",
       "zh_TW": "笛笛",
       "ja_JP": "デースケ",
-      "ko_KR": "마철이"
+      "ko_KR": "마철이",
+      "ru_RU": "Клайд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs11",
-    "Russian": "Колтон",
     "ref": "Colton",
     "localization": {
       "en_US": "Colton",
@@ -84169,13 +84168,13 @@
       "zh_CN": "安索尼",
       "zh_TW": "安索尼",
       "ja_JP": "アンソニー",
-      "ko_KR": "안소니"
+      "ko_KR": "안소니",
+      "ru_RU": "Колтон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs12",
-    "Russian": "Папи",
     "ref": "Papi",
     "localization": {
       "en_US": "Papi",
@@ -84190,13 +84189,13 @@
       "zh_CN": "小冈",
       "zh_TW": "小岡",
       "ja_JP": "オカッピ",
-      "ko_KR": "마사마"
+      "ko_KR": "마사마",
+      "ru_RU": "Папи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs13",
-    "Russian": "Джулиан",
     "ref": "Julian",
     "localization": {
       "en_US": "Julian",
@@ -84211,13 +84210,13 @@
       "zh_CN": "朱黎",
       "zh_TW": "朱黎",
       "ja_JP": "ジュリー",
-      "ko_KR": "유니오"
+      "ko_KR": "유니오",
+      "ru_RU": "Джулиан"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "hrs16",
-    "Russian": "Рени",
     "ref": "Reneigh",
     "localization": {
       "en_US": "Reneigh",
@@ -84232,13 +84231,13 @@
       "zh_CN": "雷哈娜",
       "zh_TW": "雷哈娜",
       "ja_JP": "リアーナ",
-      "ko_KR": "리아나"
+      "ko_KR": "리아나",
+      "ru_RU": "Рени"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal00",
-    "Russian": "Юк",
     "ref": "Yuka",
     "localization": {
       "en_US": "Yuka",
@@ -84253,13 +84252,13 @@
       "zh_CN": "尤嘉莉",
       "zh_TW": "尤嘉莉",
       "ja_JP": "ユーカリ",
-      "ko_KR": "유카리"
+      "ko_KR": "유카리",
+      "ru_RU": "Юк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal01",
-    "Russian": "Алис",
     "ref": "Alice",
     "localization": {
       "en_US": "Alice",
@@ -84274,13 +84273,13 @@
       "zh_CN": "莫儿",
       "zh_TW": "莫兒",
       "ja_JP": "メルボルン",
-      "ko_KR": "멜버른"
+      "ko_KR": "멜버른",
+      "ru_RU": "Алис"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal02",
-    "Russian": "Мельб",
     "ref": "Melba",
     "localization": {
       "en_US": "Melba",
@@ -84295,13 +84294,13 @@
       "zh_CN": "阿得",
       "zh_TW": "阿得",
       "ja_JP": "アデレード",
-      "ko_KR": "아델레이드"
+      "ko_KR": "아델레이드",
+      "ru_RU": "Мельб"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal03",
-    "Russian": "Сидни",
     "ref": "Sydney",
     "localization": {
       "en_US": "Sydney",
@@ -84316,13 +84315,13 @@
       "zh_CN": "思颖",
       "zh_TW": "思穎",
       "ja_JP": "シドニー",
-      "ko_KR": "시드니"
+      "ko_KR": "시드니",
+      "ru_RU": "Сидни"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal04",
-    "Russian": "Гонзо",
     "ref": "Gonzo",
     "localization": {
       "en_US": "Gonzo",
@@ -84337,13 +84336,13 @@
       "zh_CN": "钢锁",
       "zh_TW": "鋼鎖",
       "ja_JP": "ゴンゾー",
-      "ko_KR": "근성"
+      "ko_KR": "근성",
+      "ru_RU": "Гонзо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal05",
-    "Russian": "Оззи",
     "ref": "Ozzie",
     "localization": {
       "en_US": "Ozzie",
@@ -84358,13 +84357,13 @@
       "zh_CN": "阿栗",
       "zh_TW": "阿栗",
       "ja_JP": "ドングリ",
-      "ko_KR": "동동이"
+      "ko_KR": "동동이",
+      "ru_RU": "Оззи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal08",
-    "Russian": "Канберр",
     "ref": "Canberra",
     "localization": {
       "en_US": "Canberra",
@@ -84379,13 +84378,13 @@
       "zh_CN": "简培菈",
       "zh_TW": "簡培菈",
       "ja_JP": "キャンベラ",
-      "ko_KR": "캔버라"
+      "ko_KR": "캔버라",
+      "ru_RU": "Канберр"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal09",
-    "Russian": "Лайман",
     "ref": "Lyman",
     "localization": {
       "en_US": "Lyman",
@@ -84400,13 +84399,13 @@
       "zh_CN": "敖志明",
       "zh_TW": "敖志明",
       "ja_JP": "オズモンド",
-      "ko_KR": "오즈먼드"
+      "ko_KR": "오즈먼드",
+      "ru_RU": "Лайман"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kal10",
-    "Russian": "Юджин",
     "ref": "Eugene",
     "localization": {
       "en_US": "Eugene",
@@ -84421,13 +84420,13 @@
       "zh_CN": "罗奇",
       "zh_TW": "羅奇",
       "ja_JP": "ロッキー",
-      "ko_KR": "코알"
+      "ko_KR": "코알",
+      "ru_RU": "Юджин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr00",
-    "Russian": "Китт",
     "ref": "Kitt",
     "localization": {
       "en_US": "Kitt",
@@ -84442,13 +84441,13 @@
       "zh_CN": "缝缝",
       "zh_TW": "縫縫",
       "ja_JP": "アップリケ",
-      "ko_KR": "애플리케"
+      "ko_KR": "애플리케",
+      "ru_RU": "Китт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr01",
-    "Russian": "Матильд",
     "ref": "Mathilda",
     "localization": {
       "en_US": "Mathilda",
@@ -84463,13 +84462,13 @@
       "zh_CN": "亚莎",
       "zh_TW": "亞莎",
       "ja_JP": "アザラク",
-      "ko_KR": "안젤라"
+      "ko_KR": "안젤라",
+      "ru_RU": "Матильд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr02",
-    "Russian": "Кэрри",
     "ref": "Carrie",
     "localization": {
       "en_US": "Carrie",
@@ -84484,13 +84483,13 @@
       "zh_CN": "妈咪",
       "zh_TW": "媽咪",
       "ja_JP": "マミィ",
-      "ko_KR": "마미"
+      "ko_KR": "마미",
+      "ru_RU": "Кэрри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr05",
-    "Russian": "Астрид",
     "ref": "Astrid",
     "localization": {
       "en_US": "Astrid",
@@ -84505,13 +84504,13 @@
       "zh_CN": "童儿",
       "zh_TW": "童兒",
       "ja_JP": "キッズ",
-      "ko_KR": "펑키맘"
+      "ko_KR": "펑키맘",
+      "ru_RU": "Астрид"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr06",
-    "Russian": "Сильви",
     "ref": "Sylvia",
     "localization": {
       "en_US": "Sylvia",
@@ -84526,13 +84525,13 @@
       "zh_CN": "希薇亚",
       "zh_TW": "希薇亞",
       "ja_JP": "シルビア",
-      "ko_KR": "실비아"
+      "ko_KR": "실비아",
+      "ru_RU": "Сильви"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr08",
-    "Russian": "Уолт",
     "ref": "Walt",
     "localization": {
       "en_US": "Walt",
@@ -84547,13 +84546,13 @@
       "zh_CN": "袋钢",
       "zh_TW": "袋鋼",
       "ja_JP": "カンロク",
-      "ko_KR": "관록"
+      "ko_KR": "관록",
+      "ru_RU": "Уолт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr09",
-    "Russian": "Руни",
     "ref": "Rooney",
     "localization": {
       "en_US": "Rooney",
@@ -84568,13 +84567,13 @@
       "zh_CN": "麦克",
       "zh_TW": "麥克",
       "ja_JP": "マイク",
-      "ko_KR": "마이크"
+      "ko_KR": "마이크",
+      "ru_RU": "Руни"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "kgr10",
-    "Russian": "Марси",
     "ref": "Marcie",
     "localization": {
       "en_US": "Marcie",
@@ -84589,13 +84588,13 @@
       "zh_CN": "玛莉亚",
       "zh_TW": "瑪莉亞",
       "ja_JP": "マリア",
-      "ko_KR": "마리아"
+      "ko_KR": "마리아",
+      "ru_RU": "Марси"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon00",
-    "Russian": "Бад",
     "ref": "Bud",
     "localization": {
       "en_US": "Bud",
@@ -84610,13 +84609,13 @@
       "zh_CN": "莫敬",
       "zh_TW": "莫敬",
       "ja_JP": "グラさん",
-      "ko_KR": "선글"
+      "ko_KR": "선글",
+      "ru_RU": "Бад"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon01",
-    "Russian": "Элвис",
     "ref": "Elvis",
     "localization": {
       "en_US": "Elvis",
@@ -84631,13 +84630,13 @@
       "zh_CN": "皇狮",
       "zh_TW": "皇獅",
       "ja_JP": "キング",
-      "ko_KR": "킹"
+      "ko_KR": "킹",
+      "ru_RU": "Элвис"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon02",
-    "Russian": "Рекс",
     "ref": "Rex",
     "localization": {
       "en_US": "Rex",
@@ -84652,13 +84651,13 @@
       "zh_CN": "晴天",
       "zh_TW": "晴天",
       "ja_JP": "サンデー",
-      "ko_KR": "렉스"
+      "ko_KR": "렉스",
+      "ru_RU": "Рекс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon04",
-    "Russian": "Леопольд",
     "ref": "Leopold",
     "localization": {
       "en_US": "Leopold",
@@ -84673,13 +84672,13 @@
       "zh_CN": "老狮",
       "zh_TW": "老獅",
       "ja_JP": "ティーチャー",
-      "ko_KR": "티처"
+      "ko_KR": "티처",
+      "ru_RU": "Леопольд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon06",
-    "Russian": "Мотт",
     "ref": "Mott",
     "localization": {
       "en_US": "Mott",
@@ -84694,13 +84693,13 @@
       "zh_CN": "李克",
       "zh_TW": "李克",
       "ja_JP": "リック",
-      "ko_KR": "릭"
+      "ko_KR": "릭",
+      "ru_RU": "Мотт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon07",
-    "Russian": "Рори",
     "ref": "Rory",
     "localization": {
       "en_US": "Rory",
@@ -84715,13 +84714,13 @@
       "zh_CN": "亚瑟",
       "zh_TW": "亞瑟",
       "ja_JP": "アーサー",
-      "ko_KR": "아더"
+      "ko_KR": "아더",
+      "ru_RU": "Рори"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "lon08",
-    "Russian": "Лайонел",
     "ref": "Lionel",
     "localization": {
       "en_US": "Lionel",
@@ -84736,13 +84735,13 @@
       "zh_CN": "赖恩睿",
       "zh_TW": "賴恩睿",
       "ja_JP": "ライオネル",
-      "ko_KR": "라이오넬"
+      "ko_KR": "라이오넬",
+      "ru_RU": "Лайонел"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk01",
-    "Russian": "Нан",
     "ref": "Nana",
     "localization": {
       "en_US": "Nana",
@@ -84757,13 +84756,13 @@
       "zh_CN": "七七",
       "zh_TW": "七七",
       "ja_JP": "チッチ",
-      "ko_KR": "키키"
+      "ko_KR": "키키",
+      "ru_RU": "Нан"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk02",
-    "Russian": "Саймон",
     "ref": "Simon",
     "localization": {
       "en_US": "Simon",
@@ -84778,13 +84777,13 @@
       "zh_CN": "远仁",
       "zh_TW": "遠仁",
       "ja_JP": "エテキチ",
-      "ko_KR": "시몬"
+      "ko_KR": "시몬",
+      "ru_RU": "Саймон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk03",
-    "Russian": "Тэмми",
     "ref": "Tammi",
     "localization": {
       "en_US": "Tammi",
@@ -84799,13 +84798,13 @@
       "zh_CN": "四月",
       "zh_TW": "四月",
       "ja_JP": "エイプリル",
-      "ko_KR": "에이프릴"
+      "ko_KR": "에이프릴",
+      "ru_RU": "Тэмми"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk04",
-    "Russian": "Монти",
     "ref": "Monty",
     "localization": {
       "en_US": "Monty",
@@ -84820,13 +84819,13 @@
       "zh_CN": "皮猴",
       "zh_TW": "皮猴",
       "ja_JP": "サルモンティ",
-      "ko_KR": "몽티"
+      "ko_KR": "몽티",
+      "ru_RU": "Монти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk05",
-    "Russian": "Элиз",
     "ref": "Elise",
     "localization": {
       "en_US": "Elise",
@@ -84841,13 +84840,13 @@
       "zh_CN": "孟琪",
       "zh_TW": "孟琪",
       "ja_JP": "モンこ",
-      "ko_KR": "몽자"
+      "ko_KR": "몽자",
+      "ru_RU": "Элиз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk06",
-    "Russian": "Флип",
     "ref": "Flip",
     "localization": {
       "en_US": "Flip",
@@ -84862,13 +84861,13 @@
       "zh_CN": "天佑",
       "zh_TW": "天佑",
       "ja_JP": "さすけ",
-      "ko_KR": "원승"
+      "ko_KR": "원승",
+      "ru_RU": "Флип"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk07",
-    "Russian": "Шари",
     "ref": "Shari",
     "localization": {
       "en_US": "Shari",
@@ -84883,13 +84882,13 @@
       "zh_CN": "雪莉",
       "zh_TW": "雪莉",
       "ja_JP": "シェリー",
-      "ko_KR": "젤리"
+      "ko_KR": "젤리",
+      "ru_RU": "Шари"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mnk08",
-    "Russian": "Дели",
     "ref": "Deli",
     "localization": {
       "en_US": "Deli",
@@ -84904,13 +84903,13 @@
       "zh_CN": "德里",
       "zh_TW": "德里",
       "ja_JP": "デリー",
-      "ko_KR": "델리"
+      "ko_KR": "델리",
+      "ru_RU": "Дели"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus00",
-    "Russian": "Дор",
     "ref": "Dora",
     "localization": {
       "en_US": "Dora",
@@ -84925,13 +84924,13 @@
       "zh_CN": "杜美",
       "zh_TW": "杜美",
       "ja_JP": "とめ",
-      "ko_KR": "티미"
+      "ko_KR": "티미",
+      "ru_RU": "Дор"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus01",
-    "Russian": "Лимберг",
     "ref": "Limberg",
     "localization": {
       "en_US": "Limberg",
@@ -84946,13 +84945,13 @@
       "zh_CN": "韭菜",
       "zh_TW": "韭菜",
       "ja_JP": "らっきょ",
-      "ko_KR": "단무지"
+      "ko_KR": "단무지",
+      "ru_RU": "Лимберг"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus02",
-    "Russian": "Белл",
     "ref": "Bella",
     "localization": {
       "en_US": "Bella",
@@ -84967,13 +84966,13 @@
       "zh_CN": "贝拉",
       "zh_TW": "貝拉",
       "ja_JP": "イザベラ",
-      "ko_KR": "이자벨"
+      "ko_KR": "이자벨",
+      "ru_RU": "Белл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus03",
-    "Russian": "Бри",
     "ref": "Bree",
     "localization": {
       "en_US": "Bree",
@@ -84988,13 +84987,13 @@
       "zh_CN": "西瓜皮",
       "zh_TW": "西瓜皮",
       "ja_JP": "サラ",
-      "ko_KR": "사라"
+      "ko_KR": "사라",
+      "ru_RU": "Бри"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus04",
-    "Russian": "Самсон",
     "ref": "Samson",
     "localization": {
       "en_US": "Samson",
@@ -85009,13 +85008,13 @@
       "zh_CN": "和平",
       "zh_TW": "和平",
       "ja_JP": "ピース",
-      "ko_KR": "피스"
+      "ko_KR": "피스",
+      "ru_RU": "Самсон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus05",
-    "Russian": "Род",
     "ref": "Rod",
     "localization": {
       "en_US": "Rod",
@@ -85030,13 +85029,13 @@
       "zh_CN": "阿将",
       "zh_TW": "阿將",
       "ja_JP": "ジャン",
-      "ko_KR": "쟝"
+      "ko_KR": "쟝",
+      "ru_RU": "Род"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus08",
-    "Russian": "Кэнди",
     "ref": "Candi",
     "localization": {
       "en_US": "Candi",
@@ -85051,13 +85050,13 @@
       "zh_CN": "甘油",
       "zh_TW": "甘油",
       "ja_JP": "かんゆ",
-      "ko_KR": "사탕"
+      "ko_KR": "사탕",
+      "ru_RU": "Кэнди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus09",
-    "Russian": "Риццо",
     "ref": "Rizzo",
     "localization": {
       "en_US": "Rizzo",
@@ -85072,13 +85071,13 @@
       "zh_CN": "悄俊",
       "zh_TW": "悄俊",
       "ja_JP": "ちょろきち",
-      "ko_KR": "조르쥐"
+      "ko_KR": "조르쥐",
+      "ru_RU": "Риццо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus10",
-    "Russian": "Аникотти",
     "ref": "Anicotti",
     "localization": {
       "en_US": "Anicotti",
@@ -85093,13 +85092,13 @@
       "zh_CN": "罗萱儿",
       "zh_TW": "羅萱兒",
       "ja_JP": "ラザニア",
-      "ko_KR": "라자냐"
+      "ko_KR": "라자냐",
+      "ru_RU": "Аникотти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus12",
-    "Russian": "Брокколо",
     "ref": "Broccolo",
     "localization": {
       "en_US": "Broccolo",
@@ -85114,13 +85113,13 @@
       "zh_CN": "茜蓝",
       "zh_TW": "茜藍",
       "ja_JP": "ブロッコリー",
-      "ko_KR": "브로콜리"
+      "ko_KR": "브로콜리",
+      "ru_RU": "Брокколо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus14",
-    "Russian": "Муз",
     "ref": "Moose",
     "localization": {
       "en_US": "Moose",
@@ -85135,13 +85134,13 @@
       "zh_CN": "阿聘",
       "zh_TW": "阿聘",
       "ja_JP": "ピン",
-      "ko_KR": "핑"
+      "ko_KR": "핑",
+      "ru_RU": "Муз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus15",
-    "Russian": "Беттин",
     "ref": "Bettina",
     "localization": {
       "en_US": "Bettina",
@@ -85156,13 +85155,13 @@
       "zh_CN": "丸子",
       "zh_TW": "丸子",
       "ja_JP": "マルコ",
-      "ko_KR": "마르카"
+      "ko_KR": "마르카",
+      "ru_RU": "Беттин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus16",
-    "Russian": "Грет",
     "ref": "Greta",
     "localization": {
       "en_US": "Greta",
@@ -85177,13 +85176,13 @@
       "zh_CN": "如意",
       "zh_TW": "如意",
       "ja_JP": "ふくこ",
-      "ko_KR": "복자"
+      "ko_KR": "복자",
+      "ru_RU": "Грет"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus17",
-    "Russian": "Адел",
     "ref": "Penelope",
     "localization": {
       "en_US": "Penelope",
@@ -85198,13 +85197,13 @@
       "zh_CN": "小啾",
       "zh_TW": "小啾",
       "ja_JP": "チューこ",
-      "ko_KR": "찍순이"
+      "ko_KR": "찍순이",
+      "ru_RU": "Адел"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "mus18",
-    "Russian": "Чаддер",
     "ref": "Chadder",
     "localization": {
       "en_US": "Chadder",
@@ -85219,13 +85218,13 @@
       "zh_CN": "起司",
       "zh_TW": "起司",
       "ja_JP": "チーズ",
-      "ko_KR": "치즈"
+      "ko_KR": "치즈",
+      "ru_RU": "Чаддер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ocp00",
-    "Russian": "Октавиан",
     "ref": "Octavian",
     "localization": {
       "en_US": "Octavian",
@@ -85240,13 +85239,13 @@
       "zh_CN": "张瑜",
       "zh_TW": "張瑜",
       "ja_JP": "おくたろう",
-      "ko_KR": "문복"
+      "ko_KR": "문복",
+      "ru_RU": "Октавиан"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ocp01",
-    "Russian": "Марин",
     "ref": "Marina",
     "localization": {
       "en_US": "Marina",
@@ -85261,13 +85260,13 @@
       "zh_CN": "章立娜",
       "zh_TW": "章立娜",
       "ja_JP": "タコリーナ",
-      "ko_KR": "문리나"
+      "ko_KR": "문리나",
+      "ru_RU": "Марин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ocp02",
-    "Russian": "Цукер",
     "ref": "Zucker",
     "localization": {
       "en_US": "Zucker",
@@ -85282,13 +85281,13 @@
       "zh_CN": "章丸丸",
       "zh_TW": "章丸丸",
       "ja_JP": "タコヤ",
-      "ko_KR": "탁호"
+      "ko_KR": "탁호",
+      "ru_RU": "Цукер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost00",
-    "Russian": "Квини",
     "ref": "Queenie",
     "localization": {
       "en_US": "Queenie",
@@ -85303,13 +85302,13 @@
       "zh_CN": "果果",
       "zh_TW": "果果",
       "ja_JP": "タキュ",
-      "ko_KR": "택주"
+      "ko_KR": "택주",
+      "ru_RU": "Квини"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost01",
-    "Russian": "Глэдис",
     "ref": "Gladys",
     "localization": {
       "en_US": "Gladys",
@@ -85324,13 +85323,13 @@
       "zh_CN": "仙仙",
       "zh_TW": "仙仙",
       "ja_JP": "ちとせ",
-      "ko_KR": "빅토리아"
+      "ko_KR": "빅토리아",
+      "ru_RU": "Глэдис"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost02",
-    "Russian": "Сэнди",
     "ref": "Sandy",
     "localization": {
       "en_US": "Sandy",
@@ -85345,13 +85344,13 @@
       "zh_CN": "小岚",
       "zh_TW": "小嵐",
       "ja_JP": "ラン",
-      "ko_KR": "샌디"
+      "ko_KR": "샌디",
+      "ru_RU": "Сэнди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost03",
-    "Russian": "Спрокет",
     "ref": "Sprocket",
     "localization": {
       "en_US": "Sprocket",
@@ -85366,13 +85365,13 @@
       "zh_CN": "鹤兹",
       "zh_TW": "鶴茲",
       "ja_JP": "ヘルツ",
-      "ko_KR": "헤르츠"
+      "ko_KR": "헤르츠",
+      "ru_RU": "Спрокет"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost05",
-    "Russian": "Джули",
     "ref": "Julia",
     "localization": {
       "en_US": "Julia",
@@ -85387,13 +85386,13 @@
       "zh_CN": "朱莉亚",
       "zh_TW": "朱莉亞",
       "ja_JP": "ジュリア",
-      "ko_KR": "줄리아"
+      "ko_KR": "줄리아",
+      "ru_RU": "Джули"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost06",
-    "Russian": "Крэнстон",
     "ref": "Cranston",
     "localization": {
       "en_US": "Cranston",
@@ -85408,13 +85407,13 @@
       "zh_CN": "朱禄",
       "zh_TW": "朱祿",
       "ja_JP": "トキオ",
-      "ko_KR": "타키"
+      "ko_KR": "타키",
+      "ru_RU": "Крэнстон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost07",
-    "Russian": "Фил",
     "ref": "Phil",
     "localization": {
       "en_US": "Phil",
@@ -85429,13 +85428,13 @@
       "zh_CN": "凯恩",
       "zh_TW": "凱恩",
       "ja_JP": "ケイン",
-      "ko_KR": "케인"
+      "ko_KR": "케인",
+      "ru_RU": "Фил"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost08",
-    "Russian": "Бланш",
     "ref": "Blanche",
     "localization": {
       "en_US": "Blanche",
@@ -85450,13 +85449,13 @@
       "zh_CN": "小偲",
       "zh_TW": "小偲",
       "ja_JP": "しのぶ",
-      "ko_KR": "신옥"
+      "ko_KR": "신옥",
+      "ru_RU": "Бланш"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost09",
-    "Russian": "Флор",
     "ref": "Flora",
     "localization": {
       "en_US": "Flora",
@@ -85471,13 +85470,13 @@
       "zh_CN": "胡拉拉",
       "zh_TW": "胡拉拉",
       "ja_JP": "フララ",
-      "ko_KR": "플라라"
+      "ko_KR": "플라라",
+      "ru_RU": "Флор"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "ost10",
-    "Russian": "Фиби",
     "ref": "Phoebe",
     "localization": {
       "en_US": "Phoebe",
@@ -85492,13 +85491,13 @@
       "zh_CN": "火鸟",
       "zh_TW": "火鳥",
       "ja_JP": "ヒノコ",
-      "ko_KR": "휘니"
+      "ko_KR": "휘니",
+      "ru_RU": "Фиби"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr00",
-    "Russian": "Аполло",
     "ref": "Apollo",
     "localization": {
       "en_US": "Apollo",
@@ -85513,13 +85512,13 @@
       "zh_CN": "阿波罗",
       "zh_TW": "阿波羅",
       "ja_JP": "アポロ",
-      "ko_KR": "아폴로"
+      "ko_KR": "아폴로",
+      "ru_RU": "Аполло"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr01",
-    "Russian": "Амели",
     "ref": "Amelia",
     "localization": {
       "en_US": "Amelia",
@@ -85534,13 +85533,13 @@
       "zh_CN": "安地斯",
       "zh_TW": "安地斯",
       "ja_JP": "アンデス",
-      "ko_KR": "안데스"
+      "ko_KR": "안데스",
+      "ru_RU": "Амели"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr02",
-    "Russian": "Пирс",
     "ref": "Pierce",
     "localization": {
       "en_US": "Pierce",
@@ -85555,13 +85554,13 @@
       "zh_CN": "谢博强",
       "zh_TW": "謝博強",
       "ja_JP": "セバスチャン",
-      "ko_KR": "세바스찬"
+      "ko_KR": "세바스찬",
+      "ru_RU": "Пирс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr03",
-    "Russian": "Базз",
     "ref": "Buzz",
     "localization": {
       "en_US": "Buzz",
@@ -85576,13 +85575,13 @@
       "zh_CN": "继光",
       "zh_TW": "繼光",
       "ja_JP": "ひでよし",
-      "ko_KR": "근엄"
+      "ko_KR": "근엄",
+      "ru_RU": "Базз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr05",
-    "Russian": "Авери",
     "ref": "Avery",
     "localization": {
       "en_US": "Avery",
@@ -85597,13 +85596,13 @@
       "zh_CN": "安谷斯",
       "zh_TW": "安谷斯",
       "ja_JP": "クスケチャ",
-      "ko_KR": "쿠스케처"
+      "ko_KR": "쿠스케처",
+      "ru_RU": "Авери"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr06",
-    "Russian": "Франк",
     "ref": "Frank",
     "localization": {
       "en_US": "Frank",
@@ -85618,13 +85617,13 @@
       "zh_CN": "浩克",
       "zh_TW": "浩克",
       "ja_JP": "ハルク",
-      "ko_KR": "헐크"
+      "ko_KR": "헐크",
+      "ru_RU": "Франк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr07",
-    "Russian": "Стерлинг",
     "ref": "Sterling",
     "localization": {
       "en_US": "Sterling",
@@ -85639,13 +85638,13 @@
       "zh_CN": "银阁",
       "zh_TW": "銀閣",
       "ja_JP": "ギンカク",
-      "ko_KR": "은수리"
+      "ko_KR": "은수리",
+      "ru_RU": "Стерлинг"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr08",
-    "Russian": "Китон",
     "ref": "Keaton",
     "localization": {
       "en_US": "Keaton",
@@ -85660,13 +85659,13 @@
       "zh_CN": "法兰克",
       "zh_TW": "法蘭克",
       "ja_JP": "フランク",
-      "ko_KR": "프랭크"
+      "ko_KR": "프랭크",
+      "ru_RU": "Китон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pbr09",
-    "Russian": "Сели",
     "ref": "Celia",
     "localization": {
       "en_US": "Celia",
@@ -85681,13 +85680,13 @@
       "zh_CN": "蒂芬妮",
       "zh_TW": "蒂芬妮",
       "ja_JP": "ティファニー",
-      "ko_KR": "티파니"
+      "ko_KR": "티파니",
+      "ru_RU": "Сели"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn00",
-    "Russian": "Аврор",
     "ref": "Aurora",
     "localization": {
       "en_US": "Aurora",
@@ -85702,13 +85701,13 @@
       "zh_CN": "欧若拉",
       "zh_TW": "歐若拉",
       "ja_JP": "オーロラ",
-      "ko_KR": "오로라"
+      "ko_KR": "오로라",
+      "ru_RU": "Аврор"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn01",
-    "Russian": "Роальд",
     "ref": "Roald",
     "localization": {
       "en_US": "Roald",
@@ -85723,13 +85722,13 @@
       "zh_CN": "企鹅达",
       "zh_TW": "企鵝達",
       "ja_JP": "ペンタ",
-      "ko_KR": "펭수"
+      "ko_KR": "펭수",
+      "ru_RU": "Роальд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn02",
-    "Russian": "Кьюб",
     "ref": "Cube",
     "localization": {
       "en_US": "Cube",
@@ -85744,13 +85743,13 @@
       "zh_CN": "罗斯",
       "zh_TW": "羅斯",
       "ja_JP": "ビス",
-      "ko_KR": "빙수"
+      "ko_KR": "빙수",
+      "ru_RU": "Кьюб"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn03",
-    "Russian": "Хоппер",
     "ref": "Hopper",
     "localization": {
       "en_US": "Hopper",
@@ -85765,13 +85764,13 @@
       "zh_CN": "达满",
       "zh_TW": "達滿",
       "ja_JP": "ダルマン",
-      "ko_KR": "달만이"
+      "ko_KR": "달만이",
+      "ru_RU": "Хоппер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn04",
-    "Russian": "Фриг",
     "ref": "Friga",
     "localization": {
       "en_US": "Friga",
@@ -85786,13 +85785,13 @@
       "zh_CN": "谢宾娜",
       "zh_TW": "謝賓娜",
       "ja_JP": "サブリナ",
-      "ko_KR": "사브리나"
+      "ko_KR": "사브리나",
+      "ru_RU": "Фриг"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn05",
-    "Russian": "Гвен",
     "ref": "Gwen",
     "localization": {
       "en_US": "Gwen",
@@ -85807,13 +85806,13 @@
       "zh_CN": "宝拉",
       "zh_TW": "寶拉",
       "ja_JP": "ポーラ",
-      "ko_KR": "폴라"
+      "ko_KR": "폴라",
+      "ru_RU": "Гвен"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn06",
-    "Russian": "Пак",
     "ref": "Puck",
     "localization": {
       "en_US": "Puck",
@@ -85828,13 +85827,13 @@
       "zh_CN": "哈奇",
       "zh_TW": "哈奇",
       "ja_JP": "ホッケー",
-      "ko_KR": "하키"
+      "ko_KR": "하키",
+      "ru_RU": "Пак"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn09",
-    "Russian": "Уэйд",
     "ref": "Wade",
     "localization": {
       "en_US": "Wade",
@@ -85849,13 +85848,13 @@
       "zh_CN": "竹轮",
       "zh_TW": "竹輪",
       "ja_JP": "カマボコ",
-      "ko_KR": "호떡"
+      "ko_KR": "호떡",
+      "ru_RU": "Уэйд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn10",
-    "Russian": "Бумер",
     "ref": "Boomer",
     "localization": {
       "en_US": "Boomer",
@@ -85870,13 +85869,13 @@
       "zh_CN": "秀益",
       "zh_TW": "秀益",
       "ja_JP": "ショーイ",
-      "ko_KR": "팽기"
+      "ko_KR": "팽기",
+      "ru_RU": "Бумер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn11",
-    "Russian": "Игли",
     "ref": "Iggly",
     "localization": {
       "en_US": "Iggly",
@@ -85891,13 +85890,13 @@
       "zh_CN": "花寿司",
       "zh_TW": "花壽司",
       "ja_JP": "のりまき",
-      "ko_KR": "김말이"
+      "ko_KR": "김말이",
+      "ru_RU": "Игли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn12",
-    "Russian": "Текс",
     "ref": "Tex",
     "localization": {
       "en_US": "Tex",
@@ -85912,13 +85911,13 @@
       "zh_CN": "伏特",
       "zh_TW": "伏特",
       "ja_JP": "ボルト",
-      "ko_KR": "볼트"
+      "ko_KR": "볼트",
+      "ru_RU": "Текс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn13",
-    "Russian": "Фло",
     "ref": "Flo",
     "localization": {
       "en_US": "Flo",
@@ -85933,13 +85932,13 @@
       "zh_CN": "蕾拉",
       "zh_TW": "蕾拉",
       "ja_JP": "レイラ",
-      "ko_KR": "레이라"
+      "ko_KR": "레이라",
+      "ru_RU": "Фло"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pgn14",
-    "Russian": "Спринкл",
     "ref": "Sprinkle",
     "localization": {
       "en_US": "Sprinkle",
@@ -85954,13 +85953,13 @@
       "zh_CN": "冰莎",
       "zh_TW": "冰莎",
       "ja_JP": "フラッペ",
-      "ko_KR": "크리미"
+      "ko_KR": "크리미",
+      "ru_RU": "Спринкл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig00",
-    "Russian": "Керли",
     "ref": "Curly",
     "localization": {
       "en_US": "Curly",
@@ -85975,13 +85974,13 @@
       "zh_CN": "胜利",
       "zh_TW": "勝利",
       "ja_JP": "ハムカツ",
-      "ko_KR": "햄까스"
+      "ko_KR": "햄까스",
+      "ru_RU": "Керли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig01",
-    "Russian": "Трафлс",
     "ref": "Truffles",
     "localization": {
       "en_US": "Truffles",
@@ -85996,13 +85995,13 @@
       "zh_CN": "嘟嘟",
       "zh_TW": "嘟嘟",
       "ja_JP": "トンコ",
-      "ko_KR": "탱고"
+      "ko_KR": "탱고",
+      "ru_RU": "Трафлс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig02",
-    "Russian": "Рашер",
     "ref": "Rasher",
     "localization": {
       "en_US": "Rasher",
@@ -86017,13 +86016,13 @@
       "zh_CN": "古烈",
       "zh_TW": "古烈",
       "ja_JP": "グレオ",
-      "ko_KR": "글레이"
+      "ko_KR": "글레이",
+      "ru_RU": "Рашер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig03",
-    "Russian": "Хью",
     "ref": "Hugh",
     "localization": {
       "en_US": "Hugh",
@@ -86038,13 +86037,13 @@
       "zh_CN": "阿猪",
       "zh_TW": "阿豬",
       "ja_JP": "クッチャネ",
-      "ko_KR": "먹고파"
+      "ko_KR": "먹고파",
+      "ru_RU": "Хью"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig04",
-    "Russian": "Люси",
     "ref": "Lucy",
     "localization": {
       "en_US": "Lucy",
@@ -86059,13 +86058,13 @@
       "zh_CN": "露西",
       "zh_TW": "露西",
       "ja_JP": "ルーシー",
-      "ko_KR": "루시"
+      "ko_KR": "루시",
+      "ru_RU": "Люси"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig05",
-    "Russian": "Крэкл",
     "ref": "Crackle",
     "localization": {
       "en_US": "Spork",
@@ -86080,13 +86079,13 @@
       "zh_CN": "肉肉",
       "zh_TW": "肉肉",
       "ja_JP": "ポーク",
-      "ko_KR": "포크"
+      "ko_KR": "포크",
+      "ru_RU": "Крэкл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig08",
-    "Russian": "Кобб",
     "ref": "Cobb",
     "localization": {
       "en_US": "Cobb",
@@ -86101,13 +86100,13 @@
       "zh_CN": "博士",
       "zh_TW": "博士",
       "ja_JP": "ハカセ",
-      "ko_KR": "박사"
+      "ko_KR": "박사",
+      "ru_RU": "Кобб"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig09",
-    "Russian": "Борис",
     "ref": "Boris",
     "localization": {
       "en_US": "Boris",
@@ -86122,13 +86121,13 @@
       "zh_CN": "达利",
       "zh_TW": "達利",
       "ja_JP": "ダリー",
-      "ko_KR": "보리"
+      "ko_KR": "보리",
+      "ru_RU": "Борис"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig10",
-    "Russian": "Мэгги",
     "ref": "Maggie",
     "localization": {
       "en_US": "Maggie",
@@ -86143,13 +86142,13 @@
       "zh_CN": "玛格",
       "zh_TW": "瑪格",
       "ja_JP": "マーガレット",
-      "ko_KR": "마가렛"
+      "ko_KR": "마가렛",
+      "ru_RU": "Мэгги"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig11",
-    "Russian": "Пегги",
     "ref": "Peggy",
     "localization": {
       "en_US": "Peggy",
@@ -86164,13 +86163,13 @@
       "zh_CN": "千惠",
       "zh_TW": "千惠",
       "ja_JP": "ちえり",
-      "ko_KR": "체리"
+      "ko_KR": "체리",
+      "ru_RU": "Пегги"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig13",
-    "Russian": "Гал",
     "ref": "Gala",
     "localization": {
       "en_US": "Gala",
@@ -86185,13 +86184,13 @@
       "zh_CN": "小芽",
       "zh_TW": "小芽",
       "ja_JP": "ためこ",
-      "ko_KR": "꽃지"
+      "ko_KR": "꽃지",
+      "ru_RU": "Гал"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig14",
-    "Russian": "Чопс",
     "ref": "Chops",
     "localization": {
       "en_US": "Chops",
@@ -86206,13 +86205,13 @@
       "zh_CN": "豚皇",
       "zh_TW": "豚皇",
       "ja_JP": "トンファン",
-      "ko_KR": "돈후앙"
+      "ko_KR": "돈후앙",
+      "ru_RU": "Чопс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig15",
-    "Russian": "Кевин",
     "ref": "Kevin",
     "localization": {
       "en_US": "Kevin",
@@ -86227,13 +86226,13 @@
       "zh_CN": "伊比利",
       "zh_TW": "伊比利",
       "ja_JP": "イノッチ",
-      "ko_KR": "멧지"
+      "ko_KR": "멧지",
+      "ru_RU": "Кевин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig16",
-    "Russian": "Панчетти",
     "ref": "Pancetti",
     "localization": {
       "en_US": "Pancetti",
@@ -86248,13 +86247,13 @@
       "zh_CN": "布兰妮",
       "zh_TW": "布蘭妮",
       "ja_JP": "ブリトニー",
-      "ko_KR": "브리트니"
+      "ko_KR": "브리트니",
+      "ru_RU": "Панчетти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "pig17",
-    "Russian": "Агнес",
     "ref": "Agnes",
     "localization": {
       "en_US": "Agnes",
@@ -86269,13 +86268,13 @@
       "zh_CN": "古乃欣",
       "zh_TW": "古乃欣",
       "ja_JP": "アグネス",
-      "ko_KR": "아그네스"
+      "ko_KR": "아그네스",
+      "ru_RU": "Агнес"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt00",
-    "Russian": "Банни",
     "ref": "Bunnie",
     "localization": {
       "en_US": "Bunnie",
@@ -86290,13 +86289,13 @@
       "zh_CN": "莉莉安",
       "zh_TW": "莉莉安",
       "ja_JP": "リリアン",
-      "ko_KR": "릴리안"
+      "ko_KR": "릴리안",
+      "ru_RU": "Банни"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt01",
-    "Russian": "Дотти",
     "ref": "Dotty",
     "localization": {
       "en_US": "Dotty",
@@ -86311,13 +86310,13 @@
       "zh_CN": "玛莎",
       "zh_TW": "瑪莎",
       "ja_JP": "マーサ",
-      "ko_KR": "서머"
+      "ko_KR": "서머",
+      "ru_RU": "Дотти"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt02",
-    "Russian": "Коко",
     "ref": "Coco",
     "localization": {
       "en_US": "Coco",
@@ -86332,13 +86331,13 @@
       "zh_CN": "仰韶",
       "zh_TW": "仰韶",
       "ja_JP": "やよい",
-      "ko_KR": "이요"
+      "ko_KR": "이요",
+      "ru_RU": "Коко"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt03",
-    "Russian": "Снейк",
     "ref": "Snake",
     "localization": {
       "en_US": "Snake",
@@ -86353,13 +86352,13 @@
       "zh_CN": "百川",
       "zh_TW": "百川",
       "ja_JP": "モモチ",
-      "ko_KR": "닌토"
+      "ko_KR": "닌토",
+      "ru_RU": "Снейк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt04",
-    "Russian": "Гастон",
     "ref": "Gaston",
     "localization": {
       "en_US": "Gaston",
@@ -86374,13 +86373,13 @@
       "zh_CN": "猛兔",
       "zh_TW": "猛兔",
       "ja_JP": "モサキチ",
-      "ko_KR": "대길"
+      "ko_KR": "대길",
+      "ru_RU": "Гастон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt05",
-    "Russian": "Габи",
     "ref": "Gabi",
     "localization": {
       "en_US": "Gabi",
@@ -86395,13 +86394,13 @@
       "zh_CN": "珮琪",
       "zh_TW": "珮琪",
       "ja_JP": "ペチカ",
-      "ko_KR": "패티카"
+      "ko_KR": "패티카",
+      "ru_RU": "Габи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt06",
-    "Russian": "Пиппи",
     "ref": "Pippy",
     "localization": {
       "en_US": "Pippy",
@@ -86416,13 +86415,13 @@
       "zh_CN": "罗塔",
       "zh_TW": "羅塔",
       "ja_JP": "ロッタ",
-      "ko_KR": "로타"
+      "ko_KR": "로타",
+      "ru_RU": "Пиппи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt07",
-    "Russian": "Тиффани",
     "ref": "Tiffany",
     "localization": {
       "en_US": "Tiffany",
@@ -86437,13 +86436,13 @@
       "zh_CN": "大姐头",
       "zh_TW": "大姐頭",
       "ja_JP": "バズレー",
-      "ko_KR": "바슬레"
+      "ko_KR": "바슬레",
+      "ru_RU": "Тиффани"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt08",
-    "Russian": "Гэндзи",
     "ref": "Genji",
     "localization": {
       "en_US": "Genji",
@@ -86458,13 +86457,13 @@
       "zh_CN": "儒林",
       "zh_TW": "儒林",
       "ja_JP": "ゲンジ",
-      "ko_KR": "토시"
+      "ko_KR": "토시",
+      "ru_RU": "Гэндзи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt09",
-    "Russian": "Руби",
     "ref": "Ruby",
     "localization": {
       "en_US": "Ruby",
@@ -86479,13 +86478,13 @@
       "zh_CN": "月兔",
       "zh_TW": "月兔",
       "ja_JP": "ルナ",
-      "ko_KR": "루나"
+      "ko_KR": "루나",
+      "ru_RU": "Руби"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt10",
-    "Russian": "Док",
     "ref": "Doc",
     "localization": {
       "en_US": "Doc",
@@ -86500,13 +86499,13 @@
       "zh_CN": "阿飞",
       "zh_TW": "阿飛",
       "ja_JP": "トビオ",
-      "ko_KR": "토니"
+      "ko_KR": "토니",
+      "ru_RU": "Док"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt11",
-    "Russian": "Клод",
     "ref": "Claude",
     "localization": {
       "en_US": "Claude",
@@ -86521,13 +86520,13 @@
       "zh_CN": "阿醋",
       "zh_TW": "阿醋",
       "ja_JP": "ビネガー",
-      "ko_KR": "비니거"
+      "ko_KR": "비니거",
+      "ru_RU": "Клод"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt12",
-    "Russian": "Франсин",
     "ref": "Francine",
     "localization": {
       "en_US": "Francine",
@@ -86542,13 +86541,13 @@
       "zh_CN": "法蓝琪",
       "zh_TW": "法藍琪",
       "ja_JP": "フランソワ",
-      "ko_KR": "프랑소와"
+      "ko_KR": "프랑소와",
+      "ru_RU": "Франсин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt13",
-    "Russian": "Крисси",
     "ref": "Chrissy",
     "localization": {
       "en_US": "Chrissy",
@@ -86563,13 +86562,13 @@
       "zh_CN": "克莉琪",
       "zh_TW": "克莉琪",
       "ja_JP": "クリスチーヌ",
-      "ko_KR": "크리스틴"
+      "ko_KR": "크리스틴",
+      "ru_RU": "Крисси"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt14",
-    "Russian": "Хопкинс",
     "ref": "Hopkins",
     "localization": {
       "en_US": "Hopkins",
@@ -86584,13 +86583,13 @@
       "zh_CN": "风杰",
       "zh_TW": "風杰",
       "ja_JP": "プースケ",
-      "ko_KR": "홉킨스"
+      "ko_KR": "홉킨스",
+      "ru_RU": "Хопкинс"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt15",
-    "Russian": "О'Хэар",
     "ref": "O'Hare",
     "localization": {
       "en_US": "O'Hare",
@@ -86605,13 +86604,13 @@
       "zh_CN": "桑托斯",
       "zh_TW": "桑托斯",
       "ja_JP": "サントス",
-      "ko_KR": "산토스"
+      "ko_KR": "산토스",
+      "ru_RU": "О'Хэар"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt16",
-    "Russian": "Кармен",
     "ref": "Carmen",
     "localization": {
       "en_US": "Carmen",
@@ -86626,13 +86625,13 @@
       "zh_CN": "巧蔻",
       "zh_TW": "巧蔻",
       "ja_JP": "チョコ",
-      "ko_KR": "초코"
+      "ko_KR": "초코",
+      "ru_RU": "Кармен"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt17",
-    "Russian": "Бонбон",
     "ref": "Bonbon",
     "localization": {
       "en_US": "Bonbon",
@@ -86647,13 +86646,13 @@
       "zh_CN": "妙妙",
       "zh_TW": "妙妙",
       "ja_JP": "ミミィ",
-      "ko_KR": "미미"
+      "ko_KR": "미미",
+      "ru_RU": "Бонбон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt18",
-    "Russian": "Коул",
     "ref": "Cole",
     "localization": {
       "en_US": "Cole",
@@ -86668,13 +86667,13 @@
       "zh_CN": "阿甘",
       "zh_TW": "阿甘",
       "ja_JP": "アマミン",
-      "ko_KR": "아마민"
+      "ko_KR": "아마민",
+      "ru_RU": "Коул"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt19",
-    "Russian": "Мир",
     "ref": "Mira",
     "localization": {
       "en_US": "Mira",
@@ -86689,13 +86688,13 @@
       "zh_CN": "蜜拉",
       "zh_TW": "蜜拉",
       "ja_JP": "ミラコ",
-      "ko_KR": "미랑"
+      "ko_KR": "미랑",
+      "ru_RU": "Мир"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rbt20",
-    "Russian": "Тоби",
     "ref": "Toby",
     "localization": {
       "en_US": "Toby",
@@ -86710,13 +86709,13 @@
       "zh_CN": "咚比",
       "zh_TW": "咚比",
       "ja_JP": "トビー",
-      "ko_KR": "토비"
+      "ko_KR": "토비",
+      "ru_RU": "Тоби"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rhn00",
-    "Russian": "Танк",
     "ref": "Tank",
     "localization": {
       "en_US": "Tank",
@@ -86731,13 +86730,13 @@
       "zh_CN": "阿足",
       "zh_TW": "阿足",
       "ja_JP": "くるぶし",
-      "ko_KR": "탱크"
+      "ko_KR": "탱크",
+      "ru_RU": "Танк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rhn01",
-    "Russian": "Ронд",
     "ref": "Rhonda",
     "localization": {
       "en_US": "Rhonda",
@@ -86752,13 +86751,13 @@
       "zh_CN": "梦梦",
       "zh_TW": "夢夢",
       "ja_JP": "ユメコ",
-      "ko_KR": "론다"
+      "ko_KR": "론다",
+      "ru_RU": "Ронд"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rhn02",
-    "Russian": "Спайк",
     "ref": "Spike",
     "localization": {
       "en_US": "Spike",
@@ -86773,13 +86772,13 @@
       "zh_CN": "阿蹲",
       "zh_TW": "阿蹲",
       "ja_JP": "スクワット",
-      "ko_KR": "스쿼트"
+      "ko_KR": "스쿼트",
+      "ru_RU": "Спайк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rhn04",
-    "Russian": "Хорнсби",
     "ref": "Hornsby",
     "localization": {
       "en_US": "Hornsby",
@@ -86794,13 +86793,13 @@
       "zh_CN": "光雄",
       "zh_TW": "光雄",
       "ja_JP": "みつお",
-      "ko_KR": "뿌람"
+      "ko_KR": "뿌람",
+      "ru_RU": "Хорнсби"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rhn07",
-    "Russian": "Меренг",
     "ref": "Merengue",
     "localization": {
       "en_US": "Merengue",
@@ -86815,13 +86814,13 @@
       "zh_CN": "草莓",
       "zh_TW": "草莓",
       "ja_JP": "パティ",
-      "ko_KR": "스트로베리"
+      "ko_KR": "스트로베리",
+      "ru_RU": "Меренг"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "rhn08",
-    "Russian": "Рене",
     "ref": "Renée",
     "localization": {
       "en_US": "Renée",
@@ -86836,13 +86835,13 @@
       "zh_CN": "柴姐",
       "zh_TW": "柴姐",
       "ja_JP": "おさい",
-      "ko_KR": "뿔님이"
+      "ko_KR": "뿔님이",
+      "ru_RU": "Рене"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp00",
-    "Russian": "Вест",
     "ref": "Vesta",
     "localization": {
       "en_US": "Vesta",
@@ -86857,13 +86856,13 @@
       "zh_CN": "绵绵",
       "zh_TW": "綿綿",
       "ja_JP": "メリヤス",
-      "ko_KR": "메리어스"
+      "ko_KR": "메리어스",
+      "ru_RU": "Вест"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp01",
-    "Russian": "Бабар",
     "ref": "Baabara",
     "localization": {
       "en_US": "Baabara",
@@ -86878,13 +86877,13 @@
       "zh_CN": "华尔滋",
       "zh_TW": "華爾滋",
       "ja_JP": "トロワ",
-      "ko_KR": "트로와"
+      "ko_KR": "트로와",
+      "ru_RU": "Бабар"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp02",
-    "Russian": "Юнис",
     "ref": "Eunice",
     "localization": {
       "en_US": "Eunice",
@@ -86899,13 +86898,13 @@
       "zh_CN": "毛海儿",
       "zh_TW": "毛海兒",
       "ja_JP": "モヘア",
-      "ko_KR": "곱슬이"
+      "ko_KR": "곱슬이",
+      "ru_RU": "Юнис"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp03",
-    "Russian": "Стелл",
     "ref": "Stella",
     "localization": {
       "en_US": "Stella",
@@ -86920,13 +86919,13 @@
       "zh_CN": "毡毡",
       "zh_TW": "氈氈",
       "ja_JP": "アクリル",
-      "ko_KR": "아크릴"
+      "ko_KR": "아크릴",
+      "ru_RU": "Стелл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp04",
-    "Russian": "Кашмир",
     "ref": "Cashmere",
     "localization": {
       "en_US": "Cashmere",
@@ -86941,13 +86940,13 @@
       "zh_CN": "爱睦",
       "zh_TW": "愛睦",
       "ja_JP": "ラムール",
-      "ko_KR": "캐시미어"
+      "ko_KR": "캐시미어",
+      "ru_RU": "Кашмир"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp07",
-    "Russian": "Уиллоу",
     "ref": "Willow",
     "localization": {
       "en_US": "Willow",
@@ -86962,13 +86961,13 @@
       "zh_CN": "梅丽诺",
       "zh_TW": "梅麗諾",
       "ja_JP": "マリー",
-      "ko_KR": "마리"
+      "ko_KR": "마리",
+      "ru_RU": "Уиллоу"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp08",
-    "Russian": "Керлос",
     "ref": "Curlos",
     "localization": {
       "en_US": "Curlos",
@@ -86983,13 +86982,13 @@
       "zh_CN": "贾洛斯",
       "zh_TW": "賈洛斯",
       "ja_JP": "カルロス",
-      "ko_KR": "카를로스"
+      "ko_KR": "카를로스",
+      "ru_RU": "Керлос"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp09",
-    "Russian": "Венди",
     "ref": "Wendy",
     "localization": {
       "en_US": "Wendy",
@@ -87004,13 +87003,13 @@
       "zh_CN": "雪花",
       "zh_TW": "雪花",
       "ja_JP": "みぞれ",
-      "ko_KR": "눈송이"
+      "ko_KR": "눈송이",
+      "ru_RU": "Венди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp10",
-    "Russian": "Тимбр",
     "ref": "Timbra",
     "localization": {
       "en_US": "Timbra",
@@ -87025,13 +87024,13 @@
       "zh_CN": "阿司",
       "zh_TW": "阿司",
       "ja_JP": "つかさ",
-      "ko_KR": "잔디"
+      "ko_KR": "잔디",
+      "ru_RU": "Тимбр"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp11",
-    "Russian": "Фрит",
     "ref": "Frita",
     "localization": {
       "en_US": "Frita",
@@ -87046,13 +87045,13 @@
       "zh_CN": "温蒂",
       "zh_TW": "溫蒂",
       "ja_JP": "ウェンディ",
-      "ko_KR": "웬디"
+      "ko_KR": "웬디",
+      "ru_RU": "Фрит"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp12",
-    "Russian": "Маффи",
     "ref": "Muffy",
     "localization": {
       "en_US": "Muffy",
@@ -87067,13 +87066,13 @@
       "zh_CN": "彭澎",
       "zh_TW": "彭澎",
       "ja_JP": "フリル",
-      "ko_KR": "프릴"
+      "ko_KR": "프릴",
+      "ru_RU": "Маффи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp13",
-    "Russian": "Пьетро",
     "ref": "Pietro",
     "localization": {
       "en_US": "Pietro",
@@ -87088,13 +87087,13 @@
       "zh_CN": "皮耶罗",
       "zh_TW": "皮耶羅",
       "ja_JP": "ジュペッティ",
-      "ko_KR": "피엘"
+      "ko_KR": "피엘",
+      "ru_RU": "Пьетро"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp14",
-    "Russian": "Этуаль",
     "ref": "Étoile",
     "localization": {
       "en_US": "Étoile",
@@ -87109,13 +87108,13 @@
       "zh_CN": "彩星",
       "zh_TW": "彩星",
       "ja_JP": "エトワール",
-      "ko_KR": "에뜨와르"
+      "ko_KR": "에뜨와르",
+      "ru_RU": "Этуаль"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "shp15",
-    "Russian": "Дом",
     "ref": "Dom",
     "localization": {
       "en_US": "Dom",
@@ -87130,13 +87129,13 @@
       "zh_CN": "茶茶丸",
       "zh_TW": "茶茶丸",
       "ja_JP": "ちゃちゃまる",
-      "ko_KR": "차둘"
+      "ko_KR": "차둘",
+      "ru_RU": "Дом"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ00",
-    "Russian": "Пинат",
     "ref": "Peanut",
     "localization": {
       "en_US": "Peanut",
@@ -87151,13 +87150,13 @@
       "zh_CN": "小桃",
       "zh_TW": "小桃",
       "ja_JP": "ももこ",
-      "ko_KR": "핑키"
+      "ko_KR": "핑키",
+      "ru_RU": "Пинат"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ01",
-    "Russian": "Блер",
     "ref": "Blaire",
     "localization": {
       "en_US": "Blaire",
@@ -87172,13 +87171,13 @@
       "zh_CN": "小影",
       "zh_TW": "小影",
       "ja_JP": "シルエット",
-      "ko_KR": "실루엣"
+      "ko_KR": "실루엣",
+      "ru_RU": "Блер"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ02",
-    "Russian": "Филберт",
     "ref": "Filbert",
     "localization": {
       "en_US": "Filbert",
@@ -87193,13 +87192,13 @@
       "zh_CN": "瑞奇",
       "zh_TW": "瑞奇",
       "ja_JP": "リッキー",
-      "ko_KR": "리키"
+      "ko_KR": "리키",
+      "ru_RU": "Филберт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ03",
-    "Russian": "Пекан",
     "ref": "Pecan",
     "localization": {
       "en_US": "Pecan",
@@ -87214,13 +87213,13 @@
       "zh_CN": "雷贝嘉",
       "zh_TW": "雷貝嘉",
       "ja_JP": "レベッカ",
-      "ko_KR": "레베카"
+      "ko_KR": "레베카",
+      "ru_RU": "Пекан"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ04",
-    "Russian": "Ниблз",
     "ref": "Nibbles",
     "localization": {
       "en_US": "Nibbles",
@@ -87235,13 +87234,13 @@
       "zh_CN": "咬咬",
       "zh_TW": "咬咬",
       "ja_JP": "ガリガリ",
-      "ko_KR": "그리미"
+      "ko_KR": "그리미",
+      "ru_RU": "Ниблз"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ05",
-    "Russian": "Агент",
     "ref": "Agent S",
     "localization": {
       "en_US": "Agent S",
@@ -87256,13 +87255,13 @@
       "zh_CN": "阿二",
       "zh_TW": "阿二",
       "ja_JP": "２ごう",
-      "ko_KR": "2호"
+      "ko_KR": "2호",
+      "ru_RU": "Агент"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ06",
-    "Russian": "Каролин",
     "ref": "Caroline",
     "localization": {
       "en_US": "Caroline",
@@ -87277,13 +87276,13 @@
       "zh_CN": "贾萝琳",
       "zh_TW": "賈蘿琳",
       "ja_JP": "キャロライン",
-      "ko_KR": "캐롤라인"
+      "ko_KR": "캐롤라인",
+      "ru_RU": "Каролин"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ07",
-    "Russian": "Салли",
     "ref": "Sally",
     "localization": {
       "en_US": "Sally",
@@ -87298,13 +87297,13 @@
       "zh_CN": "拉拉米",
       "zh_TW": "拉拉米",
       "ja_JP": "ララミー",
-      "ko_KR": "라라미"
+      "ko_KR": "라라미",
+      "ru_RU": "Салли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ08",
-    "Russian": "Статик",
     "ref": "Static",
     "localization": {
       "en_US": "Static",
@@ -87319,13 +87318,13 @@
       "zh_CN": "闪电",
       "zh_TW": "閃電",
       "ja_JP": "スパーク",
-      "ko_KR": "스파크"
+      "ko_KR": "스파크",
+      "ru_RU": "Статик"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ09",
-    "Russian": "Минт",
     "ref": "Mint",
     "localization": {
       "en_US": "Mint",
@@ -87340,13 +87339,13 @@
       "zh_CN": "小敏",
       "zh_TW": "小敏",
       "ja_JP": "ミント",
-      "ko_KR": "민트"
+      "ko_KR": "민트",
+      "ru_RU": "Минт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ10",
-    "Russian": "Рики",
     "ref": "Ricky",
     "localization": {
       "en_US": "Ricky",
@@ -87361,13 +87360,13 @@
       "zh_CN": "嘉治",
       "zh_TW": "嘉治",
       "ja_JP": "カジロウ",
-      "ko_KR": "갈가리"
+      "ko_KR": "갈가리",
+      "ru_RU": "Рики"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ11",
-    "Russian": "Кэлли",
     "ref": "Cally",
     "localization": {
       "en_US": "Cally",
@@ -87382,13 +87381,13 @@
       "zh_CN": "小芹",
       "zh_TW": "小芹",
       "ja_JP": "パセリ",
-      "ko_KR": "파슬리"
+      "ko_KR": "파슬리",
+      "ru_RU": "Кэлли"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ13",
-    "Russian": "Таш",
     "ref": "Tasha",
     "localization": {
       "en_US": "Tasha",
@@ -87403,13 +87402,13 @@
       "zh_CN": "娜塔丽",
       "zh_TW": "娜塔麗",
       "ja_JP": "ナターシャ",
-      "ko_KR": "나타샤"
+      "ko_KR": "나타샤",
+      "ru_RU": "Таш"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ14",
-    "Russian": "Сильван",
     "ref": "Sylvana",
     "localization": {
       "en_US": "Sylvana",
@@ -87424,13 +87423,13 @@
       "zh_CN": "孟珮",
       "zh_TW": "孟珮",
       "ja_JP": "もんぺ",
-      "ko_KR": "실바나"
+      "ko_KR": "실바나",
+      "ru_RU": "Сильван"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ15",
-    "Russian": "Поппи",
     "ref": "Poppy",
     "localization": {
       "en_US": "Poppy",
@@ -87445,13 +87444,13 @@
       "zh_CN": "软糖",
       "zh_TW": "軟糖",
       "ja_JP": "グミ",
-      "ko_KR": "다람"
+      "ko_KR": "다람",
+      "ru_RU": "Поппи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ16",
-    "Russian": "Шелдон",
     "ref": "Sheldon",
     "localization": {
       "en_US": "Sheldon",
@@ -87466,13 +87465,13 @@
       "zh_CN": "克栗斯",
       "zh_TW": "克栗斯",
       "ja_JP": "クリス",
-      "ko_KR": "크리스"
+      "ko_KR": "크리스",
+      "ru_RU": "Шелдон"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ17",
-    "Russian": "Маршал",
     "ref": "Marshal",
     "localization": {
       "en_US": "Marshal",
@@ -87487,13 +87486,13 @@
       "zh_CN": "小润",
       "zh_TW": "小潤",
       "ja_JP": "ジュン",
-      "ko_KR": "쭈니"
+      "ko_KR": "쭈니",
+      "ru_RU": "Маршал"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "squ18",
-    "Russian": "Хейзел",
     "ref": "Hazel",
     "localization": {
       "en_US": "Hazel",
@@ -87508,13 +87507,13 @@
       "zh_CN": "艾栗丝",
       "zh_TW": "艾栗絲",
       "ja_JP": "アイリス",
-      "ko_KR": "아이리스"
+      "ko_KR": "아이리스",
+      "ru_RU": "Хейзел"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig00",
-    "Russian": "Рольф",
     "ref": "Rolf",
     "localization": {
       "en_US": "Rolf",
@@ -87529,13 +87528,13 @@
       "zh_CN": "朱穆朗",
       "zh_TW": "朱穆朗",
       "ja_JP": "チョモラン",
-      "ko_KR": "호랭이"
+      "ko_KR": "호랭이",
+      "ru_RU": "Рольф"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig01",
-    "Russian": "Роуэн",
     "ref": "Rowan",
     "localization": {
       "en_US": "Rowan",
@@ -87550,13 +87549,13 @@
       "zh_CN": "戈麦斯",
       "zh_TW": "戈麥斯",
       "ja_JP": "ゴメス",
-      "ko_KR": "고메스"
+      "ko_KR": "고메스",
+      "ru_RU": "Роуэн"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig02",
-    "Russian": "Тибальт",
     "ref": "Tybalt",
     "localization": {
       "en_US": "Tybalt",
@@ -87571,13 +87570,13 @@
       "zh_CN": "谷丰",
       "zh_TW": "谷豐",
       "ja_JP": "ハリマオ",
-      "ko_KR": "티볼트"
+      "ko_KR": "티볼트",
+      "ru_RU": "Тибальт"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig03",
-    "Russian": "Бэнгл",
     "ref": "Bangle",
     "localization": {
       "en_US": "Bangle",
@@ -87592,13 +87591,13 @@
       "zh_CN": "卢姿",
       "zh_TW": "盧姿",
       "ja_JP": "ルーズ",
-      "ko_KR": "루주"
+      "ko_KR": "루주",
+      "ru_RU": "Бэнгл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig04",
-    "Russian": "Леонардо",
     "ref": "Leonardo",
     "localization": {
       "en_US": "Leonardo",
@@ -87613,13 +87612,13 @@
       "zh_CN": "阿彪",
       "zh_TW": "阿彪",
       "ja_JP": "ヒョウタ",
-      "ko_KR": "범호"
+      "ko_KR": "범호",
+      "ru_RU": "Леонардо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig05",
-    "Russian": "Клауди",
     "ref": "Claudia",
     "localization": {
       "en_US": "Claudia",
@@ -87634,13 +87633,13 @@
       "zh_CN": "马丽莲",
       "zh_TW": "馬麗蓮",
       "ja_JP": "マリリン",
-      "ko_KR": "신디"
+      "ko_KR": "신디",
+      "ru_RU": "Клауди"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "tig06",
-    "Russian": "Бьянк",
     "ref": "Bianca",
     "localization": {
       "en_US": "Bianca",
@@ -87655,13 +87654,13 @@
       "zh_CN": "小雪",
       "zh_TW": "小雪",
       "ja_JP": "コユキ",
-      "ko_KR": "백희"
+      "ko_KR": "백희",
+      "ru_RU": "Бьянк"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol00",
-    "Russian": "Чиф",
     "ref": "Chief",
     "localization": {
       "en_US": "Chief",
@@ -87676,13 +87675,13 @@
       "zh_CN": "施傅",
       "zh_TW": "施傅",
       "ja_JP": "チーフ",
-      "ko_KR": "대장"
+      "ko_KR": "대장",
+      "ru_RU": "Чиф"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol01",
-    "Russian": "Лобо",
     "ref": "Lobo",
     "localization": {
       "en_US": "Lobo",
@@ -87697,13 +87696,13 @@
       "zh_CN": "潘奇隆",
       "zh_TW": "潘奇隆",
       "ja_JP": "ブンジロウ",
-      "ko_KR": "늑태"
+      "ko_KR": "늑태",
+      "ru_RU": "Лобо"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol02",
-    "Russian": "Вольфи",
     "ref": "Wolfgang",
     "localization": {
       "en_US": "Wolfgang",
@@ -87718,13 +87717,13 @@
       "zh_CN": "罗博",
       "zh_TW": "羅博",
       "ja_JP": "ロボ",
-      "ko_KR": "로보"
+      "ko_KR": "로보",
+      "ru_RU": "Вольфи"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol03",
-    "Russian": "Уитни",
     "ref": "Whitney",
     "localization": {
       "en_US": "Whitney",
@@ -87739,13 +87738,13 @@
       "zh_CN": "毕安卡",
       "zh_TW": "畢安卡",
       "ja_JP": "ビアンカ",
-      "ko_KR": "비앙카"
+      "ko_KR": "비앙카",
+      "ru_RU": "Уитни"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol04",
-    "Russian": "Доби",
     "ref": "Dobie",
     "localization": {
       "en_US": "Dobie",
@@ -87760,13 +87759,13 @@
       "zh_CN": "阿研",
       "zh_TW": "阿研",
       "ja_JP": "けん",
-      "ko_KR": "켄"
+      "ko_KR": "켄",
+      "ru_RU": "Доби"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol05",
-    "Russian": "Фре",
     "ref": "Freya",
     "localization": {
       "en_US": "Freya",
@@ -87781,13 +87780,13 @@
       "zh_CN": "冰冰",
       "zh_TW": "冰冰",
       "ja_JP": "ツンドラ",
-      "ko_KR": "산드라"
+      "ko_KR": "산드라",
+      "ru_RU": "Фре"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol06",
-    "Russian": "Фанг",
     "ref": "Fang",
     "localization": {
       "en_US": "Fang",
@@ -87802,13 +87801,13 @@
       "zh_CN": "史培亚",
       "zh_TW": "史培亞",
       "ja_JP": "シベリア",
-      "ko_KR": "시베리아"
+      "ko_KR": "시베리아",
+      "ru_RU": "Фанг"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol08",
-    "Russian": "Вивьен",
     "ref": "Vivian",
     "localization": {
       "en_US": "Vivian",
@@ -87823,13 +87822,13 @@
       "zh_CN": "范妮沙",
       "zh_TW": "范妮莎",
       "ja_JP": "ヴァネッサ",
-      "ko_KR": "바네사"
+      "ko_KR": "바네사",
+      "ru_RU": "Вивьен"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol09",
-    "Russian": "Скай",
     "ref": "Skye",
     "localization": {
       "en_US": "Skye",
@@ -87844,13 +87843,13 @@
       "zh_CN": "百合",
       "zh_TW": "百合",
       "ja_JP": "リリィ",
-      "ko_KR": "릴리"
+      "ko_KR": "릴리",
+      "ru_RU": "Скай"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol10",
-    "Russian": "Кайл",
     "ref": "Kyle",
     "localization": {
       "en_US": "Kyle",
@@ -87865,13 +87864,13 @@
       "zh_CN": "李可",
       "zh_TW": "李可",
       "ja_JP": "リカルド",
-      "ko_KR": "리카르도"
+      "ko_KR": "리카르도",
+      "ru_RU": "Кайл"
     }
   },
   {
     "SourceSheet": "Villagers",
     "id": "wol12",
-    "Russian": "Оди",
     "ref": "Audie",
     "localization": {
       "en_US": "Audie",
@@ -87886,7 +87885,8 @@
       "zh_CN": "莫妮卡",
       "zh_TW": "莫妮卡",
       "ja_JP": "モニカ",
-      "ko_KR": "모니카"
+      "ko_KR": "모니카",
+      "ru_RU": "Оди"
     }
   },
   {
@@ -88212,7 +88212,6 @@
   {
     "SourceSheet": "Special NPCs",
     "id": "alp",
-    "Russian": "Сайрус",
     "ref": "Cyrus",
     "localization": {
       "en_US": "Cyrus",
@@ -88227,13 +88226,13 @@
       "zh_CN": "健兆",
       "zh_TW": "健兆",
       "ja_JP": "カイゾー",
-      "ko_KR": "리포"
+      "ko_KR": "리포",
+      "ru_RU": "Сайрус"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "alw",
-    "Russian": "Риз",
     "ref": "Reese",
     "localization": {
       "en_US": "Reese",
@@ -88248,13 +88247,13 @@
       "zh_CN": "莉咏",
       "zh_TW": "莉詠",
       "ja_JP": "リサ",
-      "ko_KR": "리사"
+      "ko_KR": "리사",
+      "ru_RU": "Риз"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "bev",
-    "Russian": "Чип",
     "ref": "Chip",
     "localization": {
       "en_US": "Chip",
@@ -88269,13 +88268,13 @@
       "zh_CN": "俞正",
       "zh_TW": "俞正",
       "ja_JP": "うおまさ",
-      "ko_KR": "뚱달"
+      "ko_KR": "뚱달",
+      "ru_RU": "Чип"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "bey",
-    "Russian": "Си-Дже",
     "ref": "C.J.",
     "localization": {
       "en_US": "C.J.",
@@ -88290,13 +88289,13 @@
       "zh_CN": "俞司廷",
       "zh_TW": "俞司廷",
       "ja_JP": "ジャスティン",
-      "ko_KR": "저스틴"
+      "ko_KR": "저스틴",
+      "ru_RU": "Си-Дже"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "boa",
-    "Russian": "Джоан",
     "ref": "Joan",
     "localization": {
       "en_US": "Joan",
@@ -88311,13 +88310,13 @@
       "zh_CN": "曹谷",
       "zh_TW": "曹谷",
       "ja_JP": "カブリバ",
-      "ko_KR": "무파라"
+      "ko_KR": "무파라",
+      "ru_RU": "Джоан"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "boc",
-    "Russian": "Дейзи-Мей",
     "ref": "Daisy Mae",
     "localization": {
       "en_US": "Daisy Mae",
@@ -88332,13 +88331,13 @@
       "zh_CN": "曹卖",
       "zh_TW": "曹賣",
       "ja_JP": "ウリ",
-      "ko_KR": "무파니"
+      "ko_KR": "무파니",
+      "ru_RU": "Дейзи-Мей"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "bpt",
-    "Russian": "Катрин",
     "ref": "Katrina",
     "localization": {
       "en_US": "Katrina",
@@ -88353,13 +88352,13 @@
       "zh_CN": "星薇",
       "zh_TW": "星薇",
       "ja_JP": "ハッケミィ",
-      "ko_KR": "마추릴라"
+      "ko_KR": "마추릴라",
+      "ru_RU": "Катрин"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "chm",
-    "Russian": "Нат",
     "ref": "Nat",
     "localization": {
       "en_US": "Nat",
@@ -88374,13 +88373,13 @@
       "zh_CN": "龙山先生",
       "zh_TW": "龍山先生",
       "ja_JP": "カメヤマさん",
-      "ko_KR": "멜레옹"
+      "ko_KR": "멜레옹",
+      "ru_RU": "Нат"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "chy",
-    "Russian": "Флик",
     "ref": "Flick",
     "localization": {
       "en_US": "Flick",
@@ -88395,13 +88394,13 @@
       "zh_CN": "龙克斯",
       "zh_TW": "龍克斯",
       "ja_JP": "レックス",
-      "ko_KR": "레온"
+      "ko_KR": "레온",
+      "ru_RU": "Флик"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "cml",
-    "Russian": "Сахар",
     "ref": "Saharah",
     "localization": {
       "en_US": "Saharah",
@@ -88416,13 +88415,13 @@
       "zh_CN": "骆岚",
       "zh_TW": "駱嵐",
       "ja_JP": "ローラン",
-      "ko_KR": "사하라"
+      "ko_KR": "사하라",
+      "ru_RU": "Сахар"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "dga",
-    "Russian": "Коппер",
     "ref": "Copper",
     "localization": {
       "en_US": "Copper",
@@ -88437,13 +88436,13 @@
       "zh_CN": "警察叔叔",
       "zh_TW": "警察叔叔",
       "ja_JP": "おまわりさん",
-      "ko_KR": "경찰관"
+      "ko_KR": "경찰관",
+      "ru_RU": "Коппер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "dgb",
-    "Russian": "Букер",
     "ref": "Booker",
     "localization": {
       "en_US": "Booker",
@@ -88458,13 +88457,13 @@
       "zh_CN": "警察叔叔",
       "zh_TW": "警察叔叔",
       "ja_JP": "おまわりさん",
-      "ko_KR": "경찰관"
+      "ko_KR": "경찰관",
+      "ru_RU": "Букер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "doc",
-    "Russian": "Уилбур",
     "ref": "Wilbur",
     "localization": {
       "en_US": "Wilbur",
@@ -88479,13 +88478,13 @@
       "zh_CN": "陆德里",
       "zh_TW": "陸德里",
       "ja_JP": "ロドリー",
-      "ko_KR": "로드리"
+      "ko_KR": "로드리",
+      "ru_RU": "Уилбур"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "dod",
-    "Russian": "Орвилл",
     "ref": "Orville",
     "localization": {
       "en_US": "Orville",
@@ -88500,13 +88499,13 @@
       "zh_CN": "莫里",
       "zh_TW": "莫里",
       "ja_JP": "モーリー",
-      "ko_KR": "모리"
+      "ko_KR": "모리",
+      "ru_RU": "Орвилл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "fox",
-    "Russian": "Рэдд",
     "ref": "Redd",
     "localization": {
       "en_US": "Redd",
@@ -88521,13 +88520,13 @@
       "zh_CN": "狐利",
       "zh_TW": "狐利",
       "ja_JP": "つねきち",
-      "ko_KR": "여욱"
+      "ko_KR": "여욱",
+      "ru_RU": "Рэдд"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "fsl",
-    "Russian": "Финеас",
     "ref": "Phineas",
     "localization": {
       "en_US": "Phineas",
@@ -88542,13 +88541,13 @@
       "zh_CN": "博陆恩",
       "zh_TW": "博陸恩",
       "ja_JP": "パロンチーノ",
-      "ko_KR": "파론티노"
+      "ko_KR": "파론티노",
+      "ru_RU": "Финеас"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "grf",
-    "Russian": "Грейси",
     "ref": "Gracie",
     "localization": {
       "en_US": "Gracie",
@@ -88563,13 +88562,13 @@
       "zh_CN": "葛瑞斯",
       "zh_TW": "葛瑞斯",
       "ja_JP": "グレース",
-      "ko_KR": "그레이스"
+      "ko_KR": "그레이스",
+      "ru_RU": "Грейси"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "gst",
-    "Russian": "Уисп",
     "ref": "Wisp",
     "localization": {
       "en_US": "Wisp",
@@ -88584,13 +88583,13 @@
       "zh_CN": "幽幽",
       "zh_TW": "幽幽",
       "ja_JP": "ゆうたろう",
-      "ko_KR": "깨빈"
+      "ko_KR": "깨빈",
+      "ru_RU": "Уисп"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "gul",
-    "Russian": "Гулливер",
     "ref": "Gulliver",
     "localization": {
       "en_US": "Gulliver",
@@ -88605,13 +88604,13 @@
       "zh_CN": "吕游",
       "zh_TW": "呂遊",
       "ja_JP": "ジョニー",
-      "ko_KR": "죠니"
+      "ko_KR": "죠니",
+      "ru_RU": "Гулливер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "hgc",
-    "Russian": "Лэйбл",
     "ref": "Label",
     "localization": {
       "en_US": "Label",
@@ -88626,13 +88625,13 @@
       "zh_CN": "绵儿",
       "zh_TW": "綿兒",
       "ja_JP": "ことの",
-      "ko_KR": "고숙이"
+      "ko_KR": "고숙이",
+      "ru_RU": "Лэйбл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "hgh",
-    "Russian": "Мэйбл",
     "ref": "Mabel",
     "localization": {
       "en_US": "Mabel",
@@ -88647,13 +88646,13 @@
       "zh_CN": "绢儿",
       "zh_TW": "絹兒",
       "ja_JP": "きぬよ",
-      "ko_KR": "고순이"
+      "ko_KR": "고순이",
+      "ru_RU": "Мэйбл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "hgs",
-    "Russian": "Сэйбл",
     "ref": "Sable",
     "localization": {
       "en_US": "Sable",
@@ -88668,13 +88667,13 @@
       "zh_CN": "麻儿",
       "zh_TW": "麻兒",
       "ja_JP": "あさみ",
-      "ko_KR": "고옥이"
+      "ko_KR": "고옥이",
+      "ru_RU": "Сэйбл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kpg",
-    "Russian": "Грэмс",
     "ref": "Grams",
     "localization": {
       "en_US": "Grams",
@@ -88689,13 +88688,13 @@
       "zh_CN": "阿玉婆婆",
       "zh_TW": "阿玉婆婆",
       "ja_JP": "ゲコ",
-      "ko_KR": "귀녀"
+      "ko_KR": "귀녀",
+      "ru_RU": "Грэмс"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kpm",
-    "Russian": "Лейлани",
     "ref": "Leilani",
     "localization": {
       "en_US": "Leilani",
@@ -88710,13 +88709,13 @@
       "zh_CN": "沽玉",
       "zh_TW": "沽玉",
       "ja_JP": "クーコ",
-      "ko_KR": "갑순"
+      "ko_KR": "갑순",
+      "ru_RU": "Лейлани"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kpp",
-    "Russian": "Кэпн",
     "ref": "Kapp'n",
     "localization": {
       "en_US": "Kapp'n",
@@ -88731,13 +88730,13 @@
       "zh_CN": "航平",
       "zh_TW": "航平",
       "ja_JP": "かっぺい",
-      "ko_KR": "갑돌"
+      "ko_KR": "갑돌",
+      "ru_RU": "Кэпн"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "kps",
-    "Russian": "Лейл",
     "ref": "Leila",
     "localization": {
       "en_US": "Leila",
@@ -88752,13 +88751,13 @@
       "zh_CN": "沽沽",
       "zh_TW": "沽沽",
       "ja_JP": "クク",
-      "ko_KR": "꼬미"
+      "ko_KR": "꼬미",
+      "ru_RU": "Лейл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "lom",
-    "Russian": "Кейти",
     "ref": "Katie",
     "localization": {
       "en_US": "Katie",
@@ -88773,13 +88772,13 @@
       "zh_CN": "咪露",
       "zh_TW": "咪露",
       "ja_JP": "まいこちゃん",
-      "ko_KR": "미야"
+      "ko_KR": "미야",
+      "ru_RU": "Кейти"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mka",
-    "Russian": "Бланк",
     "ref": "Blanca",
     "localization": {
       "en_US": "Blanca",
@@ -88794,13 +88793,13 @@
       "zh_CN": "无脸猫",
       "zh_TW": "無臉貓",
       "ja_JP": "あやしいネコ",
-      "ko_KR": "아트고양이"
+      "ko_KR": "아트고양이",
+      "ru_RU": "Бланк"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mnk",
-    "Russian": "Портер",
     "ref": "Porter",
     "localization": {
       "en_US": "Porter",
@@ -88815,13 +88814,13 @@
       "zh_CN": "车长叔叔",
       "zh_TW": "車長叔叔",
       "ja_JP": "えきいんさん",
-      "ko_KR": "역무원"
+      "ko_KR": "역무원",
+      "ru_RU": "Портер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mob",
-    "Russian": "Дон",
     "ref": "Don",
     "localization": {
       "en_US": "Don",
@@ -88836,13 +88835,13 @@
       "zh_CN": "开关叔叔",
       "zh_TW": "開關叔叔",
       "ja_JP": "ラケットさん",
-      "ko_KR": "오루묵씨"
+      "ko_KR": "오루묵씨",
+      "ru_RU": "Дон"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "mol",
-    "Russian": "Ресетти",
     "ref": "Resetti",
     "localization": {
       "en_US": "Resetti",
@@ -88857,13 +88856,13 @@
       "zh_CN": "电源叔叔",
       "zh_TW": "電源叔叔",
       "ja_JP": "リセットさん",
-      "ko_KR": "도루묵씨"
+      "ko_KR": "도루묵씨",
+      "ru_RU": "Ресетти"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "otg",
-    "Russian": "Лотти",
     "ref": "Lottie",
     "localization": {
       "en_US": "Lottie",
@@ -88878,13 +88877,13 @@
       "zh_CN": "巧美",
       "zh_TW": "巧美",
       "ja_JP": "タクミ",
-      "ko_KR": "솜이"
+      "ko_KR": "솜이",
+      "ru_RU": "Лотти"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "ott",
-    "Russian": "Лайл",
     "ref": "Lyle",
     "localization": {
       "en_US": "Lyle",
@@ -88899,13 +88898,13 @@
       "zh_CN": "阿本先生",
       "zh_TW": "阿本先生",
       "ja_JP": "ホンマさん",
-      "ko_KR": "안심해씨"
+      "ko_KR": "안심해씨",
+      "ru_RU": "Лайл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "owl",
-    "Russian": "Блезерс",
     "ref": "Blathers",
     "localization": {
       "en_US": "Blathers",
@@ -88920,13 +88919,13 @@
       "zh_CN": "傅达",
       "zh_TW": "傅達",
       "ja_JP": "フータ",
-      "ko_KR": "부엉"
+      "ko_KR": "부엉",
+      "ru_RU": "Блезерс"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "ows",
-    "Russian": "Селест",
     "ref": "Celeste",
     "localization": {
       "en_US": "Celeste",
@@ -88941,13 +88940,13 @@
       "zh_CN": "傅珂",
       "zh_TW": "傅珂",
       "ja_JP": "フーコ",
-      "ko_KR": "부옥"
+      "ko_KR": "부옥",
+      "ru_RU": "Селест"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pck",
-    "Russian": "Паве",
     "ref": "Pavé",
     "localization": {
       "en_US": "Pavé",
@@ -88962,13 +88961,13 @@
       "zh_CN": "阿欢",
       "zh_TW": "阿歡",
       "ja_JP": "ベルリーナ",
-      "ko_KR": "베르리나"
+      "ko_KR": "베르리나",
+      "ru_RU": "Паве"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pge",
-    "Russian": "Брюстер",
     "ref": "Brewster",
     "localization": {
       "en_US": "Brewster",
@@ -88983,13 +88982,13 @@
       "zh_CN": "老板",
       "zh_TW": "老闆",
       "ja_JP": "マスター",
-      "ko_KR": "마스터"
+      "ko_KR": "마스터",
+      "ru_RU": "Брюстер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pkn",
-    "Russian": "Джек",
     "ref": "Jack",
     "localization": {
       "en_US": "Jack",
@@ -89004,13 +89003,13 @@
       "zh_CN": "南瓜王",
       "zh_TW": "南瓜王",
       "ja_JP": "パンプキング",
-      "ko_KR": "펌킹"
+      "ko_KR": "펌킹",
+      "ru_RU": "Джек"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "plk",
-    "Russian": "Пелли",
     "ref": "Pelly",
     "localization": {
       "en_US": "Pelly",
@@ -89025,13 +89024,13 @@
       "zh_CN": "宋信子",
       "zh_TW": "宋信子",
       "ja_JP": "ぺりこ",
-      "ko_KR": "펠리"
+      "ko_KR": "펠리",
+      "ru_RU": "Пелли"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "plm",
-    "Russian": "Филлис",
     "ref": "Phyllis",
     "localization": {
       "en_US": "Phyllis",
@@ -89046,13 +89045,13 @@
       "zh_CN": "宋信美",
       "zh_TW": "宋信美",
       "ja_JP": "ぺりみ",
-      "ko_KR": "펠리미"
+      "ko_KR": "펠리미",
+      "ru_RU": "Филлис"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "plo",
-    "Russian": "Пит",
     "ref": "Pete",
     "localization": {
       "en_US": "Pete",
@@ -89067,13 +89066,13 @@
       "zh_CN": "程信雄",
       "zh_TW": "程信雄",
       "ja_JP": "ぺりお",
-      "ko_KR": "펠리오"
+      "ko_KR": "펠리오",
+      "ru_RU": "Пит"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "poo",
-    "Russian": "Харриет",
     "ref": "Harriet",
     "localization": {
       "en_US": "Harriet",
@@ -89088,13 +89087,13 @@
       "zh_CN": "刀丽茹",
       "zh_TW": "刀麗茹",
       "ja_JP": "カットリーヌ",
-      "ko_KR": "카트리나"
+      "ko_KR": "카트리나",
+      "ru_RU": "Харриет"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "pyn",
-    "Russian": "Зиппер",
     "ref": "Zipper",
     "localization": {
       "en_US": "Zipper",
@@ -89109,13 +89108,13 @@
       "zh_CN": "蹦蹦",
       "zh_TW": "蹦蹦",
       "ja_JP": "ぴょんたろう",
-      "ko_KR": "토빗"
+      "ko_KR": "토빗",
+      "ru_RU": "Зиппер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rcm",
-    "Russian": "Тимми",
     "ref": "Timmy",
     "localization": {
       "en_US": "Timmy",
@@ -89130,13 +89129,13 @@
       "zh_CN": "豆狸",
       "zh_TW": "豆狸",
       "ja_JP": "まめきち",
-      "ko_KR": "콩돌이"
+      "ko_KR": "콩돌이",
+      "ru_RU": "Тимми"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rco",
-    "Russian": "Том",
     "ref": "Tom Nook",
     "localization": {
       "en_US": "Tom Nook",
@@ -89151,13 +89150,13 @@
       "zh_CN": "狸克",
       "zh_TW": "狸克",
       "ja_JP": "たぬきち",
-      "ko_KR": "너굴"
+      "ko_KR": "너굴",
+      "ru_RU": "Том"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rct",
-    "Russian": "Томми",
     "ref": "Tommy",
     "localization": {
       "en_US": "Tommy",
@@ -89172,13 +89171,13 @@
       "zh_CN": "粒狸",
       "zh_TW": "粒狸",
       "ja_JP": "つぶきち",
-      "ko_KR": "밤돌이"
+      "ko_KR": "밤돌이",
+      "ru_RU": "Томми"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "rei",
-    "Russian": "Джингл",
     "ref": "Jingle",
     "localization": {
       "en_US": "Jingle",
@@ -89193,13 +89192,13 @@
       "zh_CN": "铃铃鹿",
       "zh_TW": "鈴鈴鹿",
       "ja_JP": "ジングル",
-      "ko_KR": "루돌"
+      "ko_KR": "루돌",
+      "ru_RU": "Джингл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "seo",
-    "Russian": "Паскал",
     "ref": "Pascal",
     "localization": {
       "en_US": "Pascal",
@@ -89214,13 +89213,13 @@
       "zh_CN": "阿獭",
       "zh_TW": "阿獺",
       "ja_JP": "ラコスケ",
-      "ko_KR": "해탈한"
+      "ko_KR": "해탈한",
+      "ru_RU": "Паскал"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "skk",
-    "Russian": "Кикс",
     "ref": "Kicks",
     "localization": {
       "en_US": "Kicks",
@@ -89235,13 +89234,13 @@
       "zh_CN": "薛革",
       "zh_TW": "薛革",
       "ja_JP": "シャンク",
-      "ko_KR": "패트릭"
+      "ko_KR": "패트릭",
+      "ru_RU": "Кикс"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "slo",
-    "Russian": "Лейф",
     "ref": "Leif",
     "localization": {
       "en_US": "Leif",
@@ -89256,13 +89255,13 @@
       "zh_CN": "然然",
       "zh_TW": "然然",
       "ja_JP": "レイジ",
-      "ko_KR": "늘봉"
+      "ko_KR": "늘봉",
+      "ru_RU": "Лейф"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "spn",
-    "Russian": "Харви",
     "ref": "Harvey",
     "localization": {
       "en_US": "Harvey",
@@ -89277,13 +89276,13 @@
       "zh_CN": "巴猎",
       "zh_TW": "巴獵",
       "ja_JP": "パニエル",
-      "ko_KR": "파니엘"
+      "ko_KR": "파니엘",
+      "ru_RU": "Харви"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "sza",
-    "Russian": "Изабель",
     "ref": "Isabelle",
     "localization": {
       "en_US": "Isabelle",
@@ -89298,13 +89297,13 @@
       "zh_CN": "西施惠",
       "zh_TW": "西施惠",
       "ja_JP": "しずえ",
-      "ko_KR": "しずえ"
+      "ko_KR": "しずえ",
+      "ru_RU": "Изабель"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "szo",
-    "Russian": "Дигби",
     "ref": "Digby",
     "localization": {
       "en_US": "Digby",
@@ -89319,13 +89318,13 @@
       "zh_CN": "西施德",
       "zh_TW": "西施德",
       "ja_JP": "ケント",
-      "ko_KR": "켄트"
+      "ko_KR": "켄트",
+      "ru_RU": "Дигби"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tap",
-    "Russian": "Лун",
     "ref": "Luna",
     "localization": {
       "en_US": "Luna",
@@ -89340,13 +89339,13 @@
       "zh_CN": "梦美",
       "zh_TW": "夢美",
       "ja_JP": "ゆめみ",
-      "ko_KR": "몽셰르"
+      "ko_KR": "몽셰르",
+      "ru_RU": "Лун"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tkkA",
-    "Russian": "К. К.",
     "ref": "K.K.",
     "localization": {
       "en_US": "K.K.",
@@ -89361,13 +89360,13 @@
       "zh_CN": "K.K.",
       "zh_TW": "K.K.",
       "ja_JP": "とたけけ",
-      "ko_KR": "K.K."
+      "ko_KR": "K.K.",
+      "ru_RU": "К. К."
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tkkB",
-    "Russian": "DJ KK",
     "ref": "DJ KK",
     "localization": {
       "en_US": "DJ KK",
@@ -89382,13 +89381,13 @@
       "zh_CN": "DJ KK",
       "zh_TW": "DJ KK",
       "ja_JP": "DJ K.K",
-      "ko_KR": "DJ K.K."
+      "ko_KR": "DJ K.K.",
+      "ru_RU": "DJ KK"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "ttlA",
-    "Russian": "Тортимер",
     "ref": "Tortimer",
     "localization": {
       "en_US": "Tortimer",
@@ -89403,13 +89402,13 @@
       "zh_CN": "寿伯",
       "zh_TW": "壽伯",
       "ja_JP": "コトブキ",
-      "ko_KR": "고북"
+      "ko_KR": "고북",
+      "ru_RU": "Тортимер"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "tuk",
-    "Russian": "Франклин",
     "ref": "Franklin",
     "localization": {
       "en_US": "Franklin",
@@ -89424,13 +89423,13 @@
       "zh_CN": "富蓝",
       "zh_TW": "富藍",
       "ja_JP": "フランクリン",
-      "ko_KR": "프랭클린"
+      "ko_KR": "프랭클린",
+      "ru_RU": "Франклин"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "upa",
-    "Russian": "Шранк",
     "ref": "Shrunk",
     "localization": {
       "en_US": "Shrunk",
@@ -89445,13 +89444,13 @@
       "zh_CN": "笑匠",
       "zh_TW": "笑匠",
       "ja_JP": "ししょー",
-      "ko_KR": "스승"
+      "ko_KR": "스승",
+      "ru_RU": "Шранк"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "wrl",
-    "Russian": "Уэнделл",
     "ref": "Wendell",
     "localization": {
       "en_US": "Wendell",
@@ -89466,13 +89465,13 @@
       "zh_CN": "海项",
       "zh_TW": "海項",
       "ja_JP": "セイイチ",
-      "ko_KR": "고파유"
+      "ko_KR": "고파유",
+      "ru_RU": "Уэнделл"
     }
   },
   {
     "SourceSheet": "Special NPCs",
     "id": "xct",
-    "Russian": "Ровер",
     "ref": "Rover",
     "localization": {
       "en_US": "Rover",
@@ -89487,7 +89486,8 @@
       "zh_CN": "陌陌",
       "zh_TW": "陌陌",
       "ja_JP": "みしらぬネコ",
-      "ko_KR": "낯선고양이"
+      "ko_KR": "낯선고양이",
+      "ru_RU": "Ровер"
     }
   },
   {
