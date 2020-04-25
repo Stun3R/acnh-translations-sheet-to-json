@@ -1,7 +1,6 @@
 export interface Villagers {
   SourceSheet: SourceSheet;
   id: string;
-  'Spanish (US)': string;
   Russian: string;
   ref: string;
   localization: Localization;
@@ -16,6 +15,7 @@ export interface Localization {
   en_GB: string;
   de_DE: string;
   es_ES: string;
+  es_US: string;
   fr_FR: string;
   fr_CA: string;
   it_IT: string;

@@ -6,7 +6,6 @@ export interface Item {
   localization: Localization;
   ID?: string;
   Russian?: string;
-  'Spanish (US)'?: string;
 }
 
 export enum SourceSheet {
@@ -53,6 +52,7 @@ export interface Localization {
   en_GB: string;
   de_DE: string;
   es_ES: string;
+  es_US: string;
   fr_FR: string;
   fr_CA: string;
   it_IT: string;

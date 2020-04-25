@@ -2,7 +2,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant00",
-    "Spanish (US)": "Cirano",
     "Russian": "Сирано",
     "ref": "Cyrano",
     "localization": {
@@ -10,6 +9,7 @@
       "en_GB": "Cyrano",
       "de_DE": "Theo",
       "es_ES": "Cirano",
+      "es_US": "Cirano",
       "fr_FR": "Cyrano",
       "fr_CA": "Cyrano",
       "it_IT": "Cirano",
@@ -23,7 +23,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant01",
-    "Spanish (US)": "Antonio",
     "Russian": "Антонио",
     "ref": "Antonio",
     "localization": {
@@ -31,6 +30,7 @@
       "en_GB": "Antonio",
       "de_DE": "Siggi",
       "es_ES": "Antonio",
+      "es_US": "Antonio",
       "fr_FR": "Antonio",
       "fr_CA": "Antonio",
       "it_IT": "Antonio",
@@ -44,7 +44,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant02",
-    "Spanish (US)": "Aspidora",
     "Russian": "Панго",
     "ref": "Pango",
     "localization": {
@@ -52,6 +51,7 @@
       "en_GB": "Pango",
       "de_DE": "Mathilda",
       "es_ES": "Aspidora",
+      "es_US": "Aspidora",
       "fr_FR": "Mathilda",
       "fr_CA": "Mathilda",
       "it_IT": "Carlotta",
@@ -65,7 +65,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant03",
-    "Spanish (US)": "Anabel",
     "Russian": "Анабель",
     "ref": "Anabelle",
     "localization": {
@@ -73,6 +72,7 @@
       "en_GB": "Anabelle",
       "de_DE": "Annabell",
       "es_ES": "Anabel",
+      "es_US": "Anabel",
       "fr_FR": "Anabelle",
       "fr_CA": "Anabelle",
       "it_IT": "Annalisa",
@@ -86,7 +86,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant06",
-    "Spanish (US)": "Rosanari",
     "Russian": "Снути",
     "ref": "Snooty",
     "localization": {
@@ -94,6 +93,7 @@
       "en_GB": "Snooty",
       "de_DE": "Hilde",
       "es_ES": "Rosanari",
+      "es_US": "Rosanari",
       "fr_FR": "Tarina",
       "fr_CA": "Tarina",
       "it_IT": "Lucrezia",
@@ -107,7 +107,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant08",
-    "Spanish (US)": "Alba",
     "Russian": "Аннализ",
     "ref": "Annalisa",
     "localization": {
@@ -115,6 +114,7 @@
       "en_GB": "Annalisa",
       "de_DE": "Annalena",
       "es_ES": "Alba",
+      "es_US": "Alba",
       "fr_FR": "Roberta",
       "fr_CA": "Roberta",
       "it_IT": "Anita",
@@ -128,7 +128,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ant09",
-    "Spanish (US)": "Olaf",
     "Russian": "Олаф",
     "ref": "Olaf",
     "localization": {
@@ -136,6 +135,7 @@
       "en_GB": "Olaf",
       "de_DE": "Olaf",
       "es_ES": "Olaf",
+      "es_US": "Olaf",
       "fr_FR": "Blair",
       "fr_CA": "Blair",
       "it_IT": "Ettore",
@@ -149,7 +149,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea00",
-    "Spanish (US)": "Teddy",
     "Russian": "Тедди",
     "ref": "Teddy",
     "localization": {
@@ -157,6 +156,7 @@
       "en_GB": "Teddy",
       "de_DE": "Torsten",
       "es_ES": "Teddy",
+      "es_US": "Teddy",
       "fr_FR": "Teddy",
       "fr_CA": "Teddy",
       "it_IT": "Teddy",
@@ -170,7 +170,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea01",
-    "Spanish (US)": "Violeta",
     "Russian": "Пинки",
     "ref": "Pinky",
     "localization": {
@@ -178,6 +177,7 @@
       "en_GB": "Pinky",
       "de_DE": "Pia",
       "es_ES": "Violeta",
+      "es_US": "Violeta",
       "fr_FR": "Rosine",
       "fr_CA": "Rosine",
       "it_IT": "Pinky",
@@ -191,7 +191,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea02",
-    "Spanish (US)": "Gorbaché",
     "Russian": "Керт",
     "ref": "Curt",
     "localization": {
@@ -199,6 +198,7 @@
       "en_GB": "Curt",
       "de_DE": "Kurt",
       "es_ES": "Gorbaché",
+      "es_US": "Gorbaché",
       "fr_FR": "Curt",
       "fr_CA": "Curt",
       "it_IT": "Curt",
@@ -212,7 +212,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea03",
-    "Spanish (US)": "Pando",
     "Russian": "Чау",
     "ref": "Chow",
     "localization": {
@@ -220,6 +219,7 @@
       "en_GB": "Chow",
       "de_DE": "Chang",
       "es_ES": "Pando",
+      "es_US": "Pando",
       "fr_FR": "Chulin",
       "fr_CA": "Chulin",
       "it_IT": "Chowchow",
@@ -233,7 +233,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea05",
-    "Spanish (US)": "Nachete",
     "Russian": "Нэйт",
     "ref": "Nate",
     "localization": {
@@ -241,6 +240,7 @@
       "en_GB": "Nate",
       "de_DE": "Nathan",
       "es_ES": "Nachete",
+      "es_US": "Nachete",
       "fr_FR": "Nathan",
       "fr_CA": "Nathan",
       "it_IT": "Gianni",
@@ -254,7 +254,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea06",
-    "Spanish (US)": "Groucho",
     "Russian": "Граучо",
     "ref": "Groucho",
     "localization": {
@@ -262,6 +261,7 @@
       "en_GB": "Groucho",
       "de_DE": "Ernst",
       "es_ES": "Groucho",
+      "es_US": "Groucho",
       "fr_FR": "Ronchon",
       "fr_CA": "Ronchon",
       "it_IT": "Groucho",
@@ -275,7 +275,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea07",
-    "Spanish (US)": "Tutú",
     "Russian": "Туту",
     "ref": "Tutu",
     "localization": {
@@ -283,6 +282,7 @@
       "en_GB": "Tutu",
       "de_DE": "Mandy",
       "es_ES": "Tutú",
+      "es_US": "Tutú",
       "fr_FR": "Tutu",
       "fr_CA": "Tutu",
       "it_IT": "Lola",
@@ -296,7 +296,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea08",
-    "Spanish (US)": "Úrsula",
     "Russian": "Урсал",
     "ref": "Ursala",
     "localization": {
@@ -304,6 +303,7 @@
       "en_GB": "Ursala",
       "de_DE": "Ursula",
       "es_ES": "Úrsula",
+      "es_US": "Úrsula",
       "fr_FR": "Oursula",
       "fr_CA": "Oursula",
       "it_IT": "Ursula",
@@ -317,7 +317,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea09",
-    "Spanish (US)": "Gruñón",
     "Russian": "Гризли",
     "ref": "Grizzly",
     "localization": {
@@ -325,6 +324,7 @@
       "en_GB": "Grizzly",
       "de_DE": "Gerald",
       "es_ES": "Gruñón",
+      "es_US": "Gruñón",
       "fr_FR": "Grizzly",
       "fr_CA": "Grizzly",
       "it_IT": "Grizzly",
@@ -338,7 +338,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea10",
-    "Spanish (US)": "Lizi",
     "Russian": "Паул",
     "ref": "Paula",
     "localization": {
@@ -346,6 +345,7 @@
       "en_GB": "Paula",
       "de_DE": "Paula",
       "es_ES": "Lizi",
+      "es_US": "Lizi",
       "fr_FR": "Wendy",
       "fr_CA": "Wendy",
       "it_IT": "Bruna",
@@ -359,7 +359,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea11",
-    "Spanish (US)": "Astillas",
     "Russian": "Айк",
     "ref": "Ike",
     "localization": {
@@ -367,6 +366,7 @@
       "en_GB": "Ike",
       "de_DE": "Ike",
       "es_ES": "Astillas",
+      "es_US": "Astillas",
       "fr_FR": "Isaac",
       "fr_CA": "Isaac",
       "it_IT": "Ortensio",
@@ -380,7 +380,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea12",
-    "Spanish (US)": "Charo",
     "Russian": "Шарлиз",
     "ref": "Charlise",
     "localization": {
@@ -388,6 +387,7 @@
       "en_GB": "Charlise",
       "de_DE": "Tabea",
       "es_ES": "Charo",
+      "es_US": "Charo",
       "fr_FR": "Zabou",
       "fr_CA": "Zabou",
       "it_IT": "Orsola",
@@ -401,7 +401,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea13",
-    "Spanish (US)": "Bernabé",
     "Russian": "Беардо",
     "ref": "Beardo",
     "localization": {
@@ -409,6 +408,7 @@
       "en_GB": "Beardo",
       "de_DE": "Berthold",
       "es_ES": "Bernabé",
+      "es_US": "Bernabé",
       "fr_FR": "Eustache",
       "fr_CA": "Eustache",
       "it_IT": "Barnaba",
@@ -422,7 +422,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea14",
-    "Spanish (US)": "Gruñerto",
     "Russian": "Клаус",
     "ref": "Klaus",
     "localization": {
@@ -430,6 +429,7 @@
       "en_GB": "Klaus",
       "de_DE": "Grischa",
       "es_ES": "Gruñerto",
+      "es_US": "Gruñerto",
       "fr_FR": "Klaus",
       "fr_CA": "Klaus",
       "it_IT": "Maciste",
@@ -443,7 +443,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bea15",
-    "Spanish (US)": "Carmela",
     "Russian": "Меган",
     "ref": "Megan",
     "localization": {
@@ -451,6 +450,7 @@
       "en_GB": "Megan",
       "de_DE": "Dagmar",
       "es_ES": "Carmela",
+      "es_US": "Carmela",
       "fr_FR": "Candy",
       "fr_CA": "Candy",
       "it_IT": "Dolcinia",
@@ -464,7 +464,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd00",
-    "Spanish (US)": "Jairo",
     "Russian": "Дже",
     "ref": "Jay",
     "localization": {
@@ -472,6 +471,7 @@
       "en_GB": "Jay",
       "de_DE": "Jan",
       "es_ES": "Jota",
+      "es_US": "Jairo",
       "fr_FR": "Gérard",
       "fr_CA": "Gérard",
       "it_IT": "Jet",
@@ -485,7 +485,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd01",
-    "Spanish (US)": "Aria",
     "Russian": "Робин",
     "ref": "Robin",
     "localization": {
@@ -493,6 +492,7 @@
       "en_GB": "Robin",
       "de_DE": "Jule",
       "es_ES": "Aria",
+      "es_US": "Aria",
       "fr_FR": "Robie",
       "fr_CA": "Robie",
       "it_IT": "Rossana",
@@ -506,7 +506,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd02",
-    "Spanish (US)": "Boquerón",
     "Russian": "Анчоуи",
     "ref": "Anchovy",
     "localization": {
@@ -514,6 +513,7 @@
       "en_GB": "Anchovy",
       "de_DE": "Armin",
       "es_ES": "Boquerón",
+      "es_US": "Boquerón",
       "fr_FR": "Miguel",
       "fr_CA": "Miguel",
       "it_IT": "Acciuga",
@@ -527,7 +527,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd03",
-    "Spanish (US)": "Tití",
     "Russian": "Твигги",
     "ref": "Twiggy",
     "localization": {
@@ -535,6 +534,7 @@
       "en_GB": "Twiggy",
       "de_DE": "Twiggy",
       "es_ES": "Tití",
+      "es_US": "Tití",
       "fr_FR": "Titi",
       "fr_CA": "Titi",
       "it_IT": "Titti",
@@ -548,7 +548,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd04",
-    "Spanish (US)": "Camelio",
     "Russian": "Джиттерс",
     "ref": "Jitters",
     "localization": {
@@ -556,6 +555,7 @@
       "en_GB": "Jitters",
       "de_DE": "Alex",
       "es_ES": "Camelio",
+      "es_US": "Camelio",
       "fr_FR": "Gilbert",
       "fr_CA": "Gilbert",
       "it_IT": "Brivido",
@@ -569,7 +569,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd05",
-    "Spanish (US)": "Bárbara",
     "Russian": "Пайпер",
     "ref": "Piper",
     "localization": {
@@ -577,6 +576,7 @@
       "en_GB": "Piper",
       "de_DE": "Iris",
       "es_ES": "Bárbara",
+      "es_US": "Bárbara",
       "fr_FR": "Neige",
       "fr_CA": "Neige",
       "it_IT": "Giuliva",
@@ -590,7 +590,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd06",
-    "Spanish (US)": "Avutardo",
     "Russian": "Адмирал",
     "ref": "Admiral",
     "localization": {
@@ -598,6 +597,7 @@
       "en_GB": "Admiral",
       "de_DE": "Ansgar",
       "es_ES": "Avutardo",
+      "es_US": "Avutardo",
       "fr_FR": "Maréchal",
       "fr_CA": "Maréchal",
       "it_IT": "Adolfo",
@@ -611,7 +611,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd08",
-    "Spanish (US)": "Paloma",
     "Russian": "Мидж",
     "ref": "Midge",
     "localization": {
@@ -619,6 +618,7 @@
       "en_GB": "Midge",
       "de_DE": "Anna",
       "es_ES": "Paloma",
+      "es_US": "Paloma",
       "fr_FR": "Michèle",
       "fr_CA": "Michèle",
       "it_IT": "Minù",
@@ -632,7 +632,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd11",
-    "Spanish (US)": "Repollo",
     "Russian": "Джейкоб",
     "ref": "Jakey",
     "localization": {
@@ -640,6 +639,7 @@
       "en_GB": "Jakey",
       "de_DE": "Jesko",
       "es_ES": "Repollo",
+      "es_US": "Repollo",
       "fr_FR": "Jacob",
       "fr_CA": "Jacob",
       "it_IT": "Valerio",
@@ -653,7 +653,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd15",
-    "Spanish (US)": "Plumerio",
     "Russian": "Луч",
     "ref": "Lucha",
     "localization": {
@@ -661,6 +660,7 @@
       "en_GB": "Lucha",
       "de_DE": "Lukas",
       "es_ES": "Plumerio",
+      "es_US": "Plumerio",
       "fr_FR": "Condor",
       "fr_CA": "Condor",
       "it_IT": "Loreto",
@@ -674,7 +674,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd16",
-    "Spanish (US)": "Gorrelmo",
     "Russian": "Жак",
     "ref": "Jacques",
     "localization": {
@@ -682,6 +681,7 @@
       "en_GB": "Jacques",
       "de_DE": "Pierre",
       "es_ES": "Gorrelmo",
+      "es_US": "Gorrelmo",
       "fr_FR": "Jacky",
       "fr_CA": "Jacky",
       "it_IT": "Zampiero",
@@ -695,7 +695,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd17",
-    "Spanish (US)": "Picuet",
     "Russian": "Пек",
     "ref": "Peck",
     "localization": {
@@ -703,6 +702,7 @@
       "en_GB": "Peck",
       "de_DE": "Picko",
       "es_ES": "Picuet",
+      "es_US": "Picuet",
       "fr_FR": "Pec",
       "fr_CA": "Pec",
       "it_IT": "Gheppio",
@@ -716,7 +716,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "brd18",
-    "Spanish (US)": "Jaime",
     "Russian": "Спарро",
     "ref": "Sparro",
     "localization": {
@@ -724,6 +723,7 @@
       "en_GB": "Sparro",
       "de_DE": "Nestor",
       "es_ES": "Jaime",
+      "es_US": "Jaime",
       "fr_FR": "Darius",
       "fr_CA": "Darius",
       "it_IT": "Piumardo",
@@ -737,7 +737,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bul00",
-    "Spanish (US)": "Aliste",
     "Russian": "Ангус",
     "ref": "Angus",
     "localization": {
@@ -745,6 +744,7 @@
       "en_GB": "Angus",
       "de_DE": "Angus",
       "es_ES": "Aliste",
+      "es_US": "Aliste",
       "fr_FR": "Angus",
       "fr_CA": "Angus",
       "it_IT": "Angus",
@@ -758,7 +758,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bul01",
-    "Spanish (US)": "Rodeo",
     "Russian": "Родео",
     "ref": "Rodeo",
     "localization": {
@@ -766,6 +765,7 @@
       "en_GB": "Rodeo",
       "de_DE": "Toro",
       "es_ES": "Rodeo",
+      "es_US": "Rodeo",
       "fr_FR": "Flèche",
       "fr_CA": "Flèche",
       "it_IT": "Rodeo",
@@ -779,7 +779,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bul03",
-    "Spanish (US)": "Vitorino",
     "Russian": "Стью",
     "ref": "Stu",
     "localization": {
@@ -787,6 +786,7 @@
       "en_GB": "Stu",
       "de_DE": "Carlos",
       "es_ES": "Vitorino",
+      "es_US": "Vitorino",
       "fr_FR": "Beubeu",
       "fr_CA": "Beubeu",
       "it_IT": "Carlos",
@@ -800,7 +800,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bul05",
-    "Spanish (US)": "Bovi",
     "Russian": "Ти-Боун",
     "ref": "T-Bone",
     "localization": {
@@ -808,6 +807,7 @@
       "en_GB": "T-Bone",
       "de_DE": "Marius",
       "es_ES": "Bovi",
+      "es_US": "Bovi",
       "fr_FR": "Steakos",
       "fr_CA": "Steakos",
       "it_IT": "Victor",
@@ -821,7 +821,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bul07",
-    "Spanish (US)": "Cacho",
     "Russian": "Коуч",
     "ref": "Coach",
     "localization": {
@@ -829,6 +828,7 @@
       "en_GB": "Coach",
       "de_DE": "Arnold",
       "es_ES": "Cacho",
+      "es_US": "Cacho",
       "fr_FR": "Arnold",
       "fr_CA": "Arnold",
       "it_IT": "Ercole",
@@ -842,7 +842,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "bul08",
-    "Spanish (US)": "Artorito",
     "Russian": "Вик",
     "ref": "Vic",
     "localization": {
@@ -850,6 +849,7 @@
       "en_GB": "Vic",
       "de_DE": "Klaus",
       "es_ES": "Artorito",
+      "es_US": "Artorito",
       "fr_FR": "Toto",
       "fr_CA": "Toto",
       "it_IT": "Paco",
@@ -863,7 +863,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat00",
-    "Spanish (US)": "Arándano",
     "Russian": "Боб",
     "ref": "Bob",
     "localization": {
@@ -871,6 +870,7 @@
       "en_GB": "Bob",
       "de_DE": "Jens",
       "es_ES": "Arándano",
+      "es_US": "Arándano",
       "fr_FR": "Robert",
       "fr_CA": "Robert",
       "it_IT": "Bob",
@@ -884,7 +884,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat01",
-    "Spanish (US)": "Misi",
     "Russian": "Митци",
     "ref": "Mitzi",
     "localization": {
@@ -892,6 +891,7 @@
       "en_GB": "Mitzi",
       "de_DE": "Miezi",
       "es_ES": "Misi",
+      "es_US": "Misi",
       "fr_FR": "Mistigri",
       "fr_CA": "Mistigri",
       "it_IT": "Zampetta",
@@ -905,7 +905,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat02",
-    "Spanish (US)": "Minina",
     "Russian": "Рози",
     "ref": "Rosie",
     "localization": {
@@ -913,6 +912,7 @@
       "en_GB": "Rosie",
       "de_DE": "Sophie",
       "es_ES": "Minina",
+      "es_US": "Minina",
       "fr_FR": "Rosie",
       "fr_CA": "Rosie",
       "it_IT": "Grinfia",
@@ -926,7 +926,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat03",
-    "Spanish (US)": "Olivia",
     "Russian": "Оливи",
     "ref": "Olivia",
     "localization": {
@@ -934,6 +933,7 @@
       "en_GB": "Olivia",
       "de_DE": "Bianca",
       "es_ES": "Olivia",
+      "es_US": "Olivia",
       "fr_FR": "Olivia",
       "fr_CA": "Olivia",
       "it_IT": "Micina",
@@ -947,7 +947,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat04",
-    "Spanish (US)": "Ágata",
     "Russian": "Кики",
     "ref": "Kiki",
     "localization": {
@@ -955,6 +954,7 @@
       "en_GB": "Kiki",
       "de_DE": "Kiki",
       "es_ES": "Ágata",
+      "es_US": "Ágata",
       "fr_FR": "Kiki",
       "fr_CA": "Kiki",
       "it_IT": "Kiki",
@@ -968,7 +968,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat05",
-    "Spanish (US)": "Tricia",
     "Russian": "Тэнджи",
     "ref": "Tangy",
     "localization": {
@@ -976,6 +975,7 @@
       "en_GB": "Tangy",
       "de_DE": "Tanja",
       "es_ES": "Tricia",
+      "es_US": "Tricia",
       "fr_FR": "Marine",
       "fr_CA": "Marine",
       "it_IT": "Arancina",
@@ -989,7 +989,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat06",
-    "Spanish (US)": "Félix",
     "Russian": "Панчи",
     "ref": "Punchy",
     "localization": {
@@ -997,6 +996,7 @@
       "en_GB": "Punchy",
       "de_DE": "Julian",
       "es_ES": "Félix",
+      "es_US": "Félix",
       "fr_FR": "Cédric",
       "fr_CA": "Cédric",
       "it_IT": "Felix",
@@ -1010,7 +1010,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat07",
-    "Spanish (US)": "Wanda",
     "Russian": "Перл",
     "ref": "Purrl",
     "localization": {
@@ -1018,6 +1017,7 @@
       "en_GB": "Purrl",
       "de_DE": "Franka",
       "es_ES": "Wanda",
+      "es_US": "Wanda",
       "fr_FR": "Perle",
       "fr_CA": "Perle",
       "it_IT": "Felidia",
@@ -1031,7 +1031,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat08",
-    "Spanish (US)": "Tristán",
     "Russian": "Моэ",
     "ref": "Moe",
     "localization": {
@@ -1039,6 +1038,7 @@
       "en_GB": "Moe",
       "de_DE": "Tristan",
       "es_ES": "Tristán",
+      "es_US": "Tristán",
       "fr_FR": "Momo",
       "fr_CA": "Momo",
       "it_IT": "Moe",
@@ -1052,7 +1052,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat09",
-    "Spanish (US)": "Kabuki",
     "Russian": "Кабуки",
     "ref": "Kabuki",
     "localization": {
@@ -1060,6 +1059,7 @@
       "en_GB": "Kabuki",
       "de_DE": "Kabuki",
       "es_ES": "Kabuki",
+      "es_US": "Kabuki",
       "fr_FR": "Kabuki",
       "fr_CA": "Kabuki",
       "it_IT": "Kabuki",
@@ -1073,7 +1073,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat10",
-    "Spanish (US)": "Gatomán",
     "Russian": "Кид",
     "ref": "Kid Cat",
     "localization": {
@@ -1081,6 +1080,7 @@
       "en_GB": "Kid Cat",
       "de_DE": "Pit",
       "es_ES": "Gatomán",
+      "es_US": "Gatomán",
       "fr_FR": "Câlin",
       "fr_CA": "Câlin",
       "it_IT": "Zampa",
@@ -1094,7 +1094,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat11",
-    "Spanish (US)": "Monique",
     "Russian": "Моник",
     "ref": "Monique",
     "localization": {
@@ -1102,6 +1101,7 @@
       "en_GB": "Monique",
       "de_DE": "Monique",
       "es_ES": "Monique",
+      "es_US": "Monique",
       "fr_FR": "Monique",
       "fr_CA": "Monique",
       "it_IT": "Marylin",
@@ -1115,7 +1115,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat12",
-    "Spanish (US)": "Liana",
     "Russian": "Тэбби",
     "ref": "Tabby",
     "localization": {
@@ -1123,6 +1122,7 @@
       "en_GB": "Tabby",
       "de_DE": "Zita",
       "es_ES": "Liana",
+      "es_US": "Liana",
       "fr_FR": "Tigri",
       "fr_CA": "Tigri",
       "it_IT": "Lisca",
@@ -1136,7 +1136,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat13",
-    "Spanish (US)": "Micifuz",
     "Russian": "Стинки",
     "ref": "Stinky",
     "localization": {
@@ -1144,6 +1143,7 @@
       "en_GB": "Stinky",
       "de_DE": "Stefan",
       "es_ES": "Micifuz",
+      "es_US": "Micifuz",
       "fr_FR": "Tupux",
       "fr_CA": "Tupux",
       "it_IT": "Puzzolo",
@@ -1157,7 +1157,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat14",
-    "Spanish (US)": "Kasandra",
     "Russian": "Китти",
     "ref": "Kitty",
     "localization": {
@@ -1165,6 +1164,7 @@
       "en_GB": "Kitty",
       "de_DE": "Karen",
       "es_ES": "Kasandra",
+      "es_US": "Kasandra",
       "fr_FR": "Kitty",
       "fr_CA": "Kitty",
       "it_IT": "Ester",
@@ -1178,7 +1178,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat15",
-    "Spanish (US)": "Zapirón",
     "Russian": "Том",
     "ref": "Tom",
     "localization": {
@@ -1186,6 +1185,7 @@
       "en_GB": "Tom",
       "de_DE": "Timo",
       "es_ES": "Zapirón",
+      "es_US": "Zapirón",
       "fr_FR": "Tom",
       "fr_CA": "Tom",
       "it_IT": "Isidoro",
@@ -1199,7 +1199,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat16",
-    "Spanish (US)": "Susi",
     "Russian": "Мерри",
     "ref": "Merry",
     "localization": {
@@ -1207,6 +1206,7 @@
       "en_GB": "Merry",
       "de_DE": "Mischka",
       "es_ES": "Susi",
+      "es_US": "Susi",
       "fr_FR": "Suzy",
       "fr_CA": "Suzy",
       "it_IT": "Katy",
@@ -1220,7 +1220,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat17",
-    "Spanish (US)": "Micha",
     "Russian": "Фелисити",
     "ref": "Felicity",
     "localization": {
@@ -1228,6 +1227,7 @@
       "en_GB": "Felicity",
       "de_DE": "Minka",
       "es_ES": "Micha",
+      "es_US": "Micha",
       "fr_FR": "Maud",
       "fr_CA": "Maud",
       "it_IT": "Milly",
@@ -1241,7 +1241,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat18",
-    "Spanish (US)": "Feli",
     "Russian": "Лолли",
     "ref": "Lolly",
     "localization": {
@@ -1249,6 +1248,7 @@
       "en_GB": "Lolly",
       "de_DE": "Feline",
       "es_ES": "Feli",
+      "es_US": "Feli",
       "fr_FR": "Linette",
       "fr_CA": "Linette",
       "it_IT": "Maty",
@@ -1262,7 +1262,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat19",
-    "Spanish (US)": "Patri",
     "Russian": "Анк",
     "ref": "Ankha",
     "localization": {
@@ -1270,6 +1269,7 @@
       "en_GB": "Ankha",
       "de_DE": "Kleo",
       "es_ES": "Patri",
+      "es_US": "Patri",
       "fr_FR": "Neferti",
       "fr_CA": "Neferti",
       "it_IT": "Cleo",
@@ -1283,7 +1283,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat20",
-    "Spanish (US)": "Rufino",
     "Russian": "Руди",
     "ref": "Rudy",
     "localization": {
@@ -1291,6 +1290,7 @@
       "en_GB": "Rudy",
       "de_DE": "Heinz",
       "es_ES": "Rufino",
+      "es_US": "Rufino",
       "fr_FR": "Rougepif",
       "fr_CA": "Rougepif",
       "it_IT": "Gomitolo",
@@ -1304,7 +1304,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat21",
-    "Spanish (US)": "Melina",
     "Russian": "Кэт",
     "ref": "Katt",
     "localization": {
@@ -1312,6 +1311,7 @@
       "en_GB": "Katt",
       "de_DE": "Janine",
       "es_ES": "Melina",
+      "es_US": "Melina",
       "fr_FR": "Kat",
       "fr_CA": "Kat",
       "it_IT": "Ofelia",
@@ -1325,7 +1325,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cat23",
-    "Spanish (US)": "Narciso",
     "Russian": "Реймонд",
     "ref": "Raymond",
     "localization": {
@@ -1333,6 +1332,7 @@
       "en_GB": "Raymond",
       "de_DE": "Gunnar",
       "es_ES": "Narciso",
+      "es_US": "Narciso",
       "fr_FR": "Raymond",
       "fr_CA": "Raymond",
       "it_IT": "Raimondo",
@@ -1346,7 +1346,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr00",
-    "Spanish (US)": "Celeste",
     "Russian": "Блюбеар",
     "ref": "Bluebear",
     "localization": {
@@ -1354,6 +1353,7 @@
       "en_GB": "Bluebear",
       "de_DE": "Birte",
       "es_ES": "Celeste",
+      "es_US": "Celeste",
       "fr_FR": "Myrtille",
       "fr_CA": "Myrtille",
       "it_IT": "Azzurra",
@@ -1367,7 +1367,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr01",
-    "Spanish (US)": "Dulce",
     "Russian": "Мейпл",
     "ref": "Maple",
     "localization": {
@@ -1375,6 +1374,7 @@
       "en_GB": "Maple",
       "de_DE": "Mona",
       "es_ES": "Dulce",
+      "es_US": "Dulce",
       "fr_FR": "Léa",
       "fr_CA": "Léa",
       "it_IT": "Dulcinea",
@@ -1388,7 +1388,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr02",
-    "Spanish (US)": "Poncho",
     "Russian": "Пончо",
     "ref": "Poncho",
     "localization": {
@@ -1396,6 +1395,7 @@
       "en_GB": "Poncho",
       "de_DE": "Toni",
       "es_ES": "Poncho",
+      "es_US": "Poncho",
       "fr_FR": "Théo",
       "fr_CA": "Théo",
       "it_IT": "Poncho",
@@ -1409,7 +1409,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr03",
-    "Spanish (US)": "Bollito",
     "Russian": "Падж",
     "ref": "Pudge",
     "localization": {
@@ -1417,6 +1416,7 @@
       "en_GB": "Pudge",
       "de_DE": "Bertram",
       "es_ES": "Bollito",
+      "es_US": "Bollito",
       "fr_FR": "Gradub",
       "fr_CA": "Gradub",
       "it_IT": "Tombolo",
@@ -1430,7 +1430,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr04",
-    "Spanish (US)": "Orestes",
     "Russian": "Коди",
     "ref": "Kody",
     "localization": {
@@ -1438,6 +1437,7 @@
       "en_GB": "Kody",
       "de_DE": "Bernd",
       "es_ES": "Orestes",
+      "es_US": "Orestes",
       "fr_FR": "Bill",
       "fr_CA": "Bill",
       "it_IT": "Salomone",
@@ -1451,7 +1451,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr05",
-    "Spanish (US)": "Parches",
     "Russian": "Стичес",
     "ref": "Stitches",
     "localization": {
@@ -1459,6 +1458,7 @@
       "en_GB": "Stitches",
       "de_DE": "Berry",
       "es_ES": "Parches",
+      "es_US": "Parches",
       "fr_FR": "Miro",
       "fr_CA": "Miro",
       "it_IT": "Toppetta",
@@ -1472,7 +1472,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr06",
-    "Spanish (US)": "Vladimir",
     "Russian": "Владимир",
     "ref": "Vladimir",
     "localization": {
@@ -1480,6 +1479,7 @@
       "en_GB": "Vladimir",
       "de_DE": "Vladimir",
       "es_ES": "Vladimir",
+      "es_US": "Vladimir",
       "fr_FR": "Vladimir",
       "fr_CA": "Vladimir",
       "it_IT": "Vladimir",
@@ -1493,7 +1493,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr07",
-    "Spanish (US)": "Orsón",
     "Russian": "Мерфи",
     "ref": "Murphy",
     "localization": {
@@ -1501,6 +1500,7 @@
       "en_GB": "Murphy",
       "de_DE": "Michael",
       "es_ES": "Orsón",
+      "es_US": "Orsón",
       "fr_FR": "Eddie",
       "fr_CA": "Eddie",
       "it_IT": "Marcello",
@@ -1514,7 +1514,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr09",
-    "Spanish (US)": "Osalina",
     "Russian": "Олив",
     "ref": "Olive",
     "localization": {
@@ -1522,6 +1521,7 @@
       "en_GB": "Olive",
       "de_DE": "Linda",
       "es_ES": "Osalina",
+      "es_US": "Osalina",
       "fr_FR": "Grisa",
       "fr_CA": "Grisa",
       "it_IT": "Olivia",
@@ -1535,7 +1535,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr10",
-    "Spanish (US)": "Cerecita",
     "Russian": "Шери",
     "ref": "Cheri",
     "localization": {
@@ -1543,6 +1542,7 @@
       "en_GB": "Cheri",
       "de_DE": "Claudia",
       "es_ES": "Cerecita",
+      "es_US": "Cerecita",
       "fr_FR": "Rosalie",
       "fr_CA": "Rosalie",
       "it_IT": "Bonbon",
@@ -1556,7 +1556,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr13",
-    "Spanish (US)": "Hanalulú",
     "Russian": "Джун",
     "ref": "June",
     "localization": {
@@ -1564,6 +1563,7 @@
       "en_GB": "June",
       "de_DE": "Juna",
       "es_ES": "Hanalulú",
+      "es_US": "Hanalulú",
       "fr_FR": "Agnès",
       "fr_CA": "Agnès",
       "it_IT": "June",
@@ -1577,7 +1577,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr14",
-    "Spanish (US)": "Vera",
     "Russian": "Пеко",
     "ref": "Pekoe",
     "localization": {
@@ -1585,6 +1584,7 @@
       "en_GB": "Pekoe",
       "de_DE": "Sandrine",
       "es_ES": "Vera",
+      "es_US": "Vera",
       "fr_FR": "Pauline",
       "fr_CA": "Pauline",
       "it_IT": "Mina",
@@ -1598,7 +1598,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr15",
-    "Spanish (US)": "Osunio",
     "Russian": "Честер",
     "ref": "Chester",
     "localization": {
@@ -1606,6 +1605,7 @@
       "en_GB": "Chester",
       "de_DE": "Eduard",
       "es_ES": "Osunio",
+      "es_US": "Osunio",
       "fr_FR": "Placide",
       "fr_CA": "Placide",
       "it_IT": "Clemente",
@@ -1619,7 +1619,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr16",
-    "Spanish (US)": "Plácido",
     "Russian": "Барольд",
     "ref": "Barold",
     "localization": {
@@ -1627,6 +1626,7 @@
       "en_GB": "Barold",
       "de_DE": "Hubert",
       "es_ES": "Plácido",
+      "es_US": "Plácido",
       "fr_FR": "Manu",
       "fr_CA": "Manu",
       "it_IT": "Placido",
@@ -1640,7 +1640,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr17",
-    "Spanish (US)": "Aída",
     "Russian": "Тамми",
     "ref": "Tammy",
     "localization": {
@@ -1648,6 +1647,7 @@
       "en_GB": "Tammy",
       "de_DE": "Tatjana",
       "es_ES": "Aída",
+      "es_US": "Aída",
       "fr_FR": "Vanessa",
       "fr_CA": "Vanessa",
       "it_IT": "Tamara",
@@ -1661,7 +1661,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr18",
-    "Spanish (US)": "Marty",
     "Russian": "Марти",
     "ref": "Marty",
     "localization": {
@@ -1669,6 +1668,7 @@
       "en_GB": "Marty",
       "de_DE": "Marty",
       "es_ES": "Marty",
+      "es_US": "Marty",
       "fr_FR": "Marty",
       "fr_CA": "Marty",
       "it_IT": "Marty",
@@ -1682,7 +1682,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cbr19",
-    "Spanish (US)": "Rosezna",
     "Russian": "Джуди",
     "ref": "Judy",
     "localization": {
@@ -1690,6 +1689,7 @@
       "en_GB": "Judy",
       "de_DE": "Misuzu",
       "es_ES": "Rosezna",
+      "es_US": "Rosezna",
       "fr_FR": "Laura",
       "fr_CA": "Laura",
       "it_IT": "Misuzu",
@@ -1703,7 +1703,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn00",
-    "Spanish (US)": "Gus",
     "Russian": "Гус",
     "ref": "Goose",
     "localization": {
@@ -1711,6 +1710,7 @@
       "en_GB": "Goose",
       "de_DE": "Konrad",
       "es_ES": "Gus",
+      "es_US": "Gus",
       "fr_FR": "Pouli",
       "fr_CA": "Pouli",
       "it_IT": "Chiricò",
@@ -1724,7 +1724,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn01",
-    "Spanish (US)": "Benito",
     "Russian": "Бенедикт",
     "ref": "Benedict",
     "localization": {
@@ -1732,6 +1731,7 @@
       "en_GB": "Benedict",
       "de_DE": "Benedikt",
       "es_ES": "Benito",
+      "es_US": "Benito",
       "fr_FR": "Dimitri",
       "fr_CA": "Dimitri",
       "it_IT": "Biagio",
@@ -1745,7 +1745,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn02",
-    "Spanish (US)": "Norberto",
     "Russian": "Эгберт",
     "ref": "Egbert",
     "localization": {
@@ -1753,6 +1752,7 @@
       "en_GB": "Egbert",
       "de_DE": "Waldemar",
       "es_ES": "Norberto",
+      "es_US": "Norberto",
       "fr_FR": "Herbert",
       "fr_CA": "Herbert",
       "it_IT": "Chicco",
@@ -1766,7 +1766,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn05",
-    "Spanish (US)": "Ava",
     "Russian": "Ав",
     "ref": "Ava",
     "localization": {
@@ -1774,6 +1773,7 @@
       "en_GB": "Ava",
       "de_DE": "Gisela",
       "es_ES": "Ava",
+      "es_US": "Ava",
       "fr_FR": "Eva",
       "fr_CA": "Eva",
       "it_IT": "Ava",
@@ -1787,7 +1787,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn09",
-    "Spanish (US)": "Ramina",
     "Russian": "Бекки",
     "ref": "Becky",
     "localization": {
@@ -1795,6 +1794,7 @@
       "en_GB": "Becky",
       "de_DE": "Inga",
       "es_ES": "Ramina",
+      "es_US": "Ramina",
       "fr_FR": "Sonya",
       "fr_CA": "Sonya",
       "it_IT": "Annetta",
@@ -1808,7 +1808,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn10",
-    "Spanish (US)": "Herminia",
     "Russian": "Плаки",
     "ref": "Plucky",
     "localization": {
@@ -1816,6 +1815,7 @@
       "en_GB": "Plucky",
       "de_DE": "Mareile",
       "es_ES": "Herminia",
+      "es_US": "Herminia",
       "fr_FR": "Poulette",
       "fr_CA": "Poulette",
       "it_IT": "Cocca",
@@ -1829,7 +1829,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn11",
-    "Spanish (US)": "Tono",
     "Russian": "Нокс",
     "ref": "Knox",
     "localization": {
@@ -1837,6 +1836,7 @@
       "en_GB": "Knox",
       "de_DE": "Tschiwi",
       "es_ES": "Tono",
+      "es_US": "Tono",
       "fr_FR": "Wolfram",
       "fr_CA": "Wolfram",
       "it_IT": "Kalin",
@@ -1850,7 +1850,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn12",
-    "Spanish (US)": "Brunilda",
     "Russian": "Броффин",
     "ref": "Broffina",
     "localization": {
@@ -1858,6 +1857,7 @@
       "en_GB": "Broffina",
       "de_DE": "Elfriede",
       "es_ES": "Brunilda",
+      "es_US": "Brunilda",
       "fr_FR": "Jo",
       "fr_CA": "Jo",
       "it_IT": "Concetta",
@@ -1871,7 +1871,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "chn13",
-    "Spanish (US)": "Pichón",
     "Russian": "Кен",
     "ref": "Ken",
     "localization": {
@@ -1879,6 +1878,7 @@
       "en_GB": "Ken",
       "de_DE": "Hannes",
       "es_ES": "Pichón",
+      "es_US": "Pichón",
       "fr_FR": "Ken",
       "fr_CA": "Ken",
       "it_IT": "Aligalli",
@@ -1892,7 +1892,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cow00",
-    "Spanish (US)": "Vacarena",
     "Russian": "Пэтти",
     "ref": "Patty",
     "localization": {
@@ -1900,6 +1899,7 @@
       "en_GB": "Patty",
       "de_DE": "Patricia",
       "es_ES": "Vacarena",
+      "es_US": "Vacarena",
       "fr_FR": "Margaux",
       "fr_CA": "Margaux",
       "it_IT": "Patty",
@@ -1913,7 +1913,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cow01",
-    "Spanish (US)": "Pinta",
     "Russian": "Типпер",
     "ref": "Tipper",
     "localization": {
@@ -1921,6 +1920,7 @@
       "en_GB": "Tipper",
       "de_DE": "Angela",
       "es_ES": "Pinta",
+      "es_US": "Pinta",
       "fr_FR": "Valé",
       "fr_CA": "Valé",
       "it_IT": "Tipper",
@@ -1934,7 +1934,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cow06",
-    "Spanish (US)": "Norma",
     "Russian": "Норм",
     "ref": "Norma",
     "localization": {
@@ -1942,6 +1941,7 @@
       "en_GB": "Norma",
       "de_DE": "Nelly",
       "es_ES": "Norma",
+      "es_US": "Norma",
       "fr_FR": "Norma",
       "fr_CA": "Norma",
       "it_IT": "Norma",
@@ -1955,7 +1955,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "cow07",
-    "Spanish (US)": "Regina",
     "Russian": "Наоми",
     "ref": "Naomi",
     "localization": {
@@ -1963,6 +1962,7 @@
       "en_GB": "Naomi",
       "de_DE": "Jolanda",
       "es_ES": "Regina",
+      "es_US": "Regina",
       "fr_FR": "Maiko",
       "fr_CA": "Maiko",
       "it_IT": "Melina",
@@ -1976,7 +1976,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd00",
-    "Spanish (US)": "Kaimán",
     "Russian": "Альфонсо",
     "ref": "Alfonso",
     "localization": {
@@ -1984,6 +1983,7 @@
       "en_GB": "Alfonso",
       "de_DE": "Markus",
       "es_ES": "Kaimán",
+      "es_US": "Kaimán",
       "fr_FR": "Alphonse",
       "fr_CA": "Alphonse",
       "it_IT": "Alfonso",
@@ -1997,7 +1997,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd01",
-    "Spanish (US)": "Codrila",
     "Russian": "Элли",
     "ref": "Alli",
     "localization": {
@@ -2005,6 +2004,7 @@
       "en_GB": "Alli",
       "de_DE": "Ali",
       "es_ES": "Codrila",
+      "es_US": "Codrila",
       "fr_FR": "Allie",
       "fr_CA": "Allie",
       "it_IT": "Alli",
@@ -2018,7 +2018,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd02",
-    "Spanish (US)": "Braulio",
     "Russian": "Бутс",
     "ref": "Boots",
     "localization": {
@@ -2026,6 +2025,7 @@
       "en_GB": "Boots",
       "de_DE": "Tilmann",
       "es_ES": "Braulio",
+      "es_US": "Braulio",
       "fr_FR": "Croko",
       "fr_CA": "Croko",
       "it_IT": "Crocco",
@@ -2039,7 +2039,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd04",
-    "Spanish (US)": "Croco",
     "Russian": "Дел",
     "ref": "Del",
     "localization": {
@@ -2047,6 +2046,7 @@
       "en_GB": "Del",
       "de_DE": "Krokki",
       "es_ES": "Croco",
+      "es_US": "Croco",
       "fr_FR": "Hector",
       "fr_CA": "Hector",
       "it_IT": "Krokki",
@@ -2060,7 +2060,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd06",
-    "Spanish (US)": "Estallón",
     "Russian": "Сла",
     "ref": "Sly",
     "localization": {
@@ -2068,6 +2067,7 @@
       "en_GB": "Sly",
       "de_DE": "Steve",
       "es_ES": "Estallón",
+      "es_US": "Estallón",
       "fr_FR": "Chuck",
       "fr_CA": "Chuck",
       "it_IT": "Driberto",
@@ -2081,7 +2081,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd07",
-    "Spanish (US)": "Boni",
     "Russian": "Гейл",
     "ref": "Gayle",
     "localization": {
@@ -2089,6 +2088,7 @@
       "en_GB": "Gayle",
       "de_DE": "Rosa",
       "es_ES": "Boni",
+      "es_US": "Boni",
       "fr_FR": "Odile",
       "fr_CA": "Odile",
       "it_IT": "Codrilla",
@@ -2102,7 +2102,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "crd08",
-    "Spanish (US)": "Dragonio",
     "Russian": "Драго",
     "ref": "Drago",
     "localization": {
@@ -2110,6 +2109,7 @@
       "en_GB": "Drago",
       "de_DE": "Frederik",
       "es_ES": "Dragonio",
+      "es_US": "Dragonio",
       "fr_FR": "Drago",
       "fr_CA": "Drago",
       "it_IT": "Dragonio",
@@ -2123,7 +2123,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der00",
-    "Spanish (US)": "Fauna",
     "Russian": "Фаун",
     "ref": "Fauna",
     "localization": {
@@ -2131,6 +2130,7 @@
       "en_GB": "Fauna",
       "de_DE": "Fatima",
       "es_ES": "Fauna",
+      "es_US": "Fauna",
       "fr_FR": "Bibi",
       "fr_CA": "Bibi",
       "it_IT": "Cervina",
@@ -2144,7 +2144,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der01",
-    "Spanish (US)": "Cornelio",
     "Russian": "Бам",
     "ref": "Bam",
     "localization": {
@@ -2152,6 +2151,7 @@
       "en_GB": "Bam",
       "de_DE": "Benjamin",
       "es_ES": "Cornelio",
+      "es_US": "Cornelio",
       "fr_FR": "Nacer",
       "fr_CA": "Nacer",
       "it_IT": "Cornelio",
@@ -2165,7 +2165,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der02",
-    "Spanish (US)": "Corvilo",
     "Russian": "Зелл",
     "ref": "Zell",
     "localization": {
@@ -2173,6 +2172,7 @@
       "en_GB": "Zell",
       "de_DE": "Walter",
       "es_ES": "Corvilo",
+      "es_US": "Corvilo",
       "fr_FR": "Régis",
       "fr_CA": "Régis",
       "it_IT": "Antilio",
@@ -2186,7 +2186,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der03",
-    "Spanish (US)": "Aristo",
     "Russian": "Брюс",
     "ref": "Bruce",
     "localization": {
@@ -2194,6 +2193,7 @@
       "en_GB": "Bruce",
       "de_DE": "Oswald",
       "es_ES": "Aristo",
+      "es_US": "Aristo",
       "fr_FR": "Boubou",
       "fr_CA": "Boubou",
       "it_IT": "Arturo",
@@ -2207,7 +2207,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der04",
-    "Spanish (US)": "Venada",
     "Russian": "Дейрдре",
     "ref": "Deirdre",
     "localization": {
@@ -2215,6 +2214,7 @@
       "en_GB": "Deirdre",
       "de_DE": "Dina",
       "es_ES": "Venada",
+      "es_US": "Venada",
       "fr_FR": "Bichoune",
       "fr_CA": "Bichoune",
       "it_IT": "Daria",
@@ -2228,7 +2228,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der05",
-    "Spanish (US)": "Agreste",
     "Russian": "Лопес",
     "ref": "Lopez",
     "localization": {
@@ -2236,6 +2235,7 @@
       "en_GB": "Lopez",
       "de_DE": "Eckart",
       "es_ES": "Agreste",
+      "es_US": "Agreste",
       "fr_FR": "Jon",
       "fr_CA": "Jon",
       "it_IT": "Lopez",
@@ -2249,7 +2249,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der06",
-    "Spanish (US)": "Rosalina",
     "Russian": "Фукси",
     "ref": "Fuchsia",
     "localization": {
@@ -2257,6 +2256,7 @@
       "en_GB": "Fuchsia",
       "de_DE": "Selina",
       "es_ES": "Rosalina",
+      "es_US": "Rosalina",
       "fr_FR": "Rosanne",
       "fr_CA": "Rosanne",
       "it_IT": "Fuxia",
@@ -2270,7 +2270,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der07",
-    "Spanish (US)": "Lope",
     "Russian": "Бью",
     "ref": "Beau",
     "localization": {
@@ -2278,6 +2277,7 @@
       "en_GB": "Beau",
       "de_DE": "Martin",
       "es_ES": "Lope",
+      "es_US": "Lope",
       "fr_FR": "Stefaon",
       "fr_CA": "Stefaon",
       "it_IT": "Gigi",
@@ -2291,7 +2291,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der08",
-    "Spanish (US)": "Bambina",
     "Russian": "Диан",
     "ref": "Diana",
     "localization": {
@@ -2299,6 +2298,7 @@
       "en_GB": "Diana",
       "de_DE": "Vroni",
       "es_ES": "Bambina",
+      "es_US": "Bambina",
       "fr_FR": "Didi",
       "fr_CA": "Didi",
       "it_IT": "Diana",
@@ -2312,7 +2312,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der09",
-    "Spanish (US)": "Cervasio",
     "Russian": "Эрик",
     "ref": "Erik",
     "localization": {
@@ -2320,6 +2319,7 @@
       "en_GB": "Erik",
       "de_DE": "Erik",
       "es_ES": "Cervasio",
+      "es_US": "Cervasio",
       "fr_FR": "Abraham",
       "fr_CA": "Abraham",
       "it_IT": "Cervasio",
@@ -2333,7 +2333,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "der10",
-    "Spanish (US)": "Chelsea",
     "Russian": "Челси",
     "ref": "Chelsea",
     "localization": {
@@ -2341,6 +2340,7 @@
       "en_GB": "Chelsea",
       "de_DE": "Chelsea",
       "es_ES": "Chelsea",
+      "es_US": "Chelsea",
       "fr_FR": "Chelsea",
       "fr_CA": "Chelsea",
       "it_IT": "Chelsea",
@@ -2354,7 +2354,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog00",
-    "Spanish (US)": "Tere",
     "Russian": "Голди",
     "ref": "Goldie",
     "localization": {
@@ -2362,6 +2361,7 @@
       "en_GB": "Goldie",
       "de_DE": "Bienchen",
       "es_ES": "Tere",
+      "es_US": "Tere",
       "fr_FR": "Mirza",
       "fr_CA": "Mirza",
       "it_IT": "Dora",
@@ -2375,7 +2375,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog01",
-    "Spanish (US)": "Bruno",
     "Russian": "Бутч",
     "ref": "Butch",
     "localization": {
@@ -2383,6 +2382,7 @@
       "en_GB": "Butch",
       "de_DE": "Hasso",
       "es_ES": "Bruno",
+      "es_US": "Bruno",
       "fr_FR": "Avril",
       "fr_CA": "Avril",
       "it_IT": "Attila",
@@ -2396,7 +2396,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog02",
-    "Spanish (US)": "Pupas",
     "Russian": "Лаки",
     "ref": "Lucky",
     "localization": {
@@ -2404,6 +2403,7 @@
       "en_GB": "Lucky",
       "de_DE": "Viktor",
       "es_ES": "Pupas",
+      "es_US": "Pupas",
       "fr_FR": "Ramsès",
       "fr_CA": "Ramsès",
       "it_IT": "Felice",
@@ -2417,7 +2417,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog03",
-    "Spanish (US)": "Amnesio",
     "Russian": "Бискит",
     "ref": "Biskit",
     "localization": {
@@ -2425,6 +2424,7 @@
       "en_GB": "Biskit",
       "de_DE": "Keks",
       "es_ES": "Amnesio",
+      "es_US": "Amnesio",
       "fr_FR": "Crocket",
       "fr_CA": "Crocket",
       "it_IT": "Buffetto",
@@ -2438,7 +2438,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog04",
-    "Spanish (US)": "Cándido",
     "Russian": "Боунс",
     "ref": "Bones",
     "localization": {
@@ -2446,6 +2445,7 @@
       "en_GB": "Bones",
       "de_DE": "Strolch",
       "es_ES": "Cándido",
+      "es_US": "Cándido",
       "fr_FR": "Nonos",
       "fr_CA": "Nonos",
       "it_IT": "Tobia",
@@ -2459,7 +2459,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog05",
-    "Spanish (US)": "Amanda",
     "Russian": "Порци",
     "ref": "Portia",
     "localization": {
@@ -2467,6 +2466,7 @@
       "en_GB": "Portia",
       "de_DE": "Isolde",
       "es_ES": "Amanda",
+      "es_US": "Amanda",
       "fr_FR": "Dalma",
       "fr_CA": "Dalma",
       "it_IT": "Porzia",
@@ -2480,7 +2480,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog06",
-    "Spanish (US)": "Miki",
     "Russian": "Уокер",
     "ref": "Walker",
     "localization": {
@@ -2488,6 +2487,7 @@
       "en_GB": "Walker",
       "de_DE": "Fido",
       "es_ES": "Miki",
+      "es_US": "Miki",
       "fr_FR": "George",
       "fr_CA": "George",
       "it_IT": "Walter",
@@ -2501,7 +2501,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog07",
-    "Spanish (US)": "Luisa",
     "Russian": "Дейзи",
     "ref": "Daisy",
     "localization": {
@@ -2509,6 +2508,7 @@
       "en_GB": "Daisy",
       "de_DE": "Doris",
       "es_ES": "Luisa",
+      "es_US": "Luisa",
       "fr_FR": "Naomie",
       "fr_CA": "Naomie",
       "it_IT": "Fiorella",
@@ -2522,7 +2522,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog08",
-    "Spanish (US)": "Purita",
     "Russian": "Куки",
     "ref": "Cookie",
     "localization": {
@@ -2530,6 +2529,7 @@
       "en_GB": "Cookie",
       "de_DE": "Rosi",
       "es_ES": "Purita",
+      "es_US": "Purita",
       "fr_FR": "Cookie",
       "fr_CA": "Cookie",
       "it_IT": "Briciola",
@@ -2543,7 +2543,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog09",
-    "Spanish (US)": "Martina",
     "Russian": "Мэдди",
     "ref": "Maddie",
     "localization": {
@@ -2551,6 +2550,7 @@
       "en_GB": "Maddie",
       "de_DE": "Agnes",
       "es_ES": "Martina",
+      "es_US": "Martina",
       "fr_FR": "Olympe",
       "fr_CA": "Olympe",
       "it_IT": "Cristina",
@@ -2564,7 +2564,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog10",
-    "Spanish (US)": "Bea",
     "Russian": "Бе",
     "ref": "Bea",
     "localization": {
@@ -2572,6 +2571,7 @@
       "en_GB": "Bea",
       "de_DE": "Bea",
       "es_ES": "Bea",
+      "es_US": "Bea",
       "fr_FR": "Béa",
       "fr_CA": "Béa",
       "it_IT": "Cucciola",
@@ -2585,7 +2585,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog14",
-    "Spanish (US)": "Pit",
     "Russian": "Мак",
     "ref": "Mac",
     "localization": {
@@ -2593,6 +2592,7 @@
       "en_GB": "Mac",
       "de_DE": "Wuffi",
       "es_ES": "Pit",
+      "es_US": "Pit",
       "fr_FR": "Brutus",
       "fr_CA": "Brutus",
       "it_IT": "Teo",
@@ -2606,7 +2606,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog15",
-    "Spanish (US)": "Eto",
     "Russian": "Марсел",
     "ref": "Marcel",
     "localization": {
@@ -2614,6 +2613,7 @@
       "en_GB": "Marcel",
       "de_DE": "Ronaldo",
       "es_ES": "Eto",
+      "es_US": "Eto",
       "fr_FR": "Ismaël",
       "fr_CA": "Ismaël",
       "it_IT": "Giosuè",
@@ -2627,7 +2627,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog16",
-    "Spanish (US)": "Bernardo",
     "Russian": "Бернардо",
     "ref": "Benjamin",
     "localization": {
@@ -2635,6 +2634,7 @@
       "en_GB": "Benjamin",
       "de_DE": "Wastl",
       "es_ES": "Bernardo",
+      "es_US": "Bernardo",
       "fr_FR": "Bernardo",
       "fr_CA": "Bernardo",
       "it_IT": "Bernardo",
@@ -2648,7 +2648,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog17",
-    "Spanish (US)": "Luna",
     "Russian": "Черри",
     "ref": "Cherry",
     "localization": {
@@ -2656,6 +2655,7 @@
       "en_GB": "Cherry",
       "de_DE": "Bella",
       "es_ES": "Luna",
+      "es_US": "Luna",
       "fr_FR": "Anna",
       "fr_CA": "Anna",
       "it_IT": "Amarena",
@@ -2669,7 +2669,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "dog18",
-    "Spanish (US)": "Fleco",
     "Russian": "Шеп",
     "ref": "Shep",
     "localization": {
@@ -2677,6 +2676,7 @@
       "en_GB": "Shep",
       "de_DE": "Thomas",
       "es_ES": "Fleco",
+      "es_US": "Fleco",
       "fr_FR": "Mehdi",
       "fr_CA": "Mehdi",
       "it_IT": "Frangino",
@@ -2690,7 +2690,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk00",
-    "Spanish (US)": "Paquito",
     "Russian": "Билл",
     "ref": "Bill",
     "localization": {
@@ -2698,6 +2697,7 @@
       "en_GB": "Bill",
       "de_DE": "Bill",
       "es_ES": "Paquito",
+      "es_US": "Paquito",
       "fr_FR": "Choco",
       "fr_CA": "Choco",
       "it_IT": "Gino",
@@ -2711,7 +2711,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk01",
-    "Spanish (US)": "Pascual",
     "Russian": "Джоуи",
     "ref": "Joey",
     "localization": {
@@ -2719,6 +2718,7 @@
       "en_GB": "Joey",
       "de_DE": "Kalle",
       "es_ES": "Pascual",
+      "es_US": "Pascual",
       "fr_FR": "Joseph",
       "fr_CA": "Joseph",
       "it_IT": "Pino",
@@ -2732,7 +2732,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk02",
-    "Spanish (US)": "Pati",
     "Russian": "Пэйт",
     "ref": "Pate",
     "localization": {
@@ -2740,6 +2739,7 @@
       "en_GB": "Pate",
       "de_DE": "Daune",
       "es_ES": "Pati",
+      "es_US": "Pati",
       "fr_FR": "Terrine",
       "fr_CA": "Terrine",
       "it_IT": "Camilla",
@@ -2753,7 +2753,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk03",
-    "Spanish (US)": "Patidifú",
     "Russian": "Маэль",
     "ref": "Maelle",
     "localization": {
@@ -2761,6 +2760,7 @@
       "en_GB": "Maelle",
       "de_DE": "Sissi",
       "es_ES": "Patidifú",
+      "es_US": "Patidifú",
       "fr_FR": "Maëlle",
       "fr_CA": "Maëlle",
       "it_IT": "Palmita",
@@ -2774,7 +2774,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk04",
-    "Spanish (US)": "Martita",
     "Russian": "Дин",
     "ref": "Deena",
     "localization": {
@@ -2782,6 +2781,7 @@
       "en_GB": "Deena",
       "de_DE": "Olivia",
       "es_ES": "Martita",
+      "es_US": "Martita",
       "fr_FR": "Mina",
       "fr_CA": "Mina",
       "it_IT": "Dina",
@@ -2795,7 +2795,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk05",
-    "Spanish (US)": "Flopi",
     "Russian": "Помпом",
     "ref": "Pompom",
     "localization": {
@@ -2803,6 +2802,7 @@
       "en_GB": "Pompom",
       "de_DE": "Erika",
       "es_ES": "Flopi",
+      "es_US": "Flopi",
       "fr_FR": "Pompon",
       "fr_CA": "Pompon",
       "it_IT": "Erica",
@@ -2816,7 +2816,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk06",
-    "Spanish (US)": "Mirta",
     "Russian": "Мэллари",
     "ref": "Mallary",
     "localization": {
@@ -2824,6 +2823,7 @@
       "en_GB": "Mallary",
       "de_DE": "Marina",
       "es_ES": "Mirta",
+      "es_US": "Mirta",
       "fr_FR": "Mallory",
       "fr_CA": "Mallory",
       "it_IT": "Sofia",
@@ -2837,7 +2837,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk07",
-    "Spanish (US)": "Rebeca",
     "Russian": "Фреклс",
     "ref": "Freckles",
     "localization": {
@@ -2845,6 +2844,7 @@
       "en_GB": "Freckles",
       "de_DE": "Quacks",
       "es_ES": "Rebeca",
+      "es_US": "Rebeca",
       "fr_FR": "Caro",
       "fr_CA": "Caro",
       "it_IT": "Semola",
@@ -2858,7 +2858,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk08",
-    "Spanish (US)": "Torcuato",
     "Russian": "Дервин",
     "ref": "Derwin",
     "localization": {
@@ -2866,6 +2865,7 @@
       "en_GB": "Derwin",
       "de_DE": "Erwin",
       "es_ES": "Torcuato",
+      "es_US": "Torcuato",
       "fr_FR": "Prof",
       "fr_CA": "Prof",
       "it_IT": "Mike",
@@ -2879,7 +2879,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk09",
-    "Spanish (US)": "Draco",
     "Russian": "Дрейк",
     "ref": "Drake",
     "localization": {
@@ -2887,6 +2886,7 @@
       "en_GB": "Drake",
       "de_DE": "Gustav",
       "es_ES": "Draco",
+      "es_US": "Draco",
       "fr_FR": "Colvert",
       "fr_CA": "Colvert",
       "it_IT": "Drago",
@@ -2900,7 +2900,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk10",
-    "Spanish (US)": "Chema",
     "Russian": "Скут",
     "ref": "Scoot",
     "localization": {
@@ -2908,6 +2907,7 @@
       "en_GB": "Scoot",
       "de_DE": "Helmut",
       "es_ES": "Chema",
+      "es_US": "Chema",
       "fr_FR": "Scooter",
       "fr_CA": "Scooter",
       "it_IT": "Guizzo",
@@ -2921,7 +2921,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk11",
-    "Spanish (US)": "Paticio",
     "Russian": "Вебер",
     "ref": "Weber",
     "localization": {
@@ -2929,6 +2928,7 @@
       "en_GB": "Weber",
       "de_DE": "Volker",
       "es_ES": "Paticio",
+      "es_US": "Paticio",
       "fr_FR": "Bébert",
       "fr_CA": "Bébert",
       "it_IT": "Pasquale",
@@ -2942,7 +2942,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk12",
-    "Spanish (US)": "Miranda",
     "Russian": "Миранд",
     "ref": "Miranda",
     "localization": {
@@ -2950,6 +2949,7 @@
       "en_GB": "Miranda",
       "de_DE": "Tanya",
       "es_ES": "Miranda",
+      "es_US": "Miranda",
       "fr_FR": "Maëllis",
       "fr_CA": "Maëllis",
       "it_IT": "Miranda",
@@ -2963,7 +2963,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk13",
-    "Spanish (US)": "Kétchup",
     "Russian": "Кетчуп",
     "ref": "Ketchup",
     "localization": {
@@ -2971,6 +2970,7 @@
       "en_GB": "Ketchup",
       "de_DE": "Pullunda",
       "es_ES": "Kétchup",
+      "es_US": "Kétchup",
       "fr_FR": "Ketchup",
       "fr_CA": "Ketchup",
       "it_IT": "Ketchup",
@@ -2984,7 +2984,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk15",
-    "Spanish (US)": "Jarrea",
     "Russian": "Глори",
     "ref": "Gloria",
     "localization": {
@@ -2992,6 +2991,7 @@
       "en_GB": "Gloria",
       "de_DE": "Gustavia",
       "es_ES": "Jarrea",
+      "es_US": "Jarrea",
       "fr_FR": "Déborah",
       "fr_CA": "Déborah",
       "it_IT": "Pappy",
@@ -3005,7 +3005,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk16",
-    "Spanish (US)": "Deira",
     "Russian": "Молли",
     "ref": "Molly",
     "localization": {
@@ -3013,6 +3012,7 @@
       "en_GB": "Molly",
       "de_DE": "Monika",
       "es_ES": "Deira",
+      "es_US": "Deira",
       "fr_FR": "Molly",
       "fr_CA": "Molly",
       "it_IT": "Molly",
@@ -3026,7 +3026,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "duk17",
-    "Spanish (US)": "Cuálter",
     "Russian": "Квилсон",
     "ref": "Quillson",
     "localization": {
@@ -3034,6 +3033,7 @@
       "en_GB": "Quillson",
       "de_DE": "Quentin",
       "es_ES": "Cuálter",
+      "es_US": "Cuálter",
       "fr_FR": "Narcisse",
       "fr_CA": "Narcisse",
       "it_IT": "Verdonio",
@@ -3047,7 +3047,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp00",
-    "Spanish (US)": "Ópalo",
     "Russian": "Опал",
     "ref": "Opal",
     "localization": {
@@ -3055,6 +3054,7 @@
       "en_GB": "Opal",
       "de_DE": "Olga",
       "es_ES": "Ópalo",
+      "es_US": "Ópalo",
       "fr_FR": "Opaline",
       "fr_CA": "Opaline",
       "it_IT": "Opal",
@@ -3068,7 +3068,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp01",
-    "Spanish (US)": "Quique",
     "Russian": "Диззи",
     "ref": "Dizzy",
     "localization": {
@@ -3076,6 +3075,7 @@
       "en_GB": "Dizzy",
       "de_DE": "Bastian",
       "es_ES": "Quique",
+      "es_US": "Quique",
       "fr_FR": "Pachy",
       "fr_CA": "Pachy",
       "it_IT": "Annibale",
@@ -3089,7 +3089,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp02",
-    "Spanish (US)": "Déivid",
     "Russian": "Биг-Топ",
     "ref": "Big Top",
     "localization": {
@@ -3097,6 +3096,7 @@
       "en_GB": "Big Top",
       "de_DE": "Benni",
       "es_ES": "Déivid",
+      "es_US": "Déivid",
       "fr_FR": "Miles",
       "fr_CA": "Miles",
       "it_IT": "Grande C",
@@ -3110,7 +3110,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp03",
-    "Spanish (US)": "Eloísa",
     "Russian": "Элоиз",
     "ref": "Eloise",
     "localization": {
@@ -3118,6 +3117,7 @@
       "en_GB": "Eloise",
       "de_DE": "Frauke",
       "es_ES": "Eloísa",
+      "es_US": "Eloísa",
       "fr_FR": "Éloïse",
       "fr_CA": "Éloïse",
       "it_IT": "Eloisa",
@@ -3131,7 +3131,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp04",
-    "Spanish (US)": "Rita",
     "Russian": "Марджи",
     "ref": "Margie",
     "localization": {
@@ -3139,6 +3138,7 @@
       "en_GB": "Margie",
       "de_DE": "Elisa",
       "es_ES": "Rita",
+      "es_US": "Rita",
       "fr_FR": "Maguy",
       "fr_CA": "Maguy",
       "it_IT": "Marianna",
@@ -3152,7 +3152,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp05",
-    "Spanish (US)": "Paolo",
     "Russian": "Паоло",
     "ref": "Paolo",
     "localization": {
@@ -3160,6 +3159,7 @@
       "en_GB": "Paolo",
       "de_DE": "Paolo",
       "es_ES": "Paolo",
+      "es_US": "Paolo",
       "fr_FR": "Paolo",
       "fr_CA": "Paolo",
       "it_IT": "Paolino",
@@ -3173,7 +3173,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp06",
-    "Spanish (US)": "Eustakio",
     "Russian": "Аксел",
     "ref": "Axel",
     "localization": {
@@ -3181,6 +3180,7 @@
       "en_GB": "Axel",
       "de_DE": "Axel",
       "es_ES": "Eustakio",
+      "es_US": "Eustakio",
       "fr_FR": "Axel",
       "fr_CA": "Axel",
       "it_IT": "Sandro",
@@ -3194,7 +3194,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp07",
-    "Spanish (US)": "Eli",
     "Russian": "Элл",
     "ref": "Ellie",
     "localization": {
@@ -3202,6 +3201,7 @@
       "en_GB": "Ellie",
       "de_DE": "Elfi",
       "es_ES": "Eli",
+      "es_US": "Eli",
       "fr_FR": "Ella",
       "fr_CA": "Ella",
       "it_IT": "Elly",
@@ -3215,7 +3215,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp09",
-    "Spanish (US)": "Pirolo",
     "Russian": "Такер",
     "ref": "Tucker",
     "localization": {
@@ -3223,6 +3222,7 @@
       "en_GB": "Tucker",
       "de_DE": "Thorsten",
       "es_ES": "Pirolo",
+      "es_US": "Pirolo",
       "fr_FR": "Barry",
       "fr_CA": "Barry",
       "it_IT": "Sventolo",
@@ -3236,7 +3236,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp10",
-    "Spanish (US)": "Meralda",
     "Russian": "Ти",
     "ref": "Tia",
     "localization": {
@@ -3244,6 +3243,7 @@
       "en_GB": "Tia",
       "de_DE": "Eleonore",
       "es_ES": "Meralda",
+      "es_US": "Meralda",
       "fr_FR": "Fanny",
       "fr_CA": "Fanny",
       "it_IT": "Fanny",
@@ -3257,7 +3257,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp11",
-    "Spanish (US)": "Chai",
     "Russian": "Чай",
     "ref": "Chai",
     "localization": {
@@ -3265,6 +3264,7 @@
       "en_GB": "Chai",
       "de_DE": "Chai",
       "es_ES": "Chai",
+      "es_US": "Chai",
       "fr_FR": "Chaï",
       "fr_CA": "Chaï",
       "it_IT": "Chai",
@@ -3278,7 +3278,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "elp12",
-    "Spanish (US)": "Ramón",
     "Russian": "Сид",
     "ref": "Cyd",
     "localization": {
@@ -3286,6 +3285,7 @@
       "en_GB": "Cyd",
       "de_DE": "Sid",
       "es_ES": "Ramón",
+      "es_US": "Ramón",
       "fr_FR": "Punk",
       "fr_CA": "Punk",
       "it_IT": "Sid",
@@ -3299,7 +3299,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg00",
-    "Spanish (US)": "Lili",
     "Russian": "Лили",
     "ref": "Lily",
     "localization": {
@@ -3307,6 +3306,7 @@
       "en_GB": "Lily",
       "de_DE": "Liliane",
       "es_ES": "Lili",
+      "es_US": "Lili",
       "fr_FR": "Raina",
       "fr_CA": "Raina",
       "it_IT": "Gigliola",
@@ -3320,7 +3320,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg01",
-    "Spanish (US)": "Ranobot",
     "Russian": "Риббот",
     "ref": "Ribbot",
     "localization": {
@@ -3328,6 +3327,7 @@
       "en_GB": "Ribbot",
       "de_DE": "Robbi",
       "es_ES": "Ranobot",
+      "es_US": "Ranobot",
       "fr_FR": "Crabot",
       "fr_CA": "Crabot",
       "it_IT": "Ranabot",
@@ -3341,7 +3341,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg02",
-    "Spanish (US)": "Croaldo",
     "Russian": "Фроберт",
     "ref": "Frobert",
     "localization": {
@@ -3349,6 +3348,7 @@
       "en_GB": "Frobert",
       "de_DE": "Fritz",
       "es_ES": "Croaldo",
+      "es_US": "Croaldo",
       "fr_FR": "Verbert",
       "fr_CA": "Verbert",
       "it_IT": "Froberto",
@@ -3362,7 +3362,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg03",
-    "Spanish (US)": "Comando",
     "Russian": "Камофрог",
     "ref": "Camofrog",
     "localization": {
@@ -3370,6 +3369,7 @@
       "en_GB": "Camofrog",
       "de_DE": "Tarno",
       "es_ES": "Comando",
+      "es_US": "Comando",
       "fr_FR": "Milos",
       "fr_CA": "Milos",
       "it_IT": "Crambo",
@@ -3383,7 +3383,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg04",
-    "Spanish (US)": "Surfín",
     "Russian": "Дрифт",
     "ref": "Drift",
     "localization": {
@@ -3391,6 +3390,7 @@
       "en_GB": "Drift",
       "de_DE": "Caspar",
       "es_ES": "Surfín",
+      "es_US": "Surfín",
       "fr_FR": "Gordon",
       "fr_CA": "Gordon",
       "it_IT": "Prospero",
@@ -3404,7 +3404,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg05",
-    "Spanish (US)": "Saponcio",
     "Russian": "Варт",
     "ref": "Wart Jr.",
     "localization": {
@@ -3412,6 +3411,7 @@
       "en_GB": "Wart Jr.",
       "de_DE": "Warzi",
       "es_ES": "Saponcio",
+      "es_US": "Saponcio",
       "fr_FR": "Crakos",
       "fr_CA": "Crakos",
       "it_IT": "Porro",
@@ -3425,7 +3425,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg06",
-    "Spanish (US)": "Nenúfar",
     "Russian": "Ренат",
     "ref": "Puddles",
     "localization": {
@@ -3433,6 +3432,7 @@
       "en_GB": "Puddles",
       "de_DE": "Nele",
       "es_ES": "Nenúfar",
+      "es_US": "Nenúfar",
       "fr_FR": "Rénata",
       "fr_CA": "Rénata",
       "it_IT": "Grazia",
@@ -3446,7 +3446,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg07",
-    "Spanish (US)": "Jeremías",
     "Russian": "Джереми",
     "ref": "Jeremiah",
     "localization": {
@@ -3454,6 +3453,7 @@
       "en_GB": "Jeremiah",
       "de_DE": "Jörg",
       "es_ES": "Jeremías",
+      "es_US": "Jeremías",
       "fr_FR": "Jérémie",
       "fr_CA": "Jérémie",
       "it_IT": "Geremia",
@@ -3467,7 +3467,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg09",
-    "Spanish (US)": "Saltonio",
     "Russian": "Тэд",
     "ref": "Tad",
     "localization": {
@@ -3475,6 +3474,7 @@
       "en_GB": "Tad",
       "de_DE": "Paul",
       "es_ES": "Saltonio",
+      "es_US": "Saltonio",
       "fr_FR": "Rénato",
       "fr_CA": "Rénato",
       "it_IT": "Achille",
@@ -3488,7 +3488,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg10",
-    "Spanish (US)": "Cousteau",
     "Russian": "Кусто",
     "ref": "Cousteau",
     "localization": {
@@ -3496,6 +3495,7 @@
       "en_GB": "Cousteau",
       "de_DE": "Jacques",
       "es_ES": "Cousteau",
+      "es_US": "Cousteau",
       "fr_FR": "Figaro",
       "fr_CA": "Figaro",
       "it_IT": "Jacques",
@@ -3509,7 +3509,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg11",
-    "Spanish (US)": "Ricardo",
     "Russian": "Хак",
     "ref": "Huck",
     "localization": {
@@ -3517,6 +3516,7 @@
       "en_GB": "Huck",
       "de_DE": "Knuth",
       "es_ES": "Ricardo",
+      "es_US": "Ricardo",
       "fr_FR": "Bajoue",
       "fr_CA": "Bajoue",
       "it_IT": "Berto",
@@ -3530,7 +3530,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg12",
-    "Spanish (US)": "Felipe",
     "Russian": "Принс",
     "ref": "Prince",
     "localization": {
@@ -3538,6 +3537,7 @@
       "en_GB": "Prince",
       "de_DE": "Prinz",
       "es_ES": "Felipe",
+      "es_US": "Felipe",
       "fr_FR": "Prince",
       "fr_CA": "Prince",
       "it_IT": "Principe",
@@ -3551,7 +3551,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg13",
-    "Spanish (US)": "Anquita",
     "Russian": "Джембет",
     "ref": "Jambette",
     "localization": {
@@ -3559,6 +3558,7 @@
       "en_GB": "Jambette",
       "de_DE": "Jeanette",
       "es_ES": "Anquita",
+      "es_US": "Anquita",
       "fr_FR": "Gambette",
       "fr_CA": "Gambette",
       "it_IT": "Giada",
@@ -3572,7 +3572,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg15",
-    "Spanish (US)": "Radiolo",
     "Russian": "Рэддл",
     "ref": "Raddle",
     "localization": {
@@ -3580,6 +3579,7 @@
       "en_GB": "Raddle",
       "de_DE": "Sani",
       "es_ES": "Radiolo",
+      "es_US": "Radiolo",
       "fr_FR": "Fabien",
       "fr_CA": "Fabien",
       "it_IT": "Massimo",
@@ -3593,7 +3593,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg16",
-    "Spanish (US)": "Cleo",
     "Russian": "Джиджи",
     "ref": "Gigi",
     "localization": {
@@ -3601,6 +3600,7 @@
       "en_GB": "Gigi",
       "de_DE": "Violetta",
       "es_ES": "Cleo",
+      "es_US": "Cleo",
       "fr_FR": "Gloria",
       "fr_CA": "Gloria",
       "it_IT": "Raganà",
@@ -3614,7 +3614,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg17",
-    "Spanish (US)": "Ranolfo",
     "Russian": "Крок",
     "ref": "Croque",
     "localization": {
@@ -3622,6 +3621,7 @@
       "en_GB": "Croque",
       "de_DE": "Carlo",
       "es_ES": "Ranolfo",
+      "es_US": "Ranolfo",
       "fr_FR": "Carlos",
       "fr_CA": "Carlos",
       "it_IT": "Gracido",
@@ -3635,7 +3635,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg18",
-    "Spanish (US)": "Morania",
     "Russian": "Див",
     "ref": "Diva",
     "localization": {
@@ -3643,6 +3642,7 @@
       "en_GB": "Diva",
       "de_DE": "Dörte",
       "es_ES": "Morania",
+      "es_US": "Morania",
       "fr_FR": "Violette",
       "fr_CA": "Violette",
       "it_IT": "Viola",
@@ -3656,7 +3656,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "flg19",
-    "Spanish (US)": "Saperto",
     "Russian": "Генри",
     "ref": "Henry",
     "localization": {
@@ -3664,6 +3663,7 @@
       "en_GB": "Henry",
       "de_DE": "Freddy",
       "es_ES": "Saperto",
+      "es_US": "Saperto",
       "fr_FR": "Henri",
       "fr_CA": "Henri",
       "it_IT": "Renato",
@@ -3677,7 +3677,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa00",
-    "Spanish (US)": "Cabriola",
     "Russian": "Шевр",
     "ref": "Chevre",
     "localization": {
@@ -3685,6 +3684,7 @@
       "en_GB": "Chevre",
       "de_DE": "Anette",
       "es_ES": "Cabriola",
+      "es_US": "Cabriola",
       "fr_FR": "Biquette",
       "fr_CA": "Biquette",
       "it_IT": "Diletta",
@@ -3698,7 +3698,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa01",
-    "Spanish (US)": "Pécora",
     "Russian": "Нань",
     "ref": "Nan",
     "localization": {
@@ -3706,6 +3705,7 @@
       "en_GB": "Nan",
       "de_DE": "Zenobi",
       "es_ES": "Pécora",
+      "es_US": "Pécora",
       "fr_FR": "Nana",
       "fr_CA": "Nana",
       "it_IT": "Nan",
@@ -3719,7 +3719,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa02",
-    "Spanish (US)": "Brito",
     "Russian": "Билли",
     "ref": "Billy",
     "localization": {
@@ -3727,6 +3726,7 @@
       "en_GB": "Billy",
       "de_DE": "Hennes",
       "es_ES": "Brito",
+      "es_US": "Brito",
       "fr_FR": "Seguin",
       "fr_CA": "Seguin",
       "it_IT": "Billy",
@@ -3740,7 +3740,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa04",
-    "Spanish (US)": "Sátiro",
     "Russian": "Графф",
     "ref": "Gruff",
     "localization": {
@@ -3748,6 +3747,7 @@
       "en_GB": "Gruff",
       "de_DE": "Gregor",
       "es_ES": "Sátiro",
+      "es_US": "Sátiro",
       "fr_FR": "Grognon",
       "fr_CA": "Grognon",
       "it_IT": "Capriolé",
@@ -3761,7 +3761,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa06",
-    "Spanish (US)": "Erika",
     "Russian": "Велм",
     "ref": "Velma",
     "localization": {
@@ -3769,6 +3768,7 @@
       "en_GB": "Velma",
       "de_DE": "Wilma",
       "es_ES": "Erika",
+      "es_US": "Erika",
       "fr_FR": "Véra",
       "fr_CA": "Véra",
       "it_IT": "Belarda",
@@ -3782,7 +3782,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa07",
-    "Spanish (US)": "Cabrálex",
     "Russian": "Кидд",
     "ref": "Kidd",
     "localization": {
@@ -3790,6 +3789,7 @@
       "en_GB": "Kidd",
       "de_DE": "Bocki",
       "es_ES": "Cabrálex",
+      "es_US": "Cabrálex",
       "fr_FR": "Moktar",
       "fr_CA": "Mokhtar",
       "it_IT": "Vittorio",
@@ -3803,7 +3803,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa08",
-    "Spanish (US)": "Carla",
     "Russian": "Пашмин",
     "ref": "Pashmina",
     "localization": {
@@ -3811,6 +3810,7 @@
       "en_GB": "Pashmina",
       "de_DE": "Pamela",
       "es_ES": "Carla",
+      "es_US": "Carla",
       "fr_FR": "Chavrina",
       "fr_CA": "Chavrina",
       "it_IT": "Pashmina",
@@ -3824,7 +3824,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "goa09",
-    "Spanish (US)": "Morfeo",
     "Russian": "Шерб",
     "ref": "Sherb",
     "localization": {
@@ -3832,6 +3831,7 @@
       "en_GB": "Sherb",
       "de_DE": "Morpheus",
       "es_ES": "Morfeo",
+      "es_US": "Morfeo",
       "fr_FR": "Capri",
       "fr_CA": "Capri",
       "it_IT": "Capraldo",
@@ -3845,7 +3845,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor00",
-    "Spanish (US)": "César",
     "Russian": "Цезар",
     "ref": "Cesar",
     "localization": {
@@ -3853,6 +3852,7 @@
       "en_GB": "Cesar",
       "de_DE": "Alfredo",
       "es_ES": "César",
+      "es_US": "César",
       "fr_FR": "César",
       "fr_CA": "César",
       "it_IT": "Cesare",
@@ -3866,7 +3866,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor01",
-    "Spanish (US)": "Lotar",
     "Russian": "Пиви",
     "ref": "Peewee",
     "localization": {
@@ -3874,6 +3873,7 @@
       "en_GB": "Peewee",
       "de_DE": "Manfred",
       "es_ES": "Lotar",
+      "es_US": "Lotar",
       "fr_FR": "Gogo",
       "fr_CA": "Gogo",
       "it_IT": "Kong",
@@ -3887,7 +3887,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor02",
-    "Spanish (US)": "Babú",
     "Russian": "Бун",
     "ref": "Boone",
     "localization": {
@@ -3895,6 +3894,7 @@
       "en_GB": "Boone",
       "de_DE": "Kong",
       "es_ES": "Babú",
+      "es_US": "Babú",
       "fr_FR": "Babouin",
       "fr_CA": "Babouin",
       "it_IT": "Babu",
@@ -3908,7 +3908,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor04",
-    "Spanish (US)": "Lou",
     "Russian": "Луи",
     "ref": "Louie",
     "localization": {
@@ -3916,6 +3915,7 @@
       "en_GB": "Louie",
       "de_DE": "Ludwig",
       "es_ES": "Lou",
+      "es_US": "Lou",
       "fr_FR": "Louis",
       "fr_CA": "Louis",
       "it_IT": "Lou",
@@ -3929,7 +3929,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor05",
-    "Spanish (US)": "Bunga",
     "Russian": "Бойд",
     "ref": "Boyd",
     "localization": {
@@ -3937,6 +3936,7 @@
       "en_GB": "Boyd",
       "de_DE": "Boyd",
       "es_ES": "Bunga",
+      "es_US": "Bunga",
       "fr_FR": "Primo",
       "fr_CA": "Primo",
       "it_IT": "Brando",
@@ -3950,7 +3950,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor07",
-    "Spanish (US)": "Magenta",
     "Russian": "Конг",
     "ref": "Violet",
     "localization": {
@@ -3958,6 +3957,7 @@
       "en_GB": "Violet",
       "de_DE": "Konga",
       "es_ES": "Magenta",
+      "es_US": "Magenta",
       "fr_FR": "Gaëlle",
       "fr_CA": "Gaëlle",
       "it_IT": "Konga",
@@ -3971,7 +3971,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor08",
-    "Spanish (US)": "Álex",
     "Russian": "Эл",
     "ref": "Al",
     "localization": {
@@ -3979,6 +3978,7 @@
       "en_GB": "Al",
       "de_DE": "Kokong",
       "es_ES": "Álex",
+      "es_US": "Álex",
       "fr_FR": "Gustave",
       "fr_CA": "Gustave",
       "it_IT": "Gregorio",
@@ -3992,7 +3992,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor09",
-    "Spanish (US)": "Gloria",
     "Russian": "Рокет",
     "ref": "Rocket",
     "localization": {
@@ -4000,6 +3999,7 @@
       "en_GB": "Rocket",
       "de_DE": "Katrin",
       "es_ES": "Gloria",
+      "es_US": "Gloria",
       "fr_FR": "Gertrude",
       "fr_CA": "Gertrude",
       "it_IT": "Kinga",
@@ -4013,7 +4013,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor10",
-    "Spanish (US)": "Hans",
     "Russian": "Ганс",
     "ref": "Hans",
     "localization": {
@@ -4021,6 +4020,7 @@
       "en_GB": "Hans",
       "de_DE": "Hans",
       "es_ES": "Hans",
+      "es_US": "Hans",
       "fr_FR": "Loran",
       "fr_CA": "Loran",
       "it_IT": "Grigilio",
@@ -4034,7 +4034,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "gor11",
-    "Spanish (US)": "Rila",
     "Russian": "Рилл",
     "ref": "Rilla",
     "localization": {
@@ -4042,6 +4041,7 @@
       "en_GB": "Rilla",
       "de_DE": "Rilla",
       "es_ES": "Rila",
+      "es_US": "Rila",
       "fr_FR": "Rilla",
       "fr_CA": "Rilla",
       "it_IT": "Rilla",
@@ -4055,7 +4055,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham00",
-    "Spanish (US)": "Bombo",
     "Russian": "Гамлет",
     "ref": "Hamlet",
     "localization": {
@@ -4063,6 +4062,7 @@
       "en_GB": "Hamlet",
       "de_DE": "Hamid",
       "es_ES": "Bombo",
+      "es_US": "Bombo",
       "fr_FR": "Jojo",
       "fr_CA": "Jojo",
       "it_IT": "Amleto",
@@ -4076,7 +4076,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham01",
-    "Spanish (US)": "Rosi",
     "Russian": "Эпл",
     "ref": "Apple",
     "localization": {
@@ -4084,6 +4083,7 @@
       "en_GB": "Apple",
       "de_DE": "Jessi",
       "es_ES": "Rosi",
+      "es_US": "Rosi",
       "fr_FR": "Esther",
       "fr_CA": "Esther",
       "it_IT": "Cicci",
@@ -4097,7 +4097,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham02",
-    "Spanish (US)": "Roelio",
     "Russian": "Грэм",
     "ref": "Graham",
     "localization": {
@@ -4105,6 +4104,7 @@
       "en_GB": "Graham",
       "de_DE": "Günther",
       "es_ES": "Roelio",
+      "es_US": "Roelio",
       "fr_FR": "Graham",
       "fr_CA": "Graham",
       "it_IT": "Evaristo",
@@ -4118,7 +4118,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham03",
-    "Spanish (US)": "Chusquis",
     "Russian": "Родни",
     "ref": "Rodney",
     "localization": {
@@ -4126,6 +4125,7 @@
       "en_GB": "Rodney",
       "de_DE": "Reinhold",
       "es_ES": "Chusquis",
+      "es_US": "Chusquis",
       "fr_FR": "Chico",
       "fr_CA": "Chico",
       "it_IT": "Rosikkio",
@@ -4139,7 +4139,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham04",
-    "Spanish (US)": "Soraya",
     "Russian": "Солей",
     "ref": "Soleil",
     "localization": {
@@ -4147,6 +4146,7 @@
       "en_GB": "Soleil",
       "de_DE": "Samira",
       "es_ES": "Soraya",
+      "es_US": "Soraya",
       "fr_FR": "Stella",
       "fr_CA": "Stella",
       "it_IT": "Cettina",
@@ -4160,7 +4160,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham05",
-    "Spanish (US)": "Boliche",
     "Russian": "Клэ",
     "ref": "Clay",
     "localization": {
@@ -4168,6 +4167,7 @@
       "en_GB": "Clay",
       "de_DE": "Dietmar",
       "es_ES": "Boliche",
+      "es_US": "Boliche",
       "fr_FR": "Guido",
       "fr_CA": "Guido",
       "it_IT": "Carmelo",
@@ -4181,7 +4181,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham06",
-    "Spanish (US)": "Lluvia",
     "Russian": "Фларри",
     "ref": "Flurry",
     "localization": {
@@ -4189,6 +4188,7 @@
       "en_GB": "Flurry",
       "de_DE": "Emilie",
       "es_ES": "Lluvia",
+      "es_US": "Lluvia",
       "fr_FR": "Emma",
       "fr_CA": "Emma",
       "it_IT": "Meringa",
@@ -4202,7 +4202,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ham07",
-    "Spanish (US)": "Arsenio",
     "Russian": "Хэмфри",
     "ref": "Hamphrey",
     "localization": {
@@ -4210,6 +4209,7 @@
       "en_GB": "Hamphrey",
       "de_DE": "Heinrich",
       "es_ES": "Arsenio",
+      "es_US": "Arsenio",
       "fr_FR": "Charles",
       "fr_CA": "Charles",
       "it_IT": "Nerone",
@@ -4223,7 +4223,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip00",
-    "Spanish (US)": "Roco",
     "Russian": "Рокко",
     "ref": "Rocco",
     "localization": {
@@ -4231,6 +4230,7 @@
       "en_GB": "Rocco",
       "de_DE": "Richi",
       "es_ES": "Roco",
+      "es_US": "Roco",
       "fr_FR": "Bebel",
       "fr_CA": "Bebel",
       "it_IT": "Rocco",
@@ -4244,7 +4244,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip02",
-    "Spanish (US)": "Hipólita",
     "Russian": "Баблс",
     "ref": "Bubbles",
     "localization": {
@@ -4252,6 +4251,7 @@
       "en_GB": "Bubbles",
       "de_DE": "Christin",
       "es_ES": "Hipólita",
+      "es_US": "Hipólita",
       "fr_FR": "Hippy",
       "fr_CA": "Hippy",
       "it_IT": "Ippolita",
@@ -4265,7 +4265,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip03",
-    "Spanish (US)": "Berta",
     "Russian": "Берт",
     "ref": "Bertha",
     "localization": {
@@ -4273,6 +4272,7 @@
       "en_GB": "Bertha",
       "de_DE": "Berta",
       "es_ES": "Berta",
+      "es_US": "Berta",
       "fr_FR": "Bertha",
       "fr_CA": "Bertha",
       "it_IT": "Umberta",
@@ -4286,7 +4286,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip04",
-    "Spanish (US)": "Pipo",
     "Russian": "Бифф",
     "ref": "Biff",
     "localization": {
@@ -4294,6 +4293,7 @@
       "en_GB": "Biff",
       "de_DE": "Norbert",
       "es_ES": "Pipo",
+      "es_US": "Pipo",
       "fr_FR": "Biff",
       "fr_CA": "Biff",
       "it_IT": "Pippo",
@@ -4307,7 +4307,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip05",
-    "Spanish (US)": "Ofelia",
     "Russian": "Битти",
     "ref": "Bitty",
     "localization": {
@@ -4315,6 +4314,7 @@
       "en_GB": "Bitty",
       "de_DE": "Biggi",
       "es_ES": "Ofelia",
+      "es_US": "Ofelia",
       "fr_FR": "Potama",
       "fr_CA": "Potama",
       "it_IT": "Rosetta",
@@ -4328,7 +4328,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip08",
-    "Spanish (US)": "Harpo",
     "Russian": "Гарри",
     "ref": "Harry",
     "localization": {
@@ -4336,6 +4335,7 @@
       "en_GB": "Harry",
       "de_DE": "Jürgen",
       "es_ES": "Harpo",
+      "es_US": "Harpo",
       "fr_FR": "Bob",
       "fr_CA": "Bob",
       "it_IT": "Ercolino",
@@ -4349,7 +4349,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hip09",
-    "Spanish (US)": "Hipóleo",
     "Russian": "Гиппо",
     "ref": "Hippeux",
     "localization": {
@@ -4357,6 +4356,7 @@
       "en_GB": "Hippeux",
       "de_DE": "Herbert",
       "es_ES": "Hipóleo",
+      "es_US": "Hipóleo",
       "fr_FR": "Paulito",
       "fr_CA": "Paulito",
       "it_IT": "Poppy",
@@ -4370,7 +4370,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs00",
-    "Spanish (US)": "Trotón",
     "Russian": "Бак",
     "ref": "Buck",
     "localization": {
@@ -4378,6 +4377,7 @@
       "en_GB": "Buck",
       "de_DE": "Rudi",
       "es_ES": "Trotón",
+      "es_US": "Trotón",
       "fr_FR": "Daniel",
       "fr_CA": "Daniel",
       "it_IT": "Trottolo",
@@ -4391,7 +4391,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs01",
-    "Spanish (US)": "Victoria",
     "Russian": "Виктори",
     "ref": "Victoria",
     "localization": {
@@ -4399,6 +4398,7 @@
       "en_GB": "Victoria",
       "de_DE": "Emma",
       "es_ES": "Victoria",
+      "es_US": "Victoria",
       "fr_FR": "Victoria",
       "fr_CA": "Victoria",
       "it_IT": "Vittoria",
@@ -4412,7 +4412,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs02",
-    "Spanish (US)": "Sabana",
     "Russian": "Саванн",
     "ref": "Savannah",
     "localization": {
@@ -4420,6 +4419,7 @@
       "en_GB": "Savannah",
       "de_DE": "Zara",
       "es_ES": "Sabana",
+      "es_US": "Sabana",
       "fr_FR": "Savana",
       "fr_CA": "Savana",
       "it_IT": "Savannah",
@@ -4433,7 +4433,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs03",
-    "Spanish (US)": "Jacinto",
     "Russian": "Элмер",
     "ref": "Elmer",
     "localization": {
@@ -4441,6 +4440,7 @@
       "en_GB": "Elmer",
       "de_DE": "Emil",
       "es_ES": "Jacinto",
+      "es_US": "Jacinto",
       "fr_FR": "Martin",
       "fr_CA": "Martin",
       "it_IT": "Oreste",
@@ -4454,7 +4454,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs04",
-    "Spanish (US)": "Jereza",
     "Russian": "Роско",
     "ref": "Roscoe",
     "localization": {
@@ -4462,6 +4461,7 @@
       "en_GB": "Roscoe",
       "de_DE": "Jolly",
       "es_ES": "Jereza",
+      "es_US": "Jereza",
       "fr_FR": "Rosco",
       "fr_CA": "Rosco",
       "it_IT": "Roscoe",
@@ -4475,7 +4475,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs05",
-    "Spanish (US)": "Soonia",
     "Russian": "Винни",
     "ref": "Winnie",
     "localization": {
@@ -4483,6 +4482,7 @@
       "en_GB": "Winnie",
       "de_DE": "Walli",
       "es_ES": "Soonia",
+      "es_US": "Soonia",
       "fr_FR": "Anne",
       "fr_CA": "Anne",
       "it_IT": "Clara",
@@ -4496,7 +4496,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs06",
-    "Spanish (US)": "Crinaldo",
     "Russian": "Эд",
     "ref": "Ed",
     "localization": {
@@ -4504,6 +4503,7 @@
       "en_GB": "Ed",
       "de_DE": "Hermann",
       "es_ES": "Crinaldo",
+      "es_US": "Crinaldo",
       "fr_FR": "Édouard",
       "fr_CA": "Édouard",
       "it_IT": "Codino",
@@ -4517,7 +4517,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs07",
-    "Spanish (US)": "Clotilde",
     "Russian": "Клео",
     "ref": "Cleo",
     "localization": {
@@ -4525,6 +4524,7 @@
       "en_GB": "Cleo",
       "de_DE": "Birgit",
       "es_ES": "Clotilde",
+      "es_US": "Clotilde",
       "fr_FR": "Cléa",
       "fr_CA": "Cléa",
       "it_IT": "Susanna",
@@ -4538,7 +4538,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs08",
-    "Spanish (US)": "Perla",
     "Russian": "Пичес",
     "ref": "Peaches",
     "localization": {
@@ -4546,6 +4545,7 @@
       "en_GB": "Peaches",
       "de_DE": "Claire",
       "es_ES": "Perla",
+      "es_US": "Perla",
       "fr_FR": "Prune",
       "fr_CA": "Prune",
       "it_IT": "Ronzina",
@@ -4559,7 +4559,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs09",
-    "Spanish (US)": "Isadora",
     "Russian": "Лиз",
     "ref": "Annalise",
     "localization": {
@@ -4567,6 +4566,7 @@
       "en_GB": "Annalise",
       "de_DE": "Annerose",
       "es_ES": "Isadora",
+      "es_US": "Isadora",
       "fr_FR": "Âne-lise",
       "fr_CA": "Âne-lise",
       "it_IT": "Lisa",
@@ -4580,7 +4580,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs10",
-    "Spanish (US)": "Moe",
     "Russian": "Клайд",
     "ref": "Clyde",
     "localization": {
@@ -4588,6 +4587,7 @@
       "en_GB": "Clyde",
       "de_DE": "Tommi",
       "es_ES": "Moe",
+      "es_US": "Moe",
       "fr_FR": "Dorian",
       "fr_CA": "Dorian",
       "it_IT": "Lallo",
@@ -4601,7 +4601,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs11",
-    "Spanish (US)": "Furio",
     "Russian": "Колтон",
     "ref": "Colton",
     "localization": {
@@ -4609,6 +4608,7 @@
       "en_GB": "Colton",
       "de_DE": "Carsten",
       "es_ES": "Furio",
+      "es_US": "Furio",
       "fr_FR": "Tony",
       "fr_CA": "Tony",
       "it_IT": "Furio",
@@ -4622,7 +4622,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs12",
-    "Spanish (US)": "Bayo",
     "Russian": "Папи",
     "ref": "Papi",
     "localization": {
@@ -4630,6 +4629,7 @@
       "en_GB": "Papi",
       "de_DE": "Friedel",
       "es_ES": "Bayo",
+      "es_US": "Bayo",
       "fr_FR": "Bourrico",
       "fr_CA": "Bourrico",
       "it_IT": "Pierino",
@@ -4643,7 +4643,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs13",
-    "Spanish (US)": "Azulino",
     "Russian": "Джулиан",
     "ref": "Julian",
     "localization": {
@@ -4651,6 +4650,7 @@
       "en_GB": "Julian",
       "de_DE": "Jimmy",
       "es_ES": "Azulino",
+      "es_US": "Azulino",
       "fr_FR": "Lico",
       "fr_CA": "Lico",
       "it_IT": "Giuliano",
@@ -4664,7 +4664,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "hrs16",
-    "Spanish (US)": "Corcelia",
     "Russian": "Рени",
     "ref": "Reneigh",
     "localization": {
@@ -4672,6 +4671,7 @@
       "en_GB": "Reneigh",
       "de_DE": "Andrea",
       "es_ES": "Corcelia",
+      "es_US": "Corcelia",
       "fr_FR": "Jennifer",
       "fr_CA": "Jennifer",
       "it_IT": "Requina",
@@ -4685,7 +4685,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal00",
-    "Spanish (US)": "Yuka",
     "Russian": "Юк",
     "ref": "Yuka",
     "localization": {
@@ -4693,6 +4692,7 @@
       "en_GB": "Yuka",
       "de_DE": "Ute",
       "es_ES": "Yuka",
+      "es_US": "Yuka",
       "fr_FR": "Calypso",
       "fr_CA": "Calypso",
       "it_IT": "Yuka",
@@ -4706,7 +4706,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal01",
-    "Spanish (US)": "Zelanda",
     "Russian": "Алис",
     "ref": "Alice",
     "localization": {
@@ -4714,6 +4713,7 @@
       "en_GB": "Alice",
       "de_DE": "Konny",
       "es_ES": "Zelanda",
+      "es_US": "Zelanda",
       "fr_FR": "Alice",
       "fr_CA": "Alice",
       "it_IT": "Alice",
@@ -4727,7 +4727,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal02",
-    "Spanish (US)": "Melba",
     "Russian": "Мельб",
     "ref": "Melba",
     "localization": {
@@ -4735,6 +4734,7 @@
       "en_GB": "Melba",
       "de_DE": "Kornelia",
       "es_ES": "Melba",
+      "es_US": "Melba",
       "fr_FR": "Melba",
       "fr_CA": "Melba",
       "it_IT": "Melba",
@@ -4748,7 +4748,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal03",
-    "Spanish (US)": "Sidney",
     "Russian": "Сидни",
     "ref": "Sydney",
     "localization": {
@@ -4756,6 +4755,7 @@
       "en_GB": "Sydney",
       "de_DE": "Silke",
       "es_ES": "Sidney",
+      "es_US": "Sidney",
       "fr_FR": "Koaline",
       "fr_CA": "Koaline",
       "it_IT": "Sidney",
@@ -4769,7 +4769,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal04",
-    "Spanish (US)": "Bronco",
     "Russian": "Гонзо",
     "ref": "Gonzo",
     "localization": {
@@ -4777,6 +4776,7 @@
       "en_GB": "Gonzo",
       "de_DE": "Heribert",
       "es_ES": "Bronco",
+      "es_US": "Bronco",
       "fr_FR": "Gonzo",
       "fr_CA": "Gonzo",
       "it_IT": "Gonzo",
@@ -4790,7 +4790,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal05",
-    "Spanish (US)": "Koloa",
     "Russian": "Оззи",
     "ref": "Ozzie",
     "localization": {
@@ -4798,6 +4797,7 @@
       "en_GB": "Ozzie",
       "de_DE": "Oskar",
       "es_ES": "Koloa",
+      "es_US": "Koloa",
       "fr_FR": "Koko",
       "fr_CA": "Koko",
       "it_IT": "Ozzy",
@@ -4811,7 +4811,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal08",
-    "Spanish (US)": "Canberra",
     "Russian": "Канберр",
     "ref": "Canberra",
     "localization": {
@@ -4819,6 +4818,7 @@
       "en_GB": "Canberra",
       "de_DE": "Caroline",
       "es_ES": "Canberra",
+      "es_US": "Canberra",
       "fr_FR": "Kolala",
       "fr_CA": "Kolala",
       "it_IT": "Canberra",
@@ -4832,7 +4832,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal09",
-    "Spanish (US)": "Chipi",
     "Russian": "Лайман",
     "ref": "Lyman",
     "localization": {
@@ -4840,6 +4839,7 @@
       "en_GB": "Lyman",
       "de_DE": "Pepe",
       "es_ES": "Chipi",
+      "es_US": "Chipi",
       "fr_FR": "Kalyptus",
       "fr_CA": "Kalyptus",
       "it_IT": "Nicola",
@@ -4853,7 +4853,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kal10",
-    "Spanish (US)": "Eucalín",
     "Russian": "Юджин",
     "ref": "Eugene",
     "localization": {
@@ -4861,6 +4860,7 @@
       "en_GB": "Eugene",
       "de_DE": "Sunny",
       "es_ES": "Eucalín",
+      "es_US": "Eucalín",
       "fr_FR": "Jamy",
       "fr_CA": "Jamy",
       "it_IT": "Corrado",
@@ -4874,7 +4874,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr00",
-    "Spanish (US)": "Antípoda",
     "Russian": "Китт",
     "ref": "Kitt",
     "localization": {
@@ -4882,6 +4881,7 @@
       "en_GB": "Kitt",
       "de_DE": "Kerstin",
       "es_ES": "Antípoda",
+      "es_US": "Antípoda",
       "fr_FR": "Poquette",
       "fr_CA": "Poquette",
       "it_IT": "Kitt",
@@ -4895,7 +4895,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr01",
-    "Spanish (US)": "Pugilda",
     "Russian": "Матильд",
     "ref": "Mathilda",
     "localization": {
@@ -4903,6 +4902,7 @@
       "en_GB": "Mathilda",
       "de_DE": "Marga",
       "es_ES": "Pugilda",
+      "es_US": "Pugilda",
       "fr_FR": "Mathilde",
       "fr_CA": "Mathilde",
       "it_IT": "Matilda",
@@ -4916,7 +4916,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr02",
-    "Spanish (US)": "Lola",
     "Russian": "Кэрри",
     "ref": "Carrie",
     "localization": {
@@ -4924,6 +4923,7 @@
       "en_GB": "Carrie",
       "de_DE": "Carola",
       "es_ES": "Lola",
+      "es_US": "Lola",
       "fr_FR": "Kanga",
       "fr_CA": "Kanga",
       "it_IT": "Taschina",
@@ -4937,7 +4937,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr05",
-    "Spanish (US)": "Astrid",
     "Russian": "Астрид",
     "ref": "Astrid",
     "localization": {
@@ -4945,6 +4944,7 @@
       "en_GB": "Astrid",
       "de_DE": "Astrid",
       "es_ES": "Astrid",
+      "es_US": "Astrid",
       "fr_FR": "Rhona",
       "fr_CA": "Rhona",
       "it_IT": "Stella",
@@ -4958,7 +4958,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr06",
-    "Spanish (US)": "Cándida",
     "Russian": "Сильви",
     "ref": "Sylvia",
     "localization": {
@@ -4966,6 +4965,7 @@
       "en_GB": "Sylvia",
       "de_DE": "Sylvia",
       "es_ES": "Cándida",
+      "es_US": "Cándida",
       "fr_FR": "Madsi",
       "fr_CA": "Madsi",
       "it_IT": "Silvia",
@@ -4979,7 +4979,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr08",
-    "Spanish (US)": "Brinco",
     "Russian": "Уолт",
     "ref": "Walt",
     "localization": {
@@ -4987,6 +4986,7 @@
       "en_GB": "Walt",
       "de_DE": "Sinan",
       "es_ES": "Brinco",
+      "es_US": "Brinco",
       "fr_FR": "Walt",
       "fr_CA": "Walt",
       "it_IT": "Zompo",
@@ -5000,7 +5000,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr09",
-    "Spanish (US)": "Cerillo",
     "Russian": "Руни",
     "ref": "Rooney",
     "localization": {
@@ -5008,6 +5007,7 @@
       "en_GB": "Rooney",
       "de_DE": "Robert",
       "es_ES": "Cerillo",
+      "es_US": "Cerillo",
       "fr_FR": "Mike",
       "fr_CA": "Mike",
       "it_IT": "Balzak",
@@ -5021,7 +5021,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "kgr10",
-    "Spanish (US)": "Brisa",
     "Russian": "Марси",
     "ref": "Marcie",
     "localization": {
@@ -5029,6 +5028,7 @@
       "en_GB": "Marcie",
       "de_DE": "Marlies",
       "es_ES": "Brisa",
+      "es_US": "Brisa",
       "fr_FR": "Selma",
       "fr_CA": "Selma",
       "it_IT": "Adelaide",
@@ -5042,7 +5042,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon00",
-    "Spanish (US)": "Surfleo",
     "Russian": "Бад",
     "ref": "Bud",
     "localization": {
@@ -5050,6 +5049,7 @@
       "en_GB": "Bud",
       "de_DE": "Dieter",
       "es_ES": "Surfleo",
+      "es_US": "Surfleo",
       "fr_FR": "Léonard",
       "fr_CA": "Léonard",
       "it_IT": "Leo",
@@ -5063,7 +5063,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon01",
-    "Spanish (US)": "Elvis",
     "Russian": "Элвис",
     "ref": "Elvis",
     "localization": {
@@ -5071,6 +5070,7 @@
       "en_GB": "Elvis",
       "de_DE": "Leonardo",
       "es_ES": "Elvis",
+      "es_US": "Elvis",
       "fr_FR": "Elvis",
       "fr_CA": "Elvis",
       "it_IT": "Elvis",
@@ -5084,7 +5084,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon02",
-    "Spanish (US)": "Leoncio",
     "Russian": "Рекс",
     "ref": "Rex",
     "localization": {
@@ -5092,6 +5091,7 @@
       "en_GB": "Rex",
       "de_DE": "Rex",
       "es_ES": "Leoncio",
+      "es_US": "Leoncio",
       "fr_FR": "Léo",
       "fr_CA": "Léo",
       "it_IT": "Rex",
@@ -5105,7 +5105,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon04",
-    "Spanish (US)": "Leopoldo",
     "Russian": "Леопольд",
     "ref": "Leopold",
     "localization": {
@@ -5113,6 +5112,7 @@
       "en_GB": "Leopold",
       "de_DE": "Leandro",
       "es_ES": "Leopoldo",
+      "es_US": "Leopoldo",
       "fr_FR": "Leandro",
       "fr_CA": "Leandro",
       "it_IT": "Leandro",
@@ -5126,7 +5126,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon06",
-    "Spanish (US)": "Jones",
     "Russian": "Мотт",
     "ref": "Mott",
     "localization": {
@@ -5134,6 +5133,7 @@
       "en_GB": "Mott",
       "de_DE": "Leonhard",
       "es_ES": "Jones",
+      "es_US": "Jones",
       "fr_FR": "Aimé",
       "fr_CA": "Aimé",
       "it_IT": "Leopold",
@@ -5147,7 +5147,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon07",
-    "Spanish (US)": "Rogelio",
     "Russian": "Рори",
     "ref": "Rory",
     "localization": {
@@ -5155,6 +5154,7 @@
       "en_GB": "Rory",
       "de_DE": "Leon",
       "es_ES": "Rogelio",
+      "es_US": "Rogelio",
       "fr_FR": "Hercule",
       "fr_CA": "Hercule",
       "it_IT": "Ruggero",
@@ -5168,7 +5168,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "lon08",
-    "Spanish (US)": "Lionel",
     "Russian": "Лайонел",
     "ref": "Lionel",
     "localization": {
@@ -5176,6 +5175,7 @@
       "en_GB": "Lionel",
       "de_DE": "Lorenz",
       "es_ES": "Lionel",
+      "es_US": "Lionel",
       "fr_FR": "Léopold",
       "fr_CA": "Léopold",
       "it_IT": "Leonida",
@@ -5189,7 +5189,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk01",
-    "Spanish (US)": "Nana",
     "Russian": "Нан",
     "ref": "Nana",
     "localization": {
@@ -5197,6 +5196,7 @@
       "en_GB": "Nana",
       "de_DE": "Dorothea",
       "es_ES": "Nana",
+      "es_US": "Nana",
       "fr_FR": "Mireille",
       "fr_CA": "Mireille",
       "it_IT": "Nanà",
@@ -5210,7 +5210,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk02",
-    "Spanish (US)": "Simón",
     "Russian": "Саймон",
     "ref": "Simon",
     "localization": {
@@ -5218,6 +5217,7 @@
       "en_GB": "Simon",
       "de_DE": "Simon",
       "es_ES": "Simón",
+      "es_US": "Simón",
       "fr_FR": "Simon",
       "fr_CA": "Simon",
       "it_IT": "Simon",
@@ -5231,7 +5231,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk03",
-    "Spanish (US)": "Tami",
     "Russian": "Тэмми",
     "ref": "Tammi",
     "localization": {
@@ -5239,6 +5238,7 @@
       "en_GB": "Tammi",
       "de_DE": "Bonni",
       "es_ES": "Tami",
+      "es_US": "Tami",
       "fr_FR": "Lili",
       "fr_CA": "Lili",
       "it_IT": "Tammi",
@@ -5252,7 +5252,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk04",
-    "Spanish (US)": "Burton",
     "Russian": "Монти",
     "ref": "Monty",
     "localization": {
@@ -5260,6 +5259,7 @@
       "en_GB": "Monty",
       "de_DE": "Daniel",
       "es_ES": "Burton",
+      "es_US": "Burton",
       "fr_FR": "Lourant",
       "fr_CA": "Lourant",
       "it_IT": "Mimmo",
@@ -5273,7 +5273,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk05",
-    "Spanish (US)": "Mayra",
     "Russian": "Элиз",
     "ref": "Elise",
     "localization": {
@@ -5281,6 +5280,7 @@
       "en_GB": "Elise",
       "de_DE": "Steffi",
       "es_ES": "Mayra",
+      "es_US": "Mayra",
       "fr_FR": "Élise",
       "fr_CA": "Élise",
       "it_IT": "Elisa",
@@ -5294,7 +5294,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk06",
-    "Spanish (US)": "Monet",
     "Russian": "Флип",
     "ref": "Flip",
     "localization": {
@@ -5302,6 +5301,7 @@
       "en_GB": "Flip",
       "de_DE": "Pippo",
       "es_ES": "Monet",
+      "es_US": "Monet",
       "fr_FR": "Rudy",
       "fr_CA": "Rudy",
       "it_IT": "Benny",
@@ -5315,7 +5315,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk07",
-    "Spanish (US)": "Montse",
     "Russian": "Шари",
     "ref": "Shari",
     "localization": {
@@ -5323,6 +5322,7 @@
       "en_GB": "Shari",
       "de_DE": "Uta",
       "es_ES": "Montse",
+      "es_US": "Montse",
       "fr_FR": "Luna",
       "fr_CA": "Luna",
       "it_IT": "Ninì",
@@ -5336,7 +5336,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mnk08",
-    "Spanish (US)": "Cana",
     "Russian": "Дели",
     "ref": "Deli",
     "localization": {
@@ -5344,6 +5343,7 @@
       "en_GB": "Deli",
       "de_DE": "Anton",
       "es_ES": "Cana",
+      "es_US": "Cana",
       "fr_FR": "Magogo",
       "fr_CA": "Magogo",
       "it_IT": "Bobo",
@@ -5357,7 +5357,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus00",
-    "Spanish (US)": "Dori",
     "Russian": "Дор",
     "ref": "Dora",
     "localization": {
@@ -5365,6 +5364,7 @@
       "en_GB": "Dora",
       "de_DE": "Dora",
       "es_ES": "Dori",
+      "es_US": "Dori",
       "fr_FR": "Dora",
       "fr_CA": "Dora",
       "it_IT": "Serena",
@@ -5378,7 +5378,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus01",
-    "Spanish (US)": "Camember",
     "Russian": "Лимберг",
     "ref": "Limberg",
     "localization": {
@@ -5386,6 +5385,7 @@
       "en_GB": "Limberg",
       "de_DE": "Rafael",
       "es_ES": "Camember",
+      "es_US": "Camember",
       "fr_FR": "Gruyère",
       "fr_CA": "Gruyère",
       "it_IT": "Rosico",
@@ -5399,7 +5399,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus02",
-    "Spanish (US)": "Prity",
     "Russian": "Белл",
     "ref": "Bella",
     "localization": {
@@ -5407,6 +5406,7 @@
       "en_GB": "Bella",
       "de_DE": "Susi",
       "es_ES": "Prity",
+      "es_US": "Prity",
       "fr_FR": "Belle",
       "fr_CA": "Belle",
       "it_IT": "Bella",
@@ -5420,7 +5420,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus03",
-    "Spanish (US)": "Brie",
     "Russian": "Бри",
     "ref": "Bree",
     "localization": {
@@ -5428,6 +5427,7 @@
       "en_GB": "Bree",
       "de_DE": "Jenny",
       "es_ES": "Brie",
+      "es_US": "Brie",
       "fr_FR": "Quenotte",
       "fr_CA": "Quenotte",
       "it_IT": "Ginella",
@@ -5441,7 +5441,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus04",
-    "Spanish (US)": "Sansón",
     "Russian": "Самсон",
     "ref": "Samson",
     "localization": {
@@ -5449,6 +5448,7 @@
       "en_GB": "Samson",
       "de_DE": "Samson",
       "es_ES": "Sansón",
+      "es_US": "Sansón",
       "fr_FR": "Samson",
       "fr_CA": "Samson",
       "it_IT": "Sansone",
@@ -5462,7 +5462,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus05",
-    "Spanish (US)": "Rodi",
     "Russian": "Род",
     "ref": "Rod",
     "localization": {
@@ -5470,6 +5469,7 @@
       "en_GB": "Rod",
       "de_DE": "Manni",
       "es_ES": "Rodi",
+      "es_US": "Rodi",
       "fr_FR": "Marcel",
       "fr_CA": "Marcel",
       "it_IT": "Riccardo",
@@ -5483,7 +5483,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus08",
-    "Spanish (US)": "Chuchi",
     "Russian": "Кэнди",
     "ref": "Candi",
     "localization": {
@@ -5491,6 +5490,7 @@
       "en_GB": "Candi",
       "de_DE": "Renate",
       "es_ES": "Chuchi",
+      "es_US": "Chuchi",
       "fr_FR": "Sucrette",
       "fr_CA": "Sucrette",
       "it_IT": "Mella",
@@ -5504,7 +5504,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus09",
-    "Spanish (US)": "Ratolón",
     "Russian": "Риццо",
     "ref": "Rizzo",
     "localization": {
@@ -5512,6 +5511,7 @@
       "en_GB": "Rizzo",
       "de_DE": "Ricky",
       "es_ES": "Ratolón",
+      "es_US": "Ratolón",
       "fr_FR": "Sourizzi",
       "fr_CA": "Sourizzi",
       "it_IT": "Rizzo",
@@ -5525,7 +5525,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus10",
-    "Spanish (US)": "Clorinda",
     "Russian": "Аникотти",
     "ref": "Anicotti",
     "localization": {
@@ -5533,6 +5532,7 @@
       "en_GB": "Anicotti",
       "de_DE": "Eva",
       "es_ES": "Clorinda",
+      "es_US": "Clorinda",
       "fr_FR": "Annie",
       "fr_CA": "Annie",
       "it_IT": "Squitta",
@@ -5546,7 +5546,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus12",
-    "Spanish (US)": "Brócoli",
     "Russian": "Брокколо",
     "ref": "Broccolo",
     "localization": {
@@ -5554,6 +5553,7 @@
       "en_GB": "Broccolo",
       "de_DE": "Fritzi",
       "es_ES": "Brócoli",
+      "es_US": "Brócoli",
       "fr_FR": "Steven",
       "fr_CA": "Steven",
       "it_IT": "Franco",
@@ -5567,7 +5567,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus14",
-    "Spanish (US)": "Sato",
     "Russian": "Муз",
     "ref": "Moose",
     "localization": {
@@ -5575,6 +5574,7 @@
       "en_GB": "Moose",
       "de_DE": "Mausbert",
       "es_ES": "Sato",
+      "es_US": "Sato",
       "fr_FR": "Joachim",
       "fr_CA": "Joachim",
       "it_IT": "Aldo",
@@ -5588,7 +5588,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus15",
-    "Spanish (US)": "Ottina",
     "Russian": "Беттин",
     "ref": "Bettina",
     "localization": {
@@ -5596,6 +5595,7 @@
       "en_GB": "Bettina",
       "de_DE": "Schoki",
       "es_ES": "Ottina",
+      "es_US": "Ottina",
       "fr_FR": "Sabrina",
       "fr_CA": "Sabrina",
       "it_IT": "Rattina",
@@ -5609,7 +5609,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus16",
-    "Spanish (US)": "Jimena",
     "Russian": "Грет",
     "ref": "Greta",
     "localization": {
@@ -5617,6 +5616,7 @@
       "en_GB": "Greta",
       "de_DE": "Gretel",
       "es_ES": "Jimena",
+      "es_US": "Jimena",
       "fr_FR": "Greta",
       "fr_CA": "Greta",
       "it_IT": "Greta",
@@ -5630,7 +5630,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus17",
-    "Spanish (US)": "Adela",
     "Russian": "Адел",
     "ref": "Penelope",
     "localization": {
@@ -5638,6 +5637,7 @@
       "en_GB": "Penelope",
       "de_DE": "Penelope",
       "es_ES": "Adela",
+      "es_US": "Adela",
       "fr_FR": "Missy",
       "fr_CA": "Missy",
       "it_IT": "Penelope",
@@ -5651,7 +5651,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "mus18",
-    "Spanish (US)": "Roque",
     "Russian": "Чаддер",
     "ref": "Chadder",
     "localization": {
@@ -5659,6 +5658,7 @@
       "en_GB": "Chadder",
       "de_DE": "Charlie",
       "es_ES": "Roque",
+      "es_US": "Roque",
       "fr_FR": "Mozzar",
       "fr_CA": "Mozzar",
       "it_IT": "Gruviero",
@@ -5672,7 +5672,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ocp00",
-    "Spanish (US)": "Octavio",
     "Russian": "Октавиан",
     "ref": "Octavian",
     "localization": {
@@ -5680,6 +5679,7 @@
       "en_GB": "Octavian",
       "de_DE": "Ottfried",
       "es_ES": "Octavio",
+      "es_US": "Octavio",
       "fr_FR": "Octave",
       "fr_CA": "Octave",
       "it_IT": "Ottavio",
@@ -5693,7 +5693,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ocp01",
-    "Spanish (US)": "Marina",
     "Russian": "Марин",
     "ref": "Marina",
     "localization": {
@@ -5701,6 +5700,7 @@
       "en_GB": "Marina",
       "de_DE": "Marianne",
       "es_ES": "Marina",
+      "es_US": "Marina",
       "fr_FR": "Marina",
       "fr_CA": "Marina",
       "it_IT": "Marina",
@@ -5714,7 +5714,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ocp02",
-    "Spanish (US)": "Paulino",
     "Russian": "Цукер",
     "ref": "Zucker",
     "localization": {
@@ -5722,6 +5721,7 @@
       "en_GB": "Zucker",
       "de_DE": "Ottokar",
       "es_ES": "Paulino",
+      "es_US": "Paulino",
       "fr_FR": "Marvin",
       "fr_CA": "Marvin",
       "it_IT": "Poldo",
@@ -5735,7 +5735,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost00",
-    "Spanish (US)": "Marujita",
     "Russian": "Квини",
     "ref": "Queenie",
     "localization": {
@@ -5743,6 +5742,7 @@
       "en_GB": "Queenie",
       "de_DE": "Isabella",
       "es_ES": "Marujita",
+      "es_US": "Marujita",
       "fr_FR": "Reine",
       "fr_CA": "Reine",
       "it_IT": "Regina",
@@ -5756,7 +5756,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost01",
-    "Spanish (US)": "Gladis",
     "Russian": "Глэдис",
     "ref": "Gladys",
     "localization": {
@@ -5764,6 +5763,7 @@
       "en_GB": "Gladys",
       "de_DE": "Sandra",
       "es_ES": "Gladis",
+      "es_US": "Gladis",
       "fr_FR": "Gladys",
       "fr_CA": "Gladys",
       "it_IT": "Marta",
@@ -5777,7 +5777,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost02",
-    "Spanish (US)": "Priscila",
     "Russian": "Сэнди",
     "ref": "Sandy",
     "localization": {
@@ -5785,6 +5784,7 @@
       "en_GB": "Sandy",
       "de_DE": "Senta",
       "es_ES": "Priscila",
+      "es_US": "Priscila",
       "fr_FR": "Ottie",
       "fr_CA": "Ottie",
       "it_IT": "Alessia",
@@ -5798,7 +5798,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost03",
-    "Spanish (US)": "Ráfaga",
     "Russian": "Спрокет",
     "ref": "Sprocket",
     "localization": {
@@ -5806,6 +5805,7 @@
       "en_GB": "Sprocket",
       "de_DE": "Lutz",
       "es_ES": "Ráfaga",
+      "es_US": "Ráfaga",
       "fr_FR": "Laflèche",
       "fr_CA": "Laflèche",
       "it_IT": "Frankie",
@@ -5819,7 +5819,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost05",
-    "Spanish (US)": "Julia",
     "Russian": "Джули",
     "ref": "Julia",
     "localization": {
@@ -5827,6 +5826,7 @@
       "en_GB": "Julia",
       "de_DE": "Julia",
       "es_ES": "Julia",
+      "es_US": "Julia",
       "fr_FR": "Julie",
       "fr_CA": "Julie",
       "it_IT": "Giulia",
@@ -5840,7 +5840,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost06",
-    "Spanish (US)": "Carmelo",
     "Russian": "Крэнстон",
     "ref": "Cranston",
     "localization": {
@@ -5848,6 +5847,7 @@
       "en_GB": "Cranston",
       "de_DE": "Guido",
       "es_ES": "Carmelo",
+      "es_US": "Carmelo",
       "fr_FR": "Gabin",
       "fr_CA": "Gabin",
       "it_IT": "Carmine",
@@ -5861,7 +5861,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost07",
-    "Spanish (US)": "Amalio",
     "Russian": "Фил",
     "ref": "Phil",
     "localization": {
@@ -5869,6 +5868,7 @@
       "en_GB": "Phil",
       "de_DE": "Ingo",
       "es_ES": "Amalio",
+      "es_US": "Amalio",
       "fr_FR": "Phil",
       "fr_CA": "Phil",
       "it_IT": "Enzo",
@@ -5882,7 +5882,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost08",
-    "Spanish (US)": "Rocío",
     "Russian": "Бланш",
     "ref": "Blanche",
     "localization": {
@@ -5890,6 +5889,7 @@
       "en_GB": "Blanche",
       "de_DE": "Christa",
       "es_ES": "Rocío",
+      "es_US": "Rocío",
       "fr_FR": "Sophie",
       "fr_CA": "Sophie",
       "it_IT": "Emilia",
@@ -5903,7 +5903,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost09",
-    "Spanish (US)": "Azucena",
     "Russian": "Флор",
     "ref": "Flora",
     "localization": {
@@ -5911,6 +5910,7 @@
       "en_GB": "Flora",
       "de_DE": "Flora",
       "es_ES": "Azucena",
+      "es_US": "Azucena",
       "fr_FR": "Justine",
       "fr_CA": "Justine",
       "it_IT": "Rosalba",
@@ -5924,7 +5924,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "ost10",
-    "Spanish (US)": "Avelina",
     "Russian": "Фиби",
     "ref": "Phoebe",
     "localization": {
@@ -5932,6 +5931,7 @@
       "en_GB": "Phoebe",
       "de_DE": "Philippa",
       "es_ES": "Avelina",
+      "es_US": "Avelina",
       "fr_FR": "Faustine",
       "fr_CA": "Faustine",
       "it_IT": "Fenicia",
@@ -5945,7 +5945,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr00",
-    "Spanish (US)": "Apolo",
     "Russian": "Аполло",
     "ref": "Apollo",
     "localization": {
@@ -5953,6 +5952,7 @@
       "en_GB": "Apollo",
       "de_DE": "Apollo",
       "es_ES": "Apolo",
+      "es_US": "Apolo",
       "fr_FR": "Apollon",
       "fr_CA": "Apollon",
       "it_IT": "Apollo",
@@ -5966,7 +5966,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr01",
-    "Spanish (US)": "Amelia",
     "Russian": "Амели",
     "ref": "Amelia",
     "localization": {
@@ -5974,6 +5973,7 @@
       "en_GB": "Amelia",
       "de_DE": "Adelheid",
       "es_ES": "Amelia",
+      "es_US": "Amelia",
       "fr_FR": "Aurélie",
       "fr_CA": "Aurélie",
       "it_IT": "Amelia",
@@ -5987,7 +5987,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr02",
-    "Spanish (US)": "Hugo",
     "Russian": "Пирс",
     "ref": "Pierce",
     "localization": {
@@ -5995,6 +5994,7 @@
       "en_GB": "Pierce",
       "de_DE": "Adrian",
       "es_ES": "Hugo",
+      "es_US": "Hugo",
       "fr_FR": "Napoléon",
       "fr_CA": "Napoléon",
       "it_IT": "Attilio",
@@ -6008,7 +6008,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr03",
-    "Spanish (US)": "Nabar",
     "Russian": "Базз",
     "ref": "Buzz",
     "localization": {
@@ -6016,6 +6015,7 @@
       "en_GB": "Buzz",
       "de_DE": "Balduin",
       "es_ES": "Nabar",
+      "es_US": "Nabar",
       "fr_FR": "Phébus",
       "fr_CA": "Phébus",
       "it_IT": "Golia",
@@ -6029,7 +6029,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr05",
-    "Spanish (US)": "Cuzco",
     "Russian": "Авери",
     "ref": "Avery",
     "localization": {
@@ -6037,6 +6036,7 @@
       "en_GB": "Avery",
       "de_DE": "Quetzal",
       "es_ES": "Cuzco",
+      "es_US": "Cuzco",
       "fr_FR": "Faust",
       "fr_CA": "Faust",
       "it_IT": "Falco",
@@ -6050,7 +6050,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr06",
-    "Spanish (US)": "Aquilino",
     "Russian": "Франк",
     "ref": "Frank",
     "localization": {
@@ -6058,6 +6057,7 @@
       "en_GB": "Frank",
       "de_DE": "Arthur",
       "es_ES": "Aquilino",
+      "es_US": "Aquilino",
       "fr_FR": "Greggae",
       "fr_CA": "Greggae",
       "it_IT": "Frank",
@@ -6071,7 +6071,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr07",
-    "Spanish (US)": "Arni",
     "Russian": "Стерлинг",
     "ref": "Sterling",
     "localization": {
@@ -6079,6 +6078,7 @@
       "en_GB": "Sterling",
       "de_DE": "Horst",
       "es_ES": "Arni",
+      "es_US": "Arni",
       "fr_FR": "Manfred",
       "fr_CA": "Manfred",
       "it_IT": "Beccodì",
@@ -6092,7 +6092,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr08",
-    "Spanish (US)": "Lucho",
     "Russian": "Китон",
     "ref": "Keaton",
     "localization": {
@@ -6100,6 +6099,7 @@
       "en_GB": "Keaton",
       "de_DE": "Kai",
       "es_ES": "Lucho",
+      "es_US": "Lucho",
       "fr_FR": "Enzo",
       "fr_CA": "Enzo",
       "it_IT": "Aquilio",
@@ -6113,7 +6113,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pbr09",
-    "Spanish (US)": "Jazmín",
     "Russian": "Сели",
     "ref": "Celia",
     "localization": {
@@ -6121,6 +6120,7 @@
       "en_GB": "Celia",
       "de_DE": "Lora",
       "es_ES": "Jazmín",
+      "es_US": "Jazmín",
       "fr_FR": "Garance",
       "fr_CA": "Garance",
       "it_IT": "Celia",
@@ -6134,7 +6134,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn00",
-    "Spanish (US)": "Aurora",
     "Russian": "Аврор",
     "ref": "Aurora",
     "localization": {
@@ -6142,6 +6141,7 @@
       "en_GB": "Aurora",
       "de_DE": "Sonja",
       "es_ES": "Aurora",
+      "es_US": "Aurora",
       "fr_FR": "Aurore",
       "fr_CA": "Aurore",
       "it_IT": "Aurora",
@@ -6155,7 +6155,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn01",
-    "Spanish (US)": "Bobi",
     "Russian": "Роальд",
     "ref": "Roald",
     "localization": {
@@ -6163,6 +6162,7 @@
       "en_GB": "Roald",
       "de_DE": "Roland",
       "es_ES": "Bobi",
+      "es_US": "Bobi",
       "fr_FR": "Reynald",
       "fr_CA": "Reynald",
       "it_IT": "Angelino",
@@ -6176,7 +6176,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn02",
-    "Spanish (US)": "Cube",
     "Russian": "Кьюб",
     "ref": "Cube",
     "localization": {
@@ -6184,6 +6183,7 @@
       "en_GB": "Cube",
       "de_DE": "Cube",
       "es_ES": "Cube",
+      "es_US": "Cube",
       "fr_FR": "Cube",
       "fr_CA": "Cube",
       "it_IT": "Cubetto",
@@ -6197,7 +6197,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn03",
-    "Spanish (US)": "Güiñón",
     "Russian": "Хоппер",
     "ref": "Hopper",
     "localization": {
@@ -6205,6 +6204,7 @@
       "en_GB": "Hopper",
       "de_DE": "Hauke",
       "es_ES": "Güiñón",
+      "es_US": "Güiñón",
       "fr_FR": "Victor",
       "fr_CA": "Victor",
       "it_IT": "Pinguaio",
@@ -6218,7 +6218,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn04",
-    "Spanish (US)": "Frida",
     "Russian": "Фриг",
     "ref": "Friga",
     "localization": {
@@ -6226,6 +6225,7 @@
       "en_GB": "Friga",
       "de_DE": "Frieda",
       "es_ES": "Frida",
+      "es_US": "Frida",
       "fr_FR": "Friga",
       "fr_CA": "Friga",
       "it_IT": "Frida",
@@ -6239,7 +6239,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn05",
-    "Spanish (US)": "Fabiola",
     "Russian": "Гвен",
     "ref": "Gwen",
     "localization": {
@@ -6247,6 +6246,7 @@
       "en_GB": "Gwen",
       "de_DE": "Judith",
       "es_ES": "Fabiola",
+      "es_US": "Fabiola",
       "fr_FR": "Gwen",
       "fr_CA": "Gwen",
       "it_IT": "Gelinda",
@@ -6260,7 +6260,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn06",
-    "Spanish (US)": "Fredo",
     "Russian": "Пак",
     "ref": "Puck",
     "localization": {
@@ -6268,6 +6267,7 @@
       "en_GB": "Puck",
       "de_DE": "Puck",
       "es_ES": "Fredo",
+      "es_US": "Fredo",
       "fr_FR": "Hervé",
       "fr_CA": "Hervé",
       "it_IT": "Glacido",
@@ -6281,7 +6281,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn09",
-    "Spanish (US)": "Petín",
     "Russian": "Уэйд",
     "ref": "Wade",
     "localization": {
@@ -6289,6 +6288,7 @@
       "en_GB": "Wade",
       "de_DE": "Staksi",
       "es_ES": "Petín",
+      "es_US": "Petín",
       "fr_FR": "Miglou",
       "fr_CA": "Miglou",
       "it_IT": "Plinio",
@@ -6302,7 +6302,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn10",
-    "Spanish (US)": "Serafino",
     "Russian": "Бумер",
     "ref": "Boomer",
     "localization": {
@@ -6310,6 +6309,7 @@
       "en_GB": "Boomer",
       "de_DE": "Max",
       "es_ES": "Serafino",
+      "es_US": "Serafino",
       "fr_FR": "Ethan",
       "fr_CA": "Ethan",
       "it_IT": "Icaro",
@@ -6323,7 +6323,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn11",
-    "Spanish (US)": "Bobo",
     "Russian": "Игли",
     "ref": "Iggly",
     "localization": {
@@ -6331,6 +6330,7 @@
       "en_GB": "Iggly",
       "de_DE": "Pingi",
       "es_ES": "Bobo",
+      "es_US": "Bobo",
       "fr_FR": "Urbain",
       "fr_CA": "Urbain",
       "it_IT": "Piccio",
@@ -6344,7 +6344,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn12",
-    "Spanish (US)": "Tomeo",
     "Russian": "Текс",
     "ref": "Tex",
     "localization": {
@@ -6352,6 +6351,7 @@
       "en_GB": "Tex",
       "de_DE": "Matze",
       "es_ES": "Tomeo",
+      "es_US": "Tomeo",
       "fr_FR": "Émilien",
       "fr_CA": "Émilien",
       "it_IT": "Freddy",
@@ -6365,7 +6365,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn13",
-    "Spanish (US)": "Nieves",
     "Russian": "Фло",
     "ref": "Flo",
     "localization": {
@@ -6373,6 +6372,7 @@
       "en_GB": "Flo",
       "de_DE": "Susanne",
       "es_ES": "Nieves",
+      "es_US": "Nieves",
       "fr_FR": "Nora",
       "fr_CA": "Nora",
       "it_IT": "Nives",
@@ -6386,7 +6386,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pgn14",
-    "Spanish (US)": "Rizolda",
     "Russian": "Спринкл",
     "ref": "Sprinkle",
     "localization": {
@@ -6394,6 +6393,7 @@
       "en_GB": "Sprinkle",
       "de_DE": "Svenja",
       "es_ES": "Rizolda",
+      "es_US": "Rizolda",
       "fr_FR": "Laurie",
       "fr_CA": "Laurie",
       "it_IT": "Brina",
@@ -6407,7 +6407,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig00",
-    "Spanish (US)": "Rufueto",
     "Russian": "Керли",
     "ref": "Curly",
     "localization": {
@@ -6415,6 +6414,7 @@
       "en_GB": "Curly",
       "de_DE": "Oink",
       "es_ES": "Rufueto",
+      "es_US": "Rufueto",
       "fr_FR": "Tirbou",
       "fr_CA": "Tirbou",
       "it_IT": "Ricciolo",
@@ -6428,7 +6428,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig01",
-    "Spanish (US)": "Trufas",
     "Russian": "Трафлс",
     "ref": "Truffles",
     "localization": {
@@ -6436,6 +6435,7 @@
       "en_GB": "Truffles",
       "de_DE": "Luzie",
       "es_ES": "Trufas",
+      "es_US": "Trufas",
       "fr_FR": "Trufa",
       "fr_CA": "Trufa",
       "it_IT": "Grufetta",
@@ -6449,7 +6449,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig02",
-    "Spanish (US)": "Curtis",
     "Russian": "Рашер",
     "ref": "Rasher",
     "localization": {
@@ -6457,6 +6456,7 @@
       "en_GB": "Rasher",
       "de_DE": "Ede",
       "es_ES": "Curtis",
+      "es_US": "Curtis",
       "fr_FR": "Salami",
       "fr_CA": "Salami",
       "it_IT": "Broncio",
@@ -6470,7 +6470,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig03",
-    "Spanish (US)": "Jacobo",
     "Russian": "Хью",
     "ref": "Hugh",
     "localization": {
@@ -6478,6 +6477,7 @@
       "en_GB": "Hugh",
       "de_DE": "Hugo",
       "es_ES": "Jacobo",
+      "es_US": "Jacobo",
       "fr_FR": "Bonno",
       "fr_CA": "Bonno",
       "it_IT": "Jambon",
@@ -6491,7 +6491,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig04",
-    "Spanish (US)": "Aurelia",
     "Russian": "Люси",
     "ref": "Lucy",
     "localization": {
@@ -6499,6 +6498,7 @@
       "en_GB": "Lucy",
       "de_DE": "Larissa",
       "es_ES": "Aurelia",
+      "es_US": "Aurelia",
       "fr_FR": "Lucie",
       "fr_CA": "Lucie",
       "it_IT": "Lucy",
@@ -6512,7 +6512,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig05",
-    "Spanish (US)": "Espork",
     "Russian": "Крэкл",
     "ref": "Crackle",
     "localization": {
@@ -6520,6 +6519,7 @@
       "en_GB": "Crackle",
       "de_DE": "Schwarte",
       "es_ES": "Espork",
+      "es_US": "Espork",
       "fr_FR": "Justin",
       "fr_CA": "Justin",
       "it_IT": "Cicciolo",
@@ -6533,7 +6533,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig08",
-    "Spanish (US)": "Franfuá",
     "Russian": "Кобб",
     "ref": "Cobb",
     "localization": {
@@ -6541,6 +6540,7 @@
       "en_GB": "Cobb",
       "de_DE": "Rolo",
       "es_ES": "Franfuá",
+      "es_US": "Franfuá",
       "fr_FR": "Porken",
       "fr_CA": "Porken",
       "it_IT": "Wurst",
@@ -6554,7 +6554,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig09",
-    "Spanish (US)": "Boris",
     "Russian": "Борис",
     "ref": "Boris",
     "localization": {
@@ -6562,6 +6561,7 @@
       "en_GB": "Boris",
       "de_DE": "Bolle",
       "es_ES": "Boris",
+      "es_US": "Boris",
       "fr_FR": "Boris",
       "fr_CA": "Boris",
       "it_IT": "Boris",
@@ -6575,7 +6575,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig10",
-    "Spanish (US)": "Margarí",
     "Russian": "Мэгги",
     "ref": "Maggie",
     "localization": {
@@ -6583,6 +6582,7 @@
       "en_GB": "Maggie",
       "de_DE": "Magda",
       "es_ES": "Margarí",
+      "es_US": "Margarí",
       "fr_FR": "Marjorie",
       "fr_CA": "Marjorie",
       "it_IT": "Marcella",
@@ -6596,7 +6596,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig11",
-    "Spanish (US)": "Peggy",
     "Russian": "Пегги",
     "ref": "Peggy",
     "localization": {
@@ -6604,6 +6603,7 @@
       "en_GB": "Peggy",
       "de_DE": "Quiekie",
       "es_ES": "Peggy",
+      "es_US": "Peggy",
       "fr_FR": "Rose",
       "fr_CA": "Rose",
       "it_IT": "Sally",
@@ -6617,7 +6617,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig13",
-    "Spanish (US)": "Marita",
     "Russian": "Гал",
     "ref": "Gala",
     "localization": {
@@ -6625,6 +6624,7 @@
       "en_GB": "Gala",
       "de_DE": "Oinka",
       "es_ES": "Marita",
+      "es_US": "Marita",
       "fr_FR": "Camille",
       "fr_CA": "Camille",
       "it_IT": "Lisetta",
@@ -6638,7 +6638,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig14",
-    "Spanish (US)": "Solomín",
     "Russian": "Чопс",
     "ref": "Chops",
     "localization": {
@@ -6646,6 +6645,7 @@
       "en_GB": "Chops",
       "de_DE": "Clemens",
       "es_ES": "Solomín",
+      "es_US": "Solomín",
       "fr_FR": "Aaron",
       "fr_CA": "Aaron",
       "it_IT": "Lino",
@@ -6659,7 +6659,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig15",
-    "Spanish (US)": "Porcinio",
     "Russian": "Кевин",
     "ref": "Kevin",
     "localization": {
@@ -6667,6 +6666,7 @@
       "en_GB": "Kevin",
       "de_DE": "Kevin",
       "es_ES": "Porcinio",
+      "es_US": "Porcinio",
       "fr_FR": "Jean-Bon",
       "fr_CA": "Jean-Bon",
       "it_IT": "Kotekiño",
@@ -6680,7 +6680,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig16",
-    "Spanish (US)": "Talía",
     "Russian": "Панчетти",
     "ref": "Pancetti",
     "localization": {
@@ -6688,6 +6687,7 @@
       "en_GB": "Pancetti",
       "de_DE": "Brigitte",
       "es_ES": "Talía",
+      "es_US": "Talía",
       "fr_FR": "Lydie",
       "fr_CA": "Lydie",
       "it_IT": "Cicciola",
@@ -6701,7 +6701,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "pig17",
-    "Spanish (US)": "Nerea",
     "Russian": "Агнес",
     "ref": "Agnes",
     "localization": {
@@ -6709,6 +6708,7 @@
       "en_GB": "Agnes",
       "de_DE": "Nora",
       "es_ES": "Negrea",
+      "es_US": "Nerea",
       "fr_FR": "Pansy",
       "fr_CA": "Pansy",
       "it_IT": "Maia",
@@ -6722,7 +6722,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt00",
-    "Spanish (US)": "Coni",
     "Russian": "Банни",
     "ref": "Bunnie",
     "localization": {
@@ -6730,6 +6729,7 @@
       "en_GB": "Bunnie",
       "de_DE": "Mimmi",
       "es_ES": "Coni",
+      "es_US": "Coni",
       "fr_FR": "Clara",
       "fr_CA": "Clara",
       "it_IT": "Bonny",
@@ -6743,7 +6743,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt01",
-    "Spanish (US)": "Katia",
     "Russian": "Дотти",
     "ref": "Dotty",
     "localization": {
@@ -6751,6 +6750,7 @@
       "en_GB": "Dotty",
       "de_DE": "Doro",
       "es_ES": "Katia",
+      "es_US": "Katia",
       "fr_FR": "Dorothée",
       "fr_CA": "Dorothée",
       "it_IT": "Dotty",
@@ -6764,7 +6764,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt02",
-    "Spanish (US)": "Cocoloca",
     "Russian": "Коко",
     "ref": "Coco",
     "localization": {
@@ -6772,6 +6771,7 @@
       "en_GB": "Coco",
       "de_DE": "Koko",
       "es_ES": "Cocoloca",
+      "es_US": "Cocoloca",
       "fr_FR": "Coco",
       "fr_CA": "Coco",
       "it_IT": "Coco",
@@ -6785,7 +6785,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt03",
-    "Spanish (US)": "Rayo",
     "Russian": "Снейк",
     "ref": "Snake",
     "localization": {
@@ -6793,6 +6792,7 @@
       "en_GB": "Snake",
       "de_DE": "Philip",
       "es_ES": "Rayo",
+      "es_US": "Rayo",
       "fr_FR": "Jeannot",
       "fr_CA": "Jeannot",
       "it_IT": "Razzo",
@@ -6806,7 +6806,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt04",
-    "Spanish (US)": "Gastón",
     "Russian": "Гастон",
     "ref": "Gaston",
     "localization": {
@@ -6814,6 +6813,7 @@
       "en_GB": "Gaston",
       "de_DE": "Gaston",
       "es_ES": "Gastón",
+      "es_US": "Gastón",
       "fr_FR": "Gaston",
       "fr_CA": "Gaston",
       "it_IT": "Gaston",
@@ -6827,7 +6827,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt05",
-    "Spanish (US)": "Piluca",
     "Russian": "Габи",
     "ref": "Gabi",
     "localization": {
@@ -6835,6 +6834,7 @@
       "en_GB": "Gabi",
       "de_DE": "Gabi",
       "es_ES": "Piluca",
+      "es_US": "Piluca",
       "fr_FR": "Gaby",
       "fr_CA": "Gaby",
       "it_IT": "Gabri",
@@ -6848,7 +6848,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt06",
-    "Spanish (US)": "Méloni",
     "Russian": "Пиппи",
     "ref": "Pippy",
     "localization": {
@@ -6856,6 +6855,7 @@
       "en_GB": "Pippy",
       "de_DE": "Lotta",
       "es_ES": "Méloni",
+      "es_US": "Méloni",
       "fr_FR": "Nadia",
       "fr_CA": "Nadia",
       "it_IT": "Pippi",
@@ -6869,7 +6869,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt07",
-    "Spanish (US)": "Tiffany",
     "Russian": "Тиффани",
     "ref": "Tiffany",
     "localization": {
@@ -6877,6 +6876,7 @@
       "en_GB": "Tiffany",
       "de_DE": "Michelle",
       "es_ES": "Tiffany",
+      "es_US": "Tiffany",
       "fr_FR": "Tiphaine",
       "fr_CA": "Tiphaine",
       "it_IT": "Stefania",
@@ -6890,7 +6890,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt08",
-    "Spanish (US)": "Sumo",
     "Russian": "Гэндзи",
     "ref": "Genji",
     "localization": {
@@ -6898,6 +6897,7 @@
       "en_GB": "Genji",
       "de_DE": "Aki",
       "es_ES": "Sumo",
+      "es_US": "Sumo",
       "fr_FR": "Kali",
       "fr_CA": "Kali",
       "it_IT": "Genji",
@@ -6911,7 +6911,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt09",
-    "Spanish (US)": "Rubí",
     "Russian": "Руби",
     "ref": "Ruby",
     "localization": {
@@ -6919,6 +6918,7 @@
       "en_GB": "Ruby",
       "de_DE": "Rubina",
       "es_ES": "Rubí",
+      "es_US": "Rubí",
       "fr_FR": "Rubis",
       "fr_CA": "Rubis",
       "it_IT": "Rubina",
@@ -6932,7 +6932,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt10",
-    "Spanish (US)": "Crispín",
     "Russian": "Док",
     "ref": "Doc",
     "localization": {
@@ -6940,6 +6939,7 @@
       "en_GB": "Doc",
       "de_DE": "Gustl",
       "es_ES": "Crispín",
+      "es_US": "Crispín",
       "fr_FR": "Doc",
       "fr_CA": "Doc",
       "it_IT": "Doc",
@@ -6953,7 +6953,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt11",
-    "Spanish (US)": "Pablo",
     "Russian": "Клод",
     "ref": "Claude",
     "localization": {
@@ -6961,6 +6960,7 @@
       "en_GB": "Claude",
       "de_DE": "Claude",
       "es_ES": "Pablo",
+      "es_US": "Pablo",
       "fr_FR": "Claude",
       "fr_CA": "Claude",
       "it_IT": "Claude",
@@ -6974,7 +6974,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt12",
-    "Spanish (US)": "Natacha",
     "Russian": "Франсин",
     "ref": "Francine",
     "localization": {
@@ -6982,6 +6981,7 @@
       "en_GB": "Francine",
       "de_DE": "Manu",
       "es_ES": "Natacha",
+      "es_US": "Natacha",
       "fr_FR": "Nadine",
       "fr_CA": "Nadine",
       "it_IT": "Franca",
@@ -6995,7 +6995,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt13",
-    "Spanish (US)": "Lali",
     "Russian": "Крисси",
     "ref": "Chrissy",
     "localization": {
@@ -7003,6 +7002,7 @@
       "en_GB": "Chrissy",
       "de_DE": "Anne",
       "es_ES": "Lali",
+      "es_US": "Lali",
       "fr_FR": "Kristine",
       "fr_CA": "Kristine",
       "it_IT": "Natascha",
@@ -7016,7 +7016,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt14",
-    "Spanish (US)": "Saltiago",
     "Russian": "Хопкинс",
     "ref": "Hopkins",
     "localization": {
@@ -7024,6 +7023,7 @@
       "en_GB": "Hopkins",
       "de_DE": "Poldi",
       "es_ES": "Saltiago",
+      "es_US": "Saltiago",
       "fr_FR": "Grignote",
       "fr_CA": "Grignote",
       "it_IT": "Azeglio",
@@ -7037,7 +7037,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt15",
-    "Spanish (US)": "Ernesto",
     "Russian": "О'Хэар",
     "ref": "O'Hare",
     "localization": {
@@ -7045,6 +7044,7 @@
       "en_GB": "O'Hare",
       "de_DE": "Nico",
       "es_ES": "Ernesto",
+      "es_US": "Ernesto",
       "fr_FR": "Civet",
       "fr_CA": "Civet",
       "it_IT": "Fritz",
@@ -7058,7 +7058,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt16",
-    "Spanish (US)": "Linda",
     "Russian": "Кармен",
     "ref": "Carmen",
     "localization": {
@@ -7066,6 +7065,7 @@
       "en_GB": "Carmen",
       "de_DE": "Hilda",
       "es_ES": "Linda",
+      "es_US": "Linda",
       "fr_FR": "Zoé",
       "fr_CA": "Zoé",
       "it_IT": "Conny",
@@ -7079,7 +7079,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt17",
-    "Spanish (US)": "Chocolat",
     "Russian": "Бонбон",
     "ref": "Bonbon",
     "localization": {
@@ -7087,6 +7086,7 @@
       "en_GB": "Bonbon",
       "de_DE": "Henrike",
       "es_ES": "Chocolat",
+      "es_US": "Chocolat",
       "fr_FR": "Sylvette",
       "fr_CA": "Sylvette",
       "it_IT": "Lolly",
@@ -7100,7 +7100,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt18",
-    "Spanish (US)": "Nicolás",
     "Russian": "Коул",
     "ref": "Cole",
     "localization": {
@@ -7108,6 +7107,7 @@
       "en_GB": "Cole",
       "de_DE": "Karl",
       "es_ES": "Nicolás",
+      "es_US": "Nicolás",
       "fr_FR": "Épicure",
       "fr_CA": "Épicure",
       "it_IT": "Lello",
@@ -7121,7 +7121,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt19",
-    "Spanish (US)": "Amparo",
     "Russian": "Мир",
     "ref": "Mira",
     "localization": {
@@ -7129,6 +7128,7 @@
       "en_GB": "Mira",
       "de_DE": "Mira",
       "es_ES": "Amparo",
+      "es_US": "Amparo",
       "fr_FR": "Grisette",
       "fr_CA": "Grisette",
       "it_IT": "Martina",
@@ -7142,7 +7142,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rbt20",
-    "Spanish (US)": "Toby",
     "Russian": "Тоби",
     "ref": "Toby",
     "localization": {
@@ -7150,6 +7149,7 @@
       "en_GB": "Toby",
       "de_DE": "Toby",
       "es_ES": "Toby",
+      "es_US": "Toby",
       "fr_FR": "Toby",
       "fr_CA": "Toby",
       "it_IT": "Toby",
@@ -7163,7 +7163,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rhn00",
-    "Spanish (US)": "Aníbal",
     "Russian": "Танк",
     "ref": "Tank",
     "localization": {
@@ -7171,6 +7170,7 @@
       "en_GB": "Tank",
       "de_DE": "Frank",
       "es_ES": "Aníbal",
+      "es_US": "Aníbal",
       "fr_FR": "Ben",
       "fr_CA": "Ben",
       "it_IT": "Rinaldo",
@@ -7184,7 +7184,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rhn01",
-    "Spanish (US)": "Ronda",
     "Russian": "Ронд",
     "ref": "Rhonda",
     "localization": {
@@ -7192,6 +7191,7 @@
       "en_GB": "Rhonda",
       "de_DE": "Regina",
       "es_ES": "Ronda",
+      "es_US": "Ronda",
       "fr_FR": "Renée",
       "fr_CA": "Renée",
       "it_IT": "Roby",
@@ -7205,7 +7205,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rhn02",
-    "Spanish (US)": "Cornio",
     "Russian": "Спайк",
     "ref": "Spike",
     "localization": {
@@ -7213,6 +7212,7 @@
       "en_GB": "Spike",
       "de_DE": "Atze",
       "es_ES": "Cornio",
+      "es_US": "Cornio",
       "fr_FR": "Rhino",
       "fr_CA": "Rhino",
       "it_IT": "Bruto",
@@ -7226,7 +7226,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rhn04",
-    "Spanish (US)": "Rino",
     "Russian": "Хорнсби",
     "ref": "Hornsby",
     "localization": {
@@ -7234,6 +7233,7 @@
       "en_GB": "Hornsby",
       "de_DE": "Rüdiger",
       "es_ES": "Rino",
+      "es_US": "Rino",
       "fr_FR": "Cornio",
       "fr_CA": "Cornio",
       "it_IT": "Rino",
@@ -7247,7 +7247,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rhn07",
-    "Spanish (US)": "Natura",
     "Russian": "Меренг",
     "ref": "Merengue",
     "localization": {
@@ -7255,6 +7254,7 @@
       "en_GB": "Merengue",
       "de_DE": "Maria",
       "es_ES": "Natura",
+      "es_US": "Natura",
       "fr_FR": "Patty",
       "fr_CA": "Patty",
       "it_IT": "Irina",
@@ -7268,7 +7268,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "rhn08",
-    "Spanish (US)": "Rina",
     "Russian": "Рене",
     "ref": "Renée",
     "localization": {
@@ -7276,6 +7275,7 @@
       "en_GB": "Renée",
       "de_DE": "Ilona",
       "es_ES": "Rina",
+      "es_US": "Rina",
       "fr_FR": "Rina",
       "fr_CA": "Rina",
       "it_IT": "Renata",
@@ -7289,7 +7289,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp00",
-    "Spanish (US)": "Vesta",
     "Russian": "Вест",
     "ref": "Vesta",
     "localization": {
@@ -7297,6 +7296,7 @@
       "en_GB": "Vesta",
       "de_DE": "Dolly",
       "es_ES": "Vesta",
+      "es_US": "Vesta",
       "fr_FR": "Hélaine",
       "fr_CA": "Hélaine",
       "it_IT": "Lanella",
@@ -7310,7 +7310,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp01",
-    "Spanish (US)": "Beelén",
     "Russian": "Бабар",
     "ref": "Baabara",
     "localization": {
@@ -7318,6 +7317,7 @@
       "en_GB": "Baabara",
       "de_DE": "Babsi",
       "es_ES": "Beelén",
+      "es_US": "Beelén",
       "fr_FR": "Bêêtty",
       "fr_CA": "Bêêtty",
       "it_IT": "Bea",
@@ -7331,7 +7331,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp02",
-    "Spanish (US)": "Lanolina",
     "Russian": "Юнис",
     "ref": "Eunice",
     "localization": {
@@ -7339,6 +7338,7 @@
       "en_GB": "Eunice",
       "de_DE": "Edith",
       "es_ES": "Lanolina",
+      "es_US": "Lanolina",
       "fr_FR": "Bérénice",
       "fr_CA": "Bérénice",
       "it_IT": "Tenerina",
@@ -7352,7 +7352,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp03",
-    "Spanish (US)": "Merina",
     "Russian": "Стелл",
     "ref": "Stella",
     "localization": {
@@ -7360,6 +7359,7 @@
       "en_GB": "Stella",
       "de_DE": "Stella",
       "es_ES": "Merina",
+      "es_US": "Merina",
       "fr_FR": "Bigoudi",
       "fr_CA": "Bigoudi",
       "it_IT": "Merina",
@@ -7373,7 +7373,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp04",
-    "Spanish (US)": "Cachemir",
     "Russian": "Кашмир",
     "ref": "Cashmere",
     "localization": {
@@ -7381,6 +7380,7 @@
       "en_GB": "Cashmere",
       "de_DE": "Lana",
       "es_ES": "Cachemir",
+      "es_US": "Cachemir",
       "fr_FR": "Cashmir",
       "fr_CA": "Cashmir",
       "it_IT": "Cashmere",
@@ -7394,7 +7394,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp07",
-    "Spanish (US)": "Cuqui",
     "Russian": "Уиллоу",
     "ref": "Willow",
     "localization": {
@@ -7402,6 +7401,7 @@
       "en_GB": "Willow",
       "de_DE": "Natascha",
       "es_ES": "Cuqui",
+      "es_US": "Cuqui",
       "fr_FR": "Maï",
       "fr_CA": "Maï",
       "it_IT": "Belinda",
@@ -7415,7 +7415,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp08",
-    "Spanish (US)": "Carnerio",
     "Russian": "Керлос",
     "ref": "Curlos",
     "localization": {
@@ -7423,6 +7422,7 @@
       "en_GB": "Curlos",
       "de_DE": "Locke",
       "es_ES": "Carnerio",
+      "es_US": "Carnerio",
       "fr_FR": "Tonton",
       "fr_CA": "Tonton",
       "it_IT": "Boccolo",
@@ -7436,7 +7436,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp09",
-    "Spanish (US)": "Franela",
     "Russian": "Венди",
     "ref": "Wendy",
     "localization": {
@@ -7444,6 +7443,7 @@
       "en_GB": "Wendy",
       "de_DE": "Wolli",
       "es_ES": "Franela",
+      "es_US": "Franela",
       "fr_FR": "Karen",
       "fr_CA": "Karen",
       "it_IT": "Agnola",
@@ -7457,7 +7457,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp10",
-    "Spanish (US)": "Hebra",
     "Russian": "Тимбр",
     "ref": "Timbra",
     "localization": {
@@ -7465,6 +7464,7 @@
       "en_GB": "Timbra",
       "de_DE": "Tippsi",
       "es_ES": "Hebra",
+      "es_US": "Hebra",
       "fr_FR": "Sélène",
       "fr_CA": "Sélène",
       "it_IT": "Ambra",
@@ -7478,7 +7478,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp11",
-    "Spanish (US)": "Ovinia",
     "Russian": "Фрит",
     "ref": "Frita",
     "localization": {
@@ -7486,6 +7485,7 @@
       "en_GB": "Frita",
       "de_DE": "Martina",
       "es_ES": "Ovinia",
+      "es_US": "Ovinia",
       "fr_FR": "Clarabêl",
       "fr_CA": "Clarabêl",
       "it_IT": "Landa",
@@ -7499,7 +7499,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp12",
-    "Spanish (US)": "Muaré",
     "Russian": "Маффи",
     "ref": "Muffy",
     "localization": {
@@ -7507,6 +7506,7 @@
       "en_GB": "Muffy",
       "de_DE": "Marion",
       "es_ES": "Muaré",
+      "es_US": "Muaré",
       "fr_FR": "Charlène",
       "fr_CA": "Charlène",
       "it_IT": "Morena",
@@ -7520,7 +7520,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp13",
-    "Spanish (US)": "Kikolor",
     "Russian": "Пьетро",
     "ref": "Pietro",
     "localization": {
@@ -7528,6 +7527,7 @@
       "en_GB": "Pietro",
       "de_DE": "Pietro",
       "es_ES": "Kikolor",
+      "es_US": "Kikolor",
       "fr_FR": "Pietro",
       "fr_CA": "Pietro",
       "it_IT": "Giulivo",
@@ -7541,7 +7541,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp14",
-    "Spanish (US)": "Etoile",
     "Russian": "Этуаль",
     "ref": "Étoile",
     "localization": {
@@ -7549,6 +7548,7 @@
       "en_GB": "Étoile",
       "de_DE": "Etoile",
       "es_ES": "Etoile",
+      "es_US": "Etoile",
       "fr_FR": "Étoile",
       "fr_CA": "Étoile",
       "it_IT": "Étoile",
@@ -7562,7 +7562,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "shp15",
-    "Spanish (US)": "Fibrilio",
     "Russian": "Дом",
     "ref": "Dom",
     "localization": {
@@ -7570,6 +7569,7 @@
       "en_GB": "Dom",
       "de_DE": "Dominik",
       "es_ES": "Fibrilio",
+      "es_US": "Fibrilio",
       "fr_FR": "Bouloche",
       "fr_CA": "Bouloche",
       "it_IT": "Ovilio",
@@ -7583,7 +7583,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ00",
-    "Spanish (US)": "Belinda",
     "Russian": "Пинат",
     "ref": "Peanut",
     "localization": {
@@ -7591,6 +7590,7 @@
       "en_GB": "Peanut",
       "de_DE": "Paulina",
       "es_ES": "Belinda",
+      "es_US": "Belinda",
       "fr_FR": "Rachida",
       "fr_CA": "Rachida",
       "it_IT": "Rachele",
@@ -7604,7 +7604,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ01",
-    "Spanish (US)": "Azabache",
     "Russian": "Блер",
     "ref": "Blaire",
     "localization": {
@@ -7612,6 +7611,7 @@
       "en_GB": "Blaire",
       "de_DE": "Klara",
       "es_ES": "Azabache",
+      "es_US": "Azabache",
       "fr_FR": "Cachou",
       "fr_CA": "Cachou",
       "it_IT": "Ghianda",
@@ -7625,7 +7625,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ02",
-    "Spanish (US)": "Filberto",
     "Russian": "Филберт",
     "ref": "Filbert",
     "localization": {
@@ -7633,6 +7632,7 @@
       "en_GB": "Filbert",
       "de_DE": "Felix",
       "es_ES": "Filberto",
+      "es_US": "Filberto",
       "fr_FR": "Filibert",
       "fr_CA": "Filibert",
       "it_IT": "Scriccio",
@@ -7646,7 +7646,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ03",
-    "Spanish (US)": "Camila",
     "Russian": "Пекан",
     "ref": "Pecan",
     "localization": {
@@ -7654,6 +7653,7 @@
       "en_GB": "Pecan",
       "de_DE": "Noisette",
       "es_ES": "Camila",
+      "es_US": "Camila",
       "fr_FR": "Pécan",
       "fr_CA": "Pécan",
       "it_IT": "Nocina",
@@ -7667,7 +7667,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ04",
-    "Spanish (US)": "Dentina",
     "Russian": "Ниблз",
     "ref": "Nibbles",
     "localization": {
@@ -7675,6 +7674,7 @@
       "en_GB": "Nibbles",
       "de_DE": "Knuspi",
       "es_ES": "Dentina",
+      "es_US": "Dentina",
       "fr_FR": "Lola",
       "fr_CA": "Lola",
       "it_IT": "Rododea",
@@ -7688,7 +7688,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ05",
-    "Spanish (US)": "Fardilia",
     "Russian": "Агент",
     "ref": "Agent S",
     "localization": {
@@ -7696,6 +7695,7 @@
       "en_GB": "Agent S",
       "de_DE": "Karin",
       "es_ES": "Fardilia",
+      "es_US": "Fardilia",
       "fr_FR": "Ninjette",
       "fr_CA": "Ninjette",
       "it_IT": "Agente S",
@@ -7709,7 +7709,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ06",
-    "Spanish (US)": "Mariló",
     "Russian": "Каролин",
     "ref": "Caroline",
     "localization": {
@@ -7717,6 +7716,7 @@
       "en_GB": "Caroline",
       "de_DE": "Ricarda",
       "es_ES": "Mariló",
+      "es_US": "Mariló",
       "fr_FR": "Isabelle",
       "fr_CA": "Isabelle",
       "it_IT": "Carolina",
@@ -7730,7 +7730,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ07",
-    "Spanish (US)": "Praliné",
     "Russian": "Салли",
     "ref": "Sally",
     "localization": {
@@ -7738,6 +7737,7 @@
       "en_GB": "Sally",
       "de_DE": "Hanne",
       "es_ES": "Praliné",
+      "es_US": "Praliné",
       "fr_FR": "Damia",
       "fr_CA": "Damia",
       "it_IT": "Rossella",
@@ -7751,7 +7751,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ08",
-    "Spanish (US)": "Protón",
     "Russian": "Статик",
     "ref": "Static",
     "localization": {
@@ -7759,6 +7758,7 @@
       "en_GB": "Static",
       "de_DE": "Rudolf",
       "es_ES": "Protón",
+      "es_US": "Protón",
       "fr_FR": "Électro",
       "fr_CA": "Électro",
       "it_IT": "Protone",
@@ -7772,7 +7772,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ09",
-    "Spanish (US)": "Menta",
     "Russian": "Минт",
     "ref": "Mint",
     "localization": {
@@ -7780,6 +7779,7 @@
       "en_GB": "Mint",
       "de_DE": "Marika",
       "es_ES": "Menta",
+      "es_US": "Menta",
       "fr_FR": "Amande",
       "fr_CA": "Amande",
       "it_IT": "Mentulla",
@@ -7793,7 +7793,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ10",
-    "Spanish (US)": "Altramuz",
     "Russian": "Рики",
     "ref": "Ricky",
     "localization": {
@@ -7801,6 +7800,7 @@
       "en_GB": "Ricky",
       "de_DE": "Ronny",
       "es_ES": "Altramuz",
+      "es_US": "Altramuz",
       "fr_FR": "Rocky",
       "fr_CA": "Rocky",
       "it_IT": "Sberlo",
@@ -7814,7 +7814,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ11",
-    "Spanish (US)": "Almendra",
     "Russian": "Кэлли",
     "ref": "Cally",
     "localization": {
@@ -7822,6 +7821,7 @@
       "en_GB": "Cally",
       "de_DE": "Hörnchen",
       "es_ES": "Almendra",
+      "es_US": "Almendra",
       "fr_FR": "Célia",
       "fr_CA": "Célia",
       "it_IT": "Rosa",
@@ -7835,7 +7835,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ13",
-    "Spanish (US)": "Tania",
     "Russian": "Таш",
     "ref": "Tasha",
     "localization": {
@@ -7843,6 +7842,7 @@
       "en_GB": "Tasha",
       "de_DE": "Natalja",
       "es_ES": "Tania",
+      "es_US": "Tania",
       "fr_FR": "Nadeige",
       "fr_CA": "Nadeige",
       "it_IT": "Teresa",
@@ -7856,7 +7856,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ14",
-    "Spanish (US)": "Silvana",
     "Russian": "Сильван",
     "ref": "Sylvana",
     "localization": {
@@ -7864,6 +7863,7 @@
       "en_GB": "Sylvana",
       "de_DE": "Maren",
       "es_ES": "Silvana",
+      "es_US": "Silvana",
       "fr_FR": "Mounia",
       "fr_CA": "Mounia",
       "it_IT": "Silvana",
@@ -7877,7 +7877,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ15",
-    "Spanish (US)": "Encina",
     "Russian": "Поппи",
     "ref": "Poppy",
     "localization": {
@@ -7885,6 +7884,7 @@
       "en_GB": "Poppy",
       "de_DE": "Trita",
       "es_ES": "Encina",
+      "es_US": "Encina",
       "fr_FR": "Irène",
       "fr_CA": "Irène",
       "it_IT": "Granella",
@@ -7898,7 +7898,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ16",
-    "Spanish (US)": "Matracas",
     "Russian": "Шелдон",
     "ref": "Sheldon",
     "localization": {
@@ -7906,6 +7905,7 @@
       "en_GB": "Sheldon",
       "de_DE": "Steffen",
       "es_ES": "Matracas",
+      "es_US": "Matracas",
       "fr_FR": "Roy",
       "fr_CA": "Roy",
       "it_IT": "Frugolo",
@@ -7919,7 +7919,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ17",
-    "Spanish (US)": "Munchi",
     "Russian": "Маршал",
     "ref": "Marshal",
     "localization": {
@@ -7927,6 +7926,7 @@
       "en_GB": "Marshal",
       "de_DE": "Huschke",
       "es_ES": "Munchi",
+      "es_US": "Munchi",
       "fr_FR": "Mathéo",
       "fr_CA": "Mathéo",
       "it_IT": "Scott",
@@ -7940,7 +7940,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "squ18",
-    "Spanish (US)": "Anacarda",
     "Russian": "Хейзел",
     "ref": "Hazel",
     "localization": {
@@ -7948,6 +7947,7 @@
       "en_GB": "Hazel",
       "de_DE": "Nadine",
       "es_ES": "Anacarda",
+      "es_US": "Anacarda",
       "fr_FR": "Pamela",
       "fr_CA": "Pamela",
       "it_IT": "Cigliola",
@@ -7961,7 +7961,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig00",
-    "Spanish (US)": "Albino",
     "Russian": "Рольф",
     "ref": "Rolf",
     "localization": {
@@ -7969,6 +7968,7 @@
       "en_GB": "Rolf",
       "de_DE": "Boris",
       "es_ES": "Albino",
+      "es_US": "Albino",
       "fr_FR": "Ralf",
       "fr_CA": "Ralf",
       "it_IT": "Rolf",
@@ -7982,7 +7982,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig01",
-    "Spanish (US)": "Miguelón",
     "Russian": "Роуэн",
     "ref": "Rowan",
     "localization": {
@@ -7990,6 +7989,7 @@
       "en_GB": "Rowan",
       "de_DE": "Gisbert",
       "es_ES": "Miguelón",
+      "es_US": "Miguelón",
       "fr_FR": "Marito",
       "fr_CA": "Marito",
       "it_IT": "Ernesto",
@@ -8003,7 +8003,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig02",
-    "Spanish (US)": "Teobaldo",
     "Russian": "Тибальт",
     "ref": "Tybalt",
     "localization": {
@@ -8011,6 +8010,7 @@
       "en_GB": "Tybalt",
       "de_DE": "Arne",
       "es_ES": "Teobaldo",
+      "es_US": "Teobaldo",
       "fr_FR": "Jeff",
       "fr_CA": "Jeff",
       "it_IT": "Ubaldo",
@@ -8024,7 +8024,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig03",
-    "Spanish (US)": "Felina",
     "Russian": "Бэнгл",
     "ref": "Bangle",
     "localization": {
@@ -8032,6 +8031,7 @@
       "en_GB": "Bangle",
       "de_DE": "Tamara",
       "es_ES": "Felina",
+      "es_US": "Felina",
       "fr_FR": "Bengale",
       "fr_CA": "Bengale",
       "it_IT": "Tigrizia",
@@ -8045,7 +8045,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig04",
-    "Spanish (US)": "Leocadio",
     "Russian": "Леонардо",
     "ref": "Leonardo",
     "localization": {
@@ -8053,6 +8052,7 @@
       "en_GB": "Leonardo",
       "de_DE": "Tim",
       "es_ES": "Leocadio",
+      "es_US": "Leocadio",
       "fr_FR": "Dolph",
       "fr_CA": "Dolph",
       "it_IT": "Bengalo",
@@ -8066,7 +8066,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig05",
-    "Spanish (US)": "Lilu",
     "Russian": "Клауди",
     "ref": "Claudia",
     "localization": {
@@ -8074,6 +8073,7 @@
       "en_GB": "Claudia",
       "de_DE": "Lilly",
       "es_ES": "Lilu",
+      "es_US": "Lilu",
       "fr_FR": "Vanina",
       "fr_CA": "Vanina",
       "it_IT": "Lilla",
@@ -8087,7 +8087,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "tig06",
-    "Spanish (US)": "Bianca",
     "Russian": "Бьянк",
     "ref": "Bianca",
     "localization": {
@@ -8095,6 +8094,7 @@
       "en_GB": "Bianca",
       "de_DE": "Bettina",
       "es_ES": "Bianca",
+      "es_US": "Bianca",
       "fr_FR": "Noémie",
       "fr_CA": "Noémie",
       "it_IT": "Grattina",
@@ -8108,7 +8108,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol00",
-    "Spanish (US)": "Zoilo",
     "Russian": "Чиф",
     "ref": "Chief",
     "localization": {
@@ -8116,6 +8115,7 @@
       "en_GB": "Chief",
       "de_DE": "Sascha",
       "es_ES": "Zoilo",
+      "es_US": "Zoilo",
       "fr_FR": "Chef",
       "fr_CA": "Chef",
       "it_IT": "Artiglio",
@@ -8129,7 +8129,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol01",
-    "Spanish (US)": "Lupo",
     "Russian": "Лобо",
     "ref": "Lobo",
     "localization": {
@@ -8137,6 +8136,7 @@
       "en_GB": "Lobo",
       "de_DE": "Lupo",
       "es_ES": "Lupo",
+      "es_US": "Lupo",
       "fr_FR": "Lobo",
       "fr_CA": "Lobo",
       "it_IT": "Lupen",
@@ -8150,7 +8150,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol02",
-    "Spanish (US)": "Wolfi",
     "Russian": "Вольфи",
     "ref": "Wolfgang",
     "localization": {
@@ -8158,6 +8157,7 @@
       "en_GB": "Wolfgang",
       "de_DE": "Weber",
       "es_ES": "Wolfi",
+      "es_US": "Wolfi",
       "fr_FR": "Wolfgang",
       "fr_CA": "Wolfgang",
       "it_IT": "Wolfgang",
@@ -8171,7 +8171,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol03",
-    "Spanish (US)": "Lupe",
     "Russian": "Уитни",
     "ref": "Whitney",
     "localization": {
@@ -8179,6 +8178,7 @@
       "en_GB": "Whitney",
       "de_DE": "Lupa",
       "es_ES": "Lupe",
+      "es_US": "Lupe",
       "fr_FR": "Blanche",
       "fr_CA": "Blanche",
       "it_IT": "Bianca",
@@ -8192,7 +8192,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol04",
-    "Spanish (US)": "Germán",
     "Russian": "Доби",
     "ref": "Dobie",
     "localization": {
@@ -8200,6 +8199,7 @@
       "en_GB": "Dobie",
       "de_DE": "Sigmund",
       "es_ES": "Germán",
+      "es_US": "Germán",
       "fr_FR": "Loupiot",
       "fr_CA": "Loupiot",
       "it_IT": "Sigmund",
@@ -8213,7 +8213,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol05",
-    "Spanish (US)": "Lupita",
     "Russian": "Фре",
     "ref": "Freya",
     "localization": {
@@ -8221,6 +8220,7 @@
       "en_GB": "Freya",
       "de_DE": "Freya",
       "es_ES": "Lupita",
+      "es_US": "Lupita",
       "fr_FR": "Luppa",
       "fr_CA": "Luppa",
       "it_IT": "Freya",
@@ -8234,7 +8234,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol06",
-    "Spanish (US)": "Colmillo",
     "Russian": "Фанг",
     "ref": "Fang",
     "localization": {
@@ -8242,6 +8241,7 @@
       "en_GB": "Fang",
       "de_DE": "Grimm",
       "es_ES": "Colmillo",
+      "es_US": "Colmillo",
       "fr_FR": "Pierrot",
       "fr_CA": "Pierrot",
       "it_IT": "Zanna",
@@ -8255,7 +8255,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol08",
-    "Spanish (US)": "Viviana",
     "Russian": "Вивьен",
     "ref": "Vivian",
     "localization": {
@@ -8263,6 +8262,7 @@
       "en_GB": "Vivian",
       "de_DE": "Viviane",
       "es_ES": "Viviana",
+      "es_US": "Viviana",
       "fr_FR": "Viviane",
       "fr_CA": "Viviane",
       "it_IT": "Viviana",
@@ -8276,7 +8276,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol09",
-    "Spanish (US)": "Alderia",
     "Russian": "Скай",
     "ref": "Skye",
     "localization": {
@@ -8284,6 +8283,7 @@
       "en_GB": "Skye",
       "de_DE": "Sabine",
       "es_ES": "Alderia",
+      "es_US": "Alderia",
       "fr_FR": "Marilou",
       "fr_CA": "Marilou",
       "it_IT": "Lupilla",
@@ -8297,7 +8297,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol10",
-    "Spanish (US)": "Ataúlfo",
     "Russian": "Кайл",
     "ref": "Kyle",
     "localization": {
@@ -8305,6 +8304,7 @@
       "en_GB": "Kyle",
       "de_DE": "Wolfgang",
       "es_ES": "Ataúlfo",
+      "es_US": "Ataúlfo",
       "fr_FR": "Gary",
       "fr_CA": "Gary",
       "it_IT": "Ululo",
@@ -8318,7 +8318,6 @@
   {
     "SourceSheet": "Villagers",
     "id": "wol12",
-    "Spanish (US)": "Mónica",
     "Russian": "Оди",
     "ref": "Audie",
     "localization": {
@@ -8326,6 +8325,7 @@
       "en_GB": "Audie",
       "de_DE": "Katharina",
       "es_ES": "Mónica",
+      "es_US": "Mónica",
       "fr_FR": "Monica",
       "fr_CA": "Monica",
       "it_IT": "Lupilia",

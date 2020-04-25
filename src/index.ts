@@ -1,8 +1,7 @@
 import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
-import {camelCase, isEqual, omit, pick, zipObject} from 'lodash';
-import {addMinutes, format, parse} from 'date-fns';
+import {zipObject} from 'lodash';
 
 const SHEET_ID = '1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk';
 
@@ -11,6 +10,7 @@ const LOCALE = [
   {name: 'English (Europe)', iso: 'en_GB'},
   {name: 'German', iso: 'de_DE'},
   {name: 'Spanish', iso: 'es_ES'},
+  {name: 'Spanish (US)', iso: 'es_US'},
   {name: 'French', iso: 'fr_FR'},
   {name: 'French (US)', iso: 'fr_CA'},
   {name: 'Italian', iso: 'it_IT'},
