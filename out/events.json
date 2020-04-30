@@ -1,0 +1,296 @@
+[
+  {
+    "SourceSheet": "Events",
+    "id": "Countdown",
+    "ref": "Countdown",
+    "localization": {
+      "en_US": "Countdown",
+      "en_GB": "Countdown",
+      "de_DE": "Countdown",
+      "es_ES": "cuenta atrás",
+      "es_US": "Cuenta regresiva",
+      "fr_FR": "Compte à rebours",
+      "fr_CA": "Compte à rebours",
+      "it_IT": "Conto alla rovescia",
+      "nl_NL": "Aftellen",
+      "zh_CN": "倒数",
+      "zh_TW": "倒數",
+      "ja_JP": "カウントダウン",
+      "ko_KR": "카운트다운",
+      "ru_RU": "Отсчет"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "FathersDay",
+    "ref": "Father's Day",
+    "localization": {
+      "en_US": "Father's Day",
+      "en_GB": "Father's Day",
+      "de_DE": "Vatertag",
+      "es_ES": "Día del Padre",
+      "es_US": "Día del Padre",
+      "fr_FR": "Fête des pères",
+      "fr_CA": "Fête des pères",
+      "it_IT": "Festa del papà",
+      "nl_NL": "Vaderdag",
+      "zh_CN": "父亲节",
+      "zh_TW": "世界父親節",
+      "ja_JP": "ちち父のひ日",
+      "ko_KR": "아버지날",
+      "ru_RU": "День отца"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "FishingConventionAutumn",
+    "ref": "Fall Fishing Tourney",
+    "localization": {
+      "en_US": "Fall Fishing Tourney",
+      "en_GB": "Fall Fishing Tourney",
+      "de_DE": "Herbst-Angelturnier",
+      "es_ES": "T. de Pesca de otoño",
+      "es_US": "T. de Pesca de otoño",
+      "fr_FR": "Tournoi de pêche (automne)",
+      "fr_CA": "Tournoi de pêche (automne)",
+      "it_IT": "Torneo di pesca autunnale",
+      "nl_NL": "Herfstvistoernooi",
+      "zh_CN": "秋季钓鱼大赛",
+      "zh_TW": "秋季釣魚大會",
+      "ja_JP": "あき秋のつ釣りたいかい大会",
+      "ko_KR": "가을 낚시대회",
+      "ru_RU": "Осенний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "FishingConventionSpring",
+    "ref": "Spring Fishing Tourney",
+    "localization": {
+      "en_US": "Spring Fishing Tourney",
+      "en_GB": "Spring Fishing Tourney",
+      "de_DE": "Frühlings-Angelturnier",
+      "es_ES": "T. de Pesca de primavera",
+      "es_US": "T. de Pesca de primavera",
+      "fr_FR": "Tournoi pêche (printemps)",
+      "fr_CA": "Tournoi pêche (printemps)",
+      "it_IT": "Torneo di pesca primaverile",
+      "nl_NL": "Lentevistoernooi",
+      "zh_CN": "春季钓鱼大赛",
+      "zh_TW": "春季釣魚大會",
+      "ja_JP": "はる春のつ釣りたいかい大会",
+      "ko_KR": "봄 낚시대회",
+      "ru_RU": "Весенний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "FishingConventionSummer",
+    "ref": "Summer Fishing Tourney",
+    "localization": {
+      "en_US": "Summer Fishing Tourney",
+      "en_GB": "Summer Fishing Tourney",
+      "de_DE": "Sommer-Angelturnier",
+      "es_ES": "T. de Pesca de verano",
+      "es_US": "T. de Pesca de verano",
+      "fr_FR": "Tournoi de pêche (été)",
+      "fr_CA": "Tournoi de pêche (été)",
+      "it_IT": "Torneo di pesca estivo",
+      "nl_NL": "Zomervistoernooi",
+      "zh_CN": "夏季钓鱼大赛",
+      "zh_TW": "夏季釣魚大會",
+      "ja_JP": "なつ夏のつ釣りたいかい大会",
+      "ko_KR": "여름 낚시대회",
+      "ru_RU": "Летний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "FishingConventionWinter",
+    "ref": "Winter Fishing Tourney",
+    "localization": {
+      "en_US": "Winter Fishing Tourney",
+      "en_GB": "Winter Fishing Tourney",
+      "de_DE": "Winter-Angelturnier",
+      "es_ES": "T. de Pesca de invierno",
+      "es_US": "T. de Pesca de invierno",
+      "fr_FR": "Tournoi de pêche (hiver)",
+      "fr_CA": "Tournoi de pêche (hiver)",
+      "it_IT": "Torneo di pesca invernale",
+      "nl_NL": "Wintervistoernooi",
+      "zh_CN": "冬季钓鱼大赛",
+      "zh_TW": "冬季釣魚大會",
+      "ja_JP": "ふゆ冬のつ釣りたいかい大会",
+      "ko_KR": "겨울 낚시대회",
+      "ru_RU": "Зимний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "InsectConvention1",
+    "ref": "Bug-Off",
+    "localization": {
+      "en_US": "Bug-Off",
+      "en_GB": "Bug-Off",
+      "de_DE": "Insektikus-Turnier",
+      "es_ES": "Caza de Bichos",
+      "es_US": "Caza de Insectos",
+      "fr_FR": "Insectosafari",
+      "fr_CA": "Insectosafari",
+      "it_IT": "Insettomania",
+      "nl_NL": "Beestjesbeker",
+      "zh_CN": "捕虫大赛",
+      "zh_TW": "捕蟲大會",
+      "ja_JP": "ムシとりたいかい大会",
+      "ko_KR": "곤충채집대회",
+      "ru_RU": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "InsectConvention2",
+    "ref": "Bug-Off",
+    "localization": {
+      "en_US": "Bug-Off",
+      "en_GB": "Bug-Off",
+      "de_DE": "Insektikus-Turnier",
+      "es_ES": "Caza de Bichos",
+      "es_US": "Caza de Insectos",
+      "fr_FR": "Insectosafari",
+      "fr_CA": "Insectosafari",
+      "it_IT": "Insettomania",
+      "nl_NL": "Beestjesbeker",
+      "zh_CN": "捕虫大赛",
+      "zh_TW": "捕蟲大會",
+      "ja_JP": "ムシとりたいかい大会",
+      "ko_KR": "곤충채집대회",
+      "ru_RU": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "InsectConvention3",
+    "ref": "Bug-Off",
+    "localization": {
+      "en_US": "Bug-Off",
+      "en_GB": "Bug-Off",
+      "de_DE": "Insektikus-Turnier",
+      "es_ES": "Caza de Bichos",
+      "es_US": "Caza de Insectos",
+      "fr_FR": "Insectosafari",
+      "fr_CA": "Insectosafari",
+      "it_IT": "Insettomania",
+      "nl_NL": "Beestjesbeker",
+      "zh_CN": "捕虫大赛",
+      "zh_TW": "捕蟲大會",
+      "ja_JP": "ムシとりたいかい大会",
+      "ko_KR": "곤충채집대회",
+      "ru_RU": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "InsectConvention4",
+    "ref": "Bug-Off",
+    "localization": {
+      "en_US": "Bug-Off",
+      "en_GB": "Bug-Off",
+      "de_DE": "Insektikus-Turnier",
+      "es_ES": "Caza de Bichos",
+      "es_US": "Caza de Insectos",
+      "fr_FR": "Insectosafari",
+      "fr_CA": "Insectosafari",
+      "it_IT": "Insettomania",
+      "nl_NL": "Beestjesbeker",
+      "zh_CN": "捕虫大赛",
+      "zh_TW": "捕蟲大會",
+      "ja_JP": "ムシとりたいかい大会",
+      "ko_KR": "곤충채집대회",
+      "ru_RU": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "MothersDay",
+    "ref": "Mother's Day",
+    "localization": {
+      "en_US": "Mother's Day",
+      "en_GB": "Mother's Day",
+      "de_DE": "Muttertag",
+      "es_ES": "Día de la Madre",
+      "es_US": "Día de la Madre",
+      "fr_FR": "Fête des mères",
+      "fr_CA": "Fête des mères",
+      "it_IT": "Festa della mamma",
+      "nl_NL": "Moederdag",
+      "zh_CN": "母亲节",
+      "zh_TW": "母親節",
+      "ja_JP": "はは母のひ日",
+      "ko_KR": "어머니날",
+      "ru_RU": "День матери"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "SummerSolstice",
+    "ref": "Summer Solstice",
+    "localization": {
+      "en_US": "Summer Solstice",
+      "en_GB": "Summer Solstice",
+      "de_DE": "Sommersonnenwende",
+      "es_ES": "Solsticio de verano",
+      "es_US": "Solsticio de verano",
+      "fr_FR": "Solstice d'été",
+      "fr_CA": "Solstice d'été",
+      "it_IT": "Solstizio d'estate",
+      "nl_NL": "Midzomer",
+      "zh_CN": "夏至祭典",
+      "zh_TW": "夏至祭典",
+      "ja_JP": "げしさい夏至祭",
+      "ko_KR": "하지",
+      "ru_RU": "Праздник лета"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "WinterSolstice",
+    "ref": "Winter Solstice",
+    "localization": {
+      "en_US": "Winter Solstice",
+      "en_GB": "Winter Solstice",
+      "de_DE": "Wintersonnenwende",
+      "es_ES": "Solsticio de invierno",
+      "es_US": "Solsticio de invierno",
+      "fr_FR": "Solstice d'hiver",
+      "fr_CA": "Solstice d'hiver",
+      "it_IT": "Solstizio d'inverno",
+      "nl_NL": "Midwinter",
+      "zh_CN": "冬至祭典",
+      "zh_TW": "冬至祭典",
+      "ja_JP": "とうじさい冬至祭",
+      "ko_KR": "동지",
+      "ru_RU": "Праздник зимы"
+    }
+  },
+  {
+    "SourceSheet": "Events",
+    "id": "WorldChild",
+    "ref": "International Children's Day",
+    "localization": {
+      "en_US": "International Children's Day",
+      "en_GB": "International Children's Day",
+      "de_DE": "Weltweiter Tag der Kinder",
+      "es_ES": "Día de la Infancia",
+      "es_US": "Día de la Infancia",
+      "fr_FR": "Jour mondial des enfants",
+      "fr_CA": "Jour mondial des enfants",
+      "it_IT": "Giorno mondiale dei bambini",
+      "nl_NL": "Internationale Kinderdag",
+      "zh_CN": "国际儿童节",
+      "zh_TW": "國際兒童節",
+      "ja_JP": "こくさい国際こどものひ日",
+      "ko_KR": "국제 어린이날",
+      "ru_RU": "Всемирный день детей"
+    }
+  }
+]

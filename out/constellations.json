@@ -1,0 +1,254 @@
+[
+  {
+    "SourceSheet": "Constellations",
+    "id": 1,
+    "ref": "Capricorn",
+    "localization": {
+      "en_US": "Capricorn",
+      "en_GB": "Capricorn",
+      "de_DE": "Steinbock",
+      "es_ES": "capricornio",
+      "es_US": "capricornio",
+      "fr_FR": "Capricorne",
+      "fr_CA": "Capricorne",
+      "it_IT": "Capricorno",
+      "nl_NL": "Steenbok",
+      "zh_CN": "摩羯座",
+      "zh_TW": "魔羯座",
+      "ja_JP": "やぎ",
+      "ko_KR": "염소",
+      "ru_RU": "Козерог"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 2,
+    "ref": "Aquarius",
+    "localization": {
+      "en_US": "Aquarius",
+      "en_GB": "Aquarius",
+      "de_DE": "Wassermann",
+      "es_ES": "acuario",
+      "es_US": "acuario",
+      "fr_FR": "Verseau",
+      "fr_CA": "Verseau",
+      "it_IT": "Acquario",
+      "nl_NL": "Waterman",
+      "zh_CN": "水瓶座",
+      "zh_TW": "水瓶座",
+      "ja_JP": "みずがめ",
+      "ko_KR": "물병",
+      "ru_RU": "Водолей"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 3,
+    "ref": "Pisces",
+    "localization": {
+      "en_US": "Pisces",
+      "en_GB": "Pisces",
+      "de_DE": "Fische",
+      "es_ES": "piscis",
+      "es_US": "piscis",
+      "fr_FR": "Poissons",
+      "fr_CA": "Poissons",
+      "it_IT": "Pesci",
+      "nl_NL": "Vissen",
+      "zh_CN": "双鱼座",
+      "zh_TW": "雙魚座",
+      "ja_JP": "うお",
+      "ko_KR": "물고기",
+      "ru_RU": "Рыбы"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 4,
+    "ref": "Aries",
+    "localization": {
+      "en_US": "Aries",
+      "en_GB": "Aries",
+      "de_DE": "Widder",
+      "es_ES": "aries",
+      "es_US": "aries",
+      "fr_FR": "Bélier",
+      "fr_CA": "Bélier",
+      "it_IT": "Ariete",
+      "nl_NL": "Ram",
+      "zh_CN": "白羊座",
+      "zh_TW": "牡羊座",
+      "ja_JP": "おひつじ",
+      "ko_KR": "양",
+      "ru_RU": "Овен"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 5,
+    "ref": "Taurus",
+    "localization": {
+      "en_US": "Taurus",
+      "en_GB": "Taurus",
+      "de_DE": "Stier",
+      "es_ES": "tauro",
+      "es_US": "tauro",
+      "fr_FR": "Taureau",
+      "fr_CA": "Taureau",
+      "it_IT": "Toro",
+      "nl_NL": "Stier",
+      "zh_CN": "金牛座",
+      "zh_TW": "金牛座",
+      "ja_JP": "おうし",
+      "ko_KR": "황소",
+      "ru_RU": "Телец"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 6,
+    "ref": "Gemini",
+    "localization": {
+      "en_US": "Gemini",
+      "en_GB": "Gemini",
+      "de_DE": "Zwillinge",
+      "es_ES": "géminis",
+      "es_US": "géminis",
+      "fr_FR": "Gémeaux",
+      "fr_CA": "Gémeaux",
+      "it_IT": "Gemelli",
+      "nl_NL": "Tweelingen",
+      "zh_CN": "双子座",
+      "zh_TW": "雙子座",
+      "ja_JP": "ふたご",
+      "ko_KR": "쌍둥이",
+      "ru_RU": "Близнецы"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 7,
+    "ref": "Cancer",
+    "localization": {
+      "en_US": "Cancer",
+      "en_GB": "Cancer",
+      "de_DE": "Krebs",
+      "es_ES": "cáncer",
+      "es_US": "cáncer",
+      "fr_FR": "Cancer",
+      "fr_CA": "Cancer",
+      "it_IT": "Cancro",
+      "nl_NL": "Kreeft",
+      "zh_CN": "巨蟹座",
+      "zh_TW": "巨蟹座",
+      "ja_JP": "かに",
+      "ko_KR": "게",
+      "ru_RU": "Рак"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 8,
+    "ref": "Leo",
+    "localization": {
+      "en_US": "Leo",
+      "en_GB": "Leo",
+      "de_DE": "Löwe",
+      "es_ES": "leo",
+      "es_US": "leo",
+      "fr_FR": "Lion",
+      "fr_CA": "Lion",
+      "it_IT": "Leone",
+      "nl_NL": "Leeuw",
+      "zh_CN": "狮子座",
+      "zh_TW": "獅子座",
+      "ja_JP": "しし",
+      "ko_KR": "사자",
+      "ru_RU": "Лев"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 9,
+    "ref": "Virgo",
+    "localization": {
+      "en_US": "Virgo",
+      "en_GB": "Virgo",
+      "de_DE": "Jungfrau",
+      "es_ES": "virgo",
+      "es_US": "virgo",
+      "fr_FR": "Vierge",
+      "fr_CA": "Vierge",
+      "it_IT": "Vergine",
+      "nl_NL": "Maagd",
+      "zh_CN": "处女座",
+      "zh_TW": "處女座",
+      "ja_JP": "おとめ",
+      "ko_KR": "처녀",
+      "ru_RU": "Дева"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 10,
+    "ref": "Libra",
+    "localization": {
+      "en_US": "Libra",
+      "en_GB": "Libra",
+      "de_DE": "Waage",
+      "es_ES": "libra",
+      "es_US": "libra",
+      "fr_FR": "Balance",
+      "fr_CA": "Balance",
+      "it_IT": "Bilancia",
+      "nl_NL": "Weegschaal",
+      "zh_CN": "天秤座",
+      "zh_TW": "天秤座",
+      "ja_JP": "てんびん",
+      "ko_KR": "천칭",
+      "ru_RU": "Весы"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 11,
+    "ref": "Scorpio",
+    "localization": {
+      "en_US": "Scorpio",
+      "en_GB": "Scorpio",
+      "de_DE": "Skorpion",
+      "es_ES": "escorpio",
+      "es_US": "escorpio",
+      "fr_FR": "Scorpion",
+      "fr_CA": "Scorpion",
+      "it_IT": "Scorpione",
+      "nl_NL": "Schorpioen",
+      "zh_CN": "天蝎座",
+      "zh_TW": "天蠍座",
+      "ja_JP": "さそり",
+      "ko_KR": "전갈",
+      "ru_RU": "Скорпион"
+    }
+  },
+  {
+    "SourceSheet": "Constellations",
+    "id": 12,
+    "ref": "Sagittarius",
+    "localization": {
+      "en_US": "Sagittarius",
+      "en_GB": "Sagittarius",
+      "de_DE": "Schütze",
+      "es_ES": "sagitario",
+      "es_US": "sagitario",
+      "fr_FR": "Sagittaire",
+      "fr_CA": "Sagittaire",
+      "it_IT": "Sagittario",
+      "nl_NL": "Boogschutter",
+      "zh_CN": "射手座",
+      "zh_TW": "射手座",
+      "ja_JP": "いて",
+      "ko_KR": "사수",
+      "ru_RU": "Стрелец"
+    }
+  }
+]
