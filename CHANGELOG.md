@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.4...v0.3.0) (2020-04-30)
+
+
+### Features
+
+* **locale:ru_ru:** add all russians translations ([292d1ce](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/292d1ced93983c2f3354c1555e4427b1f7aa40c7))
+
 ### [0.2.4](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.3...v0.2.4) (2020-04-25)
 
 
