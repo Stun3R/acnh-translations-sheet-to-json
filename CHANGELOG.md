@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.3.0...v0.4.0) (2020-04-30)
+
+
+### Features
+
+* **sheets:new:** add lot of new data from sheets ([a906f1a](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/a906f1a1fc9baf7589050d630c4fc85253243b33))
+
 ## [0.3.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.2.4...v0.3.0) (2020-04-30)
 
 
