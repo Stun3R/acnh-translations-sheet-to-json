@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyCardboard_04645",
+    "version": "1.0.0",
     "ref": "delivery",
     "localization": {
       "en_US": "delivery",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyDIYRecipe_09046",
+    "version": "1.0.0",
     "ref": "Vaulting Pole Recipe",
     "localization": {
       "en_US": "Vaulting Pole Recipe",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyDIYRecipe_09047",
+    "version": "1.0.0",
     "ref": "Flimsy Shovel Recipe",
     "localization": {
       "en_US": "Flimsy Shovel Recipe",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyDIYRecipe_09048",
+    "version": "1.0.0",
     "ref": "Flimsy Watering Can Recipe",
     "localization": {
       "en_US": "Flimsy Watering Can Recipe",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyDIYRecipe_10309",
+    "version": "1.0.0",
     "ref": "Slingshot Recipe",
     "localization": {
       "en_US": "Slingshot Recipe",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyDIYRecipe_12294",
+    "version": "1.0.0",
     "ref": "Flimsy Axe Recipe",
     "localization": {
       "en_US": "Flimsy Axe Recipe",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyDIYRecipe_12327",
+    "version": "1.0.0",
     "ref": "Ladder Recipe",
     "localization": {
       "en_US": "Ladder Recipe",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_09049",
+    "version": "1.0.0",
     "ref": "Top 8 Pop Hairstyles",
     "localization": {
       "en_US": "Top 8 Pop Hairstyles",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_09050",
+    "version": "1.0.0",
     "ref": "Top 8 Cool Hairstyles",
     "localization": {
       "en_US": "Top 8 Cool Hairstyles",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_09051",
+    "version": "1.0.0",
     "ref": "Top 8 Stylish Hair Colors",
     "localization": {
       "en_US": "Top 8 Stylish Hair Colors",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_09052",
+    "version": "1.0.0",
     "ref": "Pocket Organization Guide",
     "localization": {
       "en_US": "Pocket Organization Guide",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_09221",
+    "version": "1.0.0",
     "ref": "Pretty Good Tools Recipes",
     "localization": {
       "en_US": "Pretty Good Tools Recipes",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_09616",
+    "version": "1.0.0",
     "ref": "Tool Ring: It's Essential!",
     "localization": {
       "en_US": "Tool Ring: It's Essential!",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_11140",
+    "version": "1.0.0",
     "ref": "Ultimate Pocket Stuffing",
     "localization": {
       "en_US": "Ultimate Pocket Stuffing",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyHowtoBook_12185",
+    "version": "1.0.0",
     "ref": "Custom Design Pro Editor",
     "localization": {
       "en_US": "Custom Design Pro Editor",
@@ -315,8 +330,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyPresentbox_04480",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -336,8 +352,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyRecipe_02695",
+    "version": "1.0.0",
     "ref": "ダミーDIYレシピ",
     "localization": {
       "en_US": "ダミーDIYレシピ",
@@ -357,8 +374,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyRecipe_05603",
+    "version": "1.0.0",
     "ref": "DIY for Beginners",
     "localization": {
       "en_US": "DIY for Beginners",
@@ -378,8 +396,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyRecipe_05604",
+    "version": "1.0.0",
     "ref": "Test Your DIY Skills",
     "localization": {
       "en_US": "Test Your DIY Skills",
@@ -399,8 +418,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyRecipe_05605",
+    "version": "1.0.0",
     "ref": "Wildest Dreams DIY",
     "localization": {
       "en_US": "Wildest Dreams DIY",
@@ -420,8 +440,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07699",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -441,8 +462,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07700",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -462,8 +484,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07701",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -483,8 +506,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07702",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -504,8 +528,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07703",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -525,8 +550,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07704",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -546,8 +572,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07705",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -567,8 +594,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07706",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -588,8 +616,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07707",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -609,8 +638,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07708",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -630,8 +660,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07709",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -651,8 +682,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07710",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -672,8 +704,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07711",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -693,8 +726,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07712",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -714,8 +748,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07713",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -735,8 +770,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "DummyWrapping_07714",
+    "version": "1.0.0",
     "ref": "present",
     "localization": {
       "en_US": "present",
@@ -756,8 +792,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "FishBait_04549",
+    "version": "1.0.0",
     "ref": "fish bait",
     "localization": {
       "en_US": "fish bait",
@@ -777,8 +814,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "FishBait_04549_pl",
+    "version": "1.0.0",
     "ref": "fish bait",
     "localization": {
       "en_US": "fish bait",
@@ -798,8 +836,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Honeycomb_03263",
+    "version": "1.0.0",
     "ref": "wasp nest",
     "localization": {
       "en_US": "wasp nest",
@@ -819,8 +858,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Honeycomb_03263_pl",
+    "version": "1.0.0",
     "ref": "wasp nests",
     "localization": {
       "en_US": "wasp nests",
@@ -840,8 +880,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_02750",
+    "version": "1.0.0",
     "ref": "tent",
     "localization": {
       "en_US": "tent",
@@ -861,8 +902,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_02755",
+    "version": "1.0.0",
     "ref": "Blathers's tent marker",
     "localization": {
       "en_US": "Blathers's tent marker",
@@ -882,8 +924,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_02756",
+    "version": "1.0.0",
     "ref": "shop construction kit",
     "localization": {
       "en_US": "shop construction kit",
@@ -903,8 +946,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_02757",
+    "version": "1.0.0",
     "ref": "s tent",
     "localization": {
       "en_US": "s tent",
@@ -924,8 +968,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_03349",
+    "version": "1.0.0",
     "ref": "housing kit",
     "localization": {
       "en_US": "housing kit",
@@ -945,8 +990,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_04311",
+    "version": "1.0.0",
     "ref": "incline marker kit",
     "localization": {
       "en_US": "incline marker kit",
@@ -966,8 +1012,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_04411",
+    "version": "1.0.0",
     "ref": "tailors construction kit",
     "localization": {
       "en_US": "tailors construction kit",
@@ -987,8 +1034,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_05166",
+    "version": "1.0.0",
     "ref": "campsite construction kit",
     "localization": {
       "en_US": "campsite construction kit",
@@ -1008,8 +1056,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_05357",
+    "version": "1.0.0",
     "ref": "s kit",
     "localization": {
       "en_US": "s kit",
@@ -1029,8 +1078,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_05358",
+    "version": "1.0.0",
     "ref": "moving kit",
     "localization": {
       "en_US": "moving kit",
@@ -1050,8 +1100,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_05359",
+    "version": "1.0.0",
     "ref": "tailors moving kit",
     "localization": {
       "en_US": "tailors moving kit",
@@ -1071,8 +1122,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_05360",
+    "version": "1.0.0",
     "ref": "shop moving kit",
     "localization": {
       "en_US": "shop moving kit",
@@ -1092,8 +1144,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_05361",
+    "version": "1.0.0",
     "ref": "museum moving kit",
     "localization": {
       "en_US": "museum moving kit",
@@ -1113,8 +1166,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKit_06841",
+    "version": "1.0.0",
     "ref": "campsite moving kit",
     "localization": {
       "en_US": "campsite moving kit",
@@ -1134,8 +1188,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKitBirdge_04310",
+    "version": "1.0.0",
     "ref": "bridge marker kit",
     "localization": {
       "en_US": "bridge marker kit",
@@ -1155,8 +1210,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKitBirdge_07211",
+    "version": "1.0.0",
     "ref": "bridge construction kit",
     "localization": {
       "en_US": "bridge construction kit",
@@ -1176,8 +1232,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKitRcoQuest_05827",
+    "version": "1.0.0",
     "ref": "plot 1 housing kit",
     "localization": {
       "en_US": "plot 1 housing kit",
@@ -1197,8 +1254,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKitRcoQuest_05828",
+    "version": "1.0.0",
     "ref": "plot 2 housing kit",
     "localization": {
       "en_US": "plot 2 housing kit",
@@ -1218,8 +1276,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "HousingKitRcoQuest_05829",
+    "version": "1.0.0",
     "ref": "plot 3 housing kit",
     "localization": {
       "en_US": "plot 3 housing kit",
@@ -1239,8 +1298,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08773",
+    "version": "1.0.0",
     "ref": "stone path permit",
     "localization": {
       "en_US": "stone path permit",
@@ -1260,8 +1320,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08774",
+    "version": "1.0.0",
     "ref": "brick path permit",
     "localization": {
       "en_US": "brick path permit",
@@ -1281,8 +1342,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08775",
+    "version": "1.0.0",
     "ref": "dark dirt path permit",
     "localization": {
       "en_US": "dark dirt path permit",
@@ -1302,8 +1364,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08776",
+    "version": "1.0.0",
     "ref": "arched tile path permit",
     "localization": {
       "en_US": "arched tile path permit",
@@ -1323,8 +1386,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08777",
+    "version": "1.0.0",
     "ref": "sand path permit",
     "localization": {
       "en_US": "sand path permit",
@@ -1344,8 +1408,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08778",
+    "version": "1.0.0",
     "ref": "terra-cotta tile permit",
     "localization": {
       "en_US": "terra-cotta tile permit",
@@ -1365,8 +1430,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08779",
+    "version": "1.0.0",
     "ref": "wooden path permit",
     "localization": {
       "en_US": "wooden path permit",
@@ -1386,8 +1452,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08780",
+    "version": "1.0.0",
     "ref": "waterscaping permit",
     "localization": {
       "en_US": "waterscaping permit",
@@ -1407,8 +1474,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_08781",
+    "version": "1.0.0",
     "ref": "cliff construction permit",
     "localization": {
       "en_US": "cliff construction permit",
@@ -1428,8 +1496,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "LicenseItem_09771",
+    "version": "1.0.0",
     "ref": "custom design path permit",
     "localization": {
       "en_US": "custom design path permit",
@@ -1449,8 +1518,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Medicine_02777",
+    "version": "1.0.0",
     "ref": "medicine",
     "localization": {
       "en_US": "medicine",
@@ -1470,8 +1540,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Medicine_02777_pl",
+    "version": "1.0.0",
     "ref": "medicine",
     "localization": {
       "en_US": "medicine",
@@ -1491,8 +1562,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "MessageBottle_05793",
+    "version": "1.0.0",
     "ref": "message bottle",
     "localization": {
       "en_US": "message bottle",
@@ -1512,8 +1584,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "MessageBottle_12544",
+    "version": "1.0.0",
     "ref": "egg message bottle",
     "localization": {
       "en_US": "egg message bottle",
@@ -1533,8 +1606,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "MilePlaneTicket_05851",
+    "version": "1.0.0",
     "ref": "Nook Miles Ticket",
     "localization": {
       "en_US": "Nook Miles Ticket",
@@ -1554,8 +1628,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "MilePlaneTicket_05851_pl",
+    "version": "1.0.0",
     "ref": "Nook Miles Tickets",
     "localization": {
       "en_US": "Nook Miles Tickets",
@@ -1575,8 +1650,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "MilePlaneTicket_09964",
+    "version": "1.0.0",
     "ref": "Bell voucher",
     "localization": {
       "en_US": "Bell voucher",
@@ -1596,8 +1672,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "MilePlaneTicket_09964_pl",
+    "version": "1.0.0",
     "ref": "Bell vouchers",
     "localization": {
       "en_US": "Bell vouchers",
@@ -1617,8 +1694,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Ocarina_05320",
+    "version": "1.0.0",
     "ref": "ocarina",
     "localization": {
       "en_US": "ocarina",
@@ -1638,8 +1716,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Panflute_05517",
+    "version": "1.0.0",
     "ref": "pan flute",
     "localization": {
       "en_US": "pan flute",
@@ -1659,8 +1738,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "PartyPopper_02753",
+    "version": "1.0.0",
     "ref": "party popper",
     "localization": {
       "en_US": "party popper",
@@ -1680,8 +1760,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "PartyPopper_02753_pl",
+    "version": "1.0.0",
     "ref": "party poppers",
     "localization": {
       "en_US": "party poppers",
@@ -1701,8 +1782,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "PitFallSeed_02578",
+    "version": "1.0.0",
     "ref": "pitfall seed",
     "localization": {
       "en_US": "pitfall seed",
@@ -1722,8 +1804,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "PitFallSeed_02578_pl",
+    "version": "1.0.0",
     "ref": "pitfall seeds",
     "localization": {
       "en_US": "pitfall seeds",
@@ -1743,8 +1826,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "QuestWrapping_04245",
+    "version": "1.0.0",
     "ref": "delivery box",
     "localization": {
       "en_US": "delivery box",
@@ -1764,8 +1848,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "StickLight_05741",
+    "version": "1.0.0",
     "ref": "light stick",
     "localization": {
       "en_US": "light stick",
@@ -1785,8 +1870,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Tambourine_05430",
+    "version": "1.0.0",
     "ref": "tambourine",
     "localization": {
       "en_US": "tambourine",
@@ -1806,8 +1892,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Trash_03466",
+    "version": "1.0.0",
     "ref": "empty can",
     "localization": {
       "en_US": "empty can",
@@ -1827,8 +1914,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Trash_03469",
+    "version": "1.0.0",
     "ref": "boot",
     "localization": {
       "en_US": "boot",
@@ -1848,8 +1936,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Trash_03470",
+    "version": "1.0.0",
     "ref": "old tire",
     "localization": {
       "en_US": "old tire",
@@ -1869,8 +1958,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "Uchiwa_09762",
+    "version": "1.0.0",
     "ref": "Nook Inc. uchiwa fan",
     "localization": {
       "en_US": "Nook Inc. uchiwa fan",
@@ -1890,8 +1980,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07683",
+    "version": "1.0.0",
     "ref": "yellow wrapping paper",
     "localization": {
       "en_US": "yellow wrapping paper",
@@ -1911,8 +2002,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07683_pl",
+    "version": "1.0.0",
     "ref": "yellow wrapping paper",
     "localization": {
       "en_US": "yellow wrapping paper",
@@ -1932,8 +2024,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07684",
+    "version": "1.0.0",
     "ref": "pink wrapping paper",
     "localization": {
       "en_US": "pink wrapping paper",
@@ -1953,8 +2046,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07684_pl",
+    "version": "1.0.0",
     "ref": "pink wrapping paper",
     "localization": {
       "en_US": "pink wrapping paper",
@@ -1974,8 +2068,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07685",
+    "version": "1.0.0",
     "ref": "orange wrapping paper",
     "localization": {
       "en_US": "orange wrapping paper",
@@ -1995,8 +2090,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07685_pl",
+    "version": "1.0.0",
     "ref": "orange wrapping paper",
     "localization": {
       "en_US": "orange wrapping paper",
@@ -2016,8 +2112,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07686",
+    "version": "1.0.0",
     "ref": "chartreuse wrapping paper",
     "localization": {
       "en_US": "chartreuse wrapping paper",
@@ -2037,8 +2134,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07686_pl",
+    "version": "1.0.0",
     "ref": "chartreuse wrapping paper",
     "localization": {
       "en_US": "chartreuse wrapping paper",
@@ -2058,8 +2156,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07687",
+    "version": "1.0.0",
     "ref": "green wrapping paper",
     "localization": {
       "en_US": "green wrapping paper",
@@ -2079,8 +2178,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07687_pl",
+    "version": "1.0.0",
     "ref": "green wrapping paper",
     "localization": {
       "en_US": "green wrapping paper",
@@ -2100,8 +2200,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07688",
+    "version": "1.0.0",
     "ref": "mint wrapping paper",
     "localization": {
       "en_US": "mint wrapping paper",
@@ -2121,8 +2222,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07688_pl",
+    "version": "1.0.0",
     "ref": "mint wrapping paper",
     "localization": {
       "en_US": "mint wrapping paper",
@@ -2142,8 +2244,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07689",
+    "version": "1.0.0",
     "ref": "light-blue wrapping paper",
     "localization": {
       "en_US": "light-blue wrapping paper",
@@ -2163,8 +2266,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07689_pl",
+    "version": "1.0.0",
     "ref": "light-blue wrapping paper",
     "localization": {
       "en_US": "light-blue wrapping paper",
@@ -2184,8 +2288,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07690",
+    "version": "1.0.0",
     "ref": "purple wrapping paper",
     "localization": {
       "en_US": "purple wrapping paper",
@@ -2205,8 +2310,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07690_pl",
+    "version": "1.0.0",
     "ref": "purple wrapping paper",
     "localization": {
       "en_US": "purple wrapping paper",
@@ -2226,8 +2332,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07691",
+    "version": "1.0.0",
     "ref": "navy wrapping paper",
     "localization": {
       "en_US": "navy wrapping paper",
@@ -2247,8 +2354,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07691_pl",
+    "version": "1.0.0",
     "ref": "navy wrapping paper",
     "localization": {
       "en_US": "navy wrapping paper",
@@ -2268,8 +2376,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07692",
+    "version": "1.0.0",
     "ref": "blue wrapping paper",
     "localization": {
       "en_US": "blue wrapping paper",
@@ -2289,8 +2398,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07692_pl",
+    "version": "1.0.0",
     "ref": "blue wrapping paper",
     "localization": {
       "en_US": "blue wrapping paper",
@@ -2310,8 +2420,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07693",
+    "version": "1.0.0",
     "ref": "white wrapping paper",
     "localization": {
       "en_US": "white wrapping paper",
@@ -2331,8 +2442,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07693_pl",
+    "version": "1.0.0",
     "ref": "white wrapping paper",
     "localization": {
       "en_US": "white wrapping paper",
@@ -2352,8 +2464,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07694",
+    "version": "1.0.0",
     "ref": "red wrapping paper",
     "localization": {
       "en_US": "red wrapping paper",
@@ -2373,8 +2486,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07694_pl",
+    "version": "1.0.0",
     "ref": "red wrapping paper",
     "localization": {
       "en_US": "red wrapping paper",
@@ -2394,8 +2508,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07695",
+    "version": "1.0.0",
     "ref": "gold wrapping paper",
     "localization": {
       "en_US": "gold wrapping paper",
@@ -2415,8 +2530,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07695_pl",
+    "version": "1.0.0",
     "ref": "gold wrapping paper",
     "localization": {
       "en_US": "gold wrapping paper",
@@ -2436,8 +2552,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07696",
+    "version": "1.0.0",
     "ref": "brown wrapping paper",
     "localization": {
       "en_US": "brown wrapping paper",
@@ -2457,8 +2574,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07696_pl",
+    "version": "1.0.0",
     "ref": "brown wrapping paper",
     "localization": {
       "en_US": "brown wrapping paper",
@@ -2478,8 +2596,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07697",
+    "version": "1.0.0",
     "ref": "gray wrapping paper",
     "localization": {
       "en_US": "gray wrapping paper",
@@ -2499,8 +2618,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07697_pl",
+    "version": "1.0.0",
     "ref": "gray wrapping paper",
     "localization": {
       "en_US": "gray wrapping paper",
@@ -2520,8 +2640,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07698",
+    "version": "1.0.0",
     "ref": "black wrapping paper",
     "localization": {
       "en_US": "black wrapping paper",
@@ -2541,8 +2662,9 @@
     }
   },
   {
-    "SourceSheet": "ETC",
+    "sourceSheet": "ETC",
     "id": "WrappingPaper_07698_pl",
+    "version": "1.0.0",
     "ref": "black wrapping paper",
     "localization": {
       "en_US": "black wrapping paper",

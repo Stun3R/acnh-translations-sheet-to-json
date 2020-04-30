@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00582",
+    "version": "1.0.0",
     "ref": "brown cicada",
     "localization": {
       "en_US": "brown cicada",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00583",
+    "version": "1.0.0",
     "ref": "tiger butterfly",
     "localization": {
       "en_US": "tiger butterfly",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00584",
+    "version": "1.0.0",
     "ref": "Rajah Brooke's birdwing",
     "localization": {
       "en_US": "Rajah Brooke's birdwing",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00585",
+    "version": "1.0.0",
     "ref": "red dragonfly",
     "localization": {
       "en_US": "red dragonfly",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00586",
+    "version": "1.0.0",
     "ref": "Queen Alexandra's birdwing",
     "localization": {
       "en_US": "Queen Alexandra's birdwing",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00587",
+    "version": "1.0.0",
     "ref": "pondskater",
     "localization": {
       "en_US": "pondskater",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00588",
+    "version": "1.0.0",
     "ref": "ant",
     "localization": {
       "en_US": "ant",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00590",
+    "version": "1.0.0",
     "ref": "pill bug",
     "localization": {
       "en_US": "pill bug",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00591",
+    "version": "1.0.0",
     "ref": "wharf roach",
     "localization": {
       "en_US": "wharf roach",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00592",
+    "version": "1.0.0",
     "ref": "moth",
     "localization": {
       "en_US": "moth",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00594",
+    "version": "1.0.0",
     "ref": "diving beetle",
     "localization": {
       "en_US": "diving beetle",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00595",
+    "version": "1.0.0",
     "ref": "darner dragonfly",
     "localization": {
       "en_US": "darner dragonfly",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00596",
+    "version": "1.0.0",
     "ref": "goliath beetle",
     "localization": {
       "en_US": "goliath beetle",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00597",
+    "version": "1.0.0",
     "ref": "fly",
     "localization": {
       "en_US": "fly",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00598",
+    "version": "1.0.0",
     "ref": "orchid mantis",
     "localization": {
       "en_US": "orchid mantis",
@@ -315,8 +330,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00599",
+    "version": "1.0.0",
     "ref": "tiger beetle",
     "localization": {
       "en_US": "tiger beetle",
@@ -336,8 +352,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00600",
+    "version": "1.0.0",
     "ref": "horned hercules",
     "localization": {
       "en_US": "horned hercules",
@@ -357,8 +374,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00601",
+    "version": "1.0.0",
     "ref": "evening cicada",
     "localization": {
       "en_US": "evening cicada",
@@ -378,8 +396,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00602",
+    "version": "1.0.0",
     "ref": "cyclommatus stag",
     "localization": {
       "en_US": "cyclommatus stag",
@@ -399,8 +418,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00603",
+    "version": "1.0.0",
     "ref": "firefly",
     "localization": {
       "en_US": "firefly",
@@ -420,8 +440,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00604",
+    "version": "1.0.0",
     "ref": "dung beetle",
     "localization": {
       "en_US": "dung beetle",
@@ -441,8 +462,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00605",
+    "version": "1.0.0",
     "ref": "rice grasshopper",
     "localization": {
       "en_US": "rice grasshopper",
@@ -462,8 +484,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00606",
+    "version": "1.0.0",
     "ref": "mosquito",
     "localization": {
       "en_US": "mosquito",
@@ -483,8 +506,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00607",
+    "version": "1.0.0",
     "ref": "mantis",
     "localization": {
       "en_US": "mantis",
@@ -504,8 +528,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00608",
+    "version": "1.0.0",
     "ref": "stinkbug",
     "localization": {
       "en_US": "stinkbug",
@@ -525,8 +550,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00609",
+    "version": "1.0.0",
     "ref": "citrus long-horned beetle",
     "localization": {
       "en_US": "citrus long-horned beetle",
@@ -546,8 +572,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00610",
+    "version": "1.0.0",
     "ref": "peacock butterfly",
     "localization": {
       "en_US": "peacock butterfly",
@@ -567,8 +594,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00611",
+    "version": "1.0.0",
     "ref": "snail",
     "localization": {
       "en_US": "snail",
@@ -588,8 +616,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00612",
+    "version": "1.0.0",
     "ref": "horned dynastid",
     "localization": {
       "en_US": "horned dynastid",
@@ -609,8 +638,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00613",
+    "version": "1.0.0",
     "ref": "grasshopper",
     "localization": {
       "en_US": "grasshopper",
@@ -630,8 +660,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00614",
+    "version": "1.0.0",
     "ref": "earth-boring dung beetle",
     "localization": {
       "en_US": "earth-boring dung beetle",
@@ -651,8 +682,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00615",
+    "version": "1.0.0",
     "ref": "horned atlas",
     "localization": {
       "en_US": "horned atlas",
@@ -672,8 +704,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00616",
+    "version": "1.0.0",
     "ref": "walking leaf",
     "localization": {
       "en_US": "walking leaf",
@@ -693,8 +726,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00617",
+    "version": "1.0.0",
     "ref": "cricket",
     "localization": {
       "en_US": "cricket",
@@ -714,8 +748,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00618",
+    "version": "1.0.0",
     "ref": "giant cicada",
     "localization": {
       "en_US": "giant cicada",
@@ -735,8 +770,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00619",
+    "version": "1.0.0",
     "ref": "spider",
     "localization": {
       "en_US": "spider",
@@ -756,8 +792,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00620",
+    "version": "1.0.0",
     "ref": "agrias butterfly",
     "localization": {
       "en_US": "agrias butterfly",
@@ -777,8 +814,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00621",
+    "version": "1.0.0",
     "ref": "robust cicada",
     "localization": {
       "en_US": "robust cicada",
@@ -798,8 +836,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00622",
+    "version": "1.0.0",
     "ref": "bagworm",
     "localization": {
       "en_US": "bagworm",
@@ -819,8 +858,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00623",
+    "version": "1.0.0",
     "ref": "honeybee",
     "localization": {
       "en_US": "honeybee",
@@ -840,8 +880,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00624",
+    "version": "1.0.0",
     "ref": "miyama stag",
     "localization": {
       "en_US": "miyama stag",
@@ -861,8 +902,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00625",
+    "version": "1.0.0",
     "ref": "yellow butterfly",
     "localization": {
       "en_US": "yellow butterfly",
@@ -882,8 +924,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00626",
+    "version": "1.0.0",
     "ref": "common butterfly",
     "localization": {
       "en_US": "common butterfly",
@@ -903,8 +946,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00627",
+    "version": "1.0.0",
     "ref": "emperor butterfly",
     "localization": {
       "en_US": "emperor butterfly",
@@ -924,8 +968,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00628",
+    "version": "1.0.0",
     "ref": "centipede",
     "localization": {
       "en_US": "centipede",
@@ -945,8 +990,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00630",
+    "version": "1.0.0",
     "ref": "walking stick",
     "localization": {
       "en_US": "walking stick",
@@ -966,8 +1012,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00631",
+    "version": "1.0.0",
     "ref": "rainbow stag",
     "localization": {
       "en_US": "rainbow stag",
@@ -987,8 +1034,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00632",
+    "version": "1.0.0",
     "ref": "saw stag",
     "localization": {
       "en_US": "saw stag",
@@ -1008,8 +1056,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00633",
+    "version": "1.0.0",
     "ref": "flea",
     "localization": {
       "en_US": "flea",
@@ -1029,8 +1078,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00634",
+    "version": "1.0.0",
     "ref": "mole cricket",
     "localization": {
       "en_US": "mole cricket",
@@ -1050,8 +1100,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00635",
+    "version": "1.0.0",
     "ref": "banded dragonfly",
     "localization": {
       "en_US": "banded dragonfly",
@@ -1071,8 +1122,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00636",
+    "version": "1.0.0",
     "ref": "monarch butterfly",
     "localization": {
       "en_US": "monarch butterfly",
@@ -1092,8 +1144,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00637",
+    "version": "1.0.0",
     "ref": "giant stag",
     "localization": {
       "en_US": "giant stag",
@@ -1113,8 +1166,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00638",
+    "version": "1.0.0",
     "ref": "golden stag",
     "localization": {
       "en_US": "golden stag",
@@ -1134,8 +1188,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00639",
+    "version": "1.0.0",
     "ref": "scarab beetle",
     "localization": {
       "en_US": "scarab beetle",
@@ -1155,8 +1210,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00640",
+    "version": "1.0.0",
     "ref": "scorpion",
     "localization": {
       "en_US": "scorpion",
@@ -1176,8 +1232,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00641",
+    "version": "1.0.0",
     "ref": "cicada shell",
     "localization": {
       "en_US": "cicada shell",
@@ -1197,8 +1254,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00642",
+    "version": "1.0.0",
     "ref": "bell cricket",
     "localization": {
       "en_US": "bell cricket",
@@ -1218,8 +1276,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00643",
+    "version": "1.0.0",
     "ref": "wasp",
     "localization": {
       "en_US": "wasp",
@@ -1239,8 +1298,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00644",
+    "version": "1.0.0",
     "ref": "long locust",
     "localization": {
       "en_US": "long locust",
@@ -1260,8 +1320,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00645",
+    "version": "1.0.0",
     "ref": "jewel beetle",
     "localization": {
       "en_US": "jewel beetle",
@@ -1281,8 +1342,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00646",
+    "version": "1.0.0",
     "ref": "tarantula",
     "localization": {
       "en_US": "tarantula",
@@ -1302,8 +1364,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00647",
+    "version": "1.0.0",
     "ref": "ladybug",
     "localization": {
       "en_US": "ladybug",
@@ -1323,8 +1386,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00648",
+    "version": "1.0.0",
     "ref": "migratory locust",
     "localization": {
       "en_US": "migratory locust",
@@ -1344,8 +1408,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00649",
+    "version": "1.0.0",
     "ref": "walker cicada",
     "localization": {
       "en_US": "walker cicada",
@@ -1365,8 +1430,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00650",
+    "version": "1.0.0",
     "ref": "violin beetle",
     "localization": {
       "en_US": "violin beetle",
@@ -1386,8 +1452,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00651",
+    "version": "1.0.0",
     "ref": "hermit crab",
     "localization": {
       "en_US": "hermit crab",
@@ -1407,8 +1474,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00652",
+    "version": "1.0.0",
     "ref": "Atlas moth",
     "localization": {
       "en_US": "Atlas moth",
@@ -1428,8 +1496,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_00653",
+    "version": "1.0.0",
     "ref": "horned elephant",
     "localization": {
       "en_US": "horned elephant",
@@ -1449,8 +1518,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03477",
+    "version": "1.0.0",
     "ref": "common bluebottle",
     "localization": {
       "en_US": "common bluebottle",
@@ -1470,8 +1540,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03478",
+    "version": "1.0.0",
     "ref": "paper kite butterfly",
     "localization": {
       "en_US": "paper kite butterfly",
@@ -1491,8 +1562,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03479",
+    "version": "1.0.0",
     "ref": "great purple emperor",
     "localization": {
       "en_US": "great purple emperor",
@@ -1512,8 +1584,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03480",
+    "version": "1.0.0",
     "ref": "drone beetle",
     "localization": {
       "en_US": "drone beetle",
@@ -1533,8 +1606,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03482",
+    "version": "1.0.0",
     "ref": "giraffe stag",
     "localization": {
       "en_US": "giraffe stag",
@@ -1554,8 +1628,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03483",
+    "version": "1.0.0",
     "ref": "man-faced stink bug",
     "localization": {
       "en_US": "man-faced stink bug",
@@ -1575,8 +1650,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03484",
+    "version": "1.0.0",
     "ref": "Madagascan sunset moth",
     "localization": {
       "en_US": "Madagascan sunset moth",
@@ -1596,8 +1672,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03485",
+    "version": "1.0.0",
     "ref": "blue weevil beetle",
     "localization": {
       "en_US": "blue weevil beetle",
@@ -1617,8 +1694,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_03487",
+    "version": "1.0.0",
     "ref": "rosalia batesi beetle",
     "localization": {
       "en_US": "rosalia batesi beetle",
@@ -1638,8 +1716,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_05157",
+    "version": "1.0.0",
     "ref": "giant water bug",
     "localization": {
       "en_US": "giant water bug",
@@ -1659,8 +1738,9 @@
     }
   },
   {
-    "SourceSheet": "Bugs",
+    "sourceSheet": "Bugs",
     "id": "Insect_05339",
+    "version": "1.0.0",
     "ref": "damselfly",
     "localization": {
       "en_US": "damselfly",
@@ -1680,8 +1760,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_00328",
+    "version": "1.0.0",
     "ref": "crucian carp",
     "localization": {
       "en_US": "crucian carp",
@@ -1701,8 +1782,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_00329",
+    "version": "1.0.0",
     "ref": "goldfish",
     "localization": {
       "en_US": "goldfish",
@@ -1722,8 +1804,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02215",
+    "version": "1.0.0",
     "ref": "bitterling",
     "localization": {
       "en_US": "bitterling",
@@ -1743,8 +1826,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02216",
+    "version": "1.0.0",
     "ref": "pale chub",
     "localization": {
       "en_US": "pale chub",
@@ -1764,8 +1848,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02217",
+    "version": "1.0.0",
     "ref": "dace",
     "localization": {
       "en_US": "dace",
@@ -1785,8 +1870,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02219",
+    "version": "1.0.0",
     "ref": "carp",
     "localization": {
       "en_US": "carp",
@@ -1806,8 +1892,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02220",
+    "version": "1.0.0",
     "ref": "koi",
     "localization": {
       "en_US": "koi",
@@ -1827,8 +1914,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02221",
+    "version": "1.0.0",
     "ref": "pop-eyed goldfish",
     "localization": {
       "en_US": "pop-eyed goldfish",
@@ -1848,8 +1936,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02222",
+    "version": "1.0.0",
     "ref": "killifish",
     "localization": {
       "en_US": "killifish",
@@ -1869,8 +1958,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02223",
+    "version": "1.0.0",
     "ref": "crawfish",
     "localization": {
       "en_US": "crawfish",
@@ -1890,8 +1980,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02224",
+    "version": "1.0.0",
     "ref": "soft-shelled turtle",
     "localization": {
       "en_US": "soft-shelled turtle",
@@ -1911,8 +2002,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02225",
+    "version": "1.0.0",
     "ref": "tadpole",
     "localization": {
       "en_US": "tadpole",
@@ -1932,8 +2024,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02226",
+    "version": "1.0.0",
     "ref": "frog",
     "localization": {
       "en_US": "frog",
@@ -1953,8 +2046,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02227",
+    "version": "1.0.0",
     "ref": "freshwater goby",
     "localization": {
       "en_US": "freshwater goby",
@@ -1974,8 +2068,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02228",
+    "version": "1.0.0",
     "ref": "loach",
     "localization": {
       "en_US": "loach",
@@ -1995,8 +2090,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02229",
+    "version": "1.0.0",
     "ref": "catfish",
     "localization": {
       "en_US": "catfish",
@@ -2016,8 +2112,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02231",
+    "version": "1.0.0",
     "ref": "giant snakehead",
     "localization": {
       "en_US": "giant snakehead",
@@ -2037,8 +2134,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02232",
+    "version": "1.0.0",
     "ref": "bluegill",
     "localization": {
       "en_US": "bluegill",
@@ -2058,8 +2156,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02233",
+    "version": "1.0.0",
     "ref": "yellow perch",
     "localization": {
       "en_US": "yellow perch",
@@ -2079,8 +2178,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02234",
+    "version": "1.0.0",
     "ref": "black bass",
     "localization": {
       "en_US": "black bass",
@@ -2100,8 +2200,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02235",
+    "version": "1.0.0",
     "ref": "pike",
     "localization": {
       "en_US": "pike",
@@ -2121,8 +2222,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02236",
+    "version": "1.0.0",
     "ref": "pond smelt",
     "localization": {
       "en_US": "pond smelt",
@@ -2142,8 +2244,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02237",
+    "version": "1.0.0",
     "ref": "sweetfish",
     "localization": {
       "en_US": "sweetfish",
@@ -2163,8 +2266,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02238",
+    "version": "1.0.0",
     "ref": "cherry salmon",
     "localization": {
       "en_US": "cherry salmon",
@@ -2184,8 +2288,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02239",
+    "version": "1.0.0",
     "ref": "char",
     "localization": {
       "en_US": "char",
@@ -2205,8 +2310,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02241",
+    "version": "1.0.0",
     "ref": "stringfish",
     "localization": {
       "en_US": "stringfish",
@@ -2226,8 +2332,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02242",
+    "version": "1.0.0",
     "ref": "salmon",
     "localization": {
       "en_US": "salmon",
@@ -2247,8 +2354,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02243",
+    "version": "1.0.0",
     "ref": "king salmon",
     "localization": {
       "en_US": "king salmon",
@@ -2268,8 +2376,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02244",
+    "version": "1.0.0",
     "ref": "mitten crab",
     "localization": {
       "en_US": "mitten crab",
@@ -2289,8 +2398,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02245",
+    "version": "1.0.0",
     "ref": "guppy",
     "localization": {
       "en_US": "guppy",
@@ -2310,8 +2420,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02246",
+    "version": "1.0.0",
     "ref": "nibble fish",
     "localization": {
       "en_US": "nibble fish",
@@ -2331,8 +2442,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02247",
+    "version": "1.0.0",
     "ref": "angelfish",
     "localization": {
       "en_US": "angelfish",
@@ -2352,8 +2464,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02248",
+    "version": "1.0.0",
     "ref": "neon tetra",
     "localization": {
       "en_US": "neon tetra",
@@ -2373,8 +2486,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02249",
+    "version": "1.0.0",
     "ref": "piranha",
     "localization": {
       "en_US": "piranha",
@@ -2394,8 +2508,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02250",
+    "version": "1.0.0",
     "ref": "arowana",
     "localization": {
       "en_US": "arowana",
@@ -2415,8 +2530,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02251",
+    "version": "1.0.0",
     "ref": "dorado",
     "localization": {
       "en_US": "dorado",
@@ -2436,8 +2552,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02252",
+    "version": "1.0.0",
     "ref": "gar",
     "localization": {
       "en_US": "gar",
@@ -2457,8 +2574,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02253",
+    "version": "1.0.0",
     "ref": "arapaima",
     "localization": {
       "en_US": "arapaima",
@@ -2478,8 +2596,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02254",
+    "version": "1.0.0",
     "ref": "saddled bichir",
     "localization": {
       "en_US": "saddled bichir",
@@ -2499,8 +2618,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02255",
+    "version": "1.0.0",
     "ref": "sea butterfly",
     "localization": {
       "en_US": "sea butterfly",
@@ -2520,8 +2640,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02256",
+    "version": "1.0.0",
     "ref": "sea horse",
     "localization": {
       "en_US": "sea horse",
@@ -2541,8 +2662,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02257",
+    "version": "1.0.0",
     "ref": "clown fish",
     "localization": {
       "en_US": "clown fish",
@@ -2562,8 +2684,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02258",
+    "version": "1.0.0",
     "ref": "surgeonfish",
     "localization": {
       "en_US": "surgeonfish",
@@ -2583,8 +2706,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02259",
+    "version": "1.0.0",
     "ref": "butterfly fish",
     "localization": {
       "en_US": "butterfly fish",
@@ -2604,8 +2728,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02260",
+    "version": "1.0.0",
     "ref": "Napoleonfish",
     "localization": {
       "en_US": "Napoleonfish",
@@ -2625,8 +2750,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02261",
+    "version": "1.0.0",
     "ref": "zebra turkeyfish",
     "localization": {
       "en_US": "zebra turkeyfish",
@@ -2646,8 +2772,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02262",
+    "version": "1.0.0",
     "ref": "blowfish",
     "localization": {
       "en_US": "blowfish",
@@ -2667,8 +2794,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02263",
+    "version": "1.0.0",
     "ref": "puffer fish",
     "localization": {
       "en_US": "puffer fish",
@@ -2688,8 +2816,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02264",
+    "version": "1.0.0",
     "ref": "horse mackerel",
     "localization": {
       "en_US": "horse mackerel",
@@ -2709,8 +2838,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02265",
+    "version": "1.0.0",
     "ref": "barred knifejaw",
     "localization": {
       "en_US": "barred knifejaw",
@@ -2730,8 +2860,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02266",
+    "version": "1.0.0",
     "ref": "sea bass",
     "localization": {
       "en_US": "sea bass",
@@ -2751,8 +2882,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02267",
+    "version": "1.0.0",
     "ref": "red snapper",
     "localization": {
       "en_US": "red snapper",
@@ -2772,8 +2904,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02268",
+    "version": "1.0.0",
     "ref": "dab",
     "localization": {
       "en_US": "dab",
@@ -2793,8 +2926,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02269",
+    "version": "1.0.0",
     "ref": "olive flounder",
     "localization": {
       "en_US": "olive flounder",
@@ -2814,8 +2948,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02270",
+    "version": "1.0.0",
     "ref": "squid",
     "localization": {
       "en_US": "squid",
@@ -2835,8 +2970,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02271",
+    "version": "1.0.0",
     "ref": "moray eel",
     "localization": {
       "en_US": "moray eel",
@@ -2856,8 +2992,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02272",
+    "version": "1.0.0",
     "ref": "ribbon eel",
     "localization": {
       "en_US": "ribbon eel",
@@ -2877,8 +3014,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02273",
+    "version": "1.0.0",
     "ref": "football fish",
     "localization": {
       "en_US": "football fish",
@@ -2898,8 +3036,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02274",
+    "version": "1.0.0",
     "ref": "tuna",
     "localization": {
       "en_US": "tuna",
@@ -2919,8 +3058,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02275",
+    "version": "1.0.0",
     "ref": "blue marlin",
     "localization": {
       "en_US": "blue marlin",
@@ -2940,8 +3080,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02276",
+    "version": "1.0.0",
     "ref": "giant trevally",
     "localization": {
       "en_US": "giant trevally",
@@ -2961,8 +3102,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02277",
+    "version": "1.0.0",
     "ref": "ray",
     "localization": {
       "en_US": "ray",
@@ -2982,8 +3124,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02278",
+    "version": "1.0.0",
     "ref": "ocean sunfish",
     "localization": {
       "en_US": "ocean sunfish",
@@ -3003,8 +3146,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02279",
+    "version": "1.0.0",
     "ref": "hammerhead shark",
     "localization": {
       "en_US": "hammerhead shark",
@@ -3024,8 +3168,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02280",
+    "version": "1.0.0",
     "ref": "great white shark",
     "localization": {
       "en_US": "great white shark",
@@ -3045,8 +3190,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02281",
+    "version": "1.0.0",
     "ref": "saw shark",
     "localization": {
       "en_US": "saw shark",
@@ -3066,8 +3212,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02282",
+    "version": "1.0.0",
     "ref": "whale shark",
     "localization": {
       "en_US": "whale shark",
@@ -3087,8 +3234,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02283",
+    "version": "1.0.0",
     "ref": "oarfish",
     "localization": {
       "en_US": "oarfish",
@@ -3108,8 +3256,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_02284",
+    "version": "1.0.0",
     "ref": "coelacanth",
     "localization": {
       "en_US": "coelacanth",
@@ -3129,8 +3278,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04189",
+    "version": "1.0.0",
     "ref": "sturgeon",
     "localization": {
       "en_US": "sturgeon",
@@ -3150,8 +3300,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04190",
+    "version": "1.0.0",
     "ref": "tilapia",
     "localization": {
       "en_US": "tilapia",
@@ -3171,8 +3322,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04191",
+    "version": "1.0.0",
     "ref": "betta",
     "localization": {
       "en_US": "betta",
@@ -3192,8 +3344,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04192",
+    "version": "1.0.0",
     "ref": "snapping turtle",
     "localization": {
       "en_US": "snapping turtle",
@@ -3213,8 +3366,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04193",
+    "version": "1.0.0",
     "ref": "golden trout",
     "localization": {
       "en_US": "golden trout",
@@ -3234,8 +3388,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04194",
+    "version": "1.0.0",
     "ref": "rainbowfish",
     "localization": {
       "en_US": "rainbowfish",
@@ -3255,8 +3410,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04201",
+    "version": "1.0.0",
     "ref": "anchovy",
     "localization": {
       "en_US": "anchovy",
@@ -3276,8 +3432,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04202",
+    "version": "1.0.0",
     "ref": "mahi-mahi",
     "localization": {
       "en_US": "mahi-mahi",
@@ -3297,8 +3454,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04203",
+    "version": "1.0.0",
     "ref": "suckerfish",
     "localization": {
       "en_US": "suckerfish",
@@ -3318,8 +3476,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_04204",
+    "version": "1.0.0",
     "ref": "barreleye",
     "localization": {
       "en_US": "barreleye",
@@ -3339,8 +3498,9 @@
     }
   },
   {
-    "SourceSheet": "Fish",
+    "sourceSheet": "Fish",
     "id": "Fish_05254",
+    "version": "1.0.0",
     "ref": "ranchu goldfish",
     "localization": {
       "en_US": "ranchu goldfish",

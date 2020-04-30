@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05912",
+    "version": "1.0.0",
     "ref": "stone bridge",
     "localization": {
       "en_US": "stone bridge",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05913",
+    "version": "1.0.0",
     "ref": "suspension bridge",
     "localization": {
       "en_US": "suspension bridge",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05914",
+    "version": "1.0.0",
     "ref": "wooden bridge",
     "localization": {
       "en_US": "wooden bridge",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05915",
+    "version": "1.0.0",
     "ref": "brick bridge",
     "localization": {
       "en_US": "brick bridge",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05916",
+    "version": "1.0.0",
     "ref": "zen bridge",
     "localization": {
       "en_US": "zen bridge",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05917",
+    "version": "1.0.0",
     "ref": "log bridge",
     "localization": {
       "en_US": "log bridge",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05918",
+    "version": "1.0.0",
     "ref": "red zen bridge",
     "localization": {
       "en_US": "red zen bridge",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "BridgeItem_05919",
+    "version": "1.0.0",
     "ref": "iron bridge",
     "localization": {
       "en_US": "iron bridge",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05863",
+    "version": "1.0.0",
     "ref": "stone staircase",
     "localization": {
       "en_US": "stone staircase",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05864",
+    "version": "1.0.0",
     "ref": "red steel staircase",
     "localization": {
       "en_US": "red steel staircase",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05865",
+    "version": "1.0.0",
     "ref": "white-plank ramp",
     "localization": {
       "en_US": "white-plank ramp",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05866",
+    "version": "1.0.0",
     "ref": "natural ramp",
     "localization": {
       "en_US": "natural ramp",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05867",
+    "version": "1.0.0",
     "ref": "log staircase",
     "localization": {
       "en_US": "log staircase",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05868",
+    "version": "1.0.0",
     "ref": "blue-plank ramp",
     "localization": {
       "en_US": "blue-plank ramp",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05869",
+    "version": "1.0.0",
     "ref": "blue steel staircase",
     "localization": {
       "en_US": "blue steel staircase",
@@ -315,8 +330,9 @@
     }
   },
   {
-    "SourceSheet": "Bridge & Inclines",
+    "sourceSheet": "Bridge & Inclines",
     "id": "SlopeItem_05870",
+    "version": "1.0.0",
     "ref": "brick staircase",
     "localization": {
       "en_US": "brick staircase",

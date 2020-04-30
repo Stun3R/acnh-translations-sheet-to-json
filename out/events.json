@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "Countdown",
+    "version": "1.0.0",
     "ref": "Countdown",
     "localization": {
       "en_US": "Countdown",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "FathersDay",
+    "version": "1.2.0",
     "ref": "Father's Day",
     "localization": {
       "en_US": "Father's Day",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "FishingConventionAutumn",
+    "version": "1.0.0",
     "ref": "Fall Fishing Tourney",
     "localization": {
       "en_US": "Fall Fishing Tourney",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "FishingConventionSpring",
+    "version": "1.0.0",
     "ref": "Spring Fishing Tourney",
     "localization": {
       "en_US": "Spring Fishing Tourney",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "FishingConventionSummer",
+    "version": "1.0.0",
     "ref": "Summer Fishing Tourney",
     "localization": {
       "en_US": "Summer Fishing Tourney",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "FishingConventionWinter",
+    "version": "1.0.0",
     "ref": "Winter Fishing Tourney",
     "localization": {
       "en_US": "Winter Fishing Tourney",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "InsectConvention1",
+    "version": "1.0.0",
     "ref": "Bug-Off",
     "localization": {
       "en_US": "Bug-Off",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "InsectConvention2",
+    "version": "1.0.0",
     "ref": "Bug-Off",
     "localization": {
       "en_US": "Bug-Off",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "InsectConvention3",
+    "version": "1.0.0",
     "ref": "Bug-Off",
     "localization": {
       "en_US": "Bug-Off",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "InsectConvention4",
+    "version": "1.0.0",
     "ref": "Bug-Off",
     "localization": {
       "en_US": "Bug-Off",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "MothersDay",
+    "version": "1.2.0",
     "ref": "Mother's Day",
     "localization": {
       "en_US": "Mother's Day",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "SummerSolstice",
+    "version": "1.2.0",
     "ref": "Summer Solstice",
     "localization": {
       "en_US": "Summer Solstice",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "WinterSolstice",
+    "version": "1.2.0",
     "ref": "Winter Solstice",
     "localization": {
       "en_US": "Winter Solstice",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Events",
+    "sourceSheet": "Events",
     "id": "WorldChild",
+    "version": "1.2.0",
     "ref": "International Children's Day",
     "localization": {
       "en_US": "International Children's Day",

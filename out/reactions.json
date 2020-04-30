@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "AbsentMindedness",
+    "version": "1.0.0",
     "ref": "Daydreaming",
     "localization": {
       "en_US": "Daydreaming",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Aha",
+    "version": "1.0.0",
     "ref": "Surprise",
     "localization": {
       "en_US": "Surprise",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Apologize",
+    "version": "1.0.0",
     "ref": "Apologetic",
     "localization": {
       "en_US": "Apologetic",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Assent",
+    "version": "1.0.0",
     "ref": "Confident",
     "localization": {
       "en_US": "Confident",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Blushing",
+    "version": "1.0.0",
     "ref": "Bashfulness",
     "localization": {
       "en_US": "Bashfulness",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "BrokenHeart",
+    "version": "1.0.0",
     "ref": "Heartbreak",
     "localization": {
       "en_US": "Heartbreak",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Cheering",
+    "version": "1.0.0",
     "ref": "Encouraging",
     "localization": {
       "en_US": "Encouraging",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Clapping",
+    "version": "1.0.0",
     "ref": "Delight",
     "localization": {
       "en_US": "Delight",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "ColdChill",
+    "version": "1.0.0",
     "ref": "Cold Chill",
     "localization": {
       "en_US": "Cold Chill",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Crying",
+    "version": "1.0.0",
     "ref": "Sorrow",
     "localization": {
       "en_US": "Sorrow",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Dance",
+    "version": "1.0.0",
     "ref": "Flourish",
     "localization": {
       "en_US": "Flourish",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Frantic",
+    "version": "1.0.0",
     "ref": "Distress",
     "localization": {
       "en_US": "Distress",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Greeting",
+    "version": "1.0.0",
     "ref": "Greetings",
     "localization": {
       "en_US": "Greetings",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Grin",
+    "version": "1.0.0",
     "ref": "Smirking",
     "localization": {
       "en_US": "Smirking",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "HappyDance",
+    "version": "1.0.0",
     "ref": "Glee",
     "localization": {
       "en_US": "Glee",
@@ -315,8 +330,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "HappyFlower",
+    "version": "1.0.0",
     "ref": "Joy",
     "localization": {
       "en_US": "Joy",
@@ -336,8 +352,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Hello",
+    "version": "1.0.0",
     "ref": "Pleased",
     "localization": {
       "en_US": "Pleased",
@@ -357,8 +374,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Hesitate",
+    "version": "1.0.0",
     "ref": "Shyness",
     "localization": {
       "en_US": "Shyness",
@@ -378,8 +396,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "IdeaBulb",
+    "version": "1.0.0",
     "ref": "Inspiration",
     "localization": {
       "en_US": "Inspiration",
@@ -399,8 +418,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Laughing",
+    "version": "1.0.0",
     "ref": "Laughter",
     "localization": {
       "en_US": "Laughter",
@@ -420,8 +440,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Love",
+    "version": "1.0.0",
     "ref": "Love",
     "localization": {
       "en_US": "Love",
@@ -441,8 +462,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Negative",
+    "version": "1.0.0",
     "ref": "Disagreement",
     "localization": {
       "en_US": "Disagreement",
@@ -462,8 +484,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Nodding",
+    "version": "1.0.0",
     "ref": "Agreement",
     "localization": {
       "en_US": "Agreement",
@@ -483,8 +506,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "OhGeez",
+    "version": "1.0.0",
     "ref": "Resignation",
     "localization": {
       "en_US": "Resignation",
@@ -504,8 +528,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Oops",
+    "version": "1.0.0",
     "ref": "Mistaken",
     "localization": {
       "en_US": "Mistaken",
@@ -525,8 +550,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Outraged",
+    "version": "1.0.0",
     "ref": "Aggravation",
     "localization": {
       "en_US": "Aggravation",
@@ -546,8 +572,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Pardon",
+    "version": "1.0.0",
     "ref": "Bewilderment",
     "localization": {
       "en_US": "Bewilderment",
@@ -567,8 +594,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "QuestionMark",
+    "version": "1.0.0",
     "ref": "Curiosity",
     "localization": {
       "en_US": "Curiosity",
@@ -588,8 +616,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "SadSpiral",
+    "version": "1.0.0",
     "ref": "Sadness",
     "localization": {
       "en_US": "Sadness",
@@ -609,8 +638,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Scheming",
+    "version": "1.0.0",
     "ref": "Mischief",
     "localization": {
       "en_US": "Mischief",
@@ -630,8 +660,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Shaki",
+    "version": "1.0.0",
     "ref": "Showmanship",
     "localization": {
       "en_US": "Showmanship",
@@ -651,8 +682,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Shaking",
+    "version": "1.0.0",
     "ref": "Fearful",
     "localization": {
       "en_US": "Fearful",
@@ -672,8 +704,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Shocked",
+    "version": "1.0.0",
     "ref": "Amazed",
     "localization": {
       "en_US": "Amazed",
@@ -693,8 +726,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Sighing",
+    "version": "1.0.0",
     "ref": "Sighing",
     "localization": {
       "en_US": "Sighing",
@@ -714,8 +748,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Silent",
+    "version": "1.0.0",
     "ref": "Intense",
     "localization": {
       "en_US": "Intense",
@@ -735,8 +770,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Sleep",
+    "version": "1.0.0",
     "ref": "Dozing",
     "localization": {
       "en_US": "Dozing",
@@ -756,8 +792,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Sleepy",
+    "version": "1.0.0",
     "ref": "Sleepy",
     "localization": {
       "en_US": "Sleepy",
@@ -777,8 +814,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Smiling",
+    "version": "1.0.0",
     "ref": "Happiness",
     "localization": {
       "en_US": "Happiness",
@@ -798,8 +836,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "SmugFace",
+    "version": "1.0.0",
     "ref": "Pride",
     "localization": {
       "en_US": "Pride",
@@ -819,8 +858,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Sneezing",
+    "version": "1.0.0",
     "ref": "Sneezing",
     "localization": {
       "en_US": "Sneezing",
@@ -840,8 +880,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Surprised",
+    "version": "1.0.0",
     "ref": "Shocked",
     "localization": {
       "en_US": "Shocked",
@@ -861,8 +902,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Thinking",
+    "version": "1.0.0",
     "ref": "Thought",
     "localization": {
       "en_US": "Thought",
@@ -882,8 +924,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "Worried",
+    "version": "1.0.0",
     "ref": "Worry",
     "localization": {
       "en_US": "Worry",
@@ -903,8 +946,9 @@
     }
   },
   {
-    "SourceSheet": "Reactions",
+    "sourceSheet": "Reactions",
     "id": "WrySmile",
+    "version": "1.0.0",
     "ref": "Sheepishness",
     "localization": {
       "en_US": "Sheepishness",

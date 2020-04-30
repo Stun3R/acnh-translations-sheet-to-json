@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Amber",
+    "version": "1.0.0",
     "ref": "amber",
     "localization": {
       "en_US": "amber",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Ammonite",
+    "version": "1.0.0",
     "ref": "ammonite",
     "localization": {
       "en_US": "ammonite",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Ankiro",
+    "version": "1.0.0",
     "ref": "Ankylosaurus",
     "localization": {
       "en_US": "Ankylosaurus",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Anomalocaris",
+    "version": "1.0.0",
     "ref": "anomalocaris",
     "localization": {
       "en_US": "anomalocaris",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Archelon",
+    "version": "1.0.0",
     "ref": "Archelon",
     "localization": {
       "en_US": "Archelon",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Archeopteryx",
+    "version": "1.0.0",
     "ref": "archaeopteryx",
     "localization": {
       "en_US": "archaeopteryx",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Australopithecus",
+    "version": "1.0.0",
     "ref": "australopith",
     "localization": {
       "en_US": "australopith",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Brachiosaurus",
+    "version": "1.0.0",
     "ref": "Brachiosaurus",
     "localization": {
       "en_US": "Brachiosaurus",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Brontotherium",
+    "version": "1.0.0",
     "ref": "Megacerops",
     "localization": {
       "en_US": "Megacerops",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Deinonychus",
+    "version": "1.0.0",
     "ref": "Deinonychus",
     "localization": {
       "en_US": "Deinonychus",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Dimetro",
+    "version": "1.0.0",
     "ref": "Dimetrodon",
     "localization": {
       "en_US": "Dimetrodon",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Diplodocus",
+    "version": "1.0.0",
     "ref": "Diplodocus",
     "localization": {
       "en_US": "Diplodocus",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Droop",
+    "version": "1.0.0",
     "ref": "coprolite",
     "localization": {
       "en_US": "coprolite",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Dunkleosteus",
+    "version": "1.0.0",
     "ref": "dunkleosteus",
     "localization": {
       "en_US": "dunkleosteus",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "FirstAmphibian",
+    "version": "1.0.0",
     "ref": "eusthenopteron",
     "localization": {
       "en_US": "eusthenopteron",
@@ -315,8 +330,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "FirstFish",
+    "version": "1.0.0",
     "ref": "myllokunmingia",
     "localization": {
       "en_US": "myllokunmingia",
@@ -336,8 +352,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "FirstFourLegs",
+    "version": "1.0.0",
     "ref": "acanthostega",
     "localization": {
       "en_US": "acanthostega",
@@ -357,8 +374,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "FirstMammal",
+    "version": "1.0.0",
     "ref": "juramaia",
     "localization": {
       "en_US": "juramaia",
@@ -378,8 +396,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "FootPrint",
+    "version": "1.0.0",
     "ref": "dinosaur track",
     "localization": {
       "en_US": "dinosaur track",
@@ -399,8 +418,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Futaba",
+    "version": "1.0.0",
     "ref": "Plesiosaurus",
     "localization": {
       "en_US": "Plesiosaurus",
@@ -420,8 +440,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Iguanodon",
+    "version": "1.0.0",
     "ref": "Iguanodon",
     "localization": {
       "en_US": "Iguanodon",
@@ -441,8 +462,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Mammoth",
+    "version": "1.0.0",
     "ref": "Mammoth",
     "localization": {
       "en_US": "Mammoth",
@@ -462,8 +484,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Megaloceros",
+    "version": "1.0.0",
     "ref": "Megaloceros",
     "localization": {
       "en_US": "Megaloceros",
@@ -483,8 +506,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Ophthalmosaurus",
+    "version": "1.0.0",
     "ref": "Ophthalmosaurus",
     "localization": {
       "en_US": "Ophthalmosaurus",
@@ -504,8 +528,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Pachy",
+    "version": "1.0.0",
     "ref": "Pachycephalosaurus",
     "localization": {
       "en_US": "Pachycephalosaurus",
@@ -525,8 +550,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Parasauro",
+    "version": "1.0.0",
     "ref": "Parasaurolophus",
     "localization": {
       "en_US": "Parasaurolophus",
@@ -546,8 +572,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Pterano",
+    "version": "1.0.0",
     "ref": "Pteranodon",
     "localization": {
       "en_US": "Pteranodon",
@@ -567,8 +594,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Quetzalcoatlus",
+    "version": "1.0.0",
     "ref": "Quetzalcoatlus",
     "localization": {
       "en_US": "Quetzalcoatlus",
@@ -588,8 +616,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Shark",
+    "version": "1.0.0",
     "ref": "shark-tooth pattern",
     "localization": {
       "en_US": "shark-tooth pattern",
@@ -609,8 +638,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Smilodon",
+    "version": "1.0.0",
     "ref": "Sabertooth Tiger",
     "localization": {
       "en_US": "Sabertooth Tiger",
@@ -630,8 +660,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Spino",
+    "version": "1.0.0",
     "ref": "Spinosaurus",
     "localization": {
       "en_US": "Spinosaurus",
@@ -651,8 +682,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Stego",
+    "version": "1.0.0",
     "ref": "Stegosaurus",
     "localization": {
       "en_US": "Stegosaurus",
@@ -672,8 +704,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Trex",
+    "version": "1.0.0",
     "ref": "T. Rex",
     "localization": {
       "en_US": "T. Rex",
@@ -693,8 +726,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Tricera",
+    "version": "1.0.0",
     "ref": "Triceratops",
     "localization": {
       "en_US": "Triceratops",
@@ -714,8 +748,9 @@
     }
   },
   {
-    "SourceSheet": "Dinosaurs",
+    "sourceSheet": "Dinosaurs",
     "id": "Trilobite",
+    "version": "1.0.0",
     "ref": "trilobite",
     "localization": {
       "en_US": "trilobite",

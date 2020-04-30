@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "AutumnLeaf_07374",
+    "version": "1.0.0",
     "ref": "maple leaf",
     "localization": {
       "en_US": "maple leaf",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "AutumnLeaf_07374_pl",
+    "version": "1.0.0",
     "ref": "maple leaves",
     "localization": {
       "en_US": "maple leaves",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02500",
+    "version": "1.0.0",
     "ref": "tree branch",
     "localization": {
       "en_US": "tree branch",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02500_pl",
+    "version": "1.0.0",
     "ref": "tree branches",
     "localization": {
       "en_US": "tree branches",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02501",
+    "version": "1.0.0",
     "ref": "bamboo piece",
     "localization": {
       "en_US": "bamboo piece",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02501_pl",
+    "version": "1.0.0",
     "ref": "bamboo pieces",
     "localization": {
       "en_US": "bamboo pieces",
@@ -126,8 +132,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02767",
+    "version": "1.0.0",
     "ref": "softwood",
     "localization": {
       "en_US": "softwood",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02767_pl",
+    "version": "1.0.0",
     "ref": "softwood",
     "localization": {
       "en_US": "softwood",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02768",
+    "version": "1.0.0",
     "ref": "wood",
     "localization": {
       "en_US": "wood",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02768_pl",
+    "version": "1.0.0",
     "ref": "wood",
     "localization": {
       "en_US": "wood",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02769",
+    "version": "1.0.0",
     "ref": "hardwood",
     "localization": {
       "en_US": "hardwood",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_02769_pl",
+    "version": "1.0.0",
     "ref": "hardwood",
     "localization": {
       "en_US": "hardwood",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05727",
+    "version": "1.0.0",
     "ref": "acorn",
     "localization": {
       "en_US": "acorn",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05727_pl",
+    "version": "1.0.0",
     "ref": "acorns",
     "localization": {
       "en_US": "acorns",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05728",
+    "version": "1.0.0",
     "ref": "pine cone",
     "localization": {
       "en_US": "pine cone",
@@ -315,8 +330,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05728_pl",
+    "version": "1.0.0",
     "ref": "pine cones",
     "localization": {
       "en_US": "pine cones",
@@ -336,8 +352,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05729",
+    "version": "1.0.0",
     "ref": "young spring bamboo",
     "localization": {
       "en_US": "young spring bamboo",
@@ -357,8 +374,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05729_pl",
+    "version": "1.0.0",
     "ref": "young spring bamboo",
     "localization": {
       "en_US": "young spring bamboo",
@@ -378,8 +396,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05730",
+    "version": "1.0.0",
     "ref": "red ornament",
     "localization": {
       "en_US": "red ornament",
@@ -399,8 +418,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05730_pl",
+    "version": "1.0.0",
     "ref": "red ornaments",
     "localization": {
       "en_US": "red ornaments",
@@ -420,8 +440,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05731",
+    "version": "1.0.0",
     "ref": "blue ornament",
     "localization": {
       "en_US": "blue ornament",
@@ -441,8 +462,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05731_pl",
+    "version": "1.0.0",
     "ref": "blue ornaments",
     "localization": {
       "en_US": "blue ornaments",
@@ -462,8 +484,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05732",
+    "version": "1.0.0",
     "ref": "gold ornament",
     "localization": {
       "en_US": "gold ornament",
@@ -483,8 +506,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftMaterial_05732_pl",
+    "version": "1.0.0",
     "ref": "gold ornaments",
     "localization": {
       "en_US": "gold ornaments",
@@ -504,8 +528,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftPhoneCase_08760",
+    "version": "1.0.0",
     "ref": "customizable phone case kit",
     "localization": {
       "en_US": "customizable phone case kit",
@@ -525,8 +550,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftRemake_02513",
+    "version": "1.0.0",
     "ref": "customization kit",
     "localization": {
       "en_US": "customization kit",
@@ -546,8 +572,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "CraftRemake_02513_pl",
+    "version": "1.0.0",
     "ref": "customization kits",
     "localization": {
       "en_US": "customization kits",
@@ -567,8 +594,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_02502",
+    "version": "1.0.0",
     "ref": "stone",
     "localization": {
       "en_US": "stone",
@@ -588,8 +616,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_02502_pl",
+    "version": "1.0.0",
     "ref": "stones",
     "localization": {
       "en_US": "stones",
@@ -609,8 +638,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_02505",
+    "version": "1.0.0",
     "ref": "gold nugget",
     "localization": {
       "en_US": "gold nugget",
@@ -630,8 +660,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_02505_pl",
+    "version": "1.0.0",
     "ref": "gold nuggets",
     "localization": {
       "en_US": "gold nuggets",
@@ -651,8 +682,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_02511",
+    "version": "1.0.0",
     "ref": "iron nugget",
     "localization": {
       "en_US": "iron nugget",
@@ -672,8 +704,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_02511_pl",
+    "version": "1.0.0",
     "ref": "iron nuggets",
     "localization": {
       "en_US": "iron nuggets",
@@ -693,8 +726,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_03090",
+    "version": "1.0.0",
     "ref": "clay",
     "localization": {
       "en_US": "clay",
@@ -714,8 +748,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Ore_03090_pl",
+    "version": "1.0.0",
     "ref": "clay",
     "localization": {
       "en_US": "clay",
@@ -735,8 +770,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Sakurapetal_05859",
+    "version": "1.0.0",
     "ref": "cherry-blossom petal",
     "localization": {
       "en_US": "cherry-blossom petal",
@@ -756,8 +792,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "Sakurapetal_05859_pl",
+    "version": "1.0.0",
     "ref": "cherry-blossom petals",
     "localization": {
       "en_US": "cherry-blossom petals",
@@ -777,8 +814,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "SnowCrystal_03539",
+    "version": "1.0.0",
     "ref": "snowflake",
     "localization": {
       "en_US": "snowflake",
@@ -798,8 +836,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "SnowCrystal_03539_pl",
+    "version": "1.0.0",
     "ref": "snowflakes",
     "localization": {
       "en_US": "snowflakes",
@@ -819,8 +858,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "SnowCrystal_03540",
+    "version": "1.0.0",
     "ref": "large snowflake",
     "localization": {
       "en_US": "large snowflake",
@@ -840,8 +880,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "SnowCrystal_03540_pl",
+    "version": "1.0.0",
     "ref": "large snowflakes",
     "localization": {
       "en_US": "large snowflakes",
@@ -861,8 +902,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05983",
+    "version": "1.0.0",
     "ref": "star fragment",
     "localization": {
       "en_US": "star fragment",
@@ -882,8 +924,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05983_pl",
+    "version": "1.0.0",
     "ref": "star fragments",
     "localization": {
       "en_US": "star fragments",
@@ -903,8 +946,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05984",
+    "version": "1.0.0",
     "ref": "large star fragment",
     "localization": {
       "en_US": "large star fragment",
@@ -924,8 +968,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05984_pl",
+    "version": "1.0.0",
     "ref": "large star fragments",
     "localization": {
       "en_US": "large star fragments",
@@ -945,8 +990,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05985",
+    "version": "1.0.0",
     "ref": "Capricorn fragment",
     "localization": {
       "en_US": "Capricorn fragment",
@@ -966,8 +1012,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05985_pl",
+    "version": "1.0.0",
     "ref": "Capricorn fragments",
     "localization": {
       "en_US": "Capricorn fragments",
@@ -987,8 +1034,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05986",
+    "version": "1.0.0",
     "ref": "Aquarius fragment",
     "localization": {
       "en_US": "Aquarius fragment",
@@ -1008,8 +1056,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05986_pl",
+    "version": "1.0.0",
     "ref": "Aquarius fragments",
     "localization": {
       "en_US": "Aquarius fragments",
@@ -1029,8 +1078,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05987",
+    "version": "1.0.0",
     "ref": "Pisces fragment",
     "localization": {
       "en_US": "Pisces fragment",
@@ -1050,8 +1100,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05987_pl",
+    "version": "1.0.0",
     "ref": "Pisces fragments",
     "localization": {
       "en_US": "Pisces fragments",
@@ -1071,8 +1122,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05988",
+    "version": "1.0.0",
     "ref": "Aries fragment",
     "localization": {
       "en_US": "Aries fragment",
@@ -1092,8 +1144,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05988_pl",
+    "version": "1.0.0",
     "ref": "Aries fragments",
     "localization": {
       "en_US": "Aries fragments",
@@ -1113,8 +1166,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05989",
+    "version": "1.0.0",
     "ref": "Taurus fragment",
     "localization": {
       "en_US": "Taurus fragment",
@@ -1134,8 +1188,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05989_pl",
+    "version": "1.0.0",
     "ref": "Taurus fragments",
     "localization": {
       "en_US": "Taurus fragments",
@@ -1155,8 +1210,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05990",
+    "version": "1.0.0",
     "ref": "Gemini fragment",
     "localization": {
       "en_US": "Gemini fragment",
@@ -1176,8 +1232,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05990_pl",
+    "version": "1.0.0",
     "ref": "Gemini fragments",
     "localization": {
       "en_US": "Gemini fragments",
@@ -1197,8 +1254,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05991",
+    "version": "1.0.0",
     "ref": "Cancer fragment",
     "localization": {
       "en_US": "Cancer fragment",
@@ -1218,8 +1276,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05991_pl",
+    "version": "1.0.0",
     "ref": "Cancer fragments",
     "localization": {
       "en_US": "Cancer fragments",
@@ -1239,8 +1298,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05992",
+    "version": "1.0.0",
     "ref": "Leo fragment",
     "localization": {
       "en_US": "Leo fragment",
@@ -1260,8 +1320,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05992_pl",
+    "version": "1.0.0",
     "ref": "Leo fragments",
     "localization": {
       "en_US": "Leo fragments",
@@ -1281,8 +1342,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05993",
+    "version": "1.0.0",
     "ref": "Virgo fragment",
     "localization": {
       "en_US": "Virgo fragment",
@@ -1302,8 +1364,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05993_pl",
+    "version": "1.0.0",
     "ref": "Virgo fragments",
     "localization": {
       "en_US": "Virgo fragments",
@@ -1323,8 +1386,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05994",
+    "version": "1.0.0",
     "ref": "Libra fragment",
     "localization": {
       "en_US": "Libra fragment",
@@ -1344,8 +1408,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05994_pl",
+    "version": "1.0.0",
     "ref": "Libra fragments",
     "localization": {
       "en_US": "Libra fragments",
@@ -1365,8 +1430,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05995",
+    "version": "1.0.0",
     "ref": "Scorpius fragment",
     "localization": {
       "en_US": "Scorpius fragment",
@@ -1386,8 +1452,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05995_pl",
+    "version": "1.0.0",
     "ref": "Scorpius fragments",
     "localization": {
       "en_US": "Scorpius fragments",
@@ -1407,8 +1474,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05996",
+    "version": "1.0.0",
     "ref": "Sagittarius fragment",
     "localization": {
       "en_US": "Sagittarius fragment",
@@ -1428,8 +1496,9 @@
     }
   },
   {
-    "SourceSheet": "Craft",
+    "sourceSheet": "Craft",
     "id": "StarPiece_05996_pl",
+    "version": "1.0.0",
     "ref": "Sagittarius fragments",
     "localization": {
       "en_US": "Sagittarius fragments",

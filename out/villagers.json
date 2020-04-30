@@ -1,7 +1,8 @@
 [
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant00",
+    "version": "1.0.0",
     "ref": "Cyrano",
     "localization": {
       "en_US": "Cyrano",
@@ -21,8 +22,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant01",
+    "version": "1.0.0",
     "ref": "Antonio",
     "localization": {
       "en_US": "Antonio",
@@ -42,8 +44,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant02",
+    "version": "1.0.0",
     "ref": "Pango",
     "localization": {
       "en_US": "Pango",
@@ -63,8 +66,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant03",
+    "version": "1.0.0",
     "ref": "Anabelle",
     "localization": {
       "en_US": "Anabelle",
@@ -84,8 +88,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant06",
+    "version": "1.0.0",
     "ref": "Snooty",
     "localization": {
       "en_US": "Snooty",
@@ -105,8 +110,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant08",
+    "version": "1.0.0",
     "ref": "Annalisa",
     "localization": {
       "en_US": "Annalisa",
@@ -122,12 +128,13 @@
       "zh_TW": "小雅",
       "ja_JP": "みやび",
       "ko_KR": "설백",
-      "ru_RU": "Аннализ"
+      "ru_RU": "Аннализа"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ant09",
+    "version": "1.0.0",
     "ref": "Olaf",
     "localization": {
       "en_US": "Olaf",
@@ -147,8 +154,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea00",
+    "version": "1.0.0",
     "ref": "Teddy",
     "localization": {
       "en_US": "Teddy",
@@ -168,8 +176,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea01",
+    "version": "1.0.0",
     "ref": "Pinky",
     "localization": {
       "en_US": "Pinky",
@@ -189,8 +198,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea02",
+    "version": "1.0.0",
     "ref": "Curt",
     "localization": {
       "en_US": "Curt",
@@ -210,8 +220,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea03",
+    "version": "1.0.0",
     "ref": "Chow",
     "localization": {
       "en_US": "Chow",
@@ -231,8 +242,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea05",
+    "version": "1.0.0",
     "ref": "Nate",
     "localization": {
       "en_US": "Nate",
@@ -252,8 +264,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea06",
+    "version": "1.0.0",
     "ref": "Groucho",
     "localization": {
       "en_US": "Groucho",
@@ -273,8 +286,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea07",
+    "version": "1.0.0",
     "ref": "Tutu",
     "localization": {
       "en_US": "Tutu",
@@ -294,8 +308,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea08",
+    "version": "1.0.0",
     "ref": "Ursala",
     "localization": {
       "en_US": "Ursala",
@@ -311,12 +326,13 @@
       "zh_TW": "妮雅",
       "ja_JP": "ネーヤ",
       "ko_KR": "네이아",
-      "ru_RU": "Урсал"
+      "ru_RU": "Урсала"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea09",
+    "version": "1.0.0",
     "ref": "Grizzly",
     "localization": {
       "en_US": "Grizzly",
@@ -336,8 +352,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea10",
+    "version": "1.0.0",
     "ref": "Paula",
     "localization": {
       "en_US": "Paula",
@@ -353,12 +370,13 @@
       "zh_TW": "瑞秋",
       "ja_JP": "レイチェル",
       "ko_KR": "레이첼",
-      "ru_RU": "Паул"
+      "ru_RU": "Паула"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea11",
+    "version": "1.0.0",
     "ref": "Ike",
     "localization": {
       "en_US": "Ike",
@@ -378,8 +396,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea12",
+    "version": "1.0.0",
     "ref": "Charlise",
     "localization": {
       "en_US": "Charlise",
@@ -399,8 +418,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea13",
+    "version": "1.0.0",
     "ref": "Beardo",
     "localization": {
       "en_US": "Beardo",
@@ -420,8 +440,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea14",
+    "version": "1.0.0",
     "ref": "Klaus",
     "localization": {
       "en_US": "Klaus",
@@ -441,8 +462,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bea15",
+    "version": "1.0.0",
     "ref": "Megan",
     "localization": {
       "en_US": "Megan",
@@ -462,8 +484,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd00",
+    "version": "1.0.0",
     "ref": "Jay",
     "localization": {
       "en_US": "Jay",
@@ -479,12 +502,13 @@
       "zh_TW": "阿燕",
       "ja_JP": "ツバクロ",
       "ko_KR": "참돌이",
-      "ru_RU": "Дже"
+      "ru_RU": "Джей"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd01",
+    "version": "1.0.0",
     "ref": "Robin",
     "localization": {
       "en_US": "Robin",
@@ -504,8 +528,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd02",
+    "version": "1.0.0",
     "ref": "Anchovy",
     "localization": {
       "en_US": "Anchovy",
@@ -525,8 +550,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd03",
+    "version": "1.0.0",
     "ref": "Twiggy",
     "localization": {
       "en_US": "Twiggy",
@@ -546,8 +572,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd04",
+    "version": "1.0.0",
     "ref": "Jitters",
     "localization": {
       "en_US": "Jitters",
@@ -567,8 +594,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd05",
+    "version": "1.0.0",
     "ref": "Piper",
     "localization": {
       "en_US": "Piper",
@@ -588,8 +616,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd06",
+    "version": "1.0.0",
     "ref": "Admiral",
     "localization": {
       "en_US": "Admiral",
@@ -609,8 +638,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd08",
+    "version": "1.0.0",
     "ref": "Midge",
     "localization": {
       "en_US": "Midge",
@@ -630,8 +660,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd11",
+    "version": "1.0.0",
     "ref": "Jakey",
     "localization": {
       "en_US": "Jacob",
@@ -651,8 +682,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd15",
+    "version": "1.0.0",
     "ref": "Lucha",
     "localization": {
       "en_US": "Lucha",
@@ -668,12 +700,13 @@
       "zh_TW": "摔角鴉",
       "ja_JP": "マスカラス",
       "ko_KR": "마스카라스",
-      "ru_RU": "Луч"
+      "ru_RU": "Луча"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd16",
+    "version": "1.0.0",
     "ref": "Jacques",
     "localization": {
       "en_US": "Jacques",
@@ -693,8 +726,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd17",
+    "version": "1.0.0",
     "ref": "Peck",
     "localization": {
       "en_US": "Peck",
@@ -714,8 +748,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "brd18",
+    "version": "1.0.0",
     "ref": "Sparro",
     "localization": {
       "en_US": "Sparro",
@@ -735,8 +770,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bul00",
+    "version": "1.0.0",
     "ref": "Angus",
     "localization": {
       "en_US": "Angus",
@@ -756,8 +792,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bul01",
+    "version": "1.0.0",
     "ref": "Rodeo",
     "localization": {
       "en_US": "Rodeo",
@@ -777,8 +814,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bul03",
+    "version": "1.0.0",
     "ref": "Stu",
     "localization": {
       "en_US": "Stu",
@@ -798,8 +836,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bul05",
+    "version": "1.0.0",
     "ref": "T-Bone",
     "localization": {
       "en_US": "T-Bone",
@@ -819,8 +858,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bul07",
+    "version": "1.0.0",
     "ref": "Coach",
     "localization": {
       "en_US": "Coach",
@@ -840,8 +880,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "bul08",
+    "version": "1.0.0",
     "ref": "Vic",
     "localization": {
       "en_US": "Vic",
@@ -861,8 +902,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat00",
+    "version": "1.0.0",
     "ref": "Bob",
     "localization": {
       "en_US": "Bob",
@@ -882,8 +924,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat01",
+    "version": "1.0.0",
     "ref": "Mitzi",
     "localization": {
       "en_US": "Mitzi",
@@ -903,8 +946,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat02",
+    "version": "1.0.0",
     "ref": "Rosie",
     "localization": {
       "en_US": "Rosie",
@@ -924,8 +968,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat03",
+    "version": "1.0.0",
     "ref": "Olivia",
     "localization": {
       "en_US": "Olivia",
@@ -941,12 +986,13 @@
       "zh_TW": "奧莉",
       "ja_JP": "オリビア",
       "ko_KR": "올리비아",
-      "ru_RU": "Оливи"
+      "ru_RU": "Оливия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat04",
+    "version": "1.0.0",
     "ref": "Kiki",
     "localization": {
       "en_US": "Kiki",
@@ -966,8 +1012,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat05",
+    "version": "1.0.0",
     "ref": "Tangy",
     "localization": {
       "en_US": "Tangy",
@@ -987,8 +1034,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat06",
+    "version": "1.0.0",
     "ref": "Punchy",
     "localization": {
       "en_US": "Punchy",
@@ -1008,8 +1056,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat07",
+    "version": "1.0.0",
     "ref": "Purrl",
     "localization": {
       "en_US": "Purrl",
@@ -1029,8 +1078,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat08",
+    "version": "1.0.0",
     "ref": "Moe",
     "localization": {
       "en_US": "Moe",
@@ -1050,8 +1100,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat09",
+    "version": "1.0.0",
     "ref": "Kabuki",
     "localization": {
       "en_US": "Kabuki",
@@ -1071,8 +1122,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat10",
+    "version": "1.0.0",
     "ref": "Kid Cat",
     "localization": {
       "en_US": "Kid Cat",
@@ -1088,12 +1140,13 @@
       "zh_TW": "阿一",
       "ja_JP": "１ごう",
       "ko_KR": "1호",
-      "ru_RU": "Кид"
+      "ru_RU": "Кид Кэт"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat11",
+    "version": "1.0.0",
     "ref": "Monique",
     "localization": {
       "en_US": "Monique",
@@ -1113,8 +1166,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat12",
+    "version": "1.0.0",
     "ref": "Tabby",
     "localization": {
       "en_US": "Tabby",
@@ -1134,8 +1188,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat13",
+    "version": "1.0.0",
     "ref": "Stinky",
     "localization": {
       "en_US": "Stinky",
@@ -1155,8 +1210,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat14",
+    "version": "1.0.0",
     "ref": "Kitty",
     "localization": {
       "en_US": "Kitty",
@@ -1176,8 +1232,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat15",
+    "version": "1.0.0",
     "ref": "Tom",
     "localization": {
       "en_US": "Tom",
@@ -1197,8 +1254,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat16",
+    "version": "1.0.0",
     "ref": "Merry",
     "localization": {
       "en_US": "Merry",
@@ -1218,8 +1276,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat17",
+    "version": "1.0.0",
     "ref": "Felicity",
     "localization": {
       "en_US": "Felicity",
@@ -1239,8 +1298,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat18",
+    "version": "1.0.0",
     "ref": "Lolly",
     "localization": {
       "en_US": "Lolly",
@@ -1260,8 +1320,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat19",
+    "version": "1.0.0",
     "ref": "Ankha",
     "localization": {
       "en_US": "Ankha",
@@ -1277,12 +1338,13 @@
       "zh_TW": "艷后",
       "ja_JP": "ナイル",
       "ko_KR": "클레오",
-      "ru_RU": "Анк"
+      "ru_RU": "Анка"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat20",
+    "version": "1.0.0",
     "ref": "Rudy",
     "localization": {
       "en_US": "Rudy",
@@ -1302,8 +1364,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat21",
+    "version": "1.0.0",
     "ref": "Katt",
     "localization": {
       "en_US": "Katt",
@@ -1323,8 +1386,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cat23",
+    "version": "1.0.0",
     "ref": "Raymond",
     "localization": {
       "en_US": "Raymond",
@@ -1344,8 +1408,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr00",
+    "version": "1.0.0",
     "ref": "Bluebear",
     "localization": {
       "en_US": "Bluebear",
@@ -1365,8 +1430,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr01",
+    "version": "1.0.0",
     "ref": "Maple",
     "localization": {
       "en_US": "Maple",
@@ -1386,8 +1452,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr02",
+    "version": "1.0.0",
     "ref": "Poncho",
     "localization": {
       "en_US": "Poncho",
@@ -1407,8 +1474,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr03",
+    "version": "1.0.0",
     "ref": "Pudge",
     "localization": {
       "en_US": "Pudge",
@@ -1428,8 +1496,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr04",
+    "version": "1.0.0",
     "ref": "Kody",
     "localization": {
       "en_US": "Kody",
@@ -1449,8 +1518,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr05",
+    "version": "1.0.0",
     "ref": "Stitches",
     "localization": {
       "en_US": "Stitches",
@@ -1470,8 +1540,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr06",
+    "version": "1.0.0",
     "ref": "Vladimir",
     "localization": {
       "en_US": "Vladimir",
@@ -1491,8 +1562,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr07",
+    "version": "1.0.0",
     "ref": "Murphy",
     "localization": {
       "en_US": "Murphy",
@@ -1512,8 +1584,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr09",
+    "version": "1.0.0",
     "ref": "Olive",
     "localization": {
       "en_US": "Olive",
@@ -1533,8 +1606,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr10",
+    "version": "1.0.0",
     "ref": "Cheri",
     "localization": {
       "en_US": "Cheri",
@@ -1554,8 +1628,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr13",
+    "version": "1.0.0",
     "ref": "June",
     "localization": {
       "en_US": "June",
@@ -1575,8 +1650,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr14",
+    "version": "1.0.0",
     "ref": "Pekoe",
     "localization": {
       "en_US": "Pekoe",
@@ -1596,8 +1672,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr15",
+    "version": "1.0.0",
     "ref": "Chester",
     "localization": {
       "en_US": "Chester",
@@ -1617,8 +1694,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr16",
+    "version": "1.0.0",
     "ref": "Barold",
     "localization": {
       "en_US": "Barold",
@@ -1638,8 +1716,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr17",
+    "version": "1.0.0",
     "ref": "Tammy",
     "localization": {
       "en_US": "Tammy",
@@ -1659,8 +1738,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr18",
+    "version": "1.0.0",
     "ref": "Marty",
     "localization": {
       "en_US": "Marty",
@@ -1680,8 +1760,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cbr19",
+    "version": "1.0.0",
     "ref": "Judy",
     "localization": {
       "en_US": "Judy",
@@ -1701,8 +1782,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn00",
+    "version": "1.0.0",
     "ref": "Goose",
     "localization": {
       "en_US": "Goose",
@@ -1722,8 +1804,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn01",
+    "version": "1.0.0",
     "ref": "Benedict",
     "localization": {
       "en_US": "Benedict",
@@ -1743,8 +1826,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn02",
+    "version": "1.0.0",
     "ref": "Egbert",
     "localization": {
       "en_US": "Egbert",
@@ -1764,8 +1848,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn05",
+    "version": "1.0.0",
     "ref": "Ava",
     "localization": {
       "en_US": "Ava",
@@ -1781,12 +1866,13 @@
       "zh_TW": "陶米咕",
       "ja_JP": "ドミグラ",
       "ko_KR": "에바",
-      "ru_RU": "Ав"
+      "ru_RU": "Ава"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn09",
+    "version": "1.0.0",
     "ref": "Becky",
     "localization": {
       "en_US": "Becky",
@@ -1806,8 +1892,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn10",
+    "version": "1.0.0",
     "ref": "Plucky",
     "localization": {
       "en_US": "Plucky",
@@ -1827,8 +1914,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn11",
+    "version": "1.0.0",
     "ref": "Knox",
     "localization": {
       "en_US": "Knox",
@@ -1848,8 +1936,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn12",
+    "version": "1.0.0",
     "ref": "Broffina",
     "localization": {
       "en_US": "Broffina",
@@ -1865,12 +1954,13 @@
       "zh_TW": "凱西",
       "ja_JP": "カサンドラ",
       "ko_KR": "히킨",
-      "ru_RU": "Броффин"
+      "ru_RU": "Броффина"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "chn13",
+    "version": "1.0.0",
     "ref": "Ken",
     "localization": {
       "en_US": "Ken",
@@ -1890,8 +1980,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cow00",
+    "version": "1.0.0",
     "ref": "Patty",
     "localization": {
       "en_US": "Patty",
@@ -1911,8 +2002,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cow01",
+    "version": "1.0.0",
     "ref": "Tipper",
     "localization": {
       "en_US": "Tipper",
@@ -1932,8 +2024,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cow06",
+    "version": "1.0.0",
     "ref": "Norma",
     "localization": {
       "en_US": "Norma",
@@ -1949,12 +2042,13 @@
       "zh_TW": "晨曦",
       "ja_JP": "いさこ",
       "ko_KR": "미자",
-      "ru_RU": "Норм"
+      "ru_RU": "Норма"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "cow07",
+    "version": "1.0.0",
     "ref": "Naomi",
     "localization": {
       "en_US": "Naomi",
@@ -1974,8 +2068,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd00",
+    "version": "1.0.0",
     "ref": "Alfonso",
     "localization": {
       "en_US": "Alfonso",
@@ -1995,8 +2090,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd01",
+    "version": "1.0.0",
     "ref": "Alli",
     "localization": {
       "en_US": "Alli",
@@ -2016,8 +2112,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd02",
+    "version": "1.0.0",
     "ref": "Boots",
     "localization": {
       "en_US": "Boots",
@@ -2037,8 +2134,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd04",
+    "version": "1.0.0",
     "ref": "Del",
     "localization": {
       "en_US": "Del",
@@ -2058,8 +2156,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd06",
+    "version": "1.0.0",
     "ref": "Sly",
     "localization": {
       "en_US": "Sly",
@@ -2075,12 +2174,13 @@
       "zh_TW": "海德",
       "ja_JP": "ハイド",
       "ko_KR": "하이드",
-      "ru_RU": "Сла"
+      "ru_RU": "Слай"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd07",
+    "version": "1.0.0",
     "ref": "Gayle",
     "localization": {
       "en_US": "Gayle",
@@ -2100,8 +2200,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "crd08",
+    "version": "1.0.0",
     "ref": "Drago",
     "localization": {
       "en_US": "Drago",
@@ -2121,8 +2222,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der00",
+    "version": "1.0.0",
     "ref": "Fauna",
     "localization": {
       "en_US": "Fauna",
@@ -2138,12 +2240,13 @@
       "zh_TW": "音音",
       "ja_JP": "ドレミ",
       "ko_KR": "솔미",
-      "ru_RU": "Фаун"
+      "ru_RU": "Фауна"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der01",
+    "version": "1.0.0",
     "ref": "Bam",
     "localization": {
       "en_US": "Bam",
@@ -2163,8 +2266,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der02",
+    "version": "1.0.0",
     "ref": "Zell",
     "localization": {
       "en_US": "Zell",
@@ -2184,8 +2288,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der03",
+    "version": "1.0.0",
     "ref": "Bruce",
     "localization": {
       "en_US": "Bruce",
@@ -2205,8 +2310,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der04",
+    "version": "1.0.0",
     "ref": "Deirdre",
     "localization": {
       "en_US": "Deirdre",
@@ -2226,8 +2332,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der05",
+    "version": "1.0.0",
     "ref": "Lopez",
     "localization": {
       "en_US": "Lopez",
@@ -2247,8 +2354,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der06",
+    "version": "1.0.0",
     "ref": "Fuchsia",
     "localization": {
       "en_US": "Fuchsia",
@@ -2264,12 +2372,13 @@
       "zh_TW": "潔西卡",
       "ja_JP": "ジェシカ",
       "ko_KR": "제시카",
-      "ru_RU": "Фукси"
+      "ru_RU": "Фуксия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der07",
+    "version": "1.0.0",
     "ref": "Beau",
     "localization": {
       "en_US": "Beau",
@@ -2289,8 +2398,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der08",
+    "version": "1.0.0",
     "ref": "Diana",
     "localization": {
       "en_US": "Diana",
@@ -2306,12 +2416,13 @@
       "zh_TW": "倪家莉",
       "ja_JP": "ナタリー",
       "ko_KR": "나탈리",
-      "ru_RU": "Диан"
+      "ru_RU": "Диана"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der09",
+    "version": "1.0.0",
     "ref": "Erik",
     "localization": {
       "en_US": "Erik",
@@ -2331,8 +2442,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "der10",
+    "version": "1.0.0",
     "ref": "Chelsea",
     "localization": {
       "en_US": "Chelsea",
@@ -2352,8 +2464,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog00",
+    "version": "1.0.0",
     "ref": "Goldie",
     "localization": {
       "en_US": "Goldie",
@@ -2373,8 +2486,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog01",
+    "version": "1.0.0",
     "ref": "Butch",
     "localization": {
       "en_US": "Butch",
@@ -2394,8 +2508,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog02",
+    "version": "1.0.0",
     "ref": "Lucky",
     "localization": {
       "en_US": "Lucky",
@@ -2415,8 +2530,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog03",
+    "version": "1.0.0",
     "ref": "Biskit",
     "localization": {
       "en_US": "Biskit",
@@ -2436,8 +2552,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog04",
+    "version": "1.0.0",
     "ref": "Bones",
     "localization": {
       "en_US": "Bones",
@@ -2457,8 +2574,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog05",
+    "version": "1.0.0",
     "ref": "Portia",
     "localization": {
       "en_US": "Portia",
@@ -2474,12 +2592,13 @@
       "zh_TW": "傅蘭",
       "ja_JP": "ブレンダ",
       "ko_KR": "블랜더",
-      "ru_RU": "Порци"
+      "ru_RU": "Порция"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog06",
+    "version": "1.0.0",
     "ref": "Walker",
     "localization": {
       "en_US": "Walker",
@@ -2499,8 +2618,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog07",
+    "version": "1.0.0",
     "ref": "Daisy",
     "localization": {
       "en_US": "Daisy",
@@ -2520,8 +2640,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog08",
+    "version": "1.0.0",
     "ref": "Cookie",
     "localization": {
       "en_US": "Cookie",
@@ -2541,8 +2662,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog09",
+    "version": "1.0.0",
     "ref": "Maddie",
     "localization": {
       "en_US": "Maddie",
@@ -2562,8 +2684,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog10",
+    "version": "1.0.0",
     "ref": "Bea",
     "localization": {
       "en_US": "Bea",
@@ -2579,12 +2702,13 @@
       "zh_TW": "貝果",
       "ja_JP": "ベーグル",
       "ko_KR": "베이글",
-      "ru_RU": "Бе"
+      "ru_RU": "Беа"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog14",
+    "version": "1.0.0",
     "ref": "Mac",
     "localization": {
       "en_US": "Mac",
@@ -2604,8 +2728,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog15",
+    "version": "1.0.0",
     "ref": "Marcel",
     "localization": {
       "en_US": "Marcel",
@@ -2621,12 +2746,13 @@
       "zh_TW": "文字燒",
       "ja_JP": "もんじゃ",
       "ko_KR": "에드워드",
-      "ru_RU": "Марсел"
+      "ru_RU": "Марсель"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog16",
+    "version": "1.0.0",
     "ref": "Benjamin",
     "localization": {
       "en_US": "Benjamin",
@@ -2646,8 +2772,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog17",
+    "version": "1.0.0",
     "ref": "Cherry",
     "localization": {
       "en_US": "Cherry",
@@ -2667,8 +2794,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "dog18",
+    "version": "1.0.0",
     "ref": "Shep",
     "localization": {
       "en_US": "Shep",
@@ -2688,8 +2816,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk00",
+    "version": "1.0.0",
     "ref": "Bill",
     "localization": {
       "en_US": "Bill",
@@ -2709,8 +2838,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk01",
+    "version": "1.0.0",
     "ref": "Joey",
     "localization": {
       "en_US": "Joey",
@@ -2730,8 +2860,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk02",
+    "version": "1.0.0",
     "ref": "Pate",
     "localization": {
       "en_US": "Pate",
@@ -2751,8 +2882,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk03",
+    "version": "1.0.0",
     "ref": "Maelle",
     "localization": {
       "en_US": "Maelle",
@@ -2772,8 +2904,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk04",
+    "version": "1.0.0",
     "ref": "Deena",
     "localization": {
       "en_US": "Deena",
@@ -2789,12 +2922,13 @@
       "zh_TW": "毬藻",
       "ja_JP": "まりも",
       "ko_KR": "마리모",
-      "ru_RU": "Дин"
+      "ru_RU": "Дина"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk05",
+    "version": "1.0.0",
     "ref": "Pompom",
     "localization": {
       "en_US": "Pompom",
@@ -2814,8 +2948,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk06",
+    "version": "1.0.0",
     "ref": "Mallary",
     "localization": {
       "en_US": "Mallary",
@@ -2835,8 +2970,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk07",
+    "version": "1.0.0",
     "ref": "Freckles",
     "localization": {
       "en_US": "Freckles",
@@ -2856,8 +2992,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk08",
+    "version": "1.0.0",
     "ref": "Derwin",
     "localization": {
       "en_US": "Derwin",
@@ -2877,8 +3014,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk09",
+    "version": "1.0.0",
     "ref": "Drake",
     "localization": {
       "en_US": "Drake",
@@ -2898,8 +3036,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk10",
+    "version": "1.0.0",
     "ref": "Scoot",
     "localization": {
       "en_US": "Scoot",
@@ -2919,8 +3058,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk11",
+    "version": "1.0.0",
     "ref": "Weber",
     "localization": {
       "en_US": "Weber",
@@ -2940,8 +3080,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk12",
+    "version": "1.0.0",
     "ref": "Miranda",
     "localization": {
       "en_US": "Miranda",
@@ -2957,12 +3098,13 @@
       "zh_TW": "米蘭達",
       "ja_JP": "ミランダ",
       "ko_KR": "미란다",
-      "ru_RU": "Миранд"
+      "ru_RU": "Миранда"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk13",
+    "version": "1.0.0",
     "ref": "Ketchup",
     "localization": {
       "en_US": "Ketchup",
@@ -2982,8 +3124,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk15",
+    "version": "1.0.0",
     "ref": "Gloria",
     "localization": {
       "en_US": "Gloria",
@@ -2999,12 +3142,13 @@
       "zh_TW": "素返真",
       "ja_JP": "スワンソン",
       "ko_KR": "마릴린",
-      "ru_RU": "Глори"
+      "ru_RU": "Глория"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk16",
+    "version": "1.0.0",
     "ref": "Molly",
     "localization": {
       "en_US": "Molly",
@@ -3024,8 +3168,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "duk17",
+    "version": "1.0.0",
     "ref": "Quillson",
     "localization": {
       "en_US": "Quillson",
@@ -3045,8 +3190,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp00",
+    "version": "1.0.0",
     "ref": "Opal",
     "localization": {
       "en_US": "Opal",
@@ -3066,8 +3212,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp01",
+    "version": "1.0.0",
     "ref": "Dizzy",
     "localization": {
       "en_US": "Dizzy",
@@ -3087,8 +3234,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp02",
+    "version": "1.0.0",
     "ref": "Big Top",
     "localization": {
       "en_US": "Big Top",
@@ -3108,8 +3256,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp03",
+    "version": "1.0.0",
     "ref": "Eloise",
     "localization": {
       "en_US": "Eloise",
@@ -3125,12 +3274,13 @@
       "zh_TW": "艾勒芬",
       "ja_JP": "エレフィン",
       "ko_KR": "엘레핀",
-      "ru_RU": "Элоиз"
+      "ru_RU": "Элоиза"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp04",
+    "version": "1.0.0",
     "ref": "Margie",
     "localization": {
       "en_US": "Margie",
@@ -3150,8 +3300,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp05",
+    "version": "1.0.0",
     "ref": "Paolo",
     "localization": {
       "en_US": "Paolo",
@@ -3171,8 +3322,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp06",
+    "version": "1.0.0",
     "ref": "Axel",
     "localization": {
       "en_US": "Axel",
@@ -3188,12 +3340,13 @@
       "zh_TW": "大大",
       "ja_JP": "エックスエル",
       "ko_KR": "엑스엘리",
-      "ru_RU": "Аксел"
+      "ru_RU": "Аксель"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp07",
+    "version": "1.0.0",
     "ref": "Ellie",
     "localization": {
       "en_US": "Ellie",
@@ -3209,12 +3362,13 @@
       "zh_TW": "泡芙",
       "ja_JP": "エクレア",
       "ko_KR": "에끌레르",
-      "ru_RU": "Элл"
+      "ru_RU": "Элла"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp09",
+    "version": "1.0.0",
     "ref": "Tucker",
     "localization": {
       "en_US": "Tucker",
@@ -3234,8 +3388,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp10",
+    "version": "1.0.0",
     "ref": "Tia",
     "localization": {
       "en_US": "Tia",
@@ -3251,12 +3406,13 @@
       "zh_TW": "茉莉",
       "ja_JP": "ティーナ",
       "ko_KR": "티나",
-      "ru_RU": "Ти"
+      "ru_RU": "Тиа"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp11",
+    "version": "1.0.0",
     "ref": "Chai",
     "localization": {
       "en_US": "Chai",
@@ -3276,8 +3432,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "elp12",
+    "version": "1.0.0",
     "ref": "Cyd",
     "localization": {
       "en_US": "Cyd",
@@ -3297,8 +3454,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg00",
+    "version": "1.0.0",
     "ref": "Lily",
     "localization": {
       "en_US": "Lily",
@@ -3318,8 +3476,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg01",
+    "version": "1.0.0",
     "ref": "Ribbot",
     "localization": {
       "en_US": "Ribbot",
@@ -3339,8 +3498,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg02",
+    "version": "1.0.0",
     "ref": "Frobert",
     "localization": {
       "en_US": "Frobert",
@@ -3360,8 +3520,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg03",
+    "version": "1.0.0",
     "ref": "Camofrog",
     "localization": {
       "en_US": "Camofrog",
@@ -3381,8 +3542,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg04",
+    "version": "1.0.0",
     "ref": "Drift",
     "localization": {
       "en_US": "Drift",
@@ -3402,8 +3564,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg05",
+    "version": "1.0.0",
     "ref": "Wart Jr.",
     "localization": {
       "en_US": "Wart Jr.",
@@ -3419,12 +3582,13 @@
       "zh_TW": "山姆",
       "ja_JP": "サム",
       "ko_KR": "샘",
-      "ru_RU": "Варт"
+      "ru_RU": "Варт-мл."
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg06",
+    "version": "1.0.0",
     "ref": "Puddles",
     "localization": {
       "en_US": "Puddles",
@@ -3440,12 +3604,13 @@
       "zh_TW": "剪刀",
       "ja_JP": "チョキ",
       "ko_KR": "가위",
-      "ru_RU": "Ренат"
+      "ru_RU": "Рената"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg07",
+    "version": "1.0.0",
     "ref": "Jeremiah",
     "localization": {
       "en_US": "Jeremiah",
@@ -3461,12 +3626,13 @@
       "zh_TW": "阿刻",
       "ja_JP": "クワトロ",
       "ko_KR": "드리미",
-      "ru_RU": "Джереми"
+      "ru_RU": "Джеремия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg09",
+    "version": "1.0.0",
     "ref": "Tad",
     "localization": {
       "en_US": "Tad",
@@ -3486,8 +3652,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg10",
+    "version": "1.0.0",
     "ref": "Cousteau",
     "localization": {
       "en_US": "Cousteau",
@@ -3507,8 +3674,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg11",
+    "version": "1.0.0",
     "ref": "Huck",
     "localization": {
       "en_US": "Huck",
@@ -3528,8 +3696,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg12",
+    "version": "1.0.0",
     "ref": "Prince",
     "localization": {
       "en_US": "Prince",
@@ -3549,8 +3718,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg13",
+    "version": "1.0.0",
     "ref": "Jambette",
     "localization": {
       "en_US": "Jambette",
@@ -3570,8 +3740,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg15",
+    "version": "1.0.0",
     "ref": "Raddle",
     "localization": {
       "en_US": "Raddle",
@@ -3591,8 +3762,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg16",
+    "version": "1.0.0",
     "ref": "Gigi",
     "localization": {
       "en_US": "Gigi",
@@ -3612,8 +3784,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg17",
+    "version": "1.0.0",
     "ref": "Croque",
     "localization": {
       "en_US": "Croque",
@@ -3633,8 +3806,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg18",
+    "version": "1.0.0",
     "ref": "Diva",
     "localization": {
       "en_US": "Diva",
@@ -3650,12 +3824,13 @@
       "zh_TW": "小睫",
       "ja_JP": "アイーダ",
       "ko_KR": "아이다",
-      "ru_RU": "Див"
+      "ru_RU": "Дива"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "flg19",
+    "version": "1.0.0",
     "ref": "Henry",
     "localization": {
       "en_US": "Henry",
@@ -3675,8 +3850,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa00",
+    "version": "1.0.0",
     "ref": "Chevre",
     "localization": {
       "en_US": "Chevre",
@@ -3696,8 +3872,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa01",
+    "version": "1.0.0",
     "ref": "Nan",
     "localization": {
       "en_US": "Nan",
@@ -3717,8 +3894,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa02",
+    "version": "1.0.0",
     "ref": "Billy",
     "localization": {
       "en_US": "Billy",
@@ -3738,8 +3916,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa04",
+    "version": "1.0.0",
     "ref": "Gruff",
     "localization": {
       "en_US": "Gruff",
@@ -3759,8 +3938,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa06",
+    "version": "1.0.0",
     "ref": "Velma",
     "localization": {
       "en_US": "Velma",
@@ -3776,12 +3956,13 @@
       "zh_TW": "班長",
       "ja_JP": "ピティエ",
       "ko_KR": "벨마",
-      "ru_RU": "Велм"
+      "ru_RU": "Велма"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa07",
+    "version": "1.0.0",
     "ref": "Kidd",
     "localization": {
       "en_US": "Kidd",
@@ -3801,8 +3982,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa08",
+    "version": "1.0.0",
     "ref": "Pashmina",
     "localization": {
       "en_US": "Pashmina",
@@ -3818,12 +4000,13 @@
       "zh_TW": "芭芭拉",
       "ja_JP": "バーバラ",
       "ko_KR": "바바라",
-      "ru_RU": "Пашмин"
+      "ru_RU": "Пашмина"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "goa09",
+    "version": "1.0.0",
     "ref": "Sherb",
     "localization": {
       "en_US": "Sherb",
@@ -3843,8 +4026,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor00",
+    "version": "1.0.0",
     "ref": "Cesar",
     "localization": {
       "en_US": "Cesar",
@@ -3860,12 +4044,13 @@
       "zh_TW": "阿朗",
       "ja_JP": "アラン",
       "ko_KR": "앨런",
-      "ru_RU": "Цезар"
+      "ru_RU": "Цезарь"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor01",
+    "version": "1.0.0",
     "ref": "Peewee",
     "localization": {
       "en_US": "Peewee",
@@ -3885,8 +4070,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor02",
+    "version": "1.0.0",
     "ref": "Boone",
     "localization": {
       "en_US": "Boone",
@@ -3906,8 +4092,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor04",
+    "version": "1.0.0",
     "ref": "Louie",
     "localization": {
       "en_US": "Louie",
@@ -3927,8 +4114,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor05",
+    "version": "1.0.0",
     "ref": "Boyd",
     "localization": {
       "en_US": "Boyd",
@@ -3948,8 +4136,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor07",
+    "version": "1.0.0",
     "ref": "Violet",
     "localization": {
       "en_US": "Violet",
@@ -3965,12 +4154,13 @@
       "zh_TW": "吳紫眉",
       "ja_JP": "ウズメ",
       "ko_KR": "줌마",
-      "ru_RU": "Конг"
+      "ru_RU": "Конга"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor08",
+    "version": "1.0.0",
     "ref": "Al",
     "localization": {
       "en_US": "Al",
@@ -3990,8 +4180,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor09",
+    "version": "1.0.0",
     "ref": "Rocket",
     "localization": {
       "en_US": "Rocket",
@@ -4011,8 +4202,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor10",
+    "version": "1.0.0",
     "ref": "Hans",
     "localization": {
       "en_US": "Hans",
@@ -4032,8 +4224,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "gor11",
+    "version": "1.0.0",
     "ref": "Rilla",
     "localization": {
       "en_US": "Rilla",
@@ -4049,12 +4242,13 @@
       "zh_TW": "莉拉",
       "ja_JP": "リラ",
       "ko_KR": "릴라",
-      "ru_RU": "Рилл"
+      "ru_RU": "Рилла"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham00",
+    "version": "1.0.0",
     "ref": "Hamlet",
     "localization": {
       "en_US": "Hamlet",
@@ -4074,8 +4268,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham01",
+    "version": "1.0.0",
     "ref": "Apple",
     "localization": {
       "en_US": "Apple",
@@ -4095,8 +4290,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham02",
+    "version": "1.0.0",
     "ref": "Graham",
     "localization": {
       "en_US": "Graham",
@@ -4116,8 +4312,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham03",
+    "version": "1.0.0",
     "ref": "Rodney",
     "localization": {
       "en_US": "Rodney",
@@ -4137,8 +4334,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham04",
+    "version": "1.0.0",
     "ref": "Soleil",
     "localization": {
       "en_US": "Soleil",
@@ -4158,8 +4356,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham05",
+    "version": "1.0.0",
     "ref": "Clay",
     "localization": {
       "en_US": "Clay",
@@ -4175,12 +4374,13 @@
       "zh_TW": "子墨",
       "ja_JP": "どぐろう",
       "ko_KR": "햄둥",
-      "ru_RU": "Клэ"
+      "ru_RU": "Клэй"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham06",
+    "version": "1.0.0",
     "ref": "Flurry",
     "localization": {
       "en_US": "Flurry",
@@ -4200,8 +4400,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ham07",
+    "version": "1.0.0",
     "ref": "Hamphrey",
     "localization": {
       "en_US": "Hamphrey",
@@ -4221,8 +4422,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip00",
+    "version": "1.0.0",
     "ref": "Rocco",
     "localization": {
       "en_US": "Rocco",
@@ -4242,8 +4444,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip02",
+    "version": "1.0.0",
     "ref": "Bubbles",
     "localization": {
       "en_US": "Bubbles",
@@ -4263,8 +4466,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip03",
+    "version": "1.0.0",
     "ref": "Bertha",
     "localization": {
       "en_US": "Bertha",
@@ -4280,12 +4484,13 @@
       "zh_TW": "豆沙",
       "ja_JP": "あんこ",
       "ko_KR": "베티",
-      "ru_RU": "Берт"
+      "ru_RU": "Берта"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip04",
+    "version": "1.0.0",
     "ref": "Biff",
     "localization": {
       "en_US": "Biff",
@@ -4305,8 +4510,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip05",
+    "version": "1.0.0",
     "ref": "Bitty",
     "localization": {
       "en_US": "Bitty",
@@ -4326,8 +4532,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip08",
+    "version": "1.0.0",
     "ref": "Harry",
     "localization": {
       "en_US": "Harry",
@@ -4347,8 +4554,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hip09",
+    "version": "1.0.0",
     "ref": "Hippeux",
     "localization": {
       "en_US": "Hippeux",
@@ -4368,8 +4576,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs00",
+    "version": "1.0.0",
     "ref": "Buck",
     "localization": {
       "en_US": "Buck",
@@ -4389,8 +4598,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs01",
+    "version": "1.0.0",
     "ref": "Victoria",
     "localization": {
       "en_US": "Victoria",
@@ -4406,12 +4616,13 @@
       "zh_TW": "聖蘿",
       "ja_JP": "セントアロー",
       "ko_KR": "센트엘로",
-      "ru_RU": "Виктори"
+      "ru_RU": "Виктория"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs02",
+    "version": "1.0.0",
     "ref": "Savannah",
     "localization": {
       "en_US": "Savannah",
@@ -4427,12 +4638,13 @@
       "zh_TW": "草斑娜",
       "ja_JP": "サバンナ",
       "ko_KR": "사반나",
-      "ru_RU": "Саванн"
+      "ru_RU": "Саванна"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs03",
+    "version": "1.0.0",
     "ref": "Elmer",
     "localization": {
       "en_US": "Elmer",
@@ -4452,8 +4664,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs04",
+    "version": "1.0.0",
     "ref": "Roscoe",
     "localization": {
       "en_US": "Roscoe",
@@ -4473,8 +4686,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs05",
+    "version": "1.0.0",
     "ref": "Winnie",
     "localization": {
       "en_US": "Winnie",
@@ -4494,8 +4708,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs06",
+    "version": "1.0.0",
     "ref": "Ed",
     "localization": {
       "en_US": "Ed",
@@ -4515,8 +4730,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs07",
+    "version": "1.0.0",
     "ref": "Cleo",
     "localization": {
       "en_US": "Cleo",
@@ -4536,8 +4752,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs08",
+    "version": "1.0.0",
     "ref": "Peaches",
     "localization": {
       "en_US": "Peaches",
@@ -4557,8 +4774,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs09",
+    "version": "1.0.0",
     "ref": "Annalise",
     "localization": {
       "en_US": "Annalise",
@@ -4574,12 +4792,13 @@
       "zh_TW": "舒芙蕾",
       "ja_JP": "シルブプレ",
       "ko_KR": "실부플레",
-      "ru_RU": "Лиз"
+      "ru_RU": "Лиза"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs10",
+    "version": "1.0.0",
     "ref": "Clyde",
     "localization": {
       "en_US": "Clyde",
@@ -4599,8 +4818,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs11",
+    "version": "1.0.0",
     "ref": "Colton",
     "localization": {
       "en_US": "Colton",
@@ -4620,8 +4840,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs12",
+    "version": "1.0.0",
     "ref": "Papi",
     "localization": {
       "en_US": "Papi",
@@ -4641,8 +4862,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs13",
+    "version": "1.0.0",
     "ref": "Julian",
     "localization": {
       "en_US": "Julian",
@@ -4662,8 +4884,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "hrs16",
+    "version": "1.0.0",
     "ref": "Reneigh",
     "localization": {
       "en_US": "Reneigh",
@@ -4683,8 +4906,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal00",
+    "version": "1.0.0",
     "ref": "Yuka",
     "localization": {
       "en_US": "Yuka",
@@ -4700,12 +4924,13 @@
       "zh_TW": "尤嘉莉",
       "ja_JP": "ユーカリ",
       "ko_KR": "유카리",
-      "ru_RU": "Юк"
+      "ru_RU": "Юка"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal01",
+    "version": "1.0.0",
     "ref": "Alice",
     "localization": {
       "en_US": "Alice",
@@ -4721,12 +4946,13 @@
       "zh_TW": "莫兒",
       "ja_JP": "メルボルン",
       "ko_KR": "멜버른",
-      "ru_RU": "Алис"
+      "ru_RU": "Алиса"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal02",
+    "version": "1.0.0",
     "ref": "Melba",
     "localization": {
       "en_US": "Melba",
@@ -4742,12 +4968,13 @@
       "zh_TW": "阿得",
       "ja_JP": "アデレード",
       "ko_KR": "아델레이드",
-      "ru_RU": "Мельб"
+      "ru_RU": "Мельба"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal03",
+    "version": "1.0.0",
     "ref": "Sydney",
     "localization": {
       "en_US": "Sydney",
@@ -4767,8 +4994,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal04",
+    "version": "1.0.0",
     "ref": "Gonzo",
     "localization": {
       "en_US": "Gonzo",
@@ -4788,8 +5016,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal05",
+    "version": "1.0.0",
     "ref": "Ozzie",
     "localization": {
       "en_US": "Ozzie",
@@ -4809,8 +5038,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal08",
+    "version": "1.0.0",
     "ref": "Canberra",
     "localization": {
       "en_US": "Canberra",
@@ -4826,12 +5056,13 @@
       "zh_TW": "簡培菈",
       "ja_JP": "キャンベラ",
       "ko_KR": "캔버라",
-      "ru_RU": "Канберр"
+      "ru_RU": "Канберра"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal09",
+    "version": "1.0.0",
     "ref": "Lyman",
     "localization": {
       "en_US": "Lyman",
@@ -4851,8 +5082,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kal10",
+    "version": "1.0.0",
     "ref": "Eugene",
     "localization": {
       "en_US": "Eugene",
@@ -4872,8 +5104,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr00",
+    "version": "1.0.0",
     "ref": "Kitt",
     "localization": {
       "en_US": "Kitt",
@@ -4893,8 +5126,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr01",
+    "version": "1.0.0",
     "ref": "Mathilda",
     "localization": {
       "en_US": "Mathilda",
@@ -4910,12 +5144,13 @@
       "zh_TW": "亞莎",
       "ja_JP": "アザラク",
       "ko_KR": "안젤라",
-      "ru_RU": "Матильд"
+      "ru_RU": "Матильда"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr02",
+    "version": "1.0.0",
     "ref": "Carrie",
     "localization": {
       "en_US": "Carrie",
@@ -4935,8 +5170,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr05",
+    "version": "1.0.0",
     "ref": "Astrid",
     "localization": {
       "en_US": "Astrid",
@@ -4956,8 +5192,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr06",
+    "version": "1.0.0",
     "ref": "Sylvia",
     "localization": {
       "en_US": "Sylvia",
@@ -4973,12 +5210,13 @@
       "zh_TW": "希薇亞",
       "ja_JP": "シルビア",
       "ko_KR": "실비아",
-      "ru_RU": "Сильви"
+      "ru_RU": "Сильвия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr08",
+    "version": "1.0.0",
     "ref": "Walt",
     "localization": {
       "en_US": "Walt",
@@ -4998,8 +5236,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr09",
+    "version": "1.0.0",
     "ref": "Rooney",
     "localization": {
       "en_US": "Rooney",
@@ -5019,8 +5258,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "kgr10",
+    "version": "1.0.0",
     "ref": "Marcie",
     "localization": {
       "en_US": "Marcie",
@@ -5040,8 +5280,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon00",
+    "version": "1.0.0",
     "ref": "Bud",
     "localization": {
       "en_US": "Bud",
@@ -5061,8 +5302,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon01",
+    "version": "1.0.0",
     "ref": "Elvis",
     "localization": {
       "en_US": "Elvis",
@@ -5082,8 +5324,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon02",
+    "version": "1.0.0",
     "ref": "Rex",
     "localization": {
       "en_US": "Rex",
@@ -5103,8 +5346,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon04",
+    "version": "1.0.0",
     "ref": "Leopold",
     "localization": {
       "en_US": "Leopold",
@@ -5124,8 +5368,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon06",
+    "version": "1.0.0",
     "ref": "Mott",
     "localization": {
       "en_US": "Mott",
@@ -5145,8 +5390,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon07",
+    "version": "1.0.0",
     "ref": "Rory",
     "localization": {
       "en_US": "Rory",
@@ -5166,8 +5412,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "lon08",
+    "version": "1.0.0",
     "ref": "Lionel",
     "localization": {
       "en_US": "Lionel",
@@ -5187,8 +5434,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk01",
+    "version": "1.0.0",
     "ref": "Nana",
     "localization": {
       "en_US": "Nana",
@@ -5204,12 +5452,13 @@
       "zh_TW": "七七",
       "ja_JP": "チッチ",
       "ko_KR": "키키",
-      "ru_RU": "Нан"
+      "ru_RU": "Нана"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk02",
+    "version": "1.0.0",
     "ref": "Simon",
     "localization": {
       "en_US": "Simon",
@@ -5229,8 +5478,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk03",
+    "version": "1.0.0",
     "ref": "Tammi",
     "localization": {
       "en_US": "Tammi",
@@ -5250,8 +5500,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk04",
+    "version": "1.0.0",
     "ref": "Monty",
     "localization": {
       "en_US": "Monty",
@@ -5271,8 +5522,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk05",
+    "version": "1.0.0",
     "ref": "Elise",
     "localization": {
       "en_US": "Elise",
@@ -5288,12 +5540,13 @@
       "zh_TW": "孟琪",
       "ja_JP": "モンこ",
       "ko_KR": "몽자",
-      "ru_RU": "Элиз"
+      "ru_RU": "Элиза"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk06",
+    "version": "1.0.0",
     "ref": "Flip",
     "localization": {
       "en_US": "Flip",
@@ -5313,8 +5566,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk07",
+    "version": "1.0.0",
     "ref": "Shari",
     "localization": {
       "en_US": "Shari",
@@ -5334,8 +5588,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mnk08",
+    "version": "1.0.0",
     "ref": "Deli",
     "localization": {
       "en_US": "Deli",
@@ -5355,8 +5610,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus00",
+    "version": "1.0.0",
     "ref": "Dora",
     "localization": {
       "en_US": "Dora",
@@ -5372,12 +5628,13 @@
       "zh_TW": "杜美",
       "ja_JP": "とめ",
       "ko_KR": "티미",
-      "ru_RU": "Дор"
+      "ru_RU": "Дора"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus01",
+    "version": "1.0.0",
     "ref": "Limberg",
     "localization": {
       "en_US": "Limberg",
@@ -5397,8 +5654,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus02",
+    "version": "1.0.0",
     "ref": "Bella",
     "localization": {
       "en_US": "Bella",
@@ -5414,12 +5672,13 @@
       "zh_TW": "貝拉",
       "ja_JP": "イザベラ",
       "ko_KR": "이자벨",
-      "ru_RU": "Белл"
+      "ru_RU": "Белла"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus03",
+    "version": "1.0.0",
     "ref": "Bree",
     "localization": {
       "en_US": "Bree",
@@ -5439,8 +5698,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus04",
+    "version": "1.0.0",
     "ref": "Samson",
     "localization": {
       "en_US": "Samson",
@@ -5460,8 +5720,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus05",
+    "version": "1.0.0",
     "ref": "Rod",
     "localization": {
       "en_US": "Rod",
@@ -5481,8 +5742,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus08",
+    "version": "1.0.0",
     "ref": "Candi",
     "localization": {
       "en_US": "Candi",
@@ -5502,8 +5764,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus09",
+    "version": "1.0.0",
     "ref": "Rizzo",
     "localization": {
       "en_US": "Rizzo",
@@ -5523,8 +5786,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus10",
+    "version": "1.0.0",
     "ref": "Anicotti",
     "localization": {
       "en_US": "Anicotti",
@@ -5544,8 +5808,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus12",
+    "version": "1.0.0",
     "ref": "Broccolo",
     "localization": {
       "en_US": "Broccolo",
@@ -5565,8 +5830,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus14",
+    "version": "1.0.0",
     "ref": "Moose",
     "localization": {
       "en_US": "Moose",
@@ -5586,8 +5852,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus15",
+    "version": "1.0.0",
     "ref": "Bettina",
     "localization": {
       "en_US": "Bettina",
@@ -5603,12 +5870,13 @@
       "zh_TW": "丸子",
       "ja_JP": "マルコ",
       "ko_KR": "마르카",
-      "ru_RU": "Беттин"
+      "ru_RU": "Беттина"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus16",
+    "version": "1.0.0",
     "ref": "Greta",
     "localization": {
       "en_US": "Greta",
@@ -5624,12 +5892,13 @@
       "zh_TW": "如意",
       "ja_JP": "ふくこ",
       "ko_KR": "복자",
-      "ru_RU": "Грет"
+      "ru_RU": "Грета"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus17",
+    "version": "1.0.0",
     "ref": "Penelope",
     "localization": {
       "en_US": "Penelope",
@@ -5645,12 +5914,13 @@
       "zh_TW": "小啾",
       "ja_JP": "チューこ",
       "ko_KR": "찍순이",
-      "ru_RU": "Адел"
+      "ru_RU": "Адела"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "mus18",
+    "version": "1.0.0",
     "ref": "Chadder",
     "localization": {
       "en_US": "Chadder",
@@ -5670,8 +5940,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ocp00",
+    "version": "1.0.0",
     "ref": "Octavian",
     "localization": {
       "en_US": "Octavian",
@@ -5691,8 +5962,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ocp01",
+    "version": "1.0.0",
     "ref": "Marina",
     "localization": {
       "en_US": "Marina",
@@ -5708,12 +5980,13 @@
       "zh_TW": "章立娜",
       "ja_JP": "タコリーナ",
       "ko_KR": "문리나",
-      "ru_RU": "Марин"
+      "ru_RU": "Марина"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ocp02",
+    "version": "1.0.0",
     "ref": "Zucker",
     "localization": {
       "en_US": "Zucker",
@@ -5733,8 +6006,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost00",
+    "version": "1.0.0",
     "ref": "Queenie",
     "localization": {
       "en_US": "Queenie",
@@ -5754,8 +6028,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost01",
+    "version": "1.0.0",
     "ref": "Gladys",
     "localization": {
       "en_US": "Gladys",
@@ -5775,8 +6050,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost02",
+    "version": "1.0.0",
     "ref": "Sandy",
     "localization": {
       "en_US": "Sandy",
@@ -5796,8 +6072,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost03",
+    "version": "1.0.0",
     "ref": "Sprocket",
     "localization": {
       "en_US": "Sprocket",
@@ -5817,8 +6094,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost05",
+    "version": "1.0.0",
     "ref": "Julia",
     "localization": {
       "en_US": "Julia",
@@ -5834,12 +6112,13 @@
       "zh_TW": "朱莉亞",
       "ja_JP": "ジュリア",
       "ko_KR": "줄리아",
-      "ru_RU": "Джули"
+      "ru_RU": "Джулия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost06",
+    "version": "1.0.0",
     "ref": "Cranston",
     "localization": {
       "en_US": "Cranston",
@@ -5859,8 +6138,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost07",
+    "version": "1.0.0",
     "ref": "Phil",
     "localization": {
       "en_US": "Phil",
@@ -5880,8 +6160,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost08",
+    "version": "1.0.0",
     "ref": "Blanche",
     "localization": {
       "en_US": "Blanche",
@@ -5901,8 +6182,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost09",
+    "version": "1.0.0",
     "ref": "Flora",
     "localization": {
       "en_US": "Flora",
@@ -5918,12 +6200,13 @@
       "zh_TW": "胡拉拉",
       "ja_JP": "フララ",
       "ko_KR": "플라라",
-      "ru_RU": "Флор"
+      "ru_RU": "Флора"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "ost10",
+    "version": "1.0.0",
     "ref": "Phoebe",
     "localization": {
       "en_US": "Phoebe",
@@ -5943,8 +6226,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr00",
+    "version": "1.0.0",
     "ref": "Apollo",
     "localization": {
       "en_US": "Apollo",
@@ -5964,8 +6248,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr01",
+    "version": "1.0.0",
     "ref": "Amelia",
     "localization": {
       "en_US": "Amelia",
@@ -5981,12 +6266,13 @@
       "zh_TW": "安地斯",
       "ja_JP": "アンデス",
       "ko_KR": "안데스",
-      "ru_RU": "Амели"
+      "ru_RU": "Амелия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr02",
+    "version": "1.0.0",
     "ref": "Pierce",
     "localization": {
       "en_US": "Pierce",
@@ -6006,8 +6292,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr03",
+    "version": "1.0.0",
     "ref": "Buzz",
     "localization": {
       "en_US": "Buzz",
@@ -6027,8 +6314,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr05",
+    "version": "1.0.0",
     "ref": "Avery",
     "localization": {
       "en_US": "Avery",
@@ -6048,8 +6336,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr06",
+    "version": "1.0.0",
     "ref": "Frank",
     "localization": {
       "en_US": "Frank",
@@ -6069,8 +6358,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr07",
+    "version": "1.0.0",
     "ref": "Sterling",
     "localization": {
       "en_US": "Sterling",
@@ -6090,8 +6380,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr08",
+    "version": "1.0.0",
     "ref": "Keaton",
     "localization": {
       "en_US": "Keaton",
@@ -6111,8 +6402,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pbr09",
+    "version": "1.0.0",
     "ref": "Celia",
     "localization": {
       "en_US": "Celia",
@@ -6128,12 +6420,13 @@
       "zh_TW": "蒂芬妮",
       "ja_JP": "ティファニー",
       "ko_KR": "티파니",
-      "ru_RU": "Сели"
+      "ru_RU": "Селия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn00",
+    "version": "1.0.0",
     "ref": "Aurora",
     "localization": {
       "en_US": "Aurora",
@@ -6149,12 +6442,13 @@
       "zh_TW": "歐若拉",
       "ja_JP": "オーロラ",
       "ko_KR": "오로라",
-      "ru_RU": "Аврор"
+      "ru_RU": "Аврора"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn01",
+    "version": "1.0.0",
     "ref": "Roald",
     "localization": {
       "en_US": "Roald",
@@ -6174,8 +6468,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn02",
+    "version": "1.0.0",
     "ref": "Cube",
     "localization": {
       "en_US": "Cube",
@@ -6195,8 +6490,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn03",
+    "version": "1.0.0",
     "ref": "Hopper",
     "localization": {
       "en_US": "Hopper",
@@ -6216,8 +6512,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn04",
+    "version": "1.0.0",
     "ref": "Friga",
     "localization": {
       "en_US": "Friga",
@@ -6233,12 +6530,13 @@
       "zh_TW": "謝賓娜",
       "ja_JP": "サブリナ",
       "ko_KR": "사브리나",
-      "ru_RU": "Фриг"
+      "ru_RU": "Фрига"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn05",
+    "version": "1.0.0",
     "ref": "Gwen",
     "localization": {
       "en_US": "Gwen",
@@ -6258,8 +6556,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn06",
+    "version": "1.0.0",
     "ref": "Puck",
     "localization": {
       "en_US": "Puck",
@@ -6279,8 +6578,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn09",
+    "version": "1.0.0",
     "ref": "Wade",
     "localization": {
       "en_US": "Wade",
@@ -6300,8 +6600,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn10",
+    "version": "1.0.0",
     "ref": "Boomer",
     "localization": {
       "en_US": "Boomer",
@@ -6321,8 +6622,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn11",
+    "version": "1.0.0",
     "ref": "Iggly",
     "localization": {
       "en_US": "Iggly",
@@ -6342,8 +6644,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn12",
+    "version": "1.0.0",
     "ref": "Tex",
     "localization": {
       "en_US": "Tex",
@@ -6363,8 +6666,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn13",
+    "version": "1.0.0",
     "ref": "Flo",
     "localization": {
       "en_US": "Flo",
@@ -6384,8 +6688,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pgn14",
+    "version": "1.0.0",
     "ref": "Sprinkle",
     "localization": {
       "en_US": "Sprinkle",
@@ -6405,8 +6710,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig00",
+    "version": "1.0.0",
     "ref": "Curly",
     "localization": {
       "en_US": "Curly",
@@ -6426,8 +6732,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig01",
+    "version": "1.0.0",
     "ref": "Truffles",
     "localization": {
       "en_US": "Truffles",
@@ -6447,8 +6754,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig02",
+    "version": "1.0.0",
     "ref": "Rasher",
     "localization": {
       "en_US": "Rasher",
@@ -6468,8 +6776,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig03",
+    "version": "1.0.0",
     "ref": "Hugh",
     "localization": {
       "en_US": "Hugh",
@@ -6489,8 +6798,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig04",
+    "version": "1.0.0",
     "ref": "Lucy",
     "localization": {
       "en_US": "Lucy",
@@ -6510,8 +6820,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig05",
+    "version": "1.0.0",
     "ref": "Crackle",
     "localization": {
       "en_US": "Spork",
@@ -6531,8 +6842,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig08",
+    "version": "1.0.0",
     "ref": "Cobb",
     "localization": {
       "en_US": "Cobb",
@@ -6552,8 +6864,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig09",
+    "version": "1.0.0",
     "ref": "Boris",
     "localization": {
       "en_US": "Boris",
@@ -6573,8 +6886,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig10",
+    "version": "1.0.0",
     "ref": "Maggie",
     "localization": {
       "en_US": "Maggie",
@@ -6594,8 +6908,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig11",
+    "version": "1.0.0",
     "ref": "Peggy",
     "localization": {
       "en_US": "Peggy",
@@ -6615,8 +6930,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig13",
+    "version": "1.0.0",
     "ref": "Gala",
     "localization": {
       "en_US": "Gala",
@@ -6632,12 +6948,13 @@
       "zh_TW": "小芽",
       "ja_JP": "ためこ",
       "ko_KR": "꽃지",
-      "ru_RU": "Гал"
+      "ru_RU": "Гала"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig14",
+    "version": "1.0.0",
     "ref": "Chops",
     "localization": {
       "en_US": "Chops",
@@ -6657,8 +6974,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig15",
+    "version": "1.0.0",
     "ref": "Kevin",
     "localization": {
       "en_US": "Kevin",
@@ -6678,8 +6996,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig16",
+    "version": "1.0.0",
     "ref": "Pancetti",
     "localization": {
       "en_US": "Pancetti",
@@ -6699,8 +7018,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "pig17",
+    "version": "1.0.0",
     "ref": "Agnes",
     "localization": {
       "en_US": "Agnes",
@@ -6720,8 +7040,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt00",
+    "version": "1.0.0",
     "ref": "Bunnie",
     "localization": {
       "en_US": "Bunnie",
@@ -6741,8 +7062,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt01",
+    "version": "1.0.0",
     "ref": "Dotty",
     "localization": {
       "en_US": "Dotty",
@@ -6762,8 +7084,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt02",
+    "version": "1.0.0",
     "ref": "Coco",
     "localization": {
       "en_US": "Coco",
@@ -6783,8 +7106,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt03",
+    "version": "1.0.0",
     "ref": "Snake",
     "localization": {
       "en_US": "Snake",
@@ -6804,8 +7128,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt04",
+    "version": "1.0.0",
     "ref": "Gaston",
     "localization": {
       "en_US": "Gaston",
@@ -6825,8 +7150,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt05",
+    "version": "1.0.0",
     "ref": "Gabi",
     "localization": {
       "en_US": "Gabi",
@@ -6846,8 +7172,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt06",
+    "version": "1.0.0",
     "ref": "Pippy",
     "localization": {
       "en_US": "Pippy",
@@ -6867,8 +7194,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt07",
+    "version": "1.0.0",
     "ref": "Tiffany",
     "localization": {
       "en_US": "Tiffany",
@@ -6888,8 +7216,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt08",
+    "version": "1.0.0",
     "ref": "Genji",
     "localization": {
       "en_US": "Genji",
@@ -6909,8 +7238,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt09",
+    "version": "1.0.0",
     "ref": "Ruby",
     "localization": {
       "en_US": "Ruby",
@@ -6930,8 +7260,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt10",
+    "version": "1.0.0",
     "ref": "Doc",
     "localization": {
       "en_US": "Doc",
@@ -6951,8 +7282,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt11",
+    "version": "1.0.0",
     "ref": "Claude",
     "localization": {
       "en_US": "Claude",
@@ -6972,8 +7304,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt12",
+    "version": "1.0.0",
     "ref": "Francine",
     "localization": {
       "en_US": "Francine",
@@ -6993,8 +7326,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt13",
+    "version": "1.0.0",
     "ref": "Chrissy",
     "localization": {
       "en_US": "Chrissy",
@@ -7014,8 +7348,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt14",
+    "version": "1.0.0",
     "ref": "Hopkins",
     "localization": {
       "en_US": "Hopkins",
@@ -7035,8 +7370,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt15",
+    "version": "1.0.0",
     "ref": "O'Hare",
     "localization": {
       "en_US": "O'Hare",
@@ -7056,8 +7392,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt16",
+    "version": "1.0.0",
     "ref": "Carmen",
     "localization": {
       "en_US": "Carmen",
@@ -7077,8 +7414,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt17",
+    "version": "1.0.0",
     "ref": "Bonbon",
     "localization": {
       "en_US": "Bonbon",
@@ -7098,8 +7436,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt18",
+    "version": "1.0.0",
     "ref": "Cole",
     "localization": {
       "en_US": "Cole",
@@ -7119,8 +7458,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt19",
+    "version": "1.0.0",
     "ref": "Mira",
     "localization": {
       "en_US": "Mira",
@@ -7136,12 +7476,13 @@
       "zh_TW": "蜜拉",
       "ja_JP": "ミラコ",
       "ko_KR": "미랑",
-      "ru_RU": "Мир"
+      "ru_RU": "Мира"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rbt20",
+    "version": "1.0.0",
     "ref": "Toby",
     "localization": {
       "en_US": "Toby",
@@ -7161,8 +7502,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rhn00",
+    "version": "1.0.0",
     "ref": "Tank",
     "localization": {
       "en_US": "Tank",
@@ -7182,8 +7524,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rhn01",
+    "version": "1.0.0",
     "ref": "Rhonda",
     "localization": {
       "en_US": "Rhonda",
@@ -7199,12 +7542,13 @@
       "zh_TW": "夢夢",
       "ja_JP": "ユメコ",
       "ko_KR": "론다",
-      "ru_RU": "Ронд"
+      "ru_RU": "Ронда"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rhn02",
+    "version": "1.0.0",
     "ref": "Spike",
     "localization": {
       "en_US": "Spike",
@@ -7224,8 +7568,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rhn04",
+    "version": "1.0.0",
     "ref": "Hornsby",
     "localization": {
       "en_US": "Hornsby",
@@ -7245,8 +7590,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rhn07",
+    "version": "1.0.0",
     "ref": "Merengue",
     "localization": {
       "en_US": "Merengue",
@@ -7266,8 +7612,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "rhn08",
+    "version": "1.0.0",
     "ref": "Renée",
     "localization": {
       "en_US": "Renée",
@@ -7287,8 +7634,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp00",
+    "version": "1.0.0",
     "ref": "Vesta",
     "localization": {
       "en_US": "Vesta",
@@ -7304,12 +7652,13 @@
       "zh_TW": "綿綿",
       "ja_JP": "メリヤス",
       "ko_KR": "메리어스",
-      "ru_RU": "Вест"
+      "ru_RU": "Веста"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp01",
+    "version": "1.0.0",
     "ref": "Baabara",
     "localization": {
       "en_US": "Baabara",
@@ -7325,12 +7674,13 @@
       "zh_TW": "華爾滋",
       "ja_JP": "トロワ",
       "ko_KR": "트로와",
-      "ru_RU": "Бабар"
+      "ru_RU": "Бабара"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp02",
+    "version": "1.0.0",
     "ref": "Eunice",
     "localization": {
       "en_US": "Eunice",
@@ -7350,8 +7700,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp03",
+    "version": "1.0.0",
     "ref": "Stella",
     "localization": {
       "en_US": "Stella",
@@ -7367,12 +7718,13 @@
       "zh_TW": "氈氈",
       "ja_JP": "アクリル",
       "ko_KR": "아크릴",
-      "ru_RU": "Стелл"
+      "ru_RU": "Стелла"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp04",
+    "version": "1.0.0",
     "ref": "Cashmere",
     "localization": {
       "en_US": "Cashmere",
@@ -7392,8 +7744,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp07",
+    "version": "1.0.0",
     "ref": "Willow",
     "localization": {
       "en_US": "Willow",
@@ -7413,8 +7766,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp08",
+    "version": "1.0.0",
     "ref": "Curlos",
     "localization": {
       "en_US": "Curlos",
@@ -7434,8 +7788,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp09",
+    "version": "1.0.0",
     "ref": "Wendy",
     "localization": {
       "en_US": "Wendy",
@@ -7455,8 +7810,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp10",
+    "version": "1.0.0",
     "ref": "Timbra",
     "localization": {
       "en_US": "Timbra",
@@ -7472,12 +7828,13 @@
       "zh_TW": "阿司",
       "ja_JP": "つかさ",
       "ko_KR": "잔디",
-      "ru_RU": "Тимбр"
+      "ru_RU": "Тимбра"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp11",
+    "version": "1.0.0",
     "ref": "Frita",
     "localization": {
       "en_US": "Frita",
@@ -7493,12 +7850,13 @@
       "zh_TW": "溫蒂",
       "ja_JP": "ウェンディ",
       "ko_KR": "웬디",
-      "ru_RU": "Фрит"
+      "ru_RU": "Фрита"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp12",
+    "version": "1.0.0",
     "ref": "Muffy",
     "localization": {
       "en_US": "Muffy",
@@ -7518,8 +7876,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp13",
+    "version": "1.0.0",
     "ref": "Pietro",
     "localization": {
       "en_US": "Pietro",
@@ -7539,8 +7898,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp14",
+    "version": "1.0.0",
     "ref": "Étoile",
     "localization": {
       "en_US": "Étoile",
@@ -7560,8 +7920,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "shp15",
+    "version": "1.0.0",
     "ref": "Dom",
     "localization": {
       "en_US": "Dom",
@@ -7581,8 +7942,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ00",
+    "version": "1.0.0",
     "ref": "Peanut",
     "localization": {
       "en_US": "Peanut",
@@ -7602,8 +7964,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ01",
+    "version": "1.0.0",
     "ref": "Blaire",
     "localization": {
       "en_US": "Blaire",
@@ -7623,8 +7986,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ02",
+    "version": "1.0.0",
     "ref": "Filbert",
     "localization": {
       "en_US": "Filbert",
@@ -7644,8 +8008,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ03",
+    "version": "1.0.0",
     "ref": "Pecan",
     "localization": {
       "en_US": "Pecan",
@@ -7665,8 +8030,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ04",
+    "version": "1.0.0",
     "ref": "Nibbles",
     "localization": {
       "en_US": "Nibbles",
@@ -7686,8 +8052,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ05",
+    "version": "1.0.0",
     "ref": "Agent S",
     "localization": {
       "en_US": "Agent S",
@@ -7703,12 +8070,13 @@
       "zh_TW": "阿二",
       "ja_JP": "２ごう",
       "ko_KR": "2호",
-      "ru_RU": "Агент"
+      "ru_RU": "Агент С"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ06",
+    "version": "1.0.0",
     "ref": "Caroline",
     "localization": {
       "en_US": "Caroline",
@@ -7724,12 +8092,13 @@
       "zh_TW": "賈蘿琳",
       "ja_JP": "キャロライン",
       "ko_KR": "캐롤라인",
-      "ru_RU": "Каролин"
+      "ru_RU": "Каролина"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ07",
+    "version": "1.0.0",
     "ref": "Sally",
     "localization": {
       "en_US": "Sally",
@@ -7749,8 +8118,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ08",
+    "version": "1.0.0",
     "ref": "Static",
     "localization": {
       "en_US": "Static",
@@ -7770,8 +8140,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ09",
+    "version": "1.0.0",
     "ref": "Mint",
     "localization": {
       "en_US": "Mint",
@@ -7791,8 +8162,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ10",
+    "version": "1.0.0",
     "ref": "Ricky",
     "localization": {
       "en_US": "Ricky",
@@ -7812,8 +8184,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ11",
+    "version": "1.0.0",
     "ref": "Cally",
     "localization": {
       "en_US": "Cally",
@@ -7833,8 +8206,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ13",
+    "version": "1.0.0",
     "ref": "Tasha",
     "localization": {
       "en_US": "Tasha",
@@ -7850,12 +8224,13 @@
       "zh_TW": "娜塔麗",
       "ja_JP": "ナターシャ",
       "ko_KR": "나타샤",
-      "ru_RU": "Таш"
+      "ru_RU": "Таша"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ14",
+    "version": "1.0.0",
     "ref": "Sylvana",
     "localization": {
       "en_US": "Sylvana",
@@ -7871,12 +8246,13 @@
       "zh_TW": "孟珮",
       "ja_JP": "もんぺ",
       "ko_KR": "실바나",
-      "ru_RU": "Сильван"
+      "ru_RU": "Сильвана"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ15",
+    "version": "1.0.0",
     "ref": "Poppy",
     "localization": {
       "en_US": "Poppy",
@@ -7896,8 +8272,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ16",
+    "version": "1.0.0",
     "ref": "Sheldon",
     "localization": {
       "en_US": "Sheldon",
@@ -7917,8 +8294,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ17",
+    "version": "1.0.0",
     "ref": "Marshal",
     "localization": {
       "en_US": "Marshal",
@@ -7938,8 +8316,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "squ18",
+    "version": "1.0.0",
     "ref": "Hazel",
     "localization": {
       "en_US": "Hazel",
@@ -7959,8 +8338,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig00",
+    "version": "1.0.0",
     "ref": "Rolf",
     "localization": {
       "en_US": "Rolf",
@@ -7980,8 +8360,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig01",
+    "version": "1.0.0",
     "ref": "Rowan",
     "localization": {
       "en_US": "Rowan",
@@ -8001,8 +8382,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig02",
+    "version": "1.0.0",
     "ref": "Tybalt",
     "localization": {
       "en_US": "Tybalt",
@@ -8022,8 +8404,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig03",
+    "version": "1.0.0",
     "ref": "Bangle",
     "localization": {
       "en_US": "Bangle",
@@ -8043,8 +8426,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig04",
+    "version": "1.0.0",
     "ref": "Leonardo",
     "localization": {
       "en_US": "Leonardo",
@@ -8064,8 +8448,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig05",
+    "version": "1.0.0",
     "ref": "Claudia",
     "localization": {
       "en_US": "Claudia",
@@ -8081,12 +8466,13 @@
       "zh_TW": "馬麗蓮",
       "ja_JP": "マリリン",
       "ko_KR": "신디",
-      "ru_RU": "Клауди"
+      "ru_RU": "Клаудия"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "tig06",
+    "version": "1.0.0",
     "ref": "Bianca",
     "localization": {
       "en_US": "Bianca",
@@ -8102,12 +8488,13 @@
       "zh_TW": "小雪",
       "ja_JP": "コユキ",
       "ko_KR": "백희",
-      "ru_RU": "Бьянк"
+      "ru_RU": "Бьянка"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol00",
+    "version": "1.0.0",
     "ref": "Chief",
     "localization": {
       "en_US": "Chief",
@@ -8127,8 +8514,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol01",
+    "version": "1.0.0",
     "ref": "Lobo",
     "localization": {
       "en_US": "Lobo",
@@ -8148,8 +8536,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol02",
+    "version": "1.0.0",
     "ref": "Wolfgang",
     "localization": {
       "en_US": "Wolfgang",
@@ -8169,8 +8558,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol03",
+    "version": "1.0.0",
     "ref": "Whitney",
     "localization": {
       "en_US": "Whitney",
@@ -8190,8 +8580,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol04",
+    "version": "1.0.0",
     "ref": "Dobie",
     "localization": {
       "en_US": "Dobie",
@@ -8211,8 +8602,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol05",
+    "version": "1.0.0",
     "ref": "Freya",
     "localization": {
       "en_US": "Freya",
@@ -8228,12 +8620,13 @@
       "zh_TW": "冰冰",
       "ja_JP": "ツンドラ",
       "ko_KR": "산드라",
-      "ru_RU": "Фре"
+      "ru_RU": "Фрея"
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol06",
+    "version": "1.0.0",
     "ref": "Fang",
     "localization": {
       "en_US": "Fang",
@@ -8253,8 +8646,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol08",
+    "version": "1.0.0",
     "ref": "Vivian",
     "localization": {
       "en_US": "Vivian",
@@ -8274,8 +8668,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol09",
+    "version": "1.0.0",
     "ref": "Skye",
     "localization": {
       "en_US": "Skye",
@@ -8295,8 +8690,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol10",
+    "version": "1.0.0",
     "ref": "Kyle",
     "localization": {
       "en_US": "Kyle",
@@ -8316,8 +8712,9 @@
     }
   },
   {
-    "SourceSheet": "Villagers",
+    "sourceSheet": "Villagers",
     "id": "wol12",
+    "version": "1.0.0",
     "ref": "Audie",
     "localization": {
       "en_US": "Audie",

@@ -36,7 +36,7 @@ const ETC_SHEETS = ['ETC'];
 
 const EVENTS_SHEETS = ['Events'];
 
-const FASHION_THEMES_SHEETS = ['Fashion Themes'];
+const FASHION_SHEETS = ['Fashion Themes'];
 
 const ITEM_SHEETS = [
   'Furniture',
@@ -72,7 +72,7 @@ const REACTIONS_SHEETS = ['Reactions'];
 
 const SPECIALNPC_SHEETS = ['Special NPCs'];
 
-const VILLAGERS_SHEETS = ['Villagers'];
+const VILLAGERS_SHEETS = ['Villagers', 'Villagers Catch Phrase'];
 
 type ItemData = any[];
 
@@ -95,7 +95,7 @@ export async function main(auth: OAuth2Client) {
     ['dinosaurs', DINOSAURS_SHEETS],
     ['etc', ETC_SHEETS],
     ['events', EVENTS_SHEETS],
-    ['fashion_themes', FASHION_THEMES_SHEETS],
+    ['fashion', FASHION_SHEETS],
     ['items', ITEM_SHEETS],
     ['villagers', VILLAGERS_SHEETS],
     ['specialnpc', SPECIALNPC_SHEETS],
@@ -156,7 +156,7 @@ export async function loadData(
     const [header, ...rows] = response.data.values!;
 
     for (const row of rows) {
-      data.push({SourceSheet: sheetName, ...zipObject(header, row)});
+      data.push({sourceSheet: sheetName, ...zipObject(header, row)});
     }
   }
 
@@ -167,8 +167,11 @@ export async function loadData(
 
 export async function normalizeData(data: ItemData, sheetKey: string) {
   for (const item of data) {
+    item.version = item.Version;
     item.ref = item['English (Europe)'];
     item.localization = {};
+
+    delete item.Version;
     // normalize Key to fit the ISO language code
     for (const objectKey of Object.keys(item)) {
       const locale = LOCALE.filter(item => item.name === objectKey);
