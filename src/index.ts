@@ -22,8 +22,23 @@ const LOCALE = [
   {name: 'Russian', iso: 'ru_RU'},
 ];
 
+const CONSTELLATIONS_SHEETS = ['Constellations'];
+
+const CONSTRUCTION_SHEETS = ['Bridge & Inclines'];
+
+const CRAFT_SHEETS = ['Craft'];
+
+const CREATURE_SHEETS = ['Bugs', 'Fish'];
+
+const DINOSAURS_SHEETS = ['Dinosaurs'];
+
+const EVENTS_SHEETS = ['Events'];
+
+const FASHION_THEMES_SHEETS = ['Fashion Themes'];
+
 const ITEM_SHEETS = [
   'Furniture',
+  'Event Items',
   'Art',
   'Floors',
   'Walls',
@@ -42,6 +57,8 @@ const ITEM_SHEETS = [
   'Tops',
   'Umbrella',
   'Doorplates',
+  'Posters',
+  'Pictures',
   'K.K. Albums',
   'Tools',
   'Plants',
@@ -49,15 +66,11 @@ const ITEM_SHEETS = [
   'Bugs Models',
 ];
 
-const CREATURE_SHEETS = ['Bugs', 'Fish'];
-
-const VILLAGERS_SHEETS = ['Villagers'];
+const REACTIONS_SHEETS = ['Reactions'];
 
 const SPECIALNPC_SHEETS = ['Special NPCs'];
 
-const CONSTRUCTION_SHEETS = ['Bridge & Inclines'];
-
-const REACTIONS_SHEETS = ['Reactions'];
+const VILLAGERS_SHEETS = ['Villagers'];
 
 type ItemData = any[];
 
@@ -73,10 +86,15 @@ export async function main(auth: OAuth2Client) {
   }
 
   const workSet: Array<[string, string[]]> = [
-    ['items', ITEM_SHEETS],
-    ['creatures', CREATURE_SHEETS],
-    ['villagers', VILLAGERS_SHEETS],
+    ['constellations', CONSTELLATIONS_SHEETS],
     ['construction', CONSTRUCTION_SHEETS],
+    ['crafts', CRAFT_SHEETS],
+    ['creatures', CREATURE_SHEETS],
+    ['dinosaurs', DINOSAURS_SHEETS],
+    ['events', EVENTS_SHEETS],
+    ['fashion_themes', FASHION_THEMES_SHEETS],
+    ['items', ITEM_SHEETS],
+    ['villagers', VILLAGERS_SHEETS],
     ['specialnpc', SPECIALNPC_SHEETS],
     ['reactions', REACTIONS_SHEETS],
   ];

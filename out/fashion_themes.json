@@ -1,0 +1,233 @@
+[
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Daily",
+    "ref": "everyday",
+    "localization": {
+      "en_US": "everyday",
+      "en_GB": "everyday",
+      "de_DE": "Alltagskleidung",
+      "es_ES": "todoterreno",
+      "es_US": "todoterreno",
+      "fr_FR": "tenue de tous les jours",
+      "fr_CA": "tenue de tous les jours",
+      "it_IT": "per tutti i giorni",
+      "nl_NL": "alledaags thema",
+      "zh_CN": "日常",
+      "zh_TW": "日常生活",
+      "ja_JP": "デイリー",
+      "ko_KR": "데일리",
+      "ru_RU": "повседневный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Fairyland",
+    "ref": "fairy tale",
+    "localization": {
+      "en_US": "fairy tale",
+      "en_GB": "fairy tale",
+      "de_DE": "Märchenkleidung",
+      "es_ES": "de fantasía",
+      "es_US": "de fantasía",
+      "fr_FR": "tenue féerique",
+      "fr_CA": "tenue féérique",
+      "it_IT": "da fiaba",
+      "nl_NL": "sprookjesthema",
+      "zh_CN": "童话世界",
+      "zh_TW": "童話世界",
+      "ja_JP": "メルヘン",
+      "ko_KR": "메르헨",
+      "ru_RU": "фантазийный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Fomal",
+    "ref": "formal",
+    "localization": {
+      "en_US": "formal",
+      "en_GB": "formal",
+      "de_DE": "Formellkleidung",
+      "es_ES": "formal",
+      "es_US": "formal",
+      "fr_FR": "tenue officielle",
+      "fr_CA": "tenue officielle",
+      "it_IT": "formale",
+      "nl_NL": "forme thema",
+      "zh_CN": "正式",
+      "zh_TW": "正式",
+      "ja_JP": "フォーマル",
+      "ko_KR": "포멀",
+      "ru_RU": "формальный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Horror",
+    "ref": "goth",
+    "localization": {
+      "en_US": "goth",
+      "en_GB": "goth",
+      "de_DE": "Horrorkleidung",
+      "es_ES": "gótico",
+      "es_US": "gótico",
+      "fr_FR": "tenue effrayante",
+      "fr_CA": "tenue effrayante",
+      "it_IT": "horror",
+      "nl_NL": "griezelthema",
+      "zh_CN": "恐怖",
+      "zh_TW": "恐怖",
+      "ja_JP": "ホラー",
+      "ko_KR": "호러",
+      "ru_RU": "готический"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Outdoor",
+    "ref": "outdoorsy",
+    "localization": {
+      "en_US": "outdoorsy",
+      "en_GB": "outdoorsy",
+      "de_DE": "Outdoorkleidung",
+      "es_ES": "casual",
+      "es_US": "de actividades al aire libre",
+      "fr_FR": "tenue d'extérieur",
+      "fr_CA": "tenue d'extérieur",
+      "it_IT": "da aria aperta",
+      "nl_NL": "weersbestendig thema",
+      "zh_CN": "户外",
+      "zh_TW": "戶外活動",
+      "ja_JP": "アウトドア",
+      "ko_KR": "아웃도어",
+      "ru_RU": "походный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Party",
+    "ref": "party",
+    "localization": {
+      "en_US": "party",
+      "en_GB": "party",
+      "de_DE": "Partykleidung",
+      "es_ES": "de fiesta",
+      "es_US": "de fiesta",
+      "fr_FR": "tenue de fête",
+      "fr_CA": "tenue de fête",
+      "it_IT": "da festa",
+      "nl_NL": "feestthema",
+      "zh_CN": "派对",
+      "zh_TW": "派對",
+      "ja_JP": "パーティー",
+      "ko_KR": "파티",
+      "ru_RU": "праздничный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Relax",
+    "ref": "comfy",
+    "localization": {
+      "en_US": "comfy",
+      "en_GB": "comfy",
+      "de_DE": "Freizeitkleidung",
+      "es_ES": "desenfadado",
+      "es_US": "desenfadado",
+      "fr_FR": "tenue de détente",
+      "fr_CA": "tenue de détente",
+      "it_IT": "confortevole",
+      "nl_NL": "vrijetijdsthema",
+      "zh_CN": "休闲",
+      "zh_TW": "悠閒",
+      "ja_JP": "リラックス",
+      "ko_KR": "릴랙스",
+      "ru_RU": "удобный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Sport",
+    "ref": "sporty",
+    "localization": {
+      "en_US": "sporty",
+      "en_GB": "sporty",
+      "de_DE": "Sportkleidung",
+      "es_ES": "deportivo",
+      "es_US": "deportivo",
+      "fr_FR": "tenue sport",
+      "fr_CA": "tenue sport",
+      "it_IT": "da sport",
+      "nl_NL": "sportthema",
+      "zh_CN": "运动",
+      "zh_TW": "運動",
+      "ja_JP": "スポーツ",
+      "ko_KR": "스포츠",
+      "ru_RU": "спортивный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Stage",
+    "ref": "theatrical",
+    "localization": {
+      "en_US": "theatrical",
+      "en_GB": "theatrical",
+      "de_DE": "Bühnenkleidung",
+      "es_ES": "teatral",
+      "es_US": "teatral",
+      "fr_FR": "tenue de scène",
+      "fr_CA": "tenue de scène",
+      "it_IT": "da teatro",
+      "nl_NL": "podiumthema",
+      "zh_CN": "舞台",
+      "zh_TW": "舞台",
+      "ja_JP": "ステージ",
+      "ko_KR": "스테이지",
+      "ru_RU": "эффектный"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Vacation",
+    "ref": "vacation",
+    "localization": {
+      "en_US": "vacation",
+      "en_GB": "vacation",
+      "de_DE": "Urlaubskleidung",
+      "es_ES": "vacacional",
+      "es_US": "vacacional",
+      "fr_FR": "tenue de vacances",
+      "fr_CA": "tenue de vacances",
+      "it_IT": "da vacanza",
+      "nl_NL": "vakantiethema",
+      "zh_CN": "度假",
+      "zh_TW": "度假",
+      "ja_JP": "バカンス",
+      "ko_KR": "바캉스",
+      "ru_RU": "отпускной"
+    }
+  },
+  {
+    "SourceSheet": "Fashion Themes",
+    "id": "Work",
+    "ref": "work",
+    "localization": {
+      "en_US": "work",
+      "en_GB": "work",
+      "de_DE": "Arbeitskleidung",
+      "es_ES": "profesional",
+      "es_US": "profesional",
+      "fr_FR": "tenue professionnelle",
+      "fr_CA": "tenue professionnelle",
+      "it_IT": "da lavoro",
+      "nl_NL": "werkthema",
+      "zh_CN": "工作",
+      "zh_TW": "工作",
+      "ja_JP": "おしごと仕事",
+      "ko_KR": "비즈니스",
+      "ru_RU": "рабочий"
+    }
+  }
+]
