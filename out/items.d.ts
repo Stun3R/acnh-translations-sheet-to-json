@@ -51,5 +51,5 @@ export interface Localization {
     zh_TW: string;
     ja_JP: string;
     ko_KR: string;
-    ru_RU?: string;
+    ru_RU: string;
 }
