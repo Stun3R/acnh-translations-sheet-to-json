@@ -32,6 +32,8 @@ const CREATURE_SHEETS = ['Bugs', 'Fish'];
 
 const DINOSAURS_SHEETS = ['Dinosaurs'];
 
+const ETC_SHEETS = ['ETC'];
+
 const EVENTS_SHEETS = ['Events'];
 
 const FASHION_THEMES_SHEETS = ['Fashion Themes'];
@@ -91,6 +93,7 @@ export async function main(auth: OAuth2Client) {
     ['crafts', CRAFT_SHEETS],
     ['creatures', CREATURE_SHEETS],
     ['dinosaurs', DINOSAURS_SHEETS],
+    ['etc', ETC_SHEETS],
     ['events', EVENTS_SHEETS],
     ['fashion_themes', FASHION_THEMES_SHEETS],
     ['items', ITEM_SHEETS],
