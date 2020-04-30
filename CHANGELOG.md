@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.1](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.4.0...v0.4.1) (2020-04-30)
+
+
+### Bug Fixes
+
+* **sheets:missing:** eTC Sheets was missing ([5a5a111](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/5a5a1117052e13c04b5a5367fab378ef9ae15bdc))
+
 ## [0.4.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.3.0...v0.4.0) (2020-04-30)
 
 
