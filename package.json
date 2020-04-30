@@ -1,6 +1,6 @@
 {
   "name": "@stun3r/acnh-translations",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "scripts": {
     "build": "bash bin/build.sh",
     "prettier:fix": "prettier '**/*.ts' README.md --write",
