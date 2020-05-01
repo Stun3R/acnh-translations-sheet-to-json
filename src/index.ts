@@ -76,6 +76,8 @@ const ITEM_SHEETS = [
   'Bugs Models',
 ];
 
+const VARIANTS_SHEETS = ['Furniture Variants'];
+
 const REACTIONS_SHEETS = ['Reactions'];
 
 const SPECIALNPC_SHEETS = ['Special NPCs'];
@@ -95,7 +97,7 @@ export async function main(auth: OAuth2Client) {
     fs.mkdirSync('out');
   }
 
-  const workSet: Array<[string, string[]]> = [
+  let workSet: Array<[string, string[]]> = [
     ['constellations', CONSTELLATIONS_SHEETS],
     ['construction', CONSTRUCTION_SHEETS],
     ['crafts', CRAFT_SHEETS],
@@ -106,6 +108,7 @@ export async function main(auth: OAuth2Client) {
     ['fashion', FASHION_SHEETS],
     ['house', HOUSE_SHEETS],
     ['items', ITEM_SHEETS],
+    ['variants', VARIANTS_SHEETS],
     ['villagers', VILLAGERS_SHEETS],
     ['specialnpc', SPECIALNPC_SHEETS],
     ['reactions', REACTIONS_SHEETS],
@@ -118,6 +121,11 @@ export async function main(auth: OAuth2Client) {
     let data = await loadData(sheets, sheetNames, key);
     console.log('Normalizing Data...');
     data = await normalizeData(data, key);
+
+    if (key === 'variants') {
+      console.log('Adding variants in items');
+      variantsInFurniture(data);
+    }
 
     console.log(`Writing data to disk`);
     fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '), {
@@ -198,4 +206,30 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
     }
   }
   return data;
+}
+
+export async function variantsInFurniture(data: ItemData) {
+  try {
+    const furnitures = JSON.parse(fs.readFileSync('out/items.json').toString());
+    for (const furniture of furnitures) {
+      furniture['variants'] = [];
+      for (const variant of data) {
+        if (furniture['id'] === variant['ID']) {
+          furniture['variants'].push({
+            ref: variant['ref'],
+            localization: variant['localization'],
+          });
+        }
+      }
+    }
+    fs.writeFileSync(
+      'out/items.json',
+      JSON.stringify(furnitures, undefined, '  '),
+      {
+        flag: 'w+',
+      },
+    );
+  } catch (e) {
+    console.error(e);
+  }
 }
