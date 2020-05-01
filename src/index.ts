@@ -38,6 +38,14 @@ const EVENTS_SHEETS = ['Events'];
 
 const FASHION_SHEETS = ['Fashion Themes'];
 
+const HOUSE_SHEETS = [
+  'House Door',
+  'House Roof',
+  'House Wall',
+  'House Mailbox',
+  'HHA Themes',
+];
+
 const ITEM_SHEETS = [
   'Furniture',
   'Event Items',
@@ -96,6 +104,7 @@ export async function main(auth: OAuth2Client) {
     ['etc', ETC_SHEETS],
     ['events', EVENTS_SHEETS],
     ['fashion', FASHION_SHEETS],
+    ['house', HOUSE_SHEETS],
     ['items', ITEM_SHEETS],
     ['villagers', VILLAGERS_SHEETS],
     ['specialnpc', SPECIALNPC_SHEETS],
