@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.6.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.5.0...v0.6.0) (2020-05-01)
+
+
+### Features
+
+* **sheets:variants:** add Furniture Variants inside Items ([2a4b92a](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/2a4b92a475a0733427591576ae2aa5ebf66a5da1))
+
 ## [0.5.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.4.2...v0.5.0) (2020-05-01)
 
 
