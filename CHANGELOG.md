@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.4.2...v0.5.0) (2020-05-01)
+
+
+### Features
+
+* **sheets:house:** adding House Door, House Roof, House Wall, House Mailbox, HHA Themes ([e7c9d28](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/e7c9d2850cb78d71a5b12a3d6b78b205d275897c))
+
 ### [0.4.2](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.4.1...v0.4.2) (2020-04-30)
 
 
