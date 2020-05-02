@@ -2,6 +2,9 @@
   "name": "@stun3r/acnh-translations",
   "version": "0.6.0",
   "scripts": {
+    "clean": "rm -rf cache out",
+    "clean:out": "rm -rf out",
+    "clean:cache": "rm -rf cache",
     "build": "bash bin/build.sh",
     "prettier:fix": "prettier '**/*.ts' README.md --write",
     "start": "tsc -w",

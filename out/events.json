@@ -1,6 +1,6 @@
 [
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "Countdown",
     "version": "1.0.0",
     "ref": "Countdown",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "FathersDay",
     "version": "1.2.0",
     "ref": "Father's Day",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "FishingConventionAutumn",
     "version": "1.0.0",
     "ref": "Fall Fishing Tourney",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "FishingConventionSpring",
     "version": "1.0.0",
     "ref": "Spring Fishing Tourney",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "FishingConventionSummer",
     "version": "1.0.0",
     "ref": "Summer Fishing Tourney",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "FishingConventionWinter",
     "version": "1.0.0",
     "ref": "Winter Fishing Tourney",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "InsectConvention1",
     "version": "1.0.0",
     "ref": "Bug-Off",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "InsectConvention2",
     "version": "1.0.0",
     "ref": "Bug-Off",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "InsectConvention3",
     "version": "1.0.0",
     "ref": "Bug-Off",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "InsectConvention4",
     "version": "1.0.0",
     "ref": "Bug-Off",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "MothersDay",
     "version": "1.2.0",
     "ref": "Mother's Day",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "SummerSolstice",
     "version": "1.2.0",
     "ref": "Summer Solstice",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "WinterSolstice",
     "version": "1.2.0",
     "ref": "Winter Solstice",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "sourceSheet": "Events",
+    "source": "Events",
     "id": "WorldChild",
     "version": "1.2.0",
     "ref": "International Children's Day",

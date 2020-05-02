@@ -1,6 +1,6 @@
 [
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Amber",
     "version": "1.0.0",
     "ref": "amber",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Ammonite",
     "version": "1.0.0",
     "ref": "ammonite",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Ankiro",
     "version": "1.0.0",
     "ref": "Ankylosaurus",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Anomalocaris",
     "version": "1.0.0",
     "ref": "anomalocaris",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Archelon",
     "version": "1.0.0",
     "ref": "Archelon",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Archeopteryx",
     "version": "1.0.0",
     "ref": "archaeopteryx",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Australopithecus",
     "version": "1.0.0",
     "ref": "australopith",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Brachiosaurus",
     "version": "1.0.0",
     "ref": "Brachiosaurus",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Brontotherium",
     "version": "1.0.0",
     "ref": "Megacerops",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Deinonychus",
     "version": "1.0.0",
     "ref": "Deinonychus",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Dimetro",
     "version": "1.0.0",
     "ref": "Dimetrodon",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Diplodocus",
     "version": "1.0.0",
     "ref": "Diplodocus",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Droop",
     "version": "1.0.0",
     "ref": "coprolite",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Dunkleosteus",
     "version": "1.0.0",
     "ref": "dunkleosteus",
@@ -308,7 +308,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "FirstAmphibian",
     "version": "1.0.0",
     "ref": "eusthenopteron",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "FirstFish",
     "version": "1.0.0",
     "ref": "myllokunmingia",
@@ -352,7 +352,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "FirstFourLegs",
     "version": "1.0.0",
     "ref": "acanthostega",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "FirstMammal",
     "version": "1.0.0",
     "ref": "juramaia",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "FootPrint",
     "version": "1.0.0",
     "ref": "dinosaur track",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Futaba",
     "version": "1.0.0",
     "ref": "Plesiosaurus",
@@ -440,7 +440,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Iguanodon",
     "version": "1.0.0",
     "ref": "Iguanodon",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Mammoth",
     "version": "1.0.0",
     "ref": "Mammoth",
@@ -484,7 +484,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Megaloceros",
     "version": "1.0.0",
     "ref": "Megaloceros",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Ophthalmosaurus",
     "version": "1.0.0",
     "ref": "Ophthalmosaurus",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Pachy",
     "version": "1.0.0",
     "ref": "Pachycephalosaurus",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Parasauro",
     "version": "1.0.0",
     "ref": "Parasaurolophus",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Pterano",
     "version": "1.0.0",
     "ref": "Pteranodon",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Quetzalcoatlus",
     "version": "1.0.0",
     "ref": "Quetzalcoatlus",
@@ -616,7 +616,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Shark",
     "version": "1.0.0",
     "ref": "shark-tooth pattern",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Smilodon",
     "version": "1.0.0",
     "ref": "Sabertooth Tiger",
@@ -660,7 +660,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Spino",
     "version": "1.0.0",
     "ref": "Spinosaurus",
@@ -682,7 +682,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Stego",
     "version": "1.0.0",
     "ref": "Stegosaurus",
@@ -704,7 +704,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Trex",
     "version": "1.0.0",
     "ref": "T. Rex",
@@ -726,7 +726,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Tricera",
     "version": "1.0.0",
     "ref": "Triceratops",
@@ -748,7 +748,7 @@
     }
   },
   {
-    "sourceSheet": "Dinosaurs",
+    "source": "Dinosaurs",
     "id": "Trilobite",
     "version": "1.0.0",
     "ref": "trilobite",

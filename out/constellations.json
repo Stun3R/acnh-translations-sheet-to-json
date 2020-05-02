@@ -1,6 +1,6 @@
 [
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 1,
     "version": "1.0.0",
     "ref": "Capricorn",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 2,
     "version": "1.0.0",
     "ref": "Aquarius",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 3,
     "version": "1.0.0",
     "ref": "Pisces",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 4,
     "version": "1.0.0",
     "ref": "Aries",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 5,
     "version": "1.0.0",
     "ref": "Taurus",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 6,
     "version": "1.0.0",
     "ref": "Gemini",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 7,
     "version": "1.0.0",
     "ref": "Cancer",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 8,
     "version": "1.0.0",
     "ref": "Leo",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 9,
     "version": "1.0.0",
     "ref": "Virgo",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 10,
     "version": "1.0.0",
     "ref": "Libra",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 11,
     "version": "1.0.0",
     "ref": "Scorpio",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "sourceSheet": "Constellations",
+    "source": "Constellations",
     "id": 12,
     "version": "1.0.0",
     "ref": "Sagittarius",

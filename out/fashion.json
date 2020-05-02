@@ -1,6 +1,6 @@
 [
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Daily",
     "version": "1.0.0",
     "ref": "everyday",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Fairyland",
     "version": "1.0.0",
     "ref": "fairy tale",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Fomal",
     "version": "1.0.0",
     "ref": "formal",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Horror",
     "version": "1.0.0",
     "ref": "goth",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Outdoor",
     "version": "1.0.0",
     "ref": "outdoorsy",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Party",
     "version": "1.0.0",
     "ref": "party",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Relax",
     "version": "1.0.0",
     "ref": "comfy",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Sport",
     "version": "1.0.0",
     "ref": "sporty",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Stage",
     "version": "1.0.0",
     "ref": "theatrical",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Vacation",
     "version": "1.0.0",
     "ref": "vacation",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "sourceSheet": "Fashion Themes",
+    "source": "Fashion Themes",
     "id": "Work",
     "version": "1.0.0",
     "ref": "work",

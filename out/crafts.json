@@ -1,6 +1,6 @@
 [
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "AutumnLeaf_07374",
     "version": "1.0.0",
     "ref": "maple leaf",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "AutumnLeaf_07374_pl",
     "version": "1.0.0",
     "ref": "maple leaves",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02500",
     "version": "1.0.0",
     "ref": "tree branch",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02500_pl",
     "version": "1.0.0",
     "ref": "tree branches",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02501",
     "version": "1.0.0",
     "ref": "bamboo piece",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02501_pl",
     "version": "1.0.0",
     "ref": "bamboo pieces",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02767",
     "version": "1.0.0",
     "ref": "softwood",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02767_pl",
     "version": "1.0.0",
     "ref": "softwood",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02768",
     "version": "1.0.0",
     "ref": "wood",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02768_pl",
     "version": "1.0.0",
     "ref": "wood",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02769",
     "version": "1.0.0",
     "ref": "hardwood",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_02769_pl",
     "version": "1.0.0",
     "ref": "hardwood",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05727",
     "version": "1.0.0",
     "ref": "acorn",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05727_pl",
     "version": "1.0.0",
     "ref": "acorns",
@@ -308,7 +308,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05728",
     "version": "1.0.0",
     "ref": "pine cone",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05728_pl",
     "version": "1.0.0",
     "ref": "pine cones",
@@ -352,7 +352,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05729",
     "version": "1.0.0",
     "ref": "young spring bamboo",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05729_pl",
     "version": "1.0.0",
     "ref": "young spring bamboo",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05730",
     "version": "1.0.0",
     "ref": "red ornament",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05730_pl",
     "version": "1.0.0",
     "ref": "red ornaments",
@@ -440,7 +440,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05731",
     "version": "1.0.0",
     "ref": "blue ornament",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05731_pl",
     "version": "1.0.0",
     "ref": "blue ornaments",
@@ -484,7 +484,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05732",
     "version": "1.0.0",
     "ref": "gold ornament",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftMaterial_05732_pl",
     "version": "1.0.0",
     "ref": "gold ornaments",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftPhoneCase_08760",
     "version": "1.0.0",
     "ref": "customizable phone case kit",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftRemake_02513",
     "version": "1.0.0",
     "ref": "customization kit",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "CraftRemake_02513_pl",
     "version": "1.0.0",
     "ref": "customization kits",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_02502",
     "version": "1.0.0",
     "ref": "stone",
@@ -616,7 +616,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_02502_pl",
     "version": "1.0.0",
     "ref": "stones",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_02505",
     "version": "1.0.0",
     "ref": "gold nugget",
@@ -660,7 +660,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_02505_pl",
     "version": "1.0.0",
     "ref": "gold nuggets",
@@ -682,7 +682,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_02511",
     "version": "1.0.0",
     "ref": "iron nugget",
@@ -704,7 +704,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_02511_pl",
     "version": "1.0.0",
     "ref": "iron nuggets",
@@ -726,7 +726,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_03090",
     "version": "1.0.0",
     "ref": "clay",
@@ -748,7 +748,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Ore_03090_pl",
     "version": "1.0.0",
     "ref": "clay",
@@ -770,7 +770,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Sakurapetal_05859",
     "version": "1.0.0",
     "ref": "cherry-blossom petal",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "Sakurapetal_05859_pl",
     "version": "1.0.0",
     "ref": "cherry-blossom petals",
@@ -814,7 +814,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "SnowCrystal_03539",
     "version": "1.0.0",
     "ref": "snowflake",
@@ -836,7 +836,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "SnowCrystal_03539_pl",
     "version": "1.0.0",
     "ref": "snowflakes",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "SnowCrystal_03540",
     "version": "1.0.0",
     "ref": "large snowflake",
@@ -880,7 +880,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "SnowCrystal_03540_pl",
     "version": "1.0.0",
     "ref": "large snowflakes",
@@ -902,7 +902,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05983",
     "version": "1.0.0",
     "ref": "star fragment",
@@ -924,7 +924,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05983_pl",
     "version": "1.0.0",
     "ref": "star fragments",
@@ -946,7 +946,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05984",
     "version": "1.0.0",
     "ref": "large star fragment",
@@ -968,7 +968,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05984_pl",
     "version": "1.0.0",
     "ref": "large star fragments",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05985",
     "version": "1.0.0",
     "ref": "Capricorn fragment",
@@ -1012,7 +1012,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05985_pl",
     "version": "1.0.0",
     "ref": "Capricorn fragments",
@@ -1034,7 +1034,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05986",
     "version": "1.0.0",
     "ref": "Aquarius fragment",
@@ -1056,7 +1056,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05986_pl",
     "version": "1.0.0",
     "ref": "Aquarius fragments",
@@ -1078,7 +1078,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05987",
     "version": "1.0.0",
     "ref": "Pisces fragment",
@@ -1100,7 +1100,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05987_pl",
     "version": "1.0.0",
     "ref": "Pisces fragments",
@@ -1122,7 +1122,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05988",
     "version": "1.0.0",
     "ref": "Aries fragment",
@@ -1144,7 +1144,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05988_pl",
     "version": "1.0.0",
     "ref": "Aries fragments",
@@ -1166,7 +1166,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05989",
     "version": "1.0.0",
     "ref": "Taurus fragment",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05989_pl",
     "version": "1.0.0",
     "ref": "Taurus fragments",
@@ -1210,7 +1210,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05990",
     "version": "1.0.0",
     "ref": "Gemini fragment",
@@ -1232,7 +1232,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05990_pl",
     "version": "1.0.0",
     "ref": "Gemini fragments",
@@ -1254,7 +1254,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05991",
     "version": "1.0.0",
     "ref": "Cancer fragment",
@@ -1276,7 +1276,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05991_pl",
     "version": "1.0.0",
     "ref": "Cancer fragments",
@@ -1298,7 +1298,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05992",
     "version": "1.0.0",
     "ref": "Leo fragment",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05992_pl",
     "version": "1.0.0",
     "ref": "Leo fragments",
@@ -1342,7 +1342,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05993",
     "version": "1.0.0",
     "ref": "Virgo fragment",
@@ -1364,7 +1364,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05993_pl",
     "version": "1.0.0",
     "ref": "Virgo fragments",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05994",
     "version": "1.0.0",
     "ref": "Libra fragment",
@@ -1408,7 +1408,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05994_pl",
     "version": "1.0.0",
     "ref": "Libra fragments",
@@ -1430,7 +1430,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05995",
     "version": "1.0.0",
     "ref": "Scorpius fragment",
@@ -1452,7 +1452,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05995_pl",
     "version": "1.0.0",
     "ref": "Scorpius fragments",
@@ -1474,7 +1474,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05996",
     "version": "1.0.0",
     "ref": "Sagittarius fragment",
@@ -1496,7 +1496,7 @@
     }
   },
   {
-    "sourceSheet": "Craft",
+    "source": "Craft",
     "id": "StarPiece_05996_pl",
     "version": "1.0.0",
     "ref": "Sagittarius fragments",
