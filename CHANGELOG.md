@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.6.0...v1.0.0) (2020-05-02)
+
+
+### Performance Improvements
+
+* change categories to uncategories, add variants in items & keep items.json ([71dbc90](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/71dbc90013fdf873cedcb7e63bea55e27c0ff927))
+
 ## [0.6.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.5.0...v0.6.0) (2020-05-01)
 
 
