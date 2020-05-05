@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v1.0.0...v1.0.1) (2020-05-05)
+
+
+### Bug Fixes
+
+* **locale:ref:** set default locale to en_US instead of en_GB ([2d8f1c3](https://github.com/Stun3R/acnh-translations-sheet-to-json/commit/2d8f1c3fc6451461bc137e6c7103dd5fe8b2cada))
+
 ## [1.0.0](https://github.com/Stun3R/acnh-translations-sheet-to-json/compare/v0.6.0...v1.0.0) (2020-05-02)
 
 
