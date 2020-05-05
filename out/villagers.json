@@ -663,7 +663,7 @@
     "source": "Villagers",
     "id": "brd11",
     "version": "1.0.0",
-    "ref": "Jakey",
+    "ref": "Jacob",
     "localization": {
       "en_US": "Jacob",
       "en_GB": "Jakey",
@@ -6823,7 +6823,7 @@
     "source": "Villagers",
     "id": "pig05",
     "version": "1.0.0",
-    "ref": "Crackle",
+    "ref": "Spork",
     "localization": {
       "en_US": "Spork",
       "en_GB": "Crackle",

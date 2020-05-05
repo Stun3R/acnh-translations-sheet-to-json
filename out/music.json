@@ -1,7 +1,7 @@
 [
   {
     "source": "K.K. Albums",
-    "ID": "Music_02448",
+    "id": "Music_02448",
     "version": "1.0.0",
     "ref": "Comrade K.K.",
     "localization": {
@@ -24,7 +24,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02454",
+    "id": "Music_02454",
     "version": "1.0.0",
     "ref": "Café K.K.",
     "localization": {
@@ -47,7 +47,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02460",
+    "id": "Music_02460",
     "version": "1.0.0",
     "ref": "My Place",
     "localization": {
@@ -70,7 +70,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_04313",
+    "id": "Music_04313",
     "version": "1.0.0",
     "ref": "Farewell",
     "localization": {
@@ -93,7 +93,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02449",
+    "id": "Music_02449",
     "version": "1.0.0",
     "ref": "K.K. Lament",
     "localization": {
@@ -116,7 +116,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02455",
+    "id": "Music_02455",
     "version": "1.0.0",
     "ref": "K.K. Parade",
     "localization": {
@@ -139,7 +139,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02461",
+    "id": "Music_02461",
     "version": "1.0.0",
     "ref": "Forest Life",
     "localization": {
@@ -162,7 +162,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_04314",
+    "id": "Music_04314",
     "version": "1.0.0",
     "ref": "Drivin'",
     "localization": {
@@ -185,7 +185,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02456",
+    "id": "Music_02456",
     "version": "1.0.0",
     "ref": "K.K. Mariachi",
     "localization": {
@@ -208,7 +208,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02462",
+    "id": "Music_02462",
     "version": "1.0.0",
     "ref": "To the Edge",
     "localization": {
@@ -231,7 +231,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02457",
+    "id": "Music_02457",
     "version": "1.0.0",
     "ref": "K.K. Song",
     "localization": {
@@ -254,7 +254,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02463",
+    "id": "Music_02463",
     "version": "1.0.0",
     "ref": "Pondering",
     "localization": {
@@ -277,7 +277,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02458",
+    "id": "Music_02458",
     "version": "1.0.0",
     "ref": "I Love You",
     "localization": {
@@ -300,7 +300,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02464",
+    "id": "Music_02464",
     "version": "1.0.0",
     "ref": "K.K. Dixie",
     "localization": {
@@ -323,7 +323,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02470",
+    "id": "Music_02470",
     "version": "1.0.0",
     "ref": "Steep Hill",
     "localization": {
@@ -346,7 +346,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02459",
+    "id": "Music_02459",
     "version": "1.0.0",
     "ref": "Two Days Ago",
     "localization": {
@@ -369,7 +369,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02465",
+    "id": "Music_02465",
     "version": "1.0.0",
     "ref": "K.K. Marathon",
     "localization": {
@@ -392,7 +392,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02471",
+    "id": "Music_02471",
     "version": "1.0.0",
     "ref": "K.K. Rockabilly",
     "localization": {
@@ -415,7 +415,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_04318",
+    "id": "Music_04318",
     "version": "1.0.0",
     "ref": "Welcome Horizons",
     "localization": {
@@ -438,7 +438,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02466",
+    "id": "Music_02466",
     "version": "1.0.0",
     "ref": "King K.K.",
     "localization": {
@@ -461,7 +461,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02472",
+    "id": "Music_02472",
     "version": "1.0.0",
     "ref": "Agent K.K.",
     "localization": {
@@ -484,7 +484,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02467",
+    "id": "Music_02467",
     "version": "1.0.0",
     "ref": "Mountain Song",
     "localization": {
@@ -507,7 +507,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02473",
+    "id": "Music_02473",
     "version": "1.0.0",
     "ref": "K.K. Rally",
     "localization": {
@@ -530,7 +530,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02468",
+    "id": "Music_02468",
     "version": "1.0.0",
     "ref": "Marine Song 2001",
     "localization": {
@@ -553,7 +553,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02474",
+    "id": "Music_02474",
     "version": "1.0.0",
     "ref": "K.K. Metal",
     "localization": {
@@ -576,7 +576,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02480",
+    "id": "Music_02480",
     "version": "1.0.0",
     "ref": "Hypno K.K.",
     "localization": {
@@ -599,7 +599,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02469",
+    "id": "Music_02469",
     "version": "1.0.0",
     "ref": "Neapolitan",
     "localization": {
@@ -622,7 +622,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02475",
+    "id": "Music_02475",
     "version": "1.0.0",
     "ref": "Stale Cupcakes",
     "localization": {
@@ -645,7 +645,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02481",
+    "id": "Music_02481",
     "version": "1.0.0",
     "ref": "K.K. Stroll",
     "localization": {
@@ -668,7 +668,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02476",
+    "id": "Music_02476",
     "version": "1.0.0",
     "ref": "Spring Blossoms",
     "localization": {
@@ -691,7 +691,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02482",
+    "id": "Music_02482",
     "version": "1.0.0",
     "ref": "K.K. Island",
     "localization": {
@@ -714,7 +714,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02477",
+    "id": "Music_02477",
     "version": "1.0.0",
     "ref": "Wandering",
     "localization": {
@@ -737,7 +737,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02483",
+    "id": "Music_02483",
     "version": "1.0.0",
     "ref": "Space K.K.",
     "localization": {
@@ -760,7 +760,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02478",
+    "id": "Music_02478",
     "version": "1.0.0",
     "ref": "K.K. House",
     "localization": {
@@ -783,7 +783,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02484",
+    "id": "Music_02484",
     "version": "1.0.0",
     "ref": "K.K. Adventure",
     "localization": {
@@ -806,7 +806,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02490",
+    "id": "Music_02490",
     "version": "1.0.0",
     "ref": "K.K. Flamenco",
     "localization": {
@@ -829,7 +829,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02479",
+    "id": "Music_02479",
     "version": "1.0.0",
     "ref": "K.K. Sonata",
     "localization": {
@@ -852,7 +852,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02485",
+    "id": "Music_02485",
     "version": "1.0.0",
     "ref": "K.K. Oasis",
     "localization": {
@@ -875,7 +875,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02491",
+    "id": "Music_02491",
     "version": "1.0.0",
     "ref": "K.K. Moody",
     "localization": {
@@ -898,7 +898,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02486",
+    "id": "Music_02486",
     "version": "1.0.0",
     "ref": "K.K. Bazaar",
     "localization": {
@@ -921,7 +921,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02492",
+    "id": "Music_02492",
     "version": "1.0.0",
     "ref": "Bubblegum K.K.",
     "localization": {
@@ -944,7 +944,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02487",
+    "id": "Music_02487",
     "version": "1.0.0",
     "ref": "K.K. Milonga",
     "localization": {
@@ -967,7 +967,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02493",
+    "id": "Music_02493",
     "version": "1.0.0",
     "ref": "K.K. Synth",
     "localization": {
@@ -990,7 +990,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02488",
+    "id": "Music_02488",
     "version": "1.0.0",
     "ref": "K.K. Groove",
     "localization": {
@@ -1013,7 +1013,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02494",
+    "id": "Music_02494",
     "version": "1.0.0",
     "ref": "K.K. Disco",
     "localization": {
@@ -1036,7 +1036,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02489",
+    "id": "Music_02489",
     "version": "1.0.0",
     "ref": "K.K. Jongara",
     "localization": {
@@ -1059,7 +1059,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02495",
+    "id": "Music_02495",
     "version": "1.0.0",
     "ref": "K.K. Birthday",
     "localization": {
@@ -1082,7 +1082,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "MusicMiss_04315",
+    "id": "MusicMiss_04315",
     "version": "1.0.0",
     "ref": "はずれ01",
     "localization": {
@@ -1105,7 +1105,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "MusicMiss_04316",
+    "id": "MusicMiss_04316",
     "version": "1.0.0",
     "ref": "はずれ02",
     "localization": {
@@ -1128,7 +1128,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "MusicMiss_04317",
+    "id": "MusicMiss_04317",
     "version": "1.0.0",
     "ref": "はずれ03",
     "localization": {
@@ -1151,7 +1151,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02410",
+    "id": "Music_02410",
     "version": "1.0.0",
     "ref": "K.K. Fusion",
     "localization": {
@@ -1174,7 +1174,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02405",
+    "id": "Music_02405",
     "version": "1.0.0",
     "ref": "K.K. Chorale",
     "localization": {
@@ -1197,7 +1197,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02411",
+    "id": "Music_02411",
     "version": "1.0.0",
     "ref": "K.K. Étude",
     "localization": {
@@ -1220,7 +1220,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02406",
+    "id": "Music_02406",
     "version": "1.0.0",
     "ref": "K.K. March",
     "localization": {
@@ -1243,7 +1243,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02412",
+    "id": "Music_02412",
     "version": "1.0.0",
     "ref": "K.K. Lullaby",
     "localization": {
@@ -1266,7 +1266,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02407",
+    "id": "Music_02407",
     "version": "1.0.0",
     "ref": "K.K. Waltz",
     "localization": {
@@ -1289,7 +1289,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02413",
+    "id": "Music_02413",
     "version": "1.0.0",
     "ref": "K.K. Aria",
     "localization": {
@@ -1312,7 +1312,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02408",
+    "id": "Music_02408",
     "version": "1.0.0",
     "ref": "K.K. Swing",
     "localization": {
@@ -1335,7 +1335,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02414",
+    "id": "Music_02414",
     "version": "1.0.0",
     "ref": "K.K. Samba",
     "localization": {
@@ -1358,7 +1358,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02420",
+    "id": "Music_02420",
     "version": "1.0.0",
     "ref": "K.K. Ska",
     "localization": {
@@ -1381,7 +1381,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02409",
+    "id": "Music_02409",
     "version": "1.0.0",
     "ref": "K.K. Jazz",
     "localization": {
@@ -1404,7 +1404,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02415",
+    "id": "Music_02415",
     "version": "1.0.0",
     "ref": "K.K. Bossa",
     "localization": {
@@ -1427,7 +1427,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02421",
+    "id": "Music_02421",
     "version": "1.0.0",
     "ref": "K.K. Tango",
     "localization": {
@@ -1450,7 +1450,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02416",
+    "id": "Music_02416",
     "version": "1.0.0",
     "ref": "K.K. Calypso",
     "localization": {
@@ -1473,7 +1473,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02422",
+    "id": "Music_02422",
     "version": "1.0.0",
     "ref": "K.K. Faire",
     "localization": {
@@ -1496,7 +1496,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02417",
+    "id": "Music_02417",
     "version": "1.0.0",
     "ref": "K.K. Salsa",
     "localization": {
@@ -1519,7 +1519,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02423",
+    "id": "Music_02423",
     "version": "1.0.0",
     "ref": "Aloha K.K.",
     "localization": {
@@ -1542,7 +1542,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02418",
+    "id": "Music_02418",
     "version": "1.0.0",
     "ref": "K.K. Mambo",
     "localization": {
@@ -1565,7 +1565,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02424",
+    "id": "Music_02424",
     "version": "1.0.0",
     "ref": "Lucky K.K.",
     "localization": {
@@ -1588,7 +1588,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02430",
+    "id": "Music_02430",
     "version": "1.0.0",
     "ref": "K.K. Folk",
     "localization": {
@@ -1611,7 +1611,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02419",
+    "id": "Music_02419",
     "version": "1.0.0",
     "ref": "K.K. Reggae",
     "localization": {
@@ -1634,7 +1634,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02425",
+    "id": "Music_02425",
     "version": "1.0.0",
     "ref": "K.K. Condor",
     "localization": {
@@ -1657,7 +1657,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02431",
+    "id": "Music_02431",
     "version": "1.0.0",
     "ref": "K.K. Rock",
     "localization": {
@@ -1680,7 +1680,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02426",
+    "id": "Music_02426",
     "version": "1.0.0",
     "ref": "K.K. Steppe",
     "localization": {
@@ -1703,7 +1703,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02432",
+    "id": "Music_02432",
     "version": "1.0.0",
     "ref": "Rockin' K.K.",
     "localization": {
@@ -1726,7 +1726,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02427",
+    "id": "Music_02427",
     "version": "1.0.0",
     "ref": "Imperial K.K.",
     "localization": {
@@ -1749,7 +1749,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02433",
+    "id": "Music_02433",
     "version": "1.0.0",
     "ref": "K.K. Ragtime",
     "localization": {
@@ -1772,7 +1772,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02428",
+    "id": "Music_02428",
     "version": "1.0.0",
     "ref": "K.K. Casbah",
     "localization": {
@@ -1795,7 +1795,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02434",
+    "id": "Music_02434",
     "version": "1.0.0",
     "ref": "K.K. Gumbo",
     "localization": {
@@ -1818,7 +1818,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02440",
+    "id": "Music_02440",
     "version": "1.0.0",
     "ref": "K.K. Love Song",
     "localization": {
@@ -1841,7 +1841,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02429",
+    "id": "Music_02429",
     "version": "1.0.0",
     "ref": "K.K. Safari",
     "localization": {
@@ -1864,7 +1864,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02435",
+    "id": "Music_02435",
     "version": "1.0.0",
     "ref": "The K. Funk",
     "localization": {
@@ -1887,7 +1887,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02441",
+    "id": "Music_02441",
     "version": "1.0.0",
     "ref": "K.K. D&B",
     "localization": {
@@ -1910,7 +1910,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02436",
+    "id": "Music_02436",
     "version": "1.0.0",
     "ref": "K.K. Blues",
     "localization": {
@@ -1933,7 +1933,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02442",
+    "id": "Music_02442",
     "version": "1.0.0",
     "ref": "K.K. Technopop",
     "localization": {
@@ -1956,7 +1956,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02437",
+    "id": "Music_02437",
     "version": "1.0.0",
     "ref": "Soulful K.K.",
     "localization": {
@@ -1979,7 +1979,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02443",
+    "id": "Music_02443",
     "version": "1.0.0",
     "ref": "DJ K.K.",
     "localization": {
@@ -2002,7 +2002,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02438",
+    "id": "Music_02438",
     "version": "1.0.0",
     "ref": "K.K. Soul",
     "localization": {
@@ -2025,7 +2025,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02444",
+    "id": "Music_02444",
     "version": "1.0.0",
     "ref": "Only Me",
     "localization": {
@@ -2048,7 +2048,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02450",
+    "id": "Music_02450",
     "version": "1.0.0",
     "ref": "Go K.K. Rider",
     "localization": {
@@ -2071,7 +2071,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02439",
+    "id": "Music_02439",
     "version": "1.0.0",
     "ref": "K.K. Cruisin'",
     "localization": {
@@ -2094,7 +2094,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02445",
+    "id": "Music_02445",
     "version": "1.0.0",
     "ref": "K.K. Country",
     "localization": {
@@ -2117,7 +2117,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02451",
+    "id": "Music_02451",
     "version": "1.0.0",
     "ref": "K.K. Dirge",
     "localization": {
@@ -2140,7 +2140,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02446",
+    "id": "Music_02446",
     "version": "1.0.0",
     "ref": "Surfin' K.K.",
     "localization": {
@@ -2163,7 +2163,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02452",
+    "id": "Music_02452",
     "version": "1.0.0",
     "ref": "K.K. Western",
     "localization": {
@@ -2186,7 +2186,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02447",
+    "id": "Music_02447",
     "version": "1.0.0",
     "ref": "K.K. Ballad",
     "localization": {
@@ -2209,7 +2209,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_02453",
+    "id": "Music_02453",
     "version": "1.0.0",
     "ref": "Mr. K.K.",
     "localization": {
@@ -2232,7 +2232,7 @@
   },
   {
     "source": "K.K. Albums",
-    "ID": "Music_04312",
+    "id": "Music_04312",
     "version": "1.0.0",
     "ref": "Animal City",
     "localization": {
