@@ -286,7 +286,7 @@ export async function loadData(
 export async function normalizeData(data: ItemData, sheetKey: string) {
   for (const item of data) {
     item.version = item.Version;
-    item.ref = item['English (Europe)'];
+    item.ref = item['English'];
 
     if (sheetKey === 'variants') {
       item.originID = item.id;

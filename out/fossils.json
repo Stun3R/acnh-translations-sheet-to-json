@@ -394,7 +394,7 @@
     "source": "Fossils",
     "id": "Fossil_00198",
     "version": "1.0.0",
-    "ref": "pachysaurus skull",
+    "ref": "pachy skull",
     "localization": {
       "en_US": "pachy skull",
       "en_GB": "pachysaurus skull",
@@ -417,7 +417,7 @@
     "source": "Fossils",
     "id": "Fossil_00199",
     "version": "1.0.0",
-    "ref": "pachysaurus tail",
+    "ref": "pachy tail",
     "localization": {
       "en_US": "pachy tail",
       "en_GB": "pachysaurus tail",
