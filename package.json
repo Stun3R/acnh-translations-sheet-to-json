@@ -33,7 +33,7 @@
     "commitizen": "^4.0.4",
     "cz-conventional-changelog": "3.1.0",
     "googleapis": "39",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
     "quicktype": "^15.0.223",
